@@ -239,7 +239,7 @@ function updateQuickQuestions(){
 }
 
 function methodLabel(name){const c=creatureCatalogue.find(c=>c.name===name);if(c?.acquisition==='Not tameable')return 'Not tameable';if(['Crafted / rewarded','Egg raising'].includes(c?.acquisition))return 'Acquisition';return {knockout:'Knockout tame',passive:'Passive tame',special:'Special tame'}[tamingGuides[name]?.method||(tamingCalculationData.creatures[name]?'knockout':null)]||'Method not checked';}
-function moveCompanion(){const perched=currentTab==='companions';$('settings-companion-home').hidden=!perched;document.body.classList.toggle('companions-view',perched);$('companion-toggle').tabIndex=perched?-1:0;if(perched)openBubble(false);const desktop=window.matchMedia('(min-width:1000px)').matches&&!perched;$('desktop-companion-home').hidden=!desktop;const home=$(desktop?'desktop-companion-home':currentTab==='active'?'active-companion-home':perched?'settings-companion-home':'plan-companion-home');home.append($('companion-chat'));}
+function moveCompanion(){const perched=currentTab==='companions';$('settings-companion-home').hidden=!perched;document.body.classList.toggle('companions-view',perched);$('companion-toggle').tabIndex=perched?-1:0;if(perched)openBubble(false);const desktop=window.matchMedia('(min-width:1000px)').matches&&!perched;$('desktop-companion-home').hidden=!desktop;const home=$(desktop?'desktop-companion-home':currentTab==='active'?'active-companion-home':perched?'settings-companion-home':'plan-companion-home');home.append($('companion-chat'));if(desktop&&$('chat-bubble').hidden)openBubble(true);}
 
 moveCompanion();
 
