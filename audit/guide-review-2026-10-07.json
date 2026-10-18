@@ -1,0 +1,269 @@
+{
+  "reviewDate": "2026-10-07",
+  "newGuides": [
+    "Oviraptor",
+    "Pachyrhinosaurus",
+    "Paraceratherium",
+    "Pelagornis",
+    "Phiomia",
+    "Plesiosaur",
+    "Procoptodon",
+    "Pulmonoscorpius",
+    "Purlovia",
+    "Ravager"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "species": {
+    "Oviraptor": {
+      "sources": [
+        [
+          "ARK Community Wiki: Oviraptor",
+          "https://ark.wiki.gg/wiki/Oviraptor"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species egg-feeding and bola knockout passages; ASA egg-collection and Aberrant variant patch notes were distinguished from taming. No PvP-only wild carrying advice included.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Pachyrhinosaurus": {
+      "sources": [
+        [
+          "ARK Community Wiki: Pachyrhinosaurus",
+          "https://ark.wiki.gg/wiki/Pachyrhinosaurus"
+        ],
+        [
+          "Bug Repellant",
+          "https://ark.wiki.gg/wiki/Bug_Repellant"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species knockout and Bug Repellant fields corroborated by item page; mobile, Primitive Plus and numerical food tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Paraceratherium": {
+      "sources": [
+        [
+          "ARK Community Wiki: Paraceratherium",
+          "https://ark.wiki.gg/wiki/Paraceratherium"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ],
+        [
+          "The Writhing Swamps",
+          "https://ark.wiki.gg/wiki/The_Writhing_Swamps"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Base-species Paracer redirect supplies knockout and food passages with ASA multipliers; Writhing Swamps supplies habitat context. Variant and old food quantities excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Pelagornis": {
+      "sources": [
+        [
+          "ARK Community Wiki: Pelagornis",
+          "https://ark.wiki.gg/wiki/Pelagornis"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Raw Prime Fish Meat",
+          "https://ark.wiki.gg/wiki/Raw_Prime_Fish_Meat"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species-indexed knockout and current kibble facts were checked with fish-food pages and biome/spawn entries. Eerie redirect text mixes versions; only base-species facts retained, quantities and old bugs excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Phiomia": {
+      "sources": [
+        [
+          "ARK Community Wiki: Phiomia",
+          "https://ark.wiki.gg/wiki/Phiomia"
+        ],
+        [
+          "Basic Kibble",
+          "https://ark.wiki.gg/wiki/Basic_Kibble"
+        ],
+        [
+          "Southern Jungle",
+          "https://ark.wiki.gg/wiki/Southern_Jungle"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Individual species knockout and skittish behavior plus Basic Kibble and Southern Jungle passages; Primitive Plus meat-harvesting facts and numerical tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Plesiosaur": {
+      "sources": [
+        [
+          "ARK Community Wiki: Plesiosaur",
+          "https://ark.wiki.gg/wiki/Plesiosaur"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species Plesio redirect supplies knockout and deep-water habitat, corroborated by preferred-kibble references. Legacy movement/stat and numerical tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Procoptodon": {
+      "sources": [
+        [
+          "ARK Community Wiki: Procoptodon",
+          "https://ark.wiki.gg/wiki/Procoptodon"
+        ],
+        [
+          "Rare Mushroom",
+          "https://ark.wiki.gg/wiki/Rare_Mushroom"
+        ],
+        [
+          "Plant Species X Seed",
+          "https://ark.wiki.gg/wiki/Plant_Species_X_Seed"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species Proctodon redirect supplies knockout and food facts with ASA patch notes; precise food quantities and variant-specific mechanics excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Pulmonoscorpius": {
+      "sources": [
+        [
+          "ARK Community Wiki: Pulmonoscorpius",
+          "https://ark.wiki.gg/wiki/Pulmonoscorpius"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Spoiled Meat",
+          "https://ark.wiki.gg/wiki/Spoiled_Meat"
+        ],
+        [
+          "Far%27s Peak",
+          "https://ark.wiki.gg/wiki/Far%27s_Peak"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species Scorpion redirect supplies knockout strategy, food and ASA multiplier passages; mountain-region entries corroborate habitat. PvP carrying advice and numerical tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Purlovia": {
+      "sources": [
+        [
+          "ARK Community Wiki: Purlovia",
+          "https://ark.wiki.gg/wiki/Purlovia"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Base species knockout, kibble and ASA-specific no-redwood note compared with biome cold-region listings. Polar/cave/mission variants and legacy numerical tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    },
+    "Ravager": {
+      "sources": [
+        [
+          "ARK Community Wiki: Ravager",
+          "https://ark.wiki.gg/wiki/Ravager"
+        ],
+        [
+          "Cooked Lamb Chop",
+          "https://ark.wiki.gg/wiki/Cooked_Lamb_Chop"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; individual search-indexed species, food and habitat passages reviewed.",
+        "asa": "Species knockout, pack/bola strategy and foods reviewed independently; current species has ASA imagery. Fertile Chamber biome identifies native Ravager; no invented Aberrant variant.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. No source prose, external numerical tables or competitor code imported."
+      }
+    }
+  },
+  "generalHabitatChanges": {
+    "new": [
+      "Paraceratherium",
+      "Pelagornis",
+      "Phiomia",
+      "Pulmonoscorpius",
+      "Ravager"
+    ],
+    "corrected": [
+      "Purlovia"
+    ],
+    "aberrationAdded": [
+      "Ravager"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "limitations": "These pages mix maps and game versions. Used only independently supported general regions; exact ASA spawn points, unverified variant zones and habitat types for Pachyrhinosaurus/Procoptodon remain pending."
+  },
+  "officialAnnouncementCheck": {
+    "checkedThrough": "2026-10-07",
+    "latestLocatedDate": "2026-10-03",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774255-community-crunch-526-madness-takes-flight/",
+    "result": "Current official news index still lists Community Crunch 526 as newest. Xeranox remains upcoming; no newly verified official-map creature release added."
+  },
+  "ownerConfirmationQuestions": [
+    "Purlovia: have you encountered a wild base Purlovia in ASA redwoods on official PvE recently? The current species page excludes that habitat."
+  ],
+  "preserved": [
+    "Current interface, artwork and companion bubbles",
+    "Generalized About and community-video credits; no creature-reference sections",
+    "All existing anonymous suggestions and recent mechanics warnings",
+    "Owner-private noncommercial scope and unresolved rights review"
+  ],
+  "coverage": {
+    "catalogueEntries": 202,
+    "writtenGuides": 86,
+    "entriesWithoutWrittenGuides": 116,
+    "detailedHabitatOrEncounterRecords": 72,
+    "generalHabitatNotes": 62,
+    "aberrationSpecificNotes": 4
+  },
+  "validation": [
+    "Focused companion methods, food, preparation, habitat and guide replies passed",
+    "General habitat and native Ravager Aberration routing passed",
+    "Per-creature/video source-display exclusions passed"
+  ]
+}

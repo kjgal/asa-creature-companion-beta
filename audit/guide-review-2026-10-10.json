@@ -1,0 +1,89 @@
+{
+  "reviewDate": "2026-10-10",
+  "newGuides": [
+    "Glowtail",
+    "Roll Rat",
+    "Chalicotherium",
+    "Vulture"
+  ],
+  "updatedGuides": [
+    "Giganotosaurus: future TLC notice only; current method retained"
+  ],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/index.php?/forums/topic/774274-community-crunch-527-trial-by-fury/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "reviewDate": "2026-10-10",
+    "finding": "Giganotosaurus TLC announced for November 6, 2026. Future preview does not establish current official-live taming steps. No newly released creature identified in this announcement."
+  },
+  "species": {
+    "Glowtail": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Glowtail",
+        "https://ark.wiki.gg/wiki/Plant_Species_Z_Seed",
+        "https://ark.wiki.gg/wiki/Ascerbic_Mushroom",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Old_Railway_Cave_%28Aberration%29"
+      ],
+      "provenance": "Base passive feeding, food and ASA color sections reviewed; cave habitats compared with Biomes, Spawn entries and Old Railway Cave.",
+      "comparisonLimitations": "Direct Glowtail article returned 403; indexed individual species passages used. Full revision/contributor comparison, exhaustive official ASA maps, controls on every platform, firsthand testing and numerical verification pending."
+    },
+    "Roll Rat": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Roll_Rat",
+        "https://ark.wiki.gg/wiki/Giant_Bee_Honey",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base honey-burrow method and ASA wild-baby patch material reviewed; native green/blue habitat corroborated by Biomes.",
+      "comparisonLimitations": "Direct Glowtail article returned 403; indexed individual species passages used. Full revision/contributor comparison, exhaustive official ASA maps, controls on every platform, firsthand testing and numerical verification pending."
+    },
+    "Chalicotherium": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Chalicotherium",
+        "https://ark.wiki.gg/wiki/Beer_Jar",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base passive Beer Jar feeding compared with the species ASA notes; post-tame beer consumption is distinct from taming. Corrupted and mod variants excluded.",
+      "comparisonLimitations": "Direct Glowtail article returned 403; indexed individual species passages used. Full revision/contributor comparison, exhaustive official ASA maps, controls on every platform, firsthand testing and numerical verification pending."
+    },
+    "Vulture": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Vulture",
+        "https://ark.wiki.gg/wiki/Spoiled_Meat",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base passive method and food reviewed with ASA-specific body-multiplier notes; desert habitats compared with Biomes and Spawn entries. Mission and mod variants excluded.",
+      "comparisonLimitations": "Direct Glowtail article returned 403; indexed individual species passages used. Full revision/contributor comparison, exhaustive official ASA maps, controls on every platform, firsthand testing and numerical verification pending."
+    }
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Glowtail",
+      "Roll Rat",
+      "Chalicotherium",
+      "Vulture"
+    ],
+    "newAberration": [
+      "Glowtail",
+      "Roll Rat"
+    ],
+    "limitations": "Typical terrain only; Biomes and Spawn entries include legacy maps and must not be treated as exhaustive ASA map eligibility. No exact spawn points, universal map presence or invented Aberrant forms."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 103,
+    "withoutWrittenGuide": 99,
+    "generalHabitats": 73,
+    "aberrationHabitats": 8,
+    "detailedCreatureRecords": 89
+  },
+  "questions": [
+    "Roll Rat: which hotbar action throws honey reliably on your platform, and how do you distinguish the feeding burrow from a false dig?"
+  ],
+  "displayPolicy": "Individual species, food and video URLs retained only in metadata; generalized About source/contributor/license and video credits preserved.",
+  "rights": "Prior ARK, generated-art and reference-art findings and source-license notices preserved. No full copyright clearance claimed; owner-private noncommercial scope retained."
+}

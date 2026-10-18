@@ -1,0 +1,100 @@
+{
+  "reviewDate": "2026-10-13",
+  "newGuides": [
+    "Karkinos",
+    "Rock Elemental",
+    "Pegomastax",
+    "Gacha"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "announcementDateUTC": "2026-10-10",
+    "finding": "October 13 news index has no later announcement or new verified creature release; preserve upcoming Giganotosaurus notice."
+  },
+  "species": {
+    "Karkinos": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Karkinos",
+        "https://ark.wiki.gg/wiki/Exceptional_Kibble",
+        "https://ark.wiki.gg/wiki/Catapult_Turret",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base body-hit siege knockout and foods reviewed in current species passages with ASA material. Alpha and mission encounters excluded. Native water habitat compared with Biomes.",
+      "comparisonLimitations": "Direct Karkinos article returned 403. Indexed base species passages and redirects used; full article/revision/contributor comparison, ASA official map/variant eligibility, firsthand testing and numerical verification pending."
+    },
+    "Rock Elemental": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Rock_Elemental",
+        "https://ark.wiki.gg/wiki/Extraordinary_Kibble",
+        "https://ark.wiki.gg/wiki/Cannon",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base head-hit cannon method, kibble and ASA-specific species notes reviewed. Rubble, arena, Ice and Chalk variants excluded from this guide; habitat compared with arid-biome references.",
+      "comparisonLimitations": "Direct Karkinos article returned 403. Indexed base species passages and redirects used; full article/revision/contributor comparison, ASA official map/variant eligibility, firsthand testing and numerical verification pending."
+    },
+    "Pegomastax": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Pegomastax",
+        "https://ark.wiki.gg/wiki/Mejoberry",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base theft sequence and berries distinguished from ordinary passive feeding. ASA crystal-collection notes establish current species context; Mobile/event forms excluded. Coastal species and spawn references reviewed.",
+      "comparisonLimitations": "Direct Karkinos article returned 403. Indexed base species passages and redirects used; full article/revision/contributor comparison, ASA official map/variant eligibility, firsthand testing and numerical verification pending."
+    },
+    "Gacha": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Gacha",
+        "https://ark.wiki.gg/wiki/Stone",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base dropped-item taming separated from post-tame Snow Owl Pellet and crystal-production advice. ASA Sunken Forest patch material reviewed; GachaClaus/event forms excluded.",
+      "comparisonLimitations": "Direct Karkinos article returned 403. Indexed base species passages and redirects used; full article/revision/contributor comparison, ASA official map/variant eligibility, firsthand testing and numerical verification pending."
+    }
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Pegomastax",
+      "Gacha"
+    ],
+    "refreshedGeneral": [
+      "Karkinos",
+      "Rock Elemental"
+    ],
+    "newAberration": [
+      "Karkinos"
+    ],
+    "additionalSources": [
+      "https://ark.wiki.gg/wiki/Olga_Beach",
+      "https://ark.wiki.gg/wiki/Northern_East_Badlands_%28Scorched_Earth%29"
+    ],
+    "provenance": "Individual species and Biomes/Spawn entries reviewed. Biomes Fertile/Bioluminescent Karkinos lists distinguish native form from Alpha; cave habitat is not universal tameability.",
+    "limitations": "Terrain only; legacy maps appear in references. Exhaustive current ASA map coverage and exact locations pending."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 116,
+    "withoutWrittenGuide": 86,
+    "generalHabitats": 80,
+    "aberrationHabitats": 10,
+    "detailedCreatureRecords": 102
+  },
+  "preserved": [
+    "Gasbags Snow Owl deflation advice and current ASA official-PvE verification limits",
+    "Roll Rat anonymous digging cues and controller advice",
+    "Quetzal Griffin method and anonymous honey suggestion",
+    "Concavenator anonymous Tek Rifle Suggested method",
+    "Onyc artifact-cave eligibility pending"
+  ],
+  "questions": [
+    "Gacha: which dropped item has worked reliably for you on ASA official PvE?"
+  ],
+  "displayPolicy": "Individual creature, food and video links stay in metadata only; generalized About source/contributor/license and video credits preserved.",
+  "rights": "Prior ARK/generated-art/reference-art findings and notices retained; no blanket clearance claimed. Private noncommercial audience preserved."
+}

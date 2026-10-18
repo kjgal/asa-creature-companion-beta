@@ -1,0 +1,427 @@
+{
+  "upstreamCommit": "792ce6e939971b18271dc91a802a2352d6519c26",
+  "asaVersion": "92.43.1",
+  "supported": [
+    "Achatina",
+    "Allosaurus",
+    "Anglerfish",
+    "Ankylosaurus",
+    "Araneo",
+    "Archaeopteryx",
+    "Argentavis",
+    "Baryonyx",
+    "Beelzebufo",
+    "Brontosaurus",
+    "Carbonemys",
+    "Carnotaurus",
+    "Castoroides",
+    "Compy",
+    "Daeodon",
+    "Dilophosaur",
+    "Dimetrodon",
+    "Dimorphodon",
+    "Diplocaulus",
+    "Dire Bear",
+    "Direwolf",
+    "Dodo",
+    "Doedicurus",
+    "Dunkleosteus",
+    "Gallimimus",
+    "Gasbags",
+    "Giganotosaurus",
+    "Griffin",
+    "Ichthyornis",
+    "Iguanodon",
+    "Jerboa",
+    "Kairuku",
+    "Kaprosuchus",
+    "Karkinos",
+    "Kentrosaurus",
+    "Lymantria",
+    "Mammoth",
+    "Managarmr",
+    "Megalania",
+    "Megaloceros",
+    "Megalodon",
+    "Megalosaurus",
+    "Megatherium",
+    "Microraptor",
+    "Morellatops",
+    "Mosasaurus",
+    "Oviraptor",
+    "Pachy",
+    "Pachyrhinosaurus",
+    "Paraceratherium",
+    "Parasaur",
+    "Pelagornis",
+    "Phiomia",
+    "Plesiosaur",
+    "Procoptodon",
+    "Pteranodon",
+    "Pulmonoscorpius",
+    "Purlovia",
+    "Quetzal",
+    "Raptor",
+    "Ravager",
+    "Rex",
+    "Rock Elemental",
+    "Sabertooth",
+    "Sarco",
+    "Snow Owl",
+    "Spino",
+    "Stegosaurus",
+    "Tapejara",
+    "Terror Bird",
+    "Therizinosaurus",
+    "Thorny Dragon",
+    "Thylacoleo",
+    "Triceratops",
+    "Velonasaur",
+    "Woolly Rhino",
+    "Yutyrannus"
+  ],
+  "skipped": [
+    [
+      "Arthropluera",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Astrocetus",
+      "food data unavailable"
+    ],
+    [
+      "Aureliax",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Basilisk",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Basilosaurus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Bison",
+      "food data unavailable"
+    ],
+    [
+      "Bloodstalker",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Boaratos",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Bulbdog",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Burrowbuck",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Carcharodontosaurus",
+      "food data unavailable"
+    ],
+    [
+      "Cat",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ceratosaurus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Cerberax",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Chalicotherium",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Coelacanth",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Cosmo",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Cryolophosaurus",
+      "food data unavailable"
+    ],
+    [
+      "Deinonychus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Deinotherium",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Desert Titan",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Desmodus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Diplodocus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Diseased Leech",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Drakeling",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Dreadmare",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Dreadnoughtus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Dung Beetle",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Elderclaw",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Electrophorus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Equus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Featherlight",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ferox",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Fire Wyvern",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Forest Titan",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Gacha",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Gargantar",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Giant Bee",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Gigadesmodus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Gigantopithecus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Gloon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Glowtail",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Grand Tortugar",
+      "food data unavailable"
+    ],
+    [
+      "Hesperornis",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Hyaenodon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ice Titan",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ice Wyvern",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Leech",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Lightning Wyvern",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Liopleurodon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Lumina",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Maeguana",
+      "food data unavailable"
+    ],
+    [
+      "Magmasaur",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Manta",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Mantis",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Megachelon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Mesopithecus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Oasisaur",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Onyc",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ossidon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Ovis",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Palaeoctopus",
+      "food data unavailable"
+    ],
+    [
+      "Parrot",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Pegomastax",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Phoenix",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Piranha",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Poison Wyvern",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Pyromane",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Reaper King",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Rhyniognatha",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Rock Drake",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Roll Rat",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Sabertooth Salmon",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Shastasaurus",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Shinehorn",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Tidepup",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Titanoboa",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Trilobite",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Tusoteuthis",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Umbra",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Unicorn",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Vulture",
+      "no unambiguous standard knockout record"
+    ],
+    [
+      "Xiphactinus",
+      "food data unavailable"
+    ]
+  ],
+  "excludedUnusual": [
+    "Acrocanthosaurus",
+    "Fasolasuchus",
+    "Yi Ling",
+    "Titanosaur",
+    "Troodon",
+    "Noglin",
+    "Megaraptor"
+  ],
+  "notes": "Original equations; full-food estimate, default food drain, one food type. Not gameplay-validated. Species-specific food overrides applied; augmented and generic legacy kibble excluded. No mission/alpha/variant records."
+}

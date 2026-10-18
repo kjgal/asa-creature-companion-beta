@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "urls": [
+    "https://www.youtube.com/watch?v=p0Qgb6s2jQw",
+    "https://www.youtube.com/watch?v=c1iiyx3NR2E",
+    "https://www.youtube.com/watch?v=DhM7tSEkpwk",
+    "https://www.youtube.com/watch?v=_bnwO719S7k",
+    "https://www.youtube.com/watch?v=NhYa67lFW-M"
+  ],
+  "display": "General community-video acknowledgement only; individual video links retained in research/guide metadata, not rendered in the app.",
+  "labels": "First two titles retrieved earlier; YPou identified by user. Spawn-video descriptive label used because title/channel retrieval was blocked. No invented channel names.",
+  "followup": "2026-10-06: two Gargantar source URLs supplied; neutral descriptive labels because titles/channels could not be retrieved.",
+  "displayCorrection": "2026-10-06: owner clarified general source credits, no individual video links; removed collapsed video list."
+}

@@ -1,0 +1,26 @@
+{
+  "reviewDate": "2026-10-03",
+  "newGuides": ["Araneo", "Arthropluera", "Basilosaurus", "Bulbdog", "Daeodon", "Dilophosaur", "Diplocaulus", "Diplodocus", "Dire Bear", "Direwolf"],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "methodSummary": {"knockout": ["Araneo", "Daeodon", "Dilophosaur", "Diplocaulus", "Dire Bear", "Direwolf"], "passive": ["Arthropluera", "Basilosaurus", "Bulbdog", "Diplodocus"]},
+  "sources": {
+    "Araneo": ["https://ark.wiki.gg/wiki/Araneo"],
+    "Arthropluera": ["https://ark.wiki.gg/wiki/Arthropleura", "https://ark.wiki.gg/wiki/Taming"],
+    "Basilosaurus": ["https://ark.wiki.gg/wiki/Basilo"],
+    "Bulbdog": ["https://ark.wiki.gg/wiki/Bulbdog", "https://ark.wiki.gg/wiki/Aquatic_Mushroom"],
+    "Daeodon": ["https://ark.wiki.gg/wiki/Daeodon"],
+    "Dilophosaur": ["https://ark.wiki.gg/wiki/Dilo", "https://ark.wiki.gg/wiki/Basic_Kibble"],
+    "Diplocaulus": ["https://ark.wiki.gg/wiki/Diplocaulus", "https://ark.wiki.gg/wiki/Simple_Kibble"],
+    "Diplodocus": ["https://ark.wiki.gg/wiki/Diplodocus", "https://ark.wiki.gg/wiki/Regular_Kibble"],
+    "Dire Bear": ["https://ark.wiki.gg/wiki/Dire_Bear", "https://ark.wiki.gg/wiki/Superior_Kibble"],
+    "Direwolf": ["https://ark.wiki.gg/wiki/Direwolf", "https://ark.wiki.gg/wiki/Superior_Kibble"]
+  },
+  "officialAnnouncementCheck": {"checkedThrough": "2026-10-03", "latestCreatureReleaseFound": "Cerberax and Gargantar, 2026-09-30", "source": "https://survivetheark.com/index.php?/forums/topic/774248-therizino-tlc-cerberax-and-gargantar-are-out-now/", "newCreatureAdditions": []},
+  "access": "Indexed individual ARK Community Wiki passages; direct full-page retrieval remained limited.",
+  "asaApplicability": "ASA-specific text was used where the source separated game versions. Legacy, mobile, mission, event and mod variants were excluded from base-species guides.",
+  "comparisonLimitations": "No complete article-text comparison, revision/contributor-history review or firsthand official PvE testing. Numerical tables were not imported and quantities, times, shots and effectiveness remain withheld.",
+  "coverage": {"catalogueEntries": 202, "writtenGuides": 49, "entriesWithoutWrittenGuides": 153, "habitatOrEncounterRecords": 35},
+  "preserved": ["Original pixel artwork", "Interface and companion speech bubbles", "Official-rate display", "Centralized About references", "Anonymous Suggested methods", "Rights-review findings", "Owner-private audience"],
+  "ownerConfirmationQuestions": []
+}

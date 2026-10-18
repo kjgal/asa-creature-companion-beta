@@ -1950,3 +1950,6 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Tusoteuthis"), {acquisition:"S
 
 // Reviewed acquisition labels, October 17, 2026.
 for(const [name,acquisition] of Object.entries({"Fasolasuchus":"Special tame","Bloodstalker":"Special tame","Ferox":"Special tame","Giant Bee":"Passive tame"})) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition,guideReviewed:"2026-10-17"});
+
+// Fish Basket capture is a special tame, not ordinary knockout feeding.
+for(const name of ["Coelacanth","Piranha","Sabertooth Salmon","Trilobite"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Special tame",guideReviewed:"2026-10-18"});

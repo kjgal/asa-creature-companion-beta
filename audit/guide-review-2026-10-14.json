@@ -1,0 +1,135 @@
+{
+  "reviewDate": "2026-10-14",
+  "newGuides": [
+    "Enforcer",
+    "Scout",
+    "Mek",
+    "Ammonite",
+    "Cnidaria",
+    "Leedsichthys"
+  ],
+  "guideKinds": {
+    "acquisition": [
+      "Enforcer",
+      "Scout",
+      "Mek"
+    ],
+    "notTameable": [
+      "Ammonite",
+      "Cnidaria",
+      "Leedsichthys"
+    ]
+  },
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "announcementDateUTC": "2026-10-10",
+    "finding": "October 14 index still has no later creature release announcement; existing upcoming Giganotosaurus notice retained."
+  },
+  "species": {
+    "Enforcer": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Enforcer",
+        "https://ark.wiki.gg/wiki/Unassembled_Enforcer",
+        "https://ark.wiki.gg/wiki/Element_Dust",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Species ASA sections and ASA blueprint-cap patch context reviewed; base crafted acquisition distinguished from malfunctioned/mission forms. Sanctuary habitat corroborated by Biomes.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    },
+    "Scout": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Scout",
+        "https://ark.wiki.gg/wiki/Scout_Remote",
+        "https://ark.wiki.gg/wiki/Element_Dust",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base blueprint/remote acquisition and ASA Scout blueprint patch context reviewed. Sanctuary sources distinguished from mission and mod drones; old console shoulder-pet warning not asserted as a confirmed current ASA bug.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    },
+    "Mek": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Mek",
+        "https://ark.wiki.gg/wiki/Unassembled_Mek",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base crafted/deployed method reviewed with ASA species sections and Mek blueprint-cap patch context; Exo-Mek, Mega Mek, mission and mod procedures excluded.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    },
+    "Ammonite": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Ammonite",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base non-tameability corroborated by species and Taming references; ASA species sections reviewed. Mobile and No Untameables mod forms excluded; ocean habitat compared with Biomes/Spawn entries.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    },
+    "Cnidaria": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Cnidaria",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Aberration",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base species and ASA-specific spawn-change notes reviewed; non-tameability supported by species/dossier and Taming references. Aberrant habitat kept distinct from regular ocean populations; modded tameability excluded.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    },
+    "Leedsichthys": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Leedsichthys",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Species explicitly states non-tameability and fish-meat collection in ASA/ASE article context; Alpha and mod forms excluded. Ocean habitat compared with Biomes/Spawn entries.",
+      "comparisonLimitations": "Direct Enforcer returned 403. Individually indexed passages used; full articles, revision/contributor history, exhaustive official ASA map eligibility, current platform behavior and numerical checks pending."
+    }
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Enforcer",
+      "Scout",
+      "Mek",
+      "Ammonite",
+      "Cnidaria",
+      "Leedsichthys"
+    ],
+    "newAberration": [
+      "Cnidaria"
+    ],
+    "additionalSources": [
+      "https://ark.wiki.gg/wiki/Aberration",
+      "https://ark.wiki.gg/wiki/ARK%3A_Survival_Ascended/Patch/58.47"
+    ],
+    "provenance": "Biomes Sanctuary lists support Enforcer/Scout; ocean Biomes/Spawn entries support wild sea encounters. Mek note explicitly describes fabricated availability, not a wild biome. Aberration article states Aberrant Cnidaria can live in red-region liquid; regular and Aberrant forms distinguished.",
+    "limitations": "Typical habitat/availability only; references include legacy maps. No all-map presence, exact points, costs or durations asserted."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 122,
+    "withoutWrittenGuide": 80,
+    "generalHabitats": 86,
+    "aberrationHabitats": 11,
+    "detailedCreatureRecords": 105
+  },
+  "preserved": [
+    "Gacha cooking pots as anonymous player-tested suggestion, universal fastest ranking pending",
+    "Gasbags Snow Owl deflation advice with official-PvE timing pending",
+    "Roll Rat cues/controller advice",
+    "Quetzal Griffin and anonymous honey suggestion",
+    "Concavenator anonymous Tek Rifle Suggested method",
+    "Onyc artifact-cave eligibility pending"
+  ],
+  "questions": [
+    "Scout: on current ASA console, can you exit the Scout Remote normally while wearing a shoulder pet?"
+  ],
+  "displayPolicy": "Individual species, food and video links remain metadata only; generalized About credits preserved.",
+  "rights": "Existing notices and ARK/generated-art/reference-art findings retained; no full copyright clearance. Private noncommercial audience preserved."
+}

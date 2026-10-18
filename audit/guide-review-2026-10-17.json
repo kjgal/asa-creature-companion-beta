@@ -1,0 +1,120 @@
+{
+  "reviewDate": "2026-10-17",
+  "newGuides": [
+    "Fasolasuchus",
+    "Bloodstalker",
+    "Ferox",
+    "Giant Bee"
+  ],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/index.php?/forums/topic/774291-community-crunch-528-not-quite-what-it-seems/",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "reviewed": "2026-10-17",
+    "announcementDateUTC": "2026-10-17",
+    "announcementDatePacific": "2026-10-16",
+    "finding": "Enigmasaur is announced for November 6, 2026, not released as of this review. No current catalogue addition made. Current Giganotosaurus knockout guide and its upcoming November 6 TLC notice preserved.",
+    "upcoming": [
+      {
+        "name": "Enigmasaur",
+        "targetDate": "2026-11-06",
+        "status": "Upcoming; current official-map availability, final in-game method and food pending"
+      }
+    ],
+    "access": "Direct article route failed; official forum announcement successfully opened via its indexed reference. Official text only used, excluding community replies."
+  },
+  "species": {
+    "Fasolasuchus": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Fasolasuchus",
+        "https://ark.wiki.gg/wiki/Exceptional_Kibble",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant supporting passages reviewed.",
+        "asa": "ASA-native species and special knockout reviewed. App special classification distinguishes rock-collision torpor from ordinary tranquilizer knockout. Aberration habitat refers to the Aberrant form; no numerical surface schedule or render-distance shortcut imported.",
+        "comparisonLimitations": "Indexed individual species, item, biome and spawn passages reviewed; direct Giant Bee article returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, platform-specific techniques and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Bloodstalker": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Bloodstalker",
+        "https://ark.wiki.gg/wiki/Blood_Pack",
+        "https://ark.wiki.gg/wiki/Genesis:_Part_1",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant supporting passages reviewed.",
+        "asa": "Shared base-species feeding sequence reviewed with the released ASA Genesis: Part 1 map and ASA patch context. Wiki passive mapped to special for its latch/drain requirement. Brute, VR, mission and mod forms excluded.",
+        "comparisonLimitations": "Indexed individual species, item, biome and spawn passages reviewed; direct Giant Bee article returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, platform-specific techniques and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Ferox": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Ferox",
+        "https://ark.wiki.gg/wiki/Genesis:_Part_1",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/89.24",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Arctic_(Genesis:_Part_1)"
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant supporting passages reviewed.",
+        "asa": "Shared base-species Element cycle reviewed with released ASA Genesis: Part 1 and its legacy-creature update. Wiki passive mapped to special to distinguish transformation handling. Brute, VR and mission forms excluded.",
+        "comparisonLimitations": "Indexed individual species, item, biome and spawn passages reviewed; direct Giant Bee article returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, platform-specific techniques and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Giant Bee": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Giant_Bee",
+        "https://ark.wiki.gg/wiki/Bee_Hive",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/86.12",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant supporting passages reviewed.",
+        "asa": "Queen passive feeding reviewed with explicit ASA species notes and ASA bee patch context. Giant Bee catalogue name covers the tameable queen; temporary defending drones are not treated as equivalent tame targets.",
+        "comparisonLimitations": "Indexed individual species, item, biome and spawn passages reviewed; direct Giant Bee article returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, platform-specific techniques and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    }
+  },
+  "habitats": {
+    "newGeneral": [
+      "Bloodstalker",
+      "Ferox",
+      "Giant Bee"
+    ],
+    "refreshedGeneral": [
+      "Fasolasuchus"
+    ],
+    "newAberration": [
+      "Giant Bee"
+    ],
+    "refreshedAberration": [
+      "Fasolasuchus"
+    ],
+    "limitations": "General terrain only where species spawns. Fasolasuchus surface record explicitly concerns Aberrant form; Giant Bee green/Fertile record concerns regular queens, not a new Aberrant form. No coordinates or numerical safe-surface schedule added."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 135,
+    "missingGuides": 67,
+    "generalHabitatEntries": 94,
+    "aberrationHabitatEntries": 15,
+    "creatureInfoRecords": 118
+  },
+  "comparisonLimitations": "Direct Giant Bee species access returned 403. Indexed canonical species and shared aliases, item, biome, spawn and map/ASA patch passages reviewed. Ferox and Bloodstalker legacy methods cross-checked against released ASA Genesis Part 1 context; exhaustive current official-map/variant coverage and firsthand techniques remain pending. No quantities, durations or numerical effectiveness claims added.",
+  "ownerQuestions": [
+    "If you have used Fasolasuchus on official PvE, which explosive placement has reliably given you its temporary ride prompt?"
+  ],
+  "preserved": "Tusoteuthis anonymous player-tested mount-grab sequence preserved verbatim with test date/version unspecified. Earlier suggestions, including Concavenator Tek Rifle, unchanged. Pixel artwork, interface, bubbles, hidden individual/video links, generalized About source/contributor/license credits, private noncommercial audience and all previous rights findings preserved."
+}

@@ -1,0 +1,114 @@
+{
+  "reviewDate": "2026-10-18",
+  "newGuides": [
+    "Coelacanth",
+    "Piranha",
+    "Sabertooth Salmon",
+    "Trilobite"
+  ],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "checked": "2026-10-18",
+    "finding": "No newer creature-release announcement found on the checked official index. Previously reviewed Enigmasaur November 6 announcement remains upcoming; no current creature added."
+  },
+  "species": {
+    "Coelacanth": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Coelacanth",
+        "https://ark.wiki.gg/wiki/Fish_Basket",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      "provenance": {
+        "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+        "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Piranha": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Piranha",
+        "https://ark.wiki.gg/wiki/Fish_Basket",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      "provenance": {
+        "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+        "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Sabertooth Salmon": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Sabertooth_Salmon",
+        "https://ark.wiki.gg/wiki/Fish_Basket",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      "provenance": {
+        "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+        "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Trilobite": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Trilobite",
+        "https://ark.wiki.gg/wiki/Fish_Basket",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      "provenance": {
+        "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+        "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    }
+  },
+  "habitats": {
+    "newGeneral": [
+      "Coelacanth",
+      "Piranha",
+      "Sabertooth Salmon",
+      "Trilobite"
+    ],
+    "newAberration": [
+      "Coelacanth",
+      "Piranha",
+      "Sabertooth Salmon",
+      "Trilobite"
+    ],
+    "limitations": "Regular habitats describe typical terrain on maps where present. Green/Fertile and blue/Bioluminescent notes concern Aberrant Coelacanth, Piranha and Trilobite; Salmon note limited to verified blue/Bioluminescent listing. No presence claimed in red/Element or on surface."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 139,
+    "missingGuides": 63,
+    "generalHabitatEntries": 98,
+    "aberrationHabitatEntries": 19,
+    "creatureInfoRecords": 122
+  },
+  "pending": {
+    "Trilobite": "Species article says berries are eaten after capture; Fish Basket reference warns of starvation despite apparent food. No current ASA resolution established. Post-capture maintenance explicitly pending.",
+    "general": "Exact capture timing, basket spoil duration, effectiveness, post-capture diets/trough behavior, transfers, cave eligibility and platform prompts are not independently verified here."
+  },
+  "comparisonLimitations": "Direct Fish Basket and Aberration page requests returned 403; indexed individual species/redirect, usage, Biomes, Spawn entries and ASA patch passages reviewed. Full article/revision/contributor comparison and exhaustive official ASA map/variant coverage remain pending. Shared aliases used only for base species sections; Mobile/mod-specific content excluded. No numerical claims added.",
+  "ownerQuestions": [
+    "If you have kept a captured Trilobite on ASA official PvE, did its food actually decrease and recover when fed berries, or did it eventually starve?"
+  ],
+  "preserved": "All existing pixel artwork, icon assets, interface, bubbles, general source/contributor/license and video credits, metadata-only individual URLs, private noncommercial audience and earlier rights-review findings retained. Anonymous suggestions including Concavenator Tek Rifle and player-tested Tusoteuthis unchanged. No competitor prose, datasets, art or calculator code imported."
+}

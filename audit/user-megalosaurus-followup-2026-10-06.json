@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-06",
+  "creature": "Megalosaurus",
+  "source": "User-supplied reference notes; not claimed firsthand gameplay testing. Community Wiki indexed KO strategy independently reviewed.",
+  "implemented": [
+    "Nightfall wake-up regardless of torpor",
+    "Inventory-loss warning and retrieve supplies before wake-up",
+    "Start knockout after actual nightfall wake-up",
+    "Starve-taming food protection with feeding-window caveat",
+    "Explicit Aberrant exception: no nightfall wake-up during taming; maintain torpor normally"
+  ],
+  "pending": [
+    "Exact 20:15 wake-up; wiki gives approximately 20:30",
+    "Complete progress reset conflicts with wiki retention claim; both described as unresolved for current ASA"
+  ],
+  "sources": [
+    "https://ark.wiki.gg/wiki/Megalosaurus",
+    "https://wikiwiki.jp/arksa/特殊テイム早見表"
+  ],
+  "variantEvidence": "ARK Community Wiki Megalosaurus indexed combat passage: Aberration variant lacks a sleep/wake cycle. ASA-specific special-taming reference also excludes the Aberrant variant from timed waking.",
+  "latestNotes": "User repeated 20:15 and total-reset reference description on 2026-10-06. No new source URL or explicit firsthand test supplied; existing conflict with wiki retention remains unresolved. Aberrant exception preserved."
+}

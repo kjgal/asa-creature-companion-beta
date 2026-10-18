@@ -1,0 +1,99 @@
+{
+  "reviewDate": "2026-10-12",
+  "newGuides": [
+    "Gasbags",
+    "Liopleurodon",
+    "Mantis",
+    "Titanoboa"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "announcementDateUTC": "2026-10-10",
+    "finding": "October 12 news index still leads with Community Crunch 527; no later verified creature release found. Existing upcoming Giganotosaurus notice retained."
+  },
+  "species": {
+    "Gasbags": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Gasbags",
+        "https://ark.wiki.gg/wiki/Superior_Kibble",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base knockout and Superior Kibble reviewed in species passages with ASA sections. R and mission variants excluded; wasteland/sulfur habitat compared with Biomes and Spawn entries.",
+      "comparisonLimitations": "Direct Gasbags page returned 403. Full article/revision/contributor comparison, current official-map eligibility, firsthand details and numerical verification pending."
+    },
+    "Liopleurodon": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Liopleurodon",
+        "https://ark.wiki.gg/wiki/Giant_Bee_Honey",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base passive honey feeding and temporary outcome reviewed with ASA species sections. Mobile kibble, permanent-tame mods and mission variants excluded; ocean Spawn entries reviewed.",
+      "comparisonLimitations": "Direct Gasbags page returned 403. Full article/revision/contributor comparison, current official-map eligibility, firsthand details and numerical verification pending."
+    },
+    "Mantis": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Mantis",
+        "https://ark.wiki.gg/wiki/Deathworm_Horn",
+        "https://ark.wiki.gg/wiki/Woolly_Rhino_Horn",
+        "https://ark.wiki.gg/wiki/Bug_Repellant",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base horn feeding, repellent behavior and ASA body-multiplier passages reviewed. Ghost, mission and mod variants excluded; desert/cave habitat compared with Biomes and Spawn entries.",
+      "comparisonLimitations": "Direct Gasbags page returned 403. Full article/revision/contributor comparison, current official-map eligibility, firsthand details and numerical verification pending."
+    },
+    "Titanoboa": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Titanoboa",
+        "https://ark.wiki.gg/wiki/Eggs",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Wiki labels the method passive; app special classification distinguishes dropped fertilized eggs from hotbar hand-feeding. Base ASA passages reviewed; Mobile non-tameability and mission variants excluded. Swamp/cave habitat corroborated by Biomes and Spawn entries.",
+      "comparisonLimitations": "Direct Gasbags page returned 403. Full article/revision/contributor comparison, current official-map eligibility, firsthand details and numerical verification pending."
+    }
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Gasbags",
+      "Liopleurodon"
+    ],
+    "refreshedGeneral": [
+      "Mantis",
+      "Titanoboa"
+    ],
+    "newAberration": [
+      "Manta"
+    ],
+    "aberrationSources": [
+      "https://ark.wiki.gg/wiki/Aberration",
+      "https://ark.wiki.gg/wiki/Manta"
+    ],
+    "aberrationProvenance": "Aberration's indexed regional list places Aberrant Manta in the Fertile region; green naming corroborated by the same map article. Exact subregions and universal map applicability not asserted. Titanoboa variant exists, but zone-specific wording left pending.",
+    "limitations": "Biomes and Spawn entries include legacy maps. Typical terrain only; no exact points, universal presence or restricted-cave eligibility implied."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 112,
+    "withoutWrittenGuide": 90,
+    "generalHabitats": 78,
+    "aberrationHabitats": 9,
+    "detailedCreatureRecords": 98
+  },
+  "pendingFollowups": {
+    "Onyc": "No personal taming confirmation supplied; artifact-cave eligibility remains pending. No repeat question or new verified claim.",
+    "Gasbags": "Specific deflation-based knockout approach pending.",
+    "Liopleurodon": "Exact temporary-tame and loot-buff timings/effects pending.",
+    "Titanoboa": "Egg preferences, quantities, safe placement techniques and cave eligibility pending."
+  },
+  "questions": [
+    "Gasbags: have you found a reliable containment or deflation approach for knockout on ASA official PvE?"
+  ],
+  "displayPolicy": "Only generalized source/contributor/license and video credits in app; individual links stay metadata only.",
+  "rights": "Prior findings and notices retained. No full clearance claimed for ARK, generated sprites or reference artwork; private noncommercial audience unchanged."
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-01",
+  "affected": [
+    "Dimorphodon",
+    "Microraptor",
+    "Pachyrhinosaurus",
+    "Ravager"
+  ],
+  "finding": "ASB name-keyed food records give all six kibble tiers affinity16/food96. Dimorphodon species page lists Simple Kibble preference but Wiki module eats list excludes kibble; no unambiguous ASA-specific resolution established. Other three all-low patterns require species review. Do not blindly promote to generic affinity400.",
+  "action": "Remove unverified kibble from these four food menus and withdraw quantity and time estimates; retain non-kibble values and original equations. Preserve active-session start time and notes, invalidate stale affected estimates.",
+  "sources": [
+    "https://ark.wiki.gg/wiki/Dimorphodon",
+    "https://ark.wiki.gg/wiki/Module:TamingTable/creatures",
+    "https://github.com/cadon/ARKStatsExtractor/blob/792ce6e939971b18271dc91a802a2352d6519c26/ARKBreedingStats/json/tamingFoodData.json"
+  ]
+}

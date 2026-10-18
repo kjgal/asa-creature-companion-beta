@@ -1,0 +1,99 @@
+{
+  "reviewDate": "2026-10-16",
+  "newGuides": [
+    "Carcharodontosaurus",
+    "Desmodus",
+    "Yi Ling"
+  ],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "displayedDate": "October 9, 2026",
+    "finding": "No later verified creature-release announcement found in the checked October 16 official index. Existing upcoming Giganotosaurus notice retained; no new creature added."
+  },
+  "species": {
+    "Carcharodontosaurus": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Carcharodontosaurus",
+        "https://ark.wiki.gg/wiki/Taming_Techniques",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Individually indexed species and relevant item/technique passages reviewed.",
+        "asa": "Base species trust/temporary riding sequence reviewed with ASA species context. No baby-corpse shortcut, trap guarantee or exact hunting quota imported.",
+        "comparisonLimitations": "Indexed individual species passages only; direct Tusoteuthis access returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, firsthand techniques and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Desmodus": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Desmodus",
+        "https://ark.wiki.gg/wiki/Taming_Techniques",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Individually indexed species and relevant item/technique passages reviewed.",
+        "asa": "Base Desmodus reviewed through shared species/Desmodus_Draculae redirect passages and ASA Lost Colony context. Legacy Fjordur locations not represented as universal ASA availability; Gigadesmodus excluded.",
+        "comparisonLimitations": "Indexed individual species passages only; direct Tusoteuthis access returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, firsthand techniques and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Yi Ling": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Yi_Ling",
+        "https://ark.wiki.gg/wiki/Plant_Species_Z_Fruit",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Individually indexed species and relevant item/technique passages reviewed.",
+        "asa": "ASA-native Yi Ling knockout sequence reviewed through the Yiling redirect to the individual species article and Plant Species Z Fruit reference. Special label distinguishes this knockout from ordinary tranq weapons; Ghost/mod forms excluded.",
+        "comparisonLimitations": "Indexed individual species passages only; direct Tusoteuthis access returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, firsthand techniques and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "guideAdded": true
+    },
+    "Tusoteuthis": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Tusoteuthis",
+        "https://ark.wiki.gg/wiki/Deep_Ocean",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Direct species page returned 403; indexed canonical and shared redirect passages reviewed.",
+        "asa": "ASA species/patch context checked; legacy carrying notes are not treated as current official PvE confirmation.",
+        "comparisonLimitations": "Indexed individual species passages only; direct Tusoteuthis access returned 403. Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, firsthand techniques and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      },
+      "pending": "The shared species article describes grab-conditional feeding but also says creatures cannot be grabbed on PvE servers. Whether this warning concerns tamed carrying or current wild taming remains unresolved; no official PvE tame sequence is asserted here.",
+      "guideAdded": false
+    }
+  },
+  "habitats": {
+    "newGeneral": [
+      "Desmodus",
+      "Yi Ling"
+    ],
+    "refreshedGeneral": [
+      "Tusoteuthis"
+    ],
+    "newAberration": [
+      "Yi Ling"
+    ],
+    "limitations": "Yi Ling native cavern/cliff association only; no verified green/blue/red/surface distribution. Carcharodontosaurus existing mountain note retained without a new regional claim; expansion pending."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 130,
+    "missingGuides": 72,
+    "generalHabitatEntries": 91,
+    "aberrationHabitatEntries": 14,
+    "creatureInfoRecords": 114
+  },
+  "comparisonLimitations": "Full articles/revision/contributor comparison blocked by direct wiki access; indexed individual species, item, biome and spawn entries reviewed. Some shared alias redirects were used only for base-species content. Current official PvE Tusoteuthis grabbing remains unresolved; guide withheld. No numerical requirements, times or effectiveness claims added.",
+  "ownerQuestions": [
+    "Has a wild Tusoteuthis recently grabbed your own mount during an ASA official PvE taming attempt?"
+  ],
+  "preserved": "Existing pixel artwork, interface, companion bubbles, owner-private noncommercial audience, general source/contributor/license credits and all previous rights findings unchanged. Individual URLs remain metadata only; no video lists or per-creature source sections. Anonymous methods unchanged, including the uncorroborated Concavenator Tek Rifle suggestion."
+}

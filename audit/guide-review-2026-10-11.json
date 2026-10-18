@@ -1,0 +1,106 @@
+{
+  "reviewDate": "2026-10-11",
+  "newGuides": [
+    "Griffin",
+    "Velonasaur",
+    "Yutyrannus",
+    "Manta",
+    "Onyc"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/index.php?/forums/topic/774274-community-crunch-527-trial-by-fury/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "announcementDateUTC": "2026-10-10",
+    "reviewDate": "2026-10-11",
+    "finding": "News index still leads with Community Crunch 527. No new released creature identified. Giganotosaurus TLC remains upcoming November 6; preserve existing notice and current method."
+  },
+  "species": {
+    "Griffin": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Griffin",
+        "https://ark.wiki.gg/wiki/Extraordinary_Kibble",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base knockout, current kibble and ASA material distinguished from Mobile Royal Griffin respect and special-kibble mechanics; rocky habitat compared with Biomes.",
+      "comparisonLimitations": "Direct Manta article returned 403. Indexed passages cannot replace full article or revision/contributor comparison. Exhaustive ASA official maps, cave eligibility, trap specifications, firsthand testing and numerical verification pending."
+    },
+    "Velonasaur": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Velonasaur",
+        "https://ark.wiki.gg/wiki/Regular_Kibble",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base knockout and food passages with ASA sections reviewed; R and mission variants excluded. Desert Dome habitat compared with Biomes.",
+      "comparisonLimitations": "Direct Manta article returned 403. Indexed passages cannot replace full article or revision/contributor comparison. Exhaustive ASA official maps, cave eligibility, trap specifications, firsthand testing and numerical verification pending."
+    },
+    "Yutyrannus": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Yutyrannus",
+        "https://ark.wiki.gg/wiki/Extraordinary_Kibble",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base knockout, foods, Carno warning and ASA notes reviewed; X, mission, Revenant and other distinct variants excluded. Cold habitats corroborated by Biomes.",
+      "comparisonLimitations": "Direct Manta article returned 403. Indexed passages cannot replace full article or revision/contributor comparison. Exhaustive ASA official maps, cave eligibility, trap specifications, firsthand testing and numerical verification pending."
+    },
+    "Manta": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Manta",
+        "https://ark.wiki.gg/wiki/AnglerGel",
+        "https://ark.wiki.gg/wiki/Bug_Repellant",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base passive method and AnglerGel confirmed in species/item passages with ASA sections; Mobile forms and numerical legacy tables excluded. Ocean habitat compared with Biomes and Spawn entries.",
+      "comparisonLimitations": "Direct Manta article returned 403. Indexed passages cannot replace full article or revision/contributor comparison. Exhaustive ASA official maps, cave eligibility, trap specifications, firsthand testing and numerical verification pending."
+    },
+    "Onyc": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Onyc",
+        "https://ark.wiki.gg/wiki/Raw_Mutton",
+        "https://ark.wiki.gg/wiki/Bug_Repellant",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Species passive feeding and ASA body-multiplier sections reviewed; cave and castle spawn types compared with Spawn entries. Mission/VR and restricted cave encounters excluded; exact ASA cave eligibility remains pending.",
+      "comparisonLimitations": "Direct Manta article returned 403. Indexed passages cannot replace full article or revision/contributor comparison. Exhaustive ASA official maps, cave eligibility, trap specifications, firsthand testing and numerical verification pending."
+    }
+  },
+  "habitatReview": {
+    "reviewedGeneral": [
+      "Griffin",
+      "Velonasaur",
+      "Yutyrannus",
+      "Manta",
+      "Onyc"
+    ],
+    "newGeneralCount": 3,
+    "refreshedGeneralCount": 2,
+    "newAberration": [],
+    "limitations": "Terrain types only; no all-map presence, exact points or new Aberrant forms asserted. Biomes and Spawn entries contain legacy maps. Existing detailed encounter records retained."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 108,
+    "withoutWrittenGuide": 94,
+    "generalHabitats": 76,
+    "aberrationHabitats": 8,
+    "detailedCreatureRecords": 94
+  },
+  "preserved": [
+    "Roll Rat controller and anonymous player-reported digging cues from version 101",
+    "Quetzal Griffin method and anonymous honey suggestion",
+    "Concavenator anonymous Tek Rifle Suggested method",
+    "generalized About source/contributor/license and video credits",
+    "original pixel assets and private noncommercial audience"
+  ],
+  "questions": [
+    "Onyc: which cave or ruined-structure encounters have you successfully hand-fed on current ASA official PvE?"
+  ],
+  "displayPolicy": "Individual creature, food and video URLs stay metadata only. No per-creature References or individual video lists/embeds.",
+  "rights": "Prior source/contributor/license notices and ARK/generated-art/reference-art rights findings retained. No full copyright clearance claimed."
+}

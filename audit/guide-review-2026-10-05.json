@@ -1,0 +1,37 @@
+{
+  "reviewDate": "2026-10-05",
+  "newGuides": ["Dunkleosteus", "Electrophorus", "Giganotosaurus", "Gigantopithecus", "Hesperornis", "Hyaenodon", "Ichthyornis", "Kairuku", "Kaprosuchus", "Kentrosaurus"],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "sources": {
+    "Dunkleosteus": ["https://ark.wiki.gg/wiki/Dunkleosteus", "https://ark.wiki.gg/wiki/Superior_Kibble"],
+    "Electrophorus": ["https://ark.wiki.gg/wiki/Electrophorus", "https://ark.wiki.gg/wiki/Bio_Toxin"],
+    "Giganotosaurus": ["https://ark.wiki.gg/wiki/Giganotosaurus", "https://ark.wiki.gg/wiki/Exceptional_Kibble"],
+    "Gigantopithecus": ["https://ark.wiki.gg/wiki/Gigantopithecus", "https://ark.wiki.gg/wiki/Regular_Kibble"],
+    "Hesperornis": ["https://ark.wiki.gg/wiki/Hesperornis", "https://ark.wiki.gg/wiki/Dead_Fish"],
+    "Hyaenodon": ["https://ark.wiki.gg/wiki/Hyaenodon", "https://ark.wiki.gg/wiki/Taming"],
+    "Ichthyornis": ["https://ark.wiki.gg/wiki/Ichthyornis", "https://ark.wiki.gg/wiki/Regular_Kibble"],
+    "Kairuku": ["https://ark.wiki.gg/wiki/Kairuku", "https://ark.wiki.gg/wiki/Kairuku_Egg"],
+    "Kaprosuchus": ["https://ark.wiki.gg/wiki/Kaprosuchus", "https://ark.wiki.gg/wiki/Regular_Kibble"],
+    "Kentrosaurus": ["https://ark.wiki.gg/wiki/Kentrosaurus", "https://ark.wiki.gg/wiki/Regular_Kibble"]
+  },
+  "methodSummary": {
+    "knockout": ["Dunkleosteus", "Giganotosaurus", "Ichthyornis", "Kairuku", "Kaprosuchus", "Kentrosaurus"],
+    "passive": ["Electrophorus", "Gigantopithecus", "Hesperornis", "Hyaenodon"]
+  },
+  "officialAnnouncementCheck": {
+    "checkedThrough": "2026-10-05",
+    "latestLocatedAnnouncementDate": "2026-10-03",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774255-community-crunch-526-madness-takes-flight/",
+    "result": "Xeranox remains an upcoming preview, not a verified release. Cerberax and Gargantar remain the newest verified creature release and are already catalogued. No catalogue addition was made."
+  },
+  "access": "Direct base pages for Dunkleosteus, Gigantopithecus and Kairuku returned 403. Individually indexed species, taming, food and kibble passages were used; claims not supported by those passages remain pending.",
+  "comparisonLimitations": "Full article comparison, revision/contributor history, comprehensive ASA spawn coverage and firsthand official PvE testing remain pending. No numerical tables, calculator code or competitor material were imported.",
+  "coverage": {"catalogueEntries": 202, "writtenGuides": 66, "entriesWithoutWrittenGuides": 136, "habitatOrEncounterRecords": 52},
+  "ownerConfirmationQuestions": [
+    "Electrophorus: on official ASA PvE, is the safest feeding prompt still available during the pause after its electrical attack?",
+    "Hyaenodon: does frightening it still remove all tame progress, or only cause progress to decay?",
+    "Kairuku: which torpor method have you found least likely to kill a high-level one on official settings?"
+  ],
+  "preserved": ["Artwork", "Interface", "Companion bubbles", "Anonymous Concavenator Suggested method", "Source/contributor/license notices", "Rights-review findings", "Owner-private audience"]
+}

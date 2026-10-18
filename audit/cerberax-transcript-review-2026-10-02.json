@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-02",
+  "sources": [
+    [
+      "YPou: How to Tame Cerberax! 4 Knockouts & Head Trials Explained",
+      "https://www.youtube.com/watch?v=p0Qgb6s2jQw"
+    ],
+    [
+      "How to TAME Cerberax and Abilities in ARK Survival Ascended!",
+      "https://www.youtube.com/watch?v=c1iiyx3NR2E"
+    ]
+  ],
+  "provenance": {
+    "access": "User pasted Gemini-produced notes and transcripts for both linked videos; direct video retrieval was blocked. No firsthand gameplay test by this app.",
+    "officialContext": "User identifies YPou as an official-server player. The second transcript explicitly mentions 3x rates and boosted stats.",
+    "foodClarification": "User confirms cyan kibble means Extraordinary Kibble. Exceptional Kibble is not recommended because the two transcripts disagree on its use in the green trial.",
+    "comparison": "Both transcripts describe random head order, the three trial types, repeated tranquilizing and a final feeding knockout. The second prose summary incorrectly claimed an automatic final knockout; its transcript describes further tranquilizing.",
+    "optionalStrategy": "Smoke/Focal Chili/Extinguisher method and corpse-harvest workaround remain creator-reported optional advice."
+  },
+  "confirmedByUser": [
+    "Cyan Kibble refers to Extraordinary Kibble"
+  ],
+  "agreement": [
+    "Random head order",
+    "Fire: three marked prey targets",
+    "Green: feed on bite cue from final hotbar slot",
+    "Blue: track moving indicator",
+    "Another tranquilizer knockout after all three trials"
+  ],
+  "excludedClaims": [
+    "Automatic final knockout from Gemini prose summary",
+    "Exceptional Kibble alternative",
+    "Universal no-narcotics claim",
+    "Video-specific food quantity or time",
+    "Guaranteed smoke aggro or corpse bug behavior"
+  ],
+  "unusedAttachments": [
+    "1000027988.mp4",
+    "1000027989.mp4"
+  ],
+  "attachmentNote": "Not relied upon for this transcript-based update."
+}

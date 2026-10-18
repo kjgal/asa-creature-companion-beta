@@ -2480,3 +2480,167 @@ Object.assign(aberrationHabitats,{
   "Fasolasuchus": "On Aberration, look for Aberrant Fasolasuchus on the surface, not a regular desert form in the green, blue or red underground zones. Surface daylight is dangerous; exact safe timing remains pending.",
   "Giant Bee": "On Aberration, Giant Bees occur in the green (Fertile) region. These are regular Giant Bees, not a distinct Aberrant Giant Bee variant; the tame guide concerns queens."
 });
+
+// Aquatic species and habitat review, October 18, 2026. Preserve detailed encounters.
+for(const [name,review] of Object.entries({
+  "Coelacanth": {
+    "habitat": "Coastal water, rivers and lakes on maps where it spawns.",
+    "behavior": "A small, generally evasive fish that can be captured with a Fish Basket.",
+    "checked": "2026-10-18",
+    "scope": "Typical habitats where present; comprehensive official ASA spawn coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Coelacanth",
+        "https://ark.wiki.gg/wiki/Coelacanth"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Piranha": {
+    "habitat": "Freshwater rivers, ponds and lakes on maps where it spawns; approach water carefully.",
+    "behavior": "An aggressive fish that can attack together with nearby Piranhas.",
+    "checked": "2026-10-18",
+    "scope": "Typical habitats where present; comprehensive official ASA spawn coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Piranha",
+        "https://ark.wiki.gg/wiki/Piranha"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Sabertooth Salmon": {
+    "habitat": "Rivers and other inland water on maps where it spawns; local water habitats differ by map.",
+    "behavior": "A river fish that may flee, then retaliate with nearby salmon when attacked.",
+    "checked": "2026-10-18",
+    "scope": "Typical habitats where present; comprehensive official ASA spawn coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Sabertooth Salmon",
+        "https://ark.wiki.gg/wiki/Sabertooth_Salmon"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Trilobite": {
+    "habitat": "Beaches, coastal shallows and the sea floor on maps where it spawns.",
+    "behavior": "A small bottom-dwelling invertebrate; capture and long-term upkeep are separate questions.",
+    "checked": "2026-10-18",
+    "scope": "Typical habitats where present; comprehensive official ASA spawn coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Trilobite",
+        "https://ark.wiki.gg/wiki/Trilobite"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+})) creatureInfo[name]={...creatureInfo[name],...review};
+Object.assign(generalHabitats,{
+  "Coelacanth": "Coastal water, rivers and lakes on maps where it spawns.",
+  "Piranha": "Freshwater rivers, ponds and lakes on maps where it spawns; approach water carefully.",
+  "Sabertooth Salmon": "Rivers and other inland water on maps where it spawns; local water habitats differ by map.",
+  "Trilobite": "Beaches, coastal shallows and the sea floor on maps where it spawns."
+});
+Object.assign(aberrationHabitats,{
+  "Coelacanth": "On Aberration, Aberrant Coelacanth occurs in the green (Fertile) and blue (Bioluminescent) regions. This describes the Aberrant variant, not regular Coelacanth on every map.",
+  "Piranha": "On Aberration, Aberrant Piranha occurs in the green (Fertile) and blue (Bioluminescent) regions. This describes the Aberrant variant, not regular Piranha on every map.",
+  "Sabertooth Salmon": "On Aberration, the Aberrant Sabertooth Salmon is listed in the blue (Bioluminescent) region. This note concerns that variant; a broader regional distribution is not asserted.",
+  "Trilobite": "On Aberration, Aberrant Trilobite occurs in the green (Fertile) and blue (Bioluminescent) regions. This describes the Aberrant variant, not regular Trilobite on every map."
+});

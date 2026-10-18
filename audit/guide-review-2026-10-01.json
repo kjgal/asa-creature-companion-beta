@@ -1,0 +1,72 @@
+{
+  "reviewed": "2026-10-01",
+  "baseline": "26c32b9fc677c19c7016f60a665edf29bc82e4b6",
+  "added": [
+    {
+      "creature": "Carbonemys",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Carbonemys",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ],
+      "reviewed": "2026-10-01",
+      "access": "Indexed species extracts; full-page retrieval failed",
+      "facts": "Knockout, preferred kibble, conservative preparation. Habitat included only where retrieved.",
+      "limitations": "ASE numerical tables and variant-specific rules excluded. No firsthand ASA testing or full text-similarity comparison. Rights review remains unresolved."
+    },
+    {
+      "creature": "Dimetrodon",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Dimetrodon",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ],
+      "reviewed": "2026-10-01",
+      "access": "Indexed species extracts; full-page retrieval failed",
+      "facts": "Knockout, preferred kibble, conservative preparation. Habitat included only where retrieved.",
+      "limitations": "ASE numerical tables and variant-specific rules excluded. No firsthand ASA testing or full text-similarity comparison. Rights review remains unresolved."
+    },
+    {
+      "creature": "Carnotaurus",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Carnotaurus",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ],
+      "reviewed": "2026-10-01",
+      "access": "Indexed species extracts; full-page retrieval failed",
+      "facts": "Knockout, preferred kibble, conservative preparation. Habitat included only where retrieved.",
+      "limitations": "ASE numerical tables and variant-specific rules excluded. No firsthand ASA testing or full text-similarity comparison. Rights review remains unresolved."
+    },
+    {
+      "creature": "Sarco",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Sarco",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ],
+      "reviewed": "2026-10-01",
+      "access": "Indexed species extracts; full-page retrieval failed",
+      "facts": "Knockout, preferred kibble, conservative preparation. Habitat included only where retrieved.",
+      "limitations": "ASE numerical tables and variant-specific rules excluded. No firsthand ASA testing or full text-similarity comparison. Rights review remains unresolved."
+    },
+    {
+      "creature": "Dimorphodon",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Dimorphodon",
+        "https://ark.wiki.gg/wiki/Simple_Kibble"
+      ],
+      "reviewed": "2026-10-01",
+      "access": "Indexed species extracts; full-page retrieval failed",
+      "facts": "Knockout, preferred kibble, conservative preparation. Habitat included only where retrieved.",
+      "limitations": "ASE numerical tables and variant-specific rules excluded. No firsthand ASA testing or full text-similarity comparison. Rights review remains unresolved."
+    }
+  ],
+  "pending": [
+    "Dodo: fuller base-species preparation/habitat evidence",
+    "Dilophosaur: complete base-species passage review",
+    "Beelzebufo: direct base-species extraction",
+    "Cerberax and Gargantar: official release announced for September 30; actual official-map availability and methods unverified",
+    "Therizinosaurus: TLC impact on taming needs updated evidence"
+  ],
+  "officialAnnouncement": {
+    "url": "https://survivetheark.com/index.php?/forums/topic/774237-community-crunch-525-an-appetite-for-destruction/",
+    "finding": "Official forum post obtained: Cerberax, Gargantar and Therizinosaurus TLC announced for September 30. Announcement is not proof of completed rollout or map spawns."
+  }
+}

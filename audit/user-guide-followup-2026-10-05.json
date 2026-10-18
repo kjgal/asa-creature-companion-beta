@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-05",
+  "creatures": [
+    "Equus",
+    "Electrophorus",
+    "Hyaenodon",
+    "Kairuku"
+  ],
+  "source": "User-provided reference notes plus individually reviewed Community Wiki indexed passages; no firsthand testing claimed",
+  "pending": {
+    "Equus": [
+      "Console dismount bug and USB keyboard workaround (explicitly labeled player-reported)",
+      "Precise failure penalty and permanent effectiveness-loss assertion"
+    ],
+    "Hyaenodon": [
+      "Exact continuous progress decay/reset behavior while spooked on current official ASA PvE",
+      "Reliable concealment through 1x1 doorframe/window pen"
+    ],
+    "Electrophorus": [
+      "Exclusive fleeing/recharging mechanical requirement"
+    ],
+    "Kairuku": [
+      "Universal safest-method and near-certain headshot-death claims"
+    ]
+  },
+  "sources": [
+    "https://ark.wiki.gg/wiki/Equus",
+    "https://ark.wiki.gg/wiki/Hyaenodon",
+    "https://ark.wiki.gg/wiki/Electrophorus",
+    "https://ark.wiki.gg/wiki/Kairuku",
+    "https://ark.wiki.gg/wiki/Weapons"
+  ],
+  "followup": "2026-10-06: user withdrew earlier flat 30% description. Guide uses substantial/rapid progress-loss warning without exact percentages; small pen retained as suggested method."
+}

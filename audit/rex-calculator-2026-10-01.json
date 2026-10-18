@@ -1,0 +1,70 @@
+{
+  "reviewed": "2026-10-01",
+  "scope": "Normal adult Rex only. Four single-food quantity estimates; kibble and raw meat/mutton/prime-meat feeding-time estimates. No special, passive, mission, alpha or mod variants. Optional one-use Sanguine Elixir modifier (30% affinity supplied; round remaining food up).",
+  "upstream": {
+    "repository": "https://github.com/cadon/ARKStatsExtractor",
+    "commit": "792ce6e939971b18271dc91a802a2352d6519c26",
+    "commitDate": "2026-09-27",
+    "license": "MIT; Copyright (c) 2015 cadon",
+    "files": [
+      {
+        "path": "ARKBreedingStats/json/values/values.json",
+        "url": "https://github.com/cadon/ARKStatsExtractor/blob/792ce6e939971b18271dc91a802a2352d6519c26/ARKBreedingStats/json/values/values.json",
+        "sha256": "f20e9f5e2d25481aba3644b539a665582d936fd70d74a7baf4ff519926d37eb4"
+      },
+      {
+        "path": "ARKBreedingStats/json/values/ASA-values.json",
+        "url": "https://github.com/cadon/ARKStatsExtractor/blob/792ce6e939971b18271dc91a802a2352d6519c26/ARKBreedingStats/json/values/ASA-values.json",
+        "sha256": "3669581c8fc72490935df9e008037c550656f8742433dc14bd50dbd780b0e944"
+      },
+      {
+        "path": "ARKBreedingStats/json/tamingFoodData.json",
+        "url": "https://github.com/cadon/ARKStatsExtractor/blob/792ce6e939971b18271dc91a802a2352d6519c26/ARKBreedingStats/json/tamingFoodData.json",
+        "sha256": "d4056bc12f5301def19f3985b04cb95806d405f4948c69659e624b4d189b19b7"
+      }
+    ]
+  },
+  "asaResolution": {
+    "blueprint": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP",
+    "baseVersion": "358.17.12291776",
+    "asaVersion": "92.43.1",
+    "asaFileLastChange": "2026-08-23T09:00:50Z",
+    "baseFileLastChange": "2024-03-11T09:24:48Z",
+    "foodFileLastChange": "2025-06-15T08:56:45Z",
+    "behavior": "ASA record overrides bone damage and wild stat allocation only; original normal Rex taming data inherited. This is repository-supported ASA compatibility, not a fresh independent ASA DevKit extraction."
+  },
+  "independentFormulaReview": {
+    "requiredAffinity": "base + level \u00d7 perLevel; actual wild level (not level minus one); multiply by 0.7 when one successful early elixir use is selected",
+    "quantity": "ceiling(requiredAffinity / (foodAffinity \u00d7 builtInNormalization4 \u00d7 selectedTamingRate))",
+    "duration": "ceiling(quantity \u00d7 foodValue / (foodDrainBase \u00d7 foodDrainMultiplier)); default food drain 1 only",
+    "sources": [
+      "https://wiki.arkmodding.net/index.php?title=Taming_Parameters",
+      "https://ark.wiki.gg/wiki/Module:TamingTable",
+      "https://ark.wiki.gg/wiki/Module:TamingTable/creatures",
+      "https://ark.wiki.gg/wiki/Module:TamingTable/food",
+      "https://ark.fandom.com/wiki/Module:TamingTable/creatures",
+      "https://ark.fandom.com/wiki/Module:TamingTable/food",
+      "https://ark.wiki.gg/wiki/Sanguine_Elixir",
+      "https://ark.wiki.gg/wiki/Desmodus"
+    ],
+    "limits": "Wiki full-page access uneven. Indexed Community Wiki facts and readable Fandom module bodies support affinity equations and meat constants. Mirrors are not independent ASA game exports. Calculator source code was read for review but not copied/ported; original equations implementation."
+  },
+  "pending": [
+    "ASA firsthand gameplay verification for every estimate",
+    "Wake-up/torpor-supply estimates, shot counts, effectiveness, bonus levels, mixed foods, starvation taming and non-default drain",
+    "All other catalogue species and variants"
+  ],
+  "comparisonLimits": "No full competitor text corpus or visual similarity audit. MIT repository license does not clear ARK underlying IP or previously unresolved reference-art issues.",
+  "reportedComparison": {
+    "date": "2026-10-01",
+    "anonymous": "Reported external calculator outputs: 57:59 without elixir, 40:56 with at 1x. Level/food were not explicitly stated; assuming level 150 Exceptional Kibble, independent ASB-based candidate results match exactly (17 and 12 items respectively).",
+    "limitations": "Not imported calculator data/code; two user-reported comparison observations only. Screenshots/settings not inspected. Not firsthand ASA validation; does not resolve generic wiki food-value difference. Kibble timing remains withheld.",
+    "decision": "Enable the ASB-based kibble time as an estimate following user acceptance of the reported comparison. This does not establish firsthand ASA validation or resolve the generic wiki food-value difference."
+  },
+  "validation": {
+    "syntax": "All six dist JavaScript files checked with node --check",
+    "numeric": "tests/rex-calculator.cjs: 11 independently Decimal-derived golden cases; 48,000 level/rate/food/elixir minimum-quantity cases; invalid inputs; unsupported variants; pending kibble duration; countdown clipping. Candidate 3479/2456-second comparison matches reported outputs under explicit level-150 Exceptional-Kibble assumptions.",
+    "interaction": "DOM runtime with linkedom: level/rate/food/elixir changes, invalid start guards, custom rates, active snapshot stability, elapsed expiry without auto-completion, persistence/reload, legacy notes/reminders, companion open/close and quantity routing, five existing guide guards, non-tameable/acquisition/pending views. All passed.",
+    "limits": "DOM checks are not real-browser visual or mobile-layout tests. Layout manually audited for bounded min-width:0 columns, responsive stacking and wrapping. No live ASA game trial performed."
+  }
+}

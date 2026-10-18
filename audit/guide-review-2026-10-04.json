@@ -1,0 +1,82 @@
+{
+  "reviewDate": "2026-10-04",
+  "newGuides": [
+    "Dodo",
+    "Gallimimus",
+    "Iguanodon",
+    "Dung Beetle",
+    "Mesopithecus",
+    "Equus",
+    "Ovis"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "sources": {
+    "Dodo": [
+      "https://ark.wiki.gg/wiki/Dodo"
+    ],
+    "Gallimimus": [
+      "https://ark.wiki.gg/wiki/Gallimimus"
+    ],
+    "Iguanodon": [
+      "https://ark.wiki.gg/wiki/Iguanodon"
+    ],
+    "Dung Beetle": [
+      "https://ark.wiki.gg/wiki/Dung_Beetle",
+      "https://ark.wiki.gg/wiki/Massive_Animal_Feces"
+    ],
+    "Mesopithecus": [
+      "https://ark.wiki.gg/wiki/Mesopithecus"
+    ],
+    "Equus": [
+      "https://ark.wiki.gg/wiki/Equus",
+      "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+    ],
+    "Ovis": [
+      "https://ark.wiki.gg/wiki/Ovis",
+      "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+    ]
+  },
+  "methodSummary": {
+    "knockout": [
+      "Dodo",
+      "Gallimimus",
+      "Iguanodon"
+    ],
+    "passive": [
+      "Dung Beetle",
+      "Mesopithecus",
+      "Ovis"
+    ],
+    "special": [
+      "Equus"
+    ]
+  },
+  "officialAnnouncementCheck": {
+    "checkedThrough": "2026-10-04",
+    "announcementDate": "2026-10-03",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774255-community-crunch-526-madness-takes-flight/",
+    "upcoming": "Xeranox is previewed as coming to Dragontopia; release and official map availability unconfirmed, so not added.",
+    "latestReleased": "Cerberax and Gargantar; already catalogued"
+  },
+  "access": "Direct wiki pages returned 403; individual indexed passages used. Kairuku and Dunkleosteus left without new guides because base-page evidence was insufficient in this run.",
+  "comparisonLimitations": "Indexed passages only; full article comparison, revision/contributor history and firsthand official PvE testing remain pending. No numerical tables or calculator code imported.",
+  "coverage": {
+    "catalogueEntries": 202,
+    "writtenGuides": 56,
+    "entriesWithoutWrittenGuides": 146,
+    "habitatOrEncounterRecords": 42
+  },
+  "ownerConfirmationQuestions": [
+    "Equus: on official ASA PvE, does the bucking prompt still require the same feed/use action after mounting?"
+  ],
+  "preserved": [
+    "Artwork",
+    "Interface",
+    "Companion bubbles",
+    "Recent duplicate-text and timestamp fixes",
+    "Source/contributor/license notices",
+    "Anonymous Concavenator Suggested method",
+    "Owner-private audience"
+  ]
+}

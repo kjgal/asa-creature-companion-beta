@@ -4183,3 +4183,155 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// Original basket-capture summaries reviewed October 18, 2026.
+Object.assign(tamingGuides,{
+  "Coelacanth": {
+    "method": "special",
+    "overview": "Use a Fish Basket to capture a live Coelacanth, then release it into water as a tame. This is a special capture method rather than a knockout or hand-feeding tame.",
+    "food": "The documented capture uses a Fish Basket rather than a taming-food sequence. Post-capture diet and trough behavior need a separate current ASA check.",
+    "preparation": "Bring a Fish Basket and choose a safe underwater placement and release area. Clear nearby predators without harming the target.",
+    "steps": [
+      "Place the basket on the bottom near the live target",
+      "Wait for the basket’s capture prompt",
+      "Interact with the basket while the target is in reach",
+      "Use the filled basket to release the captured creature in water"
+    ],
+    "specialAction": "Capture the live fish, then release it in water. Catching fish for another creature’s taming food is a separate use of a filled basket; this guide is for keeping the Coelacanth.",
+    "tips": [
+      "Capture the live fish, then release it in water. Catching fish for another creature’s taming food is a separate use of a filled basket; this guide is for keeping the Coelacanth."
+    ],
+    "checked": "2026-10-18",
+    "scope": "ASA official PvE base species where eligible; variant/cave eligibility and unverified numerical requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Coelacanth",
+        "https://ark.wiki.gg/wiki/Coelacanth"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Piranha": {
+    "method": "special",
+    "overview": "Use a Fish Basket to capture a live Piranha, then release it into water as a tame. This is a special capture method rather than a knockout or hand-feeding tame.",
+    "food": "The documented capture uses a Fish Basket rather than a taming-food sequence. Post-capture diet and trough behavior need a separate current ASA check.",
+    "preparation": "Bring a Fish Basket and choose a safe underwater placement and release area. Plan protection from the fish and its neighbors.",
+    "steps": [
+      "Place the basket on the bottom near the live target",
+      "Wait for the basket’s capture prompt",
+      "Interact with the basket while the target is in reach",
+      "Use the filled basket to release the captured creature in water"
+    ],
+    "specialAction": "Watch for additional Piranhas while working at the basket. Capture does not require knocking the fish out; release it in water.",
+    "tips": [
+      "Watch for additional Piranhas while working at the basket. Capture does not require knocking the fish out; release it in water."
+    ],
+    "checked": "2026-10-18",
+    "scope": "ASA official PvE base species where eligible; variant/cave eligibility and unverified numerical requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Piranha",
+        "https://ark.wiki.gg/wiki/Piranha"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Sabertooth Salmon": {
+    "method": "special",
+    "overview": "Use a Fish Basket to capture a live Sabertooth Salmon, then release it into water as a tame. This is a special capture method rather than a knockout or hand-feeding tame.",
+    "food": "The documented capture uses a Fish Basket rather than a taming-food sequence. Post-capture diet and trough behavior need a separate current ASA check.",
+    "preparation": "Bring a Fish Basket and choose a safe underwater placement and release area. Avoid provoking nearby salmon.",
+    "steps": [
+      "Place the basket on the bottom near the live target",
+      "Wait for the basket’s capture prompt",
+      "Interact with the basket while the target is in reach",
+      "Use the filled basket to release the captured creature in water"
+    ],
+    "specialAction": "Avoid attacking it to position it: nearby salmon may retaliate. Use the basket’s capture prompt and release the fish in water.",
+    "tips": [
+      "Avoid attacking it to position it: nearby salmon may retaliate. Use the basket’s capture prompt and release the fish in water."
+    ],
+    "checked": "2026-10-18",
+    "scope": "ASA official PvE base species where eligible; variant/cave eligibility and unverified numerical requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Sabertooth Salmon",
+        "https://ark.wiki.gg/wiki/Sabertooth_Salmon"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Trilobite": {
+    "method": "special",
+    "overview": "Use a Fish Basket to capture a live Trilobite, then release it into water as a tame. This is a special capture method rather than a knockout or hand-feeding tame.",
+    "food": "The documented capture uses a Fish Basket rather than a taming-food sequence. Reliable post-capture feeding is pending because the species and basket references conflict.",
+    "preparation": "Bring a Fish Basket and choose a safe underwater placement and release area. Choose a submerged target rather than relying on a stranded specimen.",
+    "steps": [
+      "Place the basket on the bottom near the live target",
+      "Wait for the basket’s capture prompt",
+      "Interact with the basket while the target is in reach",
+      "Use the filled basket to release the captured creature in water"
+    ],
+    "specialAction": "Keep the capture and release in water. The species article lists berries for upkeep, but the Fish Basket article warns of starvation despite apparent feeding. Current ASA upkeep remains pending; a displayed full food bar is not confirmation that this is resolved.",
+    "tips": [
+      "Keep the capture and release in water. The species article lists berries for upkeep, but the Fish Basket article warns of starvation despite apparent feeding. Current ASA upkeep remains pending; a displayed full food bar is not confirmation that this is resolved."
+    ],
+    "checked": "2026-10-18",
+    "scope": "ASA official PvE base species where eligible; variant/cave eligibility and unverified numerical requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Trilobite",
+        "https://ark.wiki.gg/wiki/Trilobite"
+      ],
+      [
+        "ARK Community Wiki: Fish Basket",
+        "https://ark.wiki.gg/wiki/Fish_Basket"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 92.21",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirect and Fish Basket usage passages reviewed; direct Fish Basket and Aberration pages returned 403.",
+      "asa": "Species ASA context and ASA Fish Basket patch reviewed. App special label separates live basket capture from knockout, ordinary passive feeding and crafted/egg acquisition. Mobile, mod and unverified special cave forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map/variant eligibility, current upkeep behavior, controller prompts and numerical formulas remain pending. Trilobite upkeep conflict retained explicitly. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});

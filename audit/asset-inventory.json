@@ -1,0 +1,1082 @@
+[
+  {
+    "path": "dist/assets/armadoggo-idle.png",
+    "sha256": "34582dfb5a07d3ced62a191a5dd6aa29eafae471c3c02ae7d3fbbcaf8d671714",
+    "bytes": 235011
+  },
+  {
+    "path": "dist/assets/armadoggo-play.png",
+    "sha256": "7e6f2ecf7ac5392ca9fca00db828fbb0f7af0736d1a026722f8051379710feb0",
+    "bytes": 277683
+  },
+  {
+    "path": "dist/assets/armadoggo.png",
+    "sha256": "bbca242be49910b6632c547911ebf8cd52e1a6cd72af4f021ff8b8dac5598b3e",
+    "bytes": 98937
+  },
+  {
+    "path": "dist/assets/creatures/achatina.png",
+    "sha256": "2f4a9b27d62c909bf9f42b6fc0c70993c3463ed5c2a3848e3e5ecd50bde23ab9",
+    "bytes": 28674
+  },
+  {
+    "path": "dist/assets/creatures/acrocanthosaurus.png",
+    "sha256": "48e0598fd8f1bd247848767ee0bf776e961e0c448296950ab6285f0ef64df1ce",
+    "bytes": 21504
+  },
+  {
+    "path": "dist/assets/creatures/allosaurus.png",
+    "sha256": "fdbe7cd81a5f4d37edf7935c6b3115cae092f1ecc424ace1efa8390fa9e5d61c",
+    "bytes": 19592
+  },
+  {
+    "path": "dist/assets/creatures/ammonite.png",
+    "sha256": "9c9221e54f959594fcea1617ce49fb49c6b9067570e05fde29a6a7389d8c05b2",
+    "bytes": 37682
+  },
+  {
+    "path": "dist/assets/creatures/anglerfish.png",
+    "sha256": "f3c16a1228c4d90ad775454962cd8ac1376433058baf919622a282fb2bb5c966",
+    "bytes": 29244
+  },
+  {
+    "path": "dist/assets/creatures/ankylosaurus.png",
+    "sha256": "8be2de26b606fda9428e0c755c12910fb2377b7ed5fbe3fb5b0f3e437d8c0b42",
+    "bytes": 24186
+  },
+  {
+    "path": "dist/assets/creatures/araneo.png",
+    "sha256": "968dccaaba1e459286fda0d3840a17b076d8f47ef8edd46a31c8ce7bedfb4678",
+    "bytes": 23600
+  },
+  {
+    "path": "dist/assets/creatures/archaeopteryx.png",
+    "sha256": "7e5378f2d9dddfd362778f66194e492f95efd483af971ab7cf40332839d0324c",
+    "bytes": 26975
+  },
+  {
+    "path": "dist/assets/creatures/archelon.png",
+    "sha256": "cdbbc9c449d76505c37135a5aef19b36b692b00cb877707d37ccb832a5c991b4",
+    "bytes": 23832
+  },
+  {
+    "path": "dist/assets/creatures/argentavis.png",
+    "sha256": "c990a5a5dd5d1518b9cbdcf532fbd24fac9a7a08b8da83e5ffc6b105807c1f02",
+    "bytes": 32424
+  },
+  {
+    "path": "dist/assets/creatures/armadoggo.png",
+    "sha256": "e61ca3a9d20e5ddb827b14f131878f0f7f24fee49efbd3470dd7a13a535e5bd4",
+    "bytes": 25615
+  },
+  {
+    "path": "dist/assets/creatures/arthropluera.png",
+    "sha256": "a9e610a3d5a839cf1b52676d428eed487cd623b4ab7b9aa9ffdaa8d1353b0516",
+    "bytes": 22332
+  },
+  {
+    "path": "dist/assets/creatures/astrocetus.png",
+    "sha256": "74877032f74e4a3ec2cd562c36e266a1f7b972d6c5430655628413bf3a594352",
+    "bytes": 22121
+  },
+  {
+    "path": "dist/assets/creatures/attack-drone.png",
+    "sha256": "2faeb4b6194ebcb3f09189f49d1be6d4d7ae562cbb52821464b35200359601a1",
+    "bytes": 29256
+  },
+  {
+    "path": "dist/assets/creatures/aureliax.png",
+    "sha256": "a4f1f8c78a9d2450c6d57312190352be54c52e755187c4b0ca99dc13a32c06b3",
+    "bytes": 37388
+  },
+  {
+    "path": "dist/assets/creatures/baryonyx.png",
+    "sha256": "6cd1a5ff0a35520041f8de3ec539207b8afe8e870bf106a55e81f43d07609a1f",
+    "bytes": 18987
+  },
+  {
+    "path": "dist/assets/creatures/basilisk.png",
+    "sha256": "c09e6d33441189caf016e222b07f18de88179857962d271e430681bcce0510f8",
+    "bytes": 36301
+  },
+  {
+    "path": "dist/assets/creatures/basilosaurus.png",
+    "sha256": "f5b0d4cbec72e7d794d48b9191f31b86891cd2361c4962605a92d656c0f0800e",
+    "bytes": 14734
+  },
+  {
+    "path": "dist/assets/creatures/beelzebufo.png",
+    "sha256": "de4308dad43e7f786076b5576c44e904a47065d249efb7bd5c21edafbad42dae",
+    "bytes": 28582
+  },
+  {
+    "path": "dist/assets/creatures/bison.png",
+    "sha256": "5ad18bfaa43c0fc73d2167f23244c5b96020ee3f29df5af27e252a0154863bb0",
+    "bytes": 26802
+  },
+  {
+    "path": "dist/assets/creatures/bloodstalker.png",
+    "sha256": "09fa6cf86b1c38da89b683f8a7ed8db95327826019492180c0dbd86da37d5acd",
+    "bytes": 23996
+  },
+  {
+    "path": "dist/assets/creatures/boaratos.png",
+    "sha256": "641e28b206dbeb394b48caa95af1ffad521b004fca59728c75b888083cde32e9",
+    "bytes": 29541
+  },
+  {
+    "path": "dist/assets/creatures/brontosaurus.png",
+    "sha256": "88309c84cc601adb13743cd29251a9bcfce93fdf2d87048f13df3aa2157272ac",
+    "bytes": 22120
+  },
+  {
+    "path": "dist/assets/creatures/bulbdog.png",
+    "sha256": "7ec8a9c9fec97664066f6b9fe317a3952d196b41aa8bb66448c3b7897b271513",
+    "bytes": 38718
+  },
+  {
+    "path": "dist/assets/creatures/burrowbuck.png",
+    "sha256": "6b9b81ec1f9b282321da2845bb76a4b035d275820e7b92c307b23fe9070c3f2d",
+    "bytes": 29752
+  },
+  {
+    "path": "dist/assets/creatures/carbonemys.png",
+    "sha256": "8f95ae9520accf373fb9647b05a264187c0561ac0550e89cf9a27b322fe17d56",
+    "bytes": 22141
+  },
+  {
+    "path": "dist/assets/creatures/carcharodontosaurus.png",
+    "sha256": "b0927f040ea273605a5246a05df217b4ec34807a3c5cc485b6f08c37df104bbf",
+    "bytes": 23513
+  },
+  {
+    "path": "dist/assets/creatures/carnotaurus.png",
+    "sha256": "e9685f3cb92e5bc9e485398d26ae18f8fe71ba3b4ba511afbb3fcb75e2d001fa",
+    "bytes": 23122
+  },
+  {
+    "path": "dist/assets/creatures/castoroides.png",
+    "sha256": "d29258a8615a8a908d6f481d446b778ddf4b948116a90b148eaba9057f7e02e4",
+    "bytes": 23863
+  },
+  {
+    "path": "dist/assets/creatures/cat.png",
+    "sha256": "fc2b4fa470144f845d7a85f416528eb88b1bf64bff956feba79e7354106c96ba",
+    "bytes": 31682
+  },
+  {
+    "path": "dist/assets/creatures/ceratosaurus.png",
+    "sha256": "6d22a9c27813f2cd7434e42384e11dcdfff0140e6601ac683eb012fddaec718c",
+    "bytes": 23563
+  },
+  {
+    "path": "dist/assets/creatures/cerberax.png",
+    "sha256": "7ddd041772f1cef38291a71f6bb6d97dac459169f258dff2af5f7da5bdf61c41",
+    "bytes": 34178
+  },
+  {
+    "path": "dist/assets/creatures/chalicotherium.png",
+    "sha256": "24ea35814f4b9404c9fb8d14870d05ad3db89bf8c612b4082c39dca006eb7499",
+    "bytes": 34658
+  },
+  {
+    "path": "dist/assets/creatures/cnidaria.png",
+    "sha256": "6b4c53e21a74f785a8c4e6f1d7e68cebade6ea91888555faaf77eac3d5e33111",
+    "bytes": 29422
+  },
+  {
+    "path": "dist/assets/creatures/coelacanth.png",
+    "sha256": "d4fd1252ab5157cd51522f05d8a93302d52dada9e7f30ac16cd3cd4bd6036b4a",
+    "bytes": 23394
+  },
+  {
+    "path": "dist/assets/creatures/compy.png",
+    "sha256": "19318073ed5b4275d5bfea23fe598ed3f7ec9d9e8bcdd24f3acd3f5cf71e90ed",
+    "bytes": 13520
+  },
+  {
+    "path": "dist/assets/creatures/concavenator.png",
+    "sha256": "9910c8682ee8515c7201dfdd329eeb4c479c1b4040afc9d9a9eb188acbc7660b",
+    "bytes": 21636
+  },
+  {
+    "path": "dist/assets/creatures/cosmo.png",
+    "sha256": "eaaaedd6eab17d51013c28a516784adaf15fb21823a33718b0bf3f989f25a91c",
+    "bytes": 23401
+  },
+  {
+    "path": "dist/assets/creatures/cryolophosaurus.png",
+    "sha256": "110351397cb45ebcc409bf545aefce81e5580fb7dedabf9c2b3071fd8bc21ca7",
+    "bytes": 22081
+  },
+  {
+    "path": "dist/assets/creatures/daeodon.png",
+    "sha256": "6a1c8de62567bf9333cf71b11fdf1927a890eaf0aa76b9e3e592e681e6aa891f",
+    "bytes": 25095
+  },
+  {
+    "path": "dist/assets/creatures/deathworm.png",
+    "sha256": "904ed9cb8715cc7dcff5e994dd216093c68907dff2e5de9b03810b6438496202",
+    "bytes": 36874
+  },
+  {
+    "path": "dist/assets/creatures/defense-unit.png",
+    "sha256": "02258545cf9c0e41f21658e59b3a5f3dbe8caefbf1368c248bf0f5e79dcb639a",
+    "bytes": 30691
+  },
+  {
+    "path": "dist/assets/creatures/deinonychus.png",
+    "sha256": "9644764f25a0c033c49fd079db1c505ebfb0b87cc33352143ef17bbd11478f8b",
+    "bytes": 28545
+  },
+  {
+    "path": "dist/assets/creatures/deinosuchus.png",
+    "sha256": "b11166913498e6e7f017057d66cd9fb549e60e24e36db79507f46e2ada065b40",
+    "bytes": 20925
+  },
+  {
+    "path": "dist/assets/creatures/deinotherium.png",
+    "sha256": "72eb998fea0cb8b908ff507bd6e816384ed7b7a9f600fa5e59478d55d0cd6b45",
+    "bytes": 33409
+  },
+  {
+    "path": "dist/assets/creatures/desert-titan.png",
+    "sha256": "f872162970c4b98a0258eecd14cab9ea3bd6b884636bf0d6a4cbcf66e236d70b",
+    "bytes": 40288
+  },
+  {
+    "path": "dist/assets/creatures/desmodus.png",
+    "sha256": "f9419392f1621a2607febef80ad98da74496316a7ba39989a0ac7918017eebf5",
+    "bytes": 27109
+  },
+  {
+    "path": "dist/assets/creatures/dilophosaur.png",
+    "sha256": "0e034af6750cbf3afa4082558cba04b087d1c31896e49f557fd085b8650d8916",
+    "bytes": 26557
+  },
+  {
+    "path": "dist/assets/creatures/dimetrodon.png",
+    "sha256": "83f2d3dc1db450b9e1616c4878e36211ace02b6e2047d3b3a1b65790e47ebd30",
+    "bytes": 27874
+  },
+  {
+    "path": "dist/assets/creatures/dimorphodon.png",
+    "sha256": "9cf145c6748cddfa75fa7e868bb4d57fbcd3810ed94cc582803d12643524dcb5",
+    "bytes": 18421
+  },
+  {
+    "path": "dist/assets/creatures/diplocaulus.png",
+    "sha256": "737df693fe1622c12acd38ed13111864c282373da5fe904fc851dc6cbba95729",
+    "bytes": 17213
+  },
+  {
+    "path": "dist/assets/creatures/diplodocus.png",
+    "sha256": "c04bc2fd40eca41efbfd22492e5cede11111ba2c32639a75f5bf7a96a447c8b4",
+    "bytes": 16857
+  },
+  {
+    "path": "dist/assets/creatures/dire-bear.png",
+    "sha256": "85280abc04e9131e37eb25e433e309812f8b8f0a78132117338104a20f6289aa",
+    "bytes": 28913
+  },
+  {
+    "path": "dist/assets/creatures/direwolf.png",
+    "sha256": "ed26b815c59e98321d2203540ea287a441d2469ffc3c87feaeafbcf72153aaff",
+    "bytes": 28136
+  },
+  {
+    "path": "dist/assets/creatures/diseased-leech.png",
+    "sha256": "6e59a5cb734016ff8ea45d1cadd722623c02cbec54f42db30d650b765ad6249a",
+    "bytes": 22989
+  },
+  {
+    "path": "dist/assets/creatures/dodo.png",
+    "sha256": "984c2ec7200556de809824921a4c007b91d05125595860de27a748605976c5ab",
+    "bytes": 30788
+  },
+  {
+    "path": "dist/assets/creatures/doedicurus.png",
+    "sha256": "91b8519f57bade5a22297f06fc0d7057178ba71e3e09e0e17b495c5e28f13fa5",
+    "bytes": 28939
+  },
+  {
+    "path": "dist/assets/creatures/drakeling.png",
+    "sha256": "a5b4b46b4097c9f2f486568bfc7a170398d3beb178036c7455129095ccf930c6",
+    "bytes": 27361
+  },
+  {
+    "path": "dist/assets/creatures/dreadmare.png",
+    "sha256": "ad8bc9a519a2a9aced82072aed38f8c3df8cee26a5a80cf862f1d12dcfbbb142",
+    "bytes": 34898
+  },
+  {
+    "path": "dist/assets/creatures/dreadnoughtus.png",
+    "sha256": "125519c6f1ddfa4f95cfecbb21fb0676c4a1b36a97cf91cf21f1edd626b91954",
+    "bytes": 20559
+  },
+  {
+    "path": "dist/assets/creatures/dung-beetle.png",
+    "sha256": "75a8d8625ab48f8d72865297c6b97f33365efd8e5759f32bf9fec0531466138f",
+    "bytes": 22691
+  },
+  {
+    "path": "dist/assets/creatures/dunkleosteus.png",
+    "sha256": "81bfd2b6739aa4b34c2be60cb6ea912f47092b1ed90e32ec68f28ae4edbdaa8a",
+    "bytes": 23626
+  },
+  {
+    "path": "dist/assets/creatures/elderclaw.png",
+    "sha256": "d6fe195f309e30c6a2bc0bfed5ae23bf4b163b07402a5825e1ee4d76e0c93982",
+    "bytes": 30042
+  },
+  {
+    "path": "dist/assets/creatures/electrophorus.png",
+    "sha256": "230bc127e73da8c7d82b9d79cc421031c29086594a1b19e79ea777fd30cb6f94",
+    "bytes": 19343
+  },
+  {
+    "path": "dist/assets/creatures/enforcer.png",
+    "sha256": "2bac7522598d136861937ad4f2696621ea04a6a278f415fad24978f12d7b3142",
+    "bytes": 38137
+  },
+  {
+    "path": "dist/assets/creatures/equus.png",
+    "sha256": "c1a707c4a1e4edcae1e89fca818592faa6f3c3af2e74a11619f6b0fae0087f21",
+    "bytes": 29234
+  },
+  {
+    "path": "dist/assets/creatures/eurypterid.png",
+    "sha256": "9da1b0fc69cf5a91b37b7dd1e47e80de80de536b1edcc6638fe8a121794cfffd",
+    "bytes": 21567
+  },
+  {
+    "path": "dist/assets/creatures/fasolasuchus.png",
+    "sha256": "5dc29736544ac2756f4a65f931e6a98586a989c4e3ba7640427237a2178905d1",
+    "bytes": 24498
+  },
+  {
+    "path": "dist/assets/creatures/featherlight.png",
+    "sha256": "230d71ef2c80222a3048171a9fa2b0edd48299077afcfa71de3d2bc9ab778079",
+    "bytes": 33119
+  },
+  {
+    "path": "dist/assets/creatures/ferox.png",
+    "sha256": "539081a427a84dc2bc99fb80784ac7cdf388ab11ad3455ef95d7219388a26f5a",
+    "bytes": 34852
+  },
+  {
+    "path": "dist/assets/creatures/fire-wyvern.png",
+    "sha256": "039d3eb2c0bcfbdb2985b7c6a519f739efc631efd8684761ac338fe5fe795e40",
+    "bytes": 32807
+  },
+  {
+    "path": "dist/assets/creatures/forest-titan.png",
+    "sha256": "cb6d229b88031b67e41627d3c95b757d410820f95589f020c506c8780068a15f",
+    "bytes": 41071
+  },
+  {
+    "path": "dist/assets/creatures/gacha.png",
+    "sha256": "e4c4734a0e39575dffc7981143eb3be5741ad199c93b36a7d0e654528a63cb40",
+    "bytes": 38596
+  },
+  {
+    "path": "dist/assets/creatures/gallimimus.png",
+    "sha256": "1d33acf36d1aee5b0f3befc3108a7a1164622229c0f7c3f787aadfb891f8b2c5",
+    "bytes": 16545
+  },
+  {
+    "path": "dist/assets/creatures/gargantar.png",
+    "sha256": "c2e5f5b8cbadef4019b8baa351b65d58cabfb71d00a0e1f3da79ff0346761baf",
+    "bytes": 40979
+  },
+  {
+    "path": "dist/assets/creatures/gasbags.png",
+    "sha256": "c227a9c80f878a594a4e343ef736a78393a90af02ab86d4ac51a3f7a682971db",
+    "bytes": 34504
+  },
+  {
+    "path": "dist/assets/creatures/giant-bee.png",
+    "sha256": "bc4e652c9b86044ce16b9b57df2372b564f90caba94f6ac3ac94496e44380575",
+    "bytes": 30134
+  },
+  {
+    "path": "dist/assets/creatures/gigadesmodus.png",
+    "sha256": "b9a2073dff75440328248d97d7261f05f04d02458db711f1a1d9dce428272ee8",
+    "bytes": 23262
+  },
+  {
+    "path": "dist/assets/creatures/giganotosaurus.png",
+    "sha256": "4ccec379d68453ecc622bde736f5e5ecf7a184804279b06183f15875e221e2dc",
+    "bytes": 24468
+  },
+  {
+    "path": "dist/assets/creatures/gigantopithecus.png",
+    "sha256": "520067ec384fe853a3effd6913050a73e3ac2d061b8866c05f1665c63fd9bcbc",
+    "bytes": 35235
+  },
+  {
+    "path": "dist/assets/creatures/gigantoraptor.png",
+    "sha256": "00f248a8906649822bc68524fc72f939587e451c3f0f379555a1ef3817fb5477",
+    "bytes": 25467
+  },
+  {
+    "path": "dist/assets/creatures/gloon.png",
+    "sha256": "f76b96547fbbf899e5a929d5bab7e197c1adde2e317ebdef0089037150d9ee5f",
+    "bytes": 30741
+  },
+  {
+    "path": "dist/assets/creatures/glowbug.png",
+    "sha256": "6c27854b2693f934d98d45127fec2cb664c5315c6a499d09ae75ecbaf92a6c73",
+    "bytes": 30555
+  },
+  {
+    "path": "dist/assets/creatures/glowtail.png",
+    "sha256": "c106cc2149abad1c817bdf9cf94574ea7d1674d62f8b1fd023d6519fb2a817da",
+    "bytes": 22676
+  },
+  {
+    "path": "dist/assets/creatures/grand-tortugar.png",
+    "sha256": "2f0fb9d4aa7ae9e37a5de341946bd2ac6c8d3268bd0b5587b8c948684437c39a",
+    "bytes": 34986
+  },
+  {
+    "path": "dist/assets/creatures/griffin.png",
+    "sha256": "170f037d86729ff12b6e0ac9539e42c077ff1b00327bec7d5a8baf6c810101d2",
+    "bytes": 34179
+  },
+  {
+    "path": "dist/assets/creatures/helicoprion.png",
+    "sha256": "fa4df7dac14b5e60d2157d4163d0e9252f652879db1208126f63ce05c4c927d8",
+    "bytes": 20274
+  },
+  {
+    "path": "dist/assets/creatures/hesperornis.png",
+    "sha256": "62a76ff756fb886d396efdb9778a8fc67f3a1e873e69609fdcfaca3a80196021",
+    "bytes": 18489
+  },
+  {
+    "path": "dist/assets/creatures/hyaenodon.png",
+    "sha256": "23752a8624b03e43b315f5cf0a3a99d4ef527b6938af588606402b1b618ad31f",
+    "bytes": 22648
+  },
+  {
+    "path": "dist/assets/creatures/ice-titan.png",
+    "sha256": "f689275a74a25e3af661ec7ae1e7b2804427390b87a8baa50f2a8abd7ff79028",
+    "bytes": 40638
+  },
+  {
+    "path": "dist/assets/creatures/ice-wyvern.png",
+    "sha256": "6c4c806e82e2060215b4290aa4ac120bd1989a82693d8e7bd4eb5934d210979c",
+    "bytes": 38563
+  },
+  {
+    "path": "dist/assets/creatures/ichthyornis.png",
+    "sha256": "dd764a76c008051bf72168eaa2841e45d6147c2bf81bbaf8d7925e54807dd8d1",
+    "bytes": 26198
+  },
+  {
+    "path": "dist/assets/creatures/ichthyosaurus.png",
+    "sha256": "50bad2a9369cd4b2753600c46899efa4cc17afec60af66f87bcf282628bb204f",
+    "bytes": 15420
+  },
+  {
+    "path": "dist/assets/creatures/iguanodon.png",
+    "sha256": "19df64a381f481a3716cc37917ebd769f53cb9fa09d019cbc3dfbf370b83bbd5",
+    "bytes": 22110
+  },
+  {
+    "path": "dist/assets/creatures/jerboa.png",
+    "sha256": "8dba1866888d8ae5d8a3f2e80c7d5acc5b6732a9df3dd41abf3f04a1bdd4e2b2",
+    "bytes": 28973
+  },
+  {
+    "path": "dist/assets/creatures/kairuku.png",
+    "sha256": "381d73900d76afc092caf741b109c90af02661691ef237f1e8c20478e146e7eb",
+    "bytes": 21745
+  },
+  {
+    "path": "dist/assets/creatures/kaprosuchus.png",
+    "sha256": "eeaa7ce1d048cb446cacab6e1f97b0d6dc12384e7cd5082af47a09339528cbd2",
+    "bytes": 20811
+  },
+  {
+    "path": "dist/assets/creatures/karkinos.png",
+    "sha256": "a47cf3c2948a339f26802472a9941b55792071ea2b5286d9bef4a0db2815aecc",
+    "bytes": 31270
+  },
+  {
+    "path": "dist/assets/creatures/kentrosaurus.png",
+    "sha256": "10c676cbb3c037fd049a68f3f6c346945af0f89b18d43e0d52388dfba1ab1e57",
+    "bytes": 23065
+  },
+  {
+    "path": "dist/assets/creatures/lamprey.png",
+    "sha256": "a0bd4d32972280f06e1b7c719c56b09057c8beec6cd87339d48acaf8d4c1dd5f",
+    "bytes": 31608
+  },
+  {
+    "path": "dist/assets/creatures/leech.png",
+    "sha256": "3a84341ab8b8e6b27878c2b2c4cde337bb3949afdf442d2203fb35dfe7c0bfb2",
+    "bytes": 17751
+  },
+  {
+    "path": "dist/assets/creatures/leedsichthys.png",
+    "sha256": "7a9c8c3ce2f015c154c3c1ff9f875a2e90abdf62b9fecd1189f678ed0c4a9367",
+    "bytes": 24740
+  },
+  {
+    "path": "dist/assets/creatures/lightning-wyvern.png",
+    "sha256": "19341d329c8a9eae37261dc8184c2cb311b3e3a5c4cce29a18f754fb6f0b4737",
+    "bytes": 37423
+  },
+  {
+    "path": "dist/assets/creatures/liopleurodon.png",
+    "sha256": "05d6870da62eb1b434d1f73e8d14e93f6b668f14bdf3fc276aee675534728e88",
+    "bytes": 16965
+  },
+  {
+    "path": "dist/assets/creatures/lumina.png",
+    "sha256": "bbd29d02d611df6b5d78dcaacbfa5e42c150e943e2bc5355b959845e64df5df2",
+    "bytes": 38878
+  },
+  {
+    "path": "dist/assets/creatures/lymantria.png",
+    "sha256": "de7b290441e816135de409161dfedab93639c9acf5c5839ac75039b55d3733a3",
+    "bytes": 29032
+  },
+  {
+    "path": "dist/assets/creatures/lystrosaurus.png",
+    "sha256": "894e48be2725ebfc99aa977598144f73b4190d394a8879682c2c694bd5fa5781",
+    "bytes": 29463
+  },
+  {
+    "path": "dist/assets/creatures/maeguana.png",
+    "sha256": "d39cca91eeea0078c20ff2af12799c4dbc1843f64963730b19339c6d44d2e5f5",
+    "bytes": 26254
+  },
+  {
+    "path": "dist/assets/creatures/magmasaur.png",
+    "sha256": "8b414935d32333790850ba34ffdc65af37b23091ce378194890bde050c87ba6b",
+    "bytes": 29949
+  },
+  {
+    "path": "dist/assets/creatures/malwyn.png",
+    "sha256": "159c1364d461e99613d61afaff46a343d693be8ce05508522c064cb1f423a84b",
+    "bytes": 31993
+  },
+  {
+    "path": "dist/assets/creatures/mammoth.png",
+    "sha256": "dd7f11ac1b9a53980fcb43a324279ae5a08db1a51f60e1b3eb0c33d140e6a984",
+    "bytes": 28156
+  },
+  {
+    "path": "dist/assets/creatures/managarmr.png",
+    "sha256": "4b101539c57fd183d5cbc24704b8e9ae0b0faf59b6343f1391221d86176eb4f5",
+    "bytes": 25382
+  },
+  {
+    "path": "dist/assets/creatures/manta.png",
+    "sha256": "acaca303afd1a46792f0ed3040f64919efa2e9f3d9d9784187f2f85419ca1b1d",
+    "bytes": 23378
+  },
+  {
+    "path": "dist/assets/creatures/mantis.png",
+    "sha256": "9dcd6fa4a43599fa37d71a34f032201f534c9ba2b1b84e9c41044f12e4d86f71",
+    "bytes": 23083
+  },
+  {
+    "path": "dist/assets/creatures/megachelon.png",
+    "sha256": "51854a820b7b84f3159971abdda2271bd1bca95da5d14189cf9ddd919048e4fc",
+    "bytes": 32262
+  },
+  {
+    "path": "dist/assets/creatures/megalania.png",
+    "sha256": "5926732dfa47cb512c9236fef53ae7e3a2619500d6d2c42400b2d45fcaa256c8",
+    "bytes": 25063
+  },
+  {
+    "path": "dist/assets/creatures/megaloceros.png",
+    "sha256": "c43bd02745602303837b39f7f25b1556e929d9ba56c0de18bba6a105548e7128",
+    "bytes": 26986
+  },
+  {
+    "path": "dist/assets/creatures/megalodon.png",
+    "sha256": "ae8cae2595de1cc1a5ca898a84fd6017d54420472c462334705e4541e5916d27",
+    "bytes": 23233
+  },
+  {
+    "path": "dist/assets/creatures/megalosaurus.png",
+    "sha256": "5bd9503ff471c264a363b9545c3ab60ac6cc6f25e95b1ec2f04f6e77e5537e2c",
+    "bytes": 20152
+  },
+  {
+    "path": "dist/assets/creatures/meganeura.png",
+    "sha256": "29cc147dc90735cf59a1891f2d9b30285128095c735055ee3d432e713dfa8e8f",
+    "bytes": 27672
+  },
+  {
+    "path": "dist/assets/creatures/megaraptor.png",
+    "sha256": "5d9905a24f3f3852b99e0a15d023e9bd7c06b22129a888db8cb287b249ed6c80",
+    "bytes": 24106
+  },
+  {
+    "path": "dist/assets/creatures/megatherium.png",
+    "sha256": "7afd30fdc3ae49e5f1f2cc5e064836d39346408877948e5107736bb6d2abdd77",
+    "bytes": 30748
+  },
+  {
+    "path": "dist/assets/creatures/mek.png",
+    "sha256": "9fa45cbe31e9239d7019a0474ceacbe081d508f6e53d84220401cd15fe15ea4c",
+    "bytes": 27010
+  },
+  {
+    "path": "dist/assets/creatures/mesopithecus.png",
+    "sha256": "0f56a3b72398f504b7fa3798225f3d43ce11ac6180f01efb14e9b68e42b076b9",
+    "bytes": 29241
+  },
+  {
+    "path": "dist/assets/creatures/microraptor.png",
+    "sha256": "ee14fac1860d3d19cc84beff16b17b9a8f9a392f8df9a393a02261d1fadea809",
+    "bytes": 27061
+  },
+  {
+    "path": "dist/assets/creatures/morellatops.png",
+    "sha256": "bccaa3f8394e3bfc9cf6a0d8fd828723bf3b8b036325ec55f19a3577aceb91a5",
+    "bytes": 35991
+  },
+  {
+    "path": "dist/assets/creatures/mosasaurus.png",
+    "sha256": "78edc8118b7bedc9bd6b6102e137d0d318c0e583dcaeecd819fffa96c3849959",
+    "bytes": 18350
+  },
+  {
+    "path": "dist/assets/creatures/moschops.png",
+    "sha256": "ddce37e82262dc987693f74b66fd744293b8aaf2a53b676fca5b576e4e6303ba",
+    "bytes": 30413
+  },
+  {
+    "path": "dist/assets/creatures/nameless.png",
+    "sha256": "cac775a4d28eaf0c1c18fdc9b163090bc0f68db205d2ab13597e5d45afb9cc17",
+    "bytes": 22733
+  },
+  {
+    "path": "dist/assets/creatures/oasisaur.png",
+    "sha256": "d07d9d38a0adc3175617bb9a2980849e3665d9941d01d400d4516396d20bb21c",
+    "bytes": 29519
+  },
+  {
+    "path": "dist/assets/creatures/oil-jug-bug.png",
+    "sha256": "62b6309c01f8f1f3f6904613b804d2122803b73b1dd145cf743c818eca1b7d86",
+    "bytes": 27142
+  },
+  {
+    "path": "dist/assets/creatures/onyc.png",
+    "sha256": "2fe0e51aad21ba7c0ec9543c7b8033e73fa3ba74d7d03b15c18b11869c19809a",
+    "bytes": 25230
+  },
+  {
+    "path": "dist/assets/creatures/ossidon.png",
+    "sha256": "6f2398790450d533e9960234ece59d217db8a36f578282732203dccdeab68ce8",
+    "bytes": 37106
+  },
+  {
+    "path": "dist/assets/creatures/otter.png",
+    "sha256": "383ba2600f1b6ce2c81f850edd9c59865f5dee1a2a196097bd2b1d867661b31d",
+    "bytes": 19340
+  },
+  {
+    "path": "dist/assets/creatures/oviraptor.png",
+    "sha256": "d76856c651a7af2c93c0caece5337d770c9f198a6f8223339cb5cba3bf8ab6c9",
+    "bytes": 22774
+  },
+  {
+    "path": "dist/assets/creatures/ovis.png",
+    "sha256": "b533f31ccd4b720d9dc3acb17da953e5b84a16da091c85103b710d0211cdf0b7",
+    "bytes": 32728
+  },
+  {
+    "path": "dist/assets/creatures/pachy.png",
+    "sha256": "7ac9db08fe5d477ea48893828d784ac3dbc2c359c527a5ec747779a2d97947c7",
+    "bytes": 24940
+  },
+  {
+    "path": "dist/assets/creatures/pachyrhinosaurus.png",
+    "sha256": "f084e49c6a15ab4bdab367d6bde786097b0f91b8eef9dee298abe00ea21fce5c",
+    "bytes": 24070
+  },
+  {
+    "path": "dist/assets/creatures/palaeoctopus.png",
+    "sha256": "309b2f589e1023c8a328b9bcf2c10349a6488824736b22f4824f5abdac3bd7c2",
+    "bytes": 36015
+  },
+  {
+    "path": "dist/assets/creatures/paraceratherium.png",
+    "sha256": "677fa22de473dc6a5e3b742a13fb1b081e96399dab79f88a8aae67f4826ac694",
+    "bytes": 28229
+  },
+  {
+    "path": "dist/assets/creatures/parasaur.png",
+    "sha256": "022e88ea4fea45c3d5b9c0f7cacae9944e162f73e6ef6cc5ed5f4e05b2594e04",
+    "bytes": 23488
+  },
+  {
+    "path": "dist/assets/creatures/parrot.png",
+    "sha256": "66479a9e2b88e4e3d2cd1bbe654e84ed12588af53a2adf39190cb604242741fa",
+    "bytes": 27154
+  },
+  {
+    "path": "dist/assets/creatures/pegomastax.png",
+    "sha256": "c9d5ccd36552afa96a85ab5033482397029ccb4e06c209f85469a21ef91b2758",
+    "bytes": 21981
+  },
+  {
+    "path": "dist/assets/creatures/pelagornis.png",
+    "sha256": "2ef87fa75509dfbb636ecd182ffb9379cffdf37ff543a51a19645c0d68ceed9c",
+    "bytes": 23075
+  },
+  {
+    "path": "dist/assets/creatures/phiomia.png",
+    "sha256": "cf7b12845e9bf3efa0465179b190191690c81db68d6b61e3ca7b3c356fb6ec13",
+    "bytes": 26967
+  },
+  {
+    "path": "dist/assets/creatures/phoenix.png",
+    "sha256": "af3f79abcb3f88ab94f7ddb6c0d2e1abacbf8a77e5b5995bb4f2e03a76bde7ee",
+    "bytes": 31767
+  },
+  {
+    "path": "dist/assets/creatures/piranha.png",
+    "sha256": "f93f2fe594d6787a004ec37621e8e4ddb565c588b5717c921fbbc0a9da62f3d0",
+    "bytes": 26084
+  },
+  {
+    "path": "dist/assets/creatures/plesiosaur.png",
+    "sha256": "c43579aabe5514bd88f471448ba7d7cb8731cf89ae80aac33227f074c1851010",
+    "bytes": 18523
+  },
+  {
+    "path": "dist/assets/creatures/poison-wyvern.png",
+    "sha256": "82ee1f985ae430f13ed69f6e9e4c6038f03dd9d1150a36f5a8f61a4f94008ddd",
+    "bytes": 36479
+  },
+  {
+    "path": "dist/assets/creatures/polar-bear.png",
+    "sha256": "010add19ccf1c02eddba029640f01943b4f8e9d2058bace28644d2101bab19d6",
+    "bytes": 25214
+  },
+  {
+    "path": "dist/assets/creatures/procoptodon.png",
+    "sha256": "f0560ec0c85168addb4278a3c57227e70899c57d5b81a79272a5a27afd73bb18",
+    "bytes": 21440
+  },
+  {
+    "path": "dist/assets/creatures/pteranodon.png",
+    "sha256": "01df47b71901e80c66b7c1a9aeb3826034958188c4fa1a381318b3cd19b948a7",
+    "bytes": 20733
+  },
+  {
+    "path": "dist/assets/creatures/pulmonoscorpius.png",
+    "sha256": "646ea73a3ffe50736493e93d08b2d5028a638534d688c842eefe07d9d5642010",
+    "bytes": 22931
+  },
+  {
+    "path": "dist/assets/creatures/purlovia.png",
+    "sha256": "d423d455461d867a4eba39829e9fefeb68ea7297b75efbba6cfc266defb7a122",
+    "bytes": 22811
+  },
+  {
+    "path": "dist/assets/creatures/pyromane.png",
+    "sha256": "2344cabe26a40c5d3932fea1c08f084a437d04da01112124f6d871e57b9f522f",
+    "bytes": 23568
+  },
+  {
+    "path": "dist/assets/creatures/quetzal.png",
+    "sha256": "0001eb79bdcef5741e2a9efb7c19e5f5e33b0918a675aca48ea6140dfef1a540",
+    "bytes": 22551
+  },
+  {
+    "path": "dist/assets/creatures/raptor.png",
+    "sha256": "85676bf2dca55f3062f8d16d55a5b845bf499219f16cf1a7b9da8745d6b5efd1",
+    "bytes": 16737
+  },
+  {
+    "path": "dist/assets/creatures/ravager.png",
+    "sha256": "ba6050fb2db20229c0479889619a89900994198b603d884a06f1c92edb82cd9c",
+    "bytes": 28069
+  },
+  {
+    "path": "dist/assets/creatures/reaper-king.png",
+    "sha256": "03e4462e5af7bc467dd314a32b20573046995bc7d4102196ba04ce2717483e4a",
+    "bytes": 40509
+  },
+  {
+    "path": "dist/assets/creatures/reaper-queen.png",
+    "sha256": "bd15ceae856c9b585e42e6c059efaa4e57a821a49175326eaa4c87d7a3143a22",
+    "bytes": 37166
+  },
+  {
+    "path": "dist/assets/creatures/rex.png",
+    "sha256": "0e8348fc2ef6216040fcd190f07dd2ccbdb616019441e2a05c0779b986aec496",
+    "bytes": 22546
+  },
+  {
+    "path": "dist/assets/creatures/rhyniognatha.png",
+    "sha256": "07089148065def4adadb578eaf84803bc5807a65dceee404bdb813d7dbab6403",
+    "bytes": 29840
+  },
+  {
+    "path": "dist/assets/creatures/rock-drake.png",
+    "sha256": "440619a4c11f64ca8cc1e8c8b5e6ed1a62b64e70172ada0f7cadcdd5dcf5d25a",
+    "bytes": 38450
+  },
+  {
+    "path": "dist/assets/creatures/rock-elemental.png",
+    "sha256": "fa95cac45cabb7a0fd1901fce0079bdac8804636e059b7bd6357e9876bc1d1e1",
+    "bytes": 39340
+  },
+  {
+    "path": "dist/assets/creatures/roll-rat.png",
+    "sha256": "532d34525dd6babe32cc234b1e9938e96a200d54b0e61ec606ecdb16e8e54bb2",
+    "bytes": 31593
+  },
+  {
+    "path": "dist/assets/creatures/rubble-golem.png",
+    "sha256": "b00d6535fa35e940aa3c4842aa8ca775208e0458f91251588e6ae10f0c890a08",
+    "bytes": 39075
+  },
+  {
+    "path": "dist/assets/creatures/sabertooth-salmon.png",
+    "sha256": "e71461669df2720ca00eaa24cbf7940ec2cebee377c5646b617e5f065f0744eb",
+    "bytes": 23235
+  },
+  {
+    "path": "dist/assets/creatures/sabertooth.png",
+    "sha256": "1abb8f2575c2abff65b79f7542c91134180387d319c74e1eadb44886e16944c8",
+    "bytes": 24196
+  },
+  {
+    "path": "dist/assets/creatures/sarco.png",
+    "sha256": "049dee074b60f92ecead7afc0c6b832fcffbc20c1db90392fd7172b2350dbc78",
+    "bytes": 23378
+  },
+  {
+    "path": "dist/assets/creatures/scout.png",
+    "sha256": "459cb58a954c8e29b5e6c66ff70b66ecb502298ac8bf1fb42e202ca70302c87a",
+    "bytes": 18300
+  },
+  {
+    "path": "dist/assets/creatures/scrap-golem.png",
+    "sha256": "3b4615a815200e253cd97a9ece8c5d4d1fb5c1966c083698093ff0d40866e27d",
+    "bytes": 39009
+  },
+  {
+    "path": "dist/assets/creatures/seeker.png",
+    "sha256": "656510791b3ea08ef3bff61d35c94259c46fdaf4a7517243a3a37c3bf7186407",
+    "bytes": 28883
+  },
+  {
+    "path": "dist/assets/creatures/shastasaurus.png",
+    "sha256": "b5ca5d0b3fc38576038267e26ae40212109671c7557f6e43eb87fbcebe306e73",
+    "bytes": 16792
+  },
+  {
+    "path": "dist/assets/creatures/shinehorn.png",
+    "sha256": "faa068fb3dc09bec273c3ac9d55d4aa3fffb05dc5b15abddb00b5578bf0fa753",
+    "bytes": 24222
+  },
+  {
+    "path": "dist/assets/creatures/snow-owl.png",
+    "sha256": "cd4b2ea29e45b51f41cdb5f8acab39ee51fbd3f08c58facf8c429f5e5c9bf8e5",
+    "bytes": 37258
+  },
+  {
+    "path": "dist/assets/creatures/solwyn.png",
+    "sha256": "cbac49efb448d48773deef45b1ba7cbe75a9ba9381ea8e814848f65ac1bcd641",
+    "bytes": 38162
+  },
+  {
+    "path": "dist/assets/creatures/spino.png",
+    "sha256": "f0047cbf4cda7180f4f32c45eddf1b92df633a7b5c5343745a2d4e87f5b03e60",
+    "bytes": 19934
+  },
+  {
+    "path": "dist/assets/creatures/stegosaurus.png",
+    "sha256": "53f5b6e7b09f3d90eabae06071aa79323196e1038e7f849faad46c76a73e40d7",
+    "bytes": 25176
+  },
+  {
+    "path": "dist/assets/creatures/tapejara.png",
+    "sha256": "b09ec858312b06f4278d1997e40d8d5a5863f511ad0569df0eb2567f10d3e3e8",
+    "bytes": 22354
+  },
+  {
+    "path": "dist/assets/creatures/terror-bird.png",
+    "sha256": "53c784f0ce911b842d4a1fca42df04e8df6752aacd7363c4f8e53f8c7bf1c0fe",
+    "bytes": 30897
+  },
+  {
+    "path": "dist/assets/creatures/therizinosaurus.png",
+    "sha256": "6ea422c6c12c99afae0fc22d136f352c1258690179a039519f8bdfb752da5629",
+    "bytes": 28064
+  },
+  {
+    "path": "dist/assets/creatures/thorny-dragon.png",
+    "sha256": "44a3074055a34b2c476c12e75cc2be7c971050d9b76c423b23d78c285c0cbd47",
+    "bytes": 25867
+  },
+  {
+    "path": "dist/assets/creatures/thylacoleo.png",
+    "sha256": "59f5757f6c7333ee6392f591e1399db1809448b1a51881591fba6b6c0073bae2",
+    "bytes": 25475
+  },
+  {
+    "path": "dist/assets/creatures/tidepup.png",
+    "sha256": "15a09e3eb0471b861ab5c331efc12937bd2639d06d2c60a91739b8f3d6418f60",
+    "bytes": 17981
+  },
+  {
+    "path": "dist/assets/creatures/titanoboa.png",
+    "sha256": "a4ce5acf5d4fc98301efb3235e94b5c7049b4d4374bc0a192da5d348c885447b",
+    "bytes": 33968
+  },
+  {
+    "path": "dist/assets/creatures/titanomyrma.png",
+    "sha256": "23b31c78b51511fb890d52f6d209373f9fb8ebf96f6172936184405421ee4bd1",
+    "bytes": 19681
+  },
+  {
+    "path": "dist/assets/creatures/titanosaur.png",
+    "sha256": "53f1690773db9200f4d9d075f4990c3bd32996a5d7576e8ee01caed349696ae4",
+    "bytes": 20932
+  },
+  {
+    "path": "dist/assets/creatures/triceratops.png",
+    "sha256": "d218ddab1c9a35d4e5ca31a137692a31d269d63aff3209e8485687949d9efef1",
+    "bytes": 28921
+  },
+  {
+    "path": "dist/assets/creatures/trilobite.png",
+    "sha256": "f2e4e5c3cb8be2c32573e69352399b78c71a9159a677ab5bbf092350cc7525b6",
+    "bytes": 28024
+  },
+  {
+    "path": "dist/assets/creatures/troodon.png",
+    "sha256": "2089a1ac237e55db8f8cd3b8d400a264be2e358454f9705415974f1a27fd125d",
+    "bytes": 15063
+  },
+  {
+    "path": "dist/assets/creatures/tusoteuthis.png",
+    "sha256": "eb01640d4fa65a5b5accd3bdfb1cc452611b5179ef96eb150d1333b0c71ca551",
+    "bytes": 26246
+  },
+  {
+    "path": "dist/assets/creatures/umbra.png",
+    "sha256": "613414bd4d460be83b8e56bbb93329963dc308cc0c2b3f9c73a394d40f47d57a",
+    "bytes": 38631
+  },
+  {
+    "path": "dist/assets/creatures/unicorn.png",
+    "sha256": "8f2f9fc4769f21d47237a707c1a9fed32de2ec5d35dc582562c41435e99d8407",
+    "bytes": 27129
+  },
+  {
+    "path": "dist/assets/creatures/veilwyn.png",
+    "sha256": "3151eee12e5a8a47352ebf2454cbecfee7f5657c0ff0033d9a06aeee559d5c32",
+    "bytes": 32938
+  },
+  {
+    "path": "dist/assets/creatures/velonasaur.png",
+    "sha256": "ae407a3494fe6051fc79eb0efdf693776eeeb7cb895b1b451335b98e1bde2279",
+    "bytes": 26407
+  },
+  {
+    "path": "dist/assets/creatures/vulture.png",
+    "sha256": "93d7097ef719ed0c9e0f6cc27416a0699f361f5c20ffc918538ab85c34512d9a",
+    "bytes": 28687
+  },
+  {
+    "path": "dist/assets/creatures/water-jug-bug.png",
+    "sha256": "c0ca5acf7cf074cc0c3922c3b5e1163972cf24b67433b4c3c8effd243a9f1149",
+    "bytes": 28169
+  },
+  {
+    "path": "dist/assets/creatures/woolly-rhino.png",
+    "sha256": "96e0aa20ddddf22fc725a91790ddab805d54e29a5e438c5a6bd95a90e864daf9",
+    "bytes": 31154
+  },
+  {
+    "path": "dist/assets/creatures/xiphactinus.png",
+    "sha256": "47532ca82a46f2b05a0d64ba442a5750c041d3a9b2a0520ed358b446162eac42",
+    "bytes": 23599
+  },
+  {
+    "path": "dist/assets/creatures/yeti.png",
+    "sha256": "e77208ffca2d2269210c5fa0280337cd1e28908ee864e7d9ed942acef0c2fe06",
+    "bytes": 36766
+  },
+  {
+    "path": "dist/assets/creatures/yi-ling.png",
+    "sha256": "9a2ee540b5d974fe86770bf35e0566ce923e8acc7fa7f45d7593d3c2f24c5d12",
+    "bytes": 20949
+  },
+  {
+    "path": "dist/assets/creatures/yutyrannus.png",
+    "sha256": "89142658173eef9ca304319f1e1cfdf47e8a1891bfe13366a6f8ef5a1bfbaa00",
+    "bytes": 24321
+  },
+  {
+    "path": "dist/assets/drakeling-idle.png",
+    "sha256": "a897d802f5d7cd24a816e0ff368d7a2bed7908771bd3ddf3ad0752ab3bf7018d",
+    "bytes": 246490
+  },
+  {
+    "path": "dist/assets/drakeling.png",
+    "sha256": "16eb64054e2bc5231195dcb18912a97547191f461bffa68a3fd36c9735aa21c3",
+    "bytes": 107668
+  },
+  {
+    "path": "dist/assets/fonts/Silkscreen-LICENSE.txt",
+    "sha256": "5e647e94c4b72dc6c92dabfabb3c32225fbeff0f5f9e38db93c118b5bcb85d0c",
+    "bytes": 4503
+  },
+  {
+    "path": "dist/assets/fonts/silkscreen-bold.woff2",
+    "sha256": "5741b7f01a127f40ed70281fa2f686e8fc2cfe241930a120e4d1a1cebe78f995",
+    "bytes": 7524
+  },
+  {
+    "path": "dist/assets/jerboa-idle.png",
+    "sha256": "f9bfbc66426e32387eaa5dab231201c064586159e00648f5874efc25e2c4ee13",
+    "bytes": 220494
+  },
+  {
+    "path": "dist/assets/jerboa.png",
+    "sha256": "a58d483556a170b9c170d8a0987614ae4d0f91d4434aa3badd2d29b1d20c700d",
+    "bytes": 88258
+  },
+  {
+    "path": "dist/assets/night-background.png",
+    "sha256": "bd32d6174011c5d8d87a978cf53ebc5375b78891a43f4164d293201b0c23c798",
+    "bytes": 1639059
+  },
+  {
+    "path": "dist/assets/otter-idle.png",
+    "sha256": "a414ad39eea2487a9768b0c884b1cde7f622fa8fb44e0adc1212c4aad1ab9491",
+    "bytes": 162864
+  },
+  {
+    "path": "dist/assets/otter.png",
+    "sha256": "119932d79d9df19548f1843a5a6bc930dd8b9577bd5f821a9575d726cce7eeef",
+    "bytes": 93405
+  },
+  {
+    "path": "dist/assets/veilwyn-idle.png",
+    "sha256": "361378b250868db7c876ade2025413ed1bf5d89fe074dd01abb2945ddd185677",
+    "bytes": 262755
+  },
+  {
+    "path": "dist/assets/veilwyn.png",
+    "sha256": "32124dd9b28821173fd381f4e5d5fe633cea3e0965d85ea9b53041b71f57c2b7",
+    "bytes": 113762
+  }
+]

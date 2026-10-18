@@ -1,0 +1,31 @@
+{
+  "reviewDate": "2026-10-09",
+  "newGuides": ["Thylacoleo", "Woolly Rhino", "Thorny Dragon", "Megalodon", "Snow Owl", "Managarmr", "Quetzal"],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 526: Madness Takes Flight",
+    "announcementDate": "2026-10-03",
+    "finding": "No later creature release was listed on October 9. Xeranox remains announced as coming; Cerberax and Gargantar were already catalogued from the September 30 release."
+  },
+  "species": {
+    "Thylacoleo": {"sources":["https://ark.wiki.gg/wiki/Thylacoleo","https://ark.wiki.gg/wiki/Extraordinary_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, food and habitat passages; current ASA body-multiplier material distinguished from legacy and variant content.","comparisonLimitations":"Full direct article, revision history, exact pounce behavior, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Woolly Rhino": {"sources":["https://ark.wiki.gg/wiki/Woolly_Rhino","https://ark.wiki.gg/wiki/Superior_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, trap strategy and snow habitat passages.","comparisonLimitations":"Full direct article, revision history, trap dimensions, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Thorny Dragon": {"sources":["https://ark.wiki.gg/wiki/Thorny_Dragon","https://ark.wiki.gg/wiki/Regular_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, ranged defense and desert/badlands habitat passages.","comparisonLimitations":"Full direct article, revision history, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Megalodon": {"sources":["https://ark.wiki.gg/wiki/Megalodon","https://ark.wiki.gg/wiki/Superior_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, submerged shallow-water approach and ocean habitat passages; Astral, X and cave variants excluded.","comparisonLimitations":"Full direct article, revision history, depth ranges, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Snow Owl": {"sources":["https://ark.wiki.gg/wiki/Snow_Owl","https://ark.wiki.gg/wiki/Superior_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, trap/health warning and Snow Dome habitat passages.","comparisonLimitations":"Full direct article, revision history, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Managarmr": {"sources":["https://ark.wiki.gg/wiki/Managarmr","https://ark.wiki.gg/wiki/Exceptional_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, restraint options and snow habitat passages. A competitor snippet in search results was excluded.","comparisonLimitations":"Full direct article, revision history, preferred trap design, exhaustive map/variant coverage and numerical checks unavailable."},
+    "Quetzal": {"sources":["https://ark.wiki.gg/wiki/Quetzal","https://ark.wiki.gg/wiki/Exceptional_Kibble","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"],"provenance":"Base knockout, foods, continuous flight and over-water warning; variant and legacy solo methods excluded.","comparisonLimitations":"Full direct article, revision history, exact official-PvE solo loadouts, exhaustive map/variant coverage and numerical checks unavailable."}
+  },
+  "habitatReview": {
+    "correctedGeneral": ["Sabertooth", "Spino", "Tapejara", "Terror Bird", "Shinehorn", "Featherlight"],
+    "newGeneral": ["Snow Owl", "Managarmr", "Quetzal"],
+    "refreshedGeneral": ["Thylacoleo", "Woolly Rhino", "Thorny Dragon", "Megalodon"],
+    "newAberration": [],
+    "limitations": "Typical habitat types only. Biomes and Spawn entries can mix maps and legacy material; no all-map presence or exact spawn points are implied."
+  },
+  "coverage": {"catalogue":202,"writtenGuides":99,"withoutWrittenGuide":103,"generalHabitats":69,"aberrationHabitats":6,"detailedCreatureRecords":85},
+  "displayPolicy": "Individual creature, food and video URLs remain metadata only. The interface keeps generalized About credits and must not render per-creature References sections.",
+  "rights": "No full copyright clearance is claimed. Prior ARK, generated-art and reference-art findings remain unresolved; owner-private noncommercial scope preserved."
+}

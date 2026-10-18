@@ -1,0 +1,168 @@
+# ARK Creature Companion — licensing and text review
+
+Review date: September 30, 2026 (Pacific). Source baseline: f67cf84b5feb1cdb31aeaea3d38c2e456f2ef70c.
+
+**Result: not legally cleared.** The local inventory and notice review is complete. Full external text-similarity and artwork-rights clearance is incomplete. This is an evidence-based technical review, not a legal opinion.
+
+## Findings
+
+| Area | Finding | Status |
+|---|---|---|
+| Wiki material | The English copyright page identifies CC BY-NC-SA 4.0. The prior footer linked pages but omitted a license link and contributor credit. Source-license and contributor/history links have been added. Whether any summary is a copyright adaptation, requiring licensing of the adaptation, remains unresolved. | Notice improved; rights review pending |
+| ARK IP and app use | Wildcard’s September 18, 2026 guidelines require unofficial identification and restrict incorporating ARK fan content into other games/products. Whether this companion web app is an allowed use needs clarification from Wildcard or counsel. The guidelines are not an express derivative-work license. | Material permission question |
+| Artwork | 202 catalogue sprites plus 12 companion/background PNG assets are bundled. Prompts and generated atlases are recorded. New generation does not resolve ARK creature-design rights or unknown third-party reference-image rights. No reverse-image or pixel-level comparison against a comprehensive reference corpus has been completed. | Provenance recorded; not cleared |
+| Silkscreen | Bundled font is attributed to the Silkscreen Project Authors under SIL OFL 1.1. Copyright/license file accompanies the WOFF2; linked in About. No separate font sale identified. | Notice present |
+| Runtime code | Static app uses four local JS files and CSS; no downloaded runtime library or external CDN script was identified. Python packaging tools use Pillow, NumPy and SciPy as build tools, not browser bundles. No imported competitor calculator/database was identified in the inspected source. Code-wide similarity against proprietary repositories is not available. | Local inventory complete; no universal originality claim |
+| Monetization | No payments, ad network or subscription mechanism identified. Both wiki restrictions and ARK permission must be reconsidered before charging, ads or other commercial use. | Noncommercial current scope only |
+
+## License evidence
+
+- ARK Wiki copyright page: https://ark.wiki.gg/wiki/ARK_Wiki:Copyrights (indexed English primary-source text retrieved; direct article access returned 403).
+- Creative Commons license: https://creativecommons.org/licenses/by-nc-sa/4.0/ — attribution, license link, changes notice, noncommercial use and share-alike for adaptations. Source text, original app code and newly generated artwork must not be treated as having one blanket license. A source notice alone does not establish compliance for an adaptation.
+- Wildcard guidelines: https://survivetheark.com/index.php?/fan_content_guidelines/ — read current English policy, updated September 18, 2026. Its video monetization provisions do not authorize commercial app use.
+- Font license: dist/assets/fonts/Silkscreen-LICENSE.txt and https://openfontlicense.org/open-font-license-official-text/.
+
+## Text-similarity method and limits
+
+Reviewed all 25 guides and 11 encounter/acquisition entries locally, including their references and repeated template wording. A direct request to each of the 35 unique cited wiki URLs returned HTTP 403; no full article bodies were obtained. These failures are recorded in source-access-results.json. Access restrictions were not bypassed.
+
+Targeted comparisons were possible for indexed taming passages for Armadoggo, Concavenator, Veilwyn and Helicoprion. Lowercase alphanumeric tokenization and longest contiguous word matches were computed separately for overview, food, preparation and each checklist item. Eight-word overlap was a review flag only, not a legal threshold or a plagiarism verdict. The indexed extracts are not complete article snapshots and may be older than the current pages.
+
+| Guide | Longest contiguous match in indexed passage | Eight-word flag |
+|---|---:|---|
+| Armadoggo | 3 words | No |
+| Concavenator | 4 words | No |
+| Veilwyn | 6 words | No |
+| Helicoprion | 3 words | No |
+
+No source-wide similarity percentage is reported: presenting partial comparisons as a whole-app plagiarism score would be misleading. Exact-phrase web searches returned unrelated results and were not accepted as evidence of originality. No Dododex corpus was downloaded or used for a full comparison. A lack of imported competitor files does not prove that independently written words never resemble competitor text.
+
+## Coverage by entry
+
+| Entry | Local wording/provenance review | External text comparison | Cited pages |
+|---|---|---|---|
+| Rex | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Rex); [source](https://ark.wiki.gg/wiki/Exceptional_Kibble); [source](https://ark.wiki.gg/wiki/Taming) |
+| Otter | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Otter); [source](https://ark.wiki.gg/wiki/Dead_Fish) |
+| Jerboa | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Jerboa) |
+| Ankylosaurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Ankylosaurus) |
+| Argentavis | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Argentavis) |
+| Triceratops | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Triceratops) |
+| Pteranodon | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Pteranodon) |
+| Doedicurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Doedicurus) |
+| Therizinosaurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Therizinosaur) |
+| Baryonyx | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Baryonyx) |
+| Parasaur | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Parasaur) |
+| Raptor | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Raptor) |
+| Castoroides | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Castoroides) |
+| Stegosaurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Stegosaurus) |
+| Ichthyosaurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Ichthyosaurus) |
+| Lystrosaurus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Lystrosaurus) |
+| Armadoggo | Inspected | Indexed taming excerpt only; full article blocked | [source](https://ark.wiki.gg/wiki/Armadoggo) |
+| Veilwyn | Inspected | Indexed taming excerpt only; full article blocked | [source](https://ark.wiki.gg/wiki/Veilwyn) |
+| Concavenator | Inspected | Indexed taming excerpt only; full article blocked | [source](https://ark.wiki.gg/wiki/Concavenator) |
+| Helicoprion | Inspected | Indexed taming excerpt only; full article blocked | [source](https://ark.wiki.gg/wiki/Helicoprion) |
+| Archelon | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Archelon) |
+| Deinosuchus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Deinosuchus) |
+| Xiphactinus | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Xiphactinus) |
+| Gigantoraptor | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Gigantoraptor); [source](https://ark.wiki.gg/wiki/Taming) |
+| Moschops | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Taming) |
+| Ammonite | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Ammonite) |
+| Eurypterid | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Eurypterid) |
+| Leedsichthys | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Leedsichthys) |
+| Deathworm | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Deathworm) |
+| Nameless | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Nameless) |
+| Seeker | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Seeker); [source](https://ark.wiki.gg/wiki/Element_Falls_(Aberration)) |
+| Cnidaria | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Element_Falls_(Aberration)); [source](https://ark.wiki.gg/wiki/Cnidaria) |
+| Glowbug | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Element_Falls_(Aberration)) |
+| Reaper Queen | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Element_Falls_(Aberration)) |
+| Malwyn | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Veilwyn) |
+| Solwyn | Inspected | Full article blocked; similarity unresolved | [source](https://ark.wiki.gg/wiki/Veilwyn) |
+
+## Artwork and reference limitations
+
+The reviewed provenance includes artwork/generation-prompts.json, artwork/asset-inputs.json, artwork/animation-layout.json, artwork/armadoggo-play-prompt.json and artwork/night-background-prompt.json. They establish production inputs and packaging, not copyright permission. The conversation included official-looking screenshots/dossiers, third-party video thumbnails and a stylized sleeping Jerboa reference whose original creator/license is unknown. Revised colors and poses do not by themselves settle derivative-work rights. Companion identity and game-inspired silhouettes remain relevant even when pixels are newly generated. A contact-sheet inspection of all 202 catalogue sprites found creature illustrations rather than official logo graphics; ARK names/designs still involve underlying IP.
+
+The asset-inventory.json records hashes and sizes of all 216 asset files (214 PNGs, one WOFF2 and its license). It supports future reproducibility, not image clearance.
+
+## What would resolve the open issues
+
+1. Obtain readable, lawfully supplied reference-page snapshots or extracts for complete comparisons of all cited material; record article revision IDs and contributor histories. Compare guide paragraphs and checklists, not only short snippets.
+2. Have counsel assess whether any wiki-derived summaries are adaptations. If they are, comply with the applicable share-alike/noncommercial terms or replace them with genuinely independently documented observations. Merely changing synonyms is insufficient.
+3. Request clarification/permission for a free publicly shareable companion app from Wildcard; include representative game-inspired sprites and intended features. Do not treat the fan guidelines as conclusive permission for this product. No request has been sent.
+4. Verify creator and license of third-party reference artwork, particularly the stylized Jerboa reference; obtain permission or replace affected assets through a documented independent design process. A comprehensive visual similarity check is still needed.
+5. Keep this review updated as new guides/assets arrive. No public-sharing or monetization changes were made by this review.
+
+## Changes made in this review
+
+Added contributor credit, wiki source-license and policy links, article-history links, font credit/license link, and precise wording that generated artwork remains game-inspired. Kept owner identity out of all public guide text. Retained existing owner-private access. Did not apply an irrevocable license to the owner’s entire app or assert that any material is legally cleared.
+
+## October 1, 2026 incremental review
+Five new concise factual summaries (Carbonemys, Dimetrodon, Carnotaurus, Sarco, Dimorphodon) retain individual species and kibble URLs and review dates; see guide-review-2026-10-01.json. Indexed passages were used because full wiki fetches failed. Full-source text comparison has not been completed; no similarity percentage or rights clearance is claimed. Existing contributor/history, license, font and unofficial notices are retained. No competitor content, assets, datasets or numerical tables were imported. Official Community Crunch 525 forum text was read for release-plan provenance only. Artwork, audience and the outstanding ARK/reference-art permission findings are unchanged.
+
+## October 1, 2026 Rex calculation increment
+The owner requested evaluation/use of ARK Smart Breeding. Selected Rex numerical data are reproduced under the repository MIT license, Copyright (c) 2015 cadon, with the complete notice in dist/licenses/ARK-Smart-Breeding-MIT.txt and visible cadon/contributor credit in About. Pinned upstream file provenance and independent formula comparison limitations are recorded in rex-calculator-2026-10-01.json. No upstream calculator implementation, competitor prose or artwork is imported. Formula implementation is original; the general affinity/food-drain relationships are cross-checked with modding documentation and the community wiki. Mirror agreement is not claimed as independent ASA gameplay verification.
+
+This introduces a small authorized numerical excerpt, not a bulk competitor dataset. ASA overlay compatibility is documented; gameplay validation remains pending. Kibble timing is withheld due unresolved food-value differences. Upstream MIT licensing does not settle game IP, reference-art ownership, wiki adaptation issues or any previously recorded permission questions. All prior rights-review findings remain open. The audience remains owner-private, suggested methods stay anonymous, and no full copyright clearance is claimed.
+
+## October 2, 2026 incremental review
+Seven base-species knockout summaries were added and the Therizino warning behavior was updated. Individual species URLs, review dates, ASA scope and per-guide access/comparison limitations are retained; see guide-review-2026-10-02.json. Official release metadata was checked separately from taming completeness for Cerberax and Gargantar. Indexed wiki excerpts were used because full-page access was blocked; full article comparison and revision/history review remain pending. Existing source/contributor/license notices and all prior rights and reference-art findings remain in force. No competitor text, data, artwork or calculator code was imported in this increment. Existing artwork, calculations, anonymous suggestions and owner-private audience were preserved. No copyright clearance is claimed.
+
+## October 3, 2026 incremental review
+
+Ten original concise base-species summaries and ten habitat/behavior summaries were added from individually reviewed ARK Community Wiki species pages. Each guide retains its URL, review date, ASA scope and comparison limitation; see `guide-review-2026-10-03.json`. Search-indexed passages were used because direct full-page access remained limited. No numerical tables, competitor text, competitor data, artwork or calculator code were imported. The Araneo guide explicitly separates its current ASA knockout method from the older ASE passive section shown on the same page. Complete article comparison, revision/contributor review, firsthand official PvE testing and legal clearance remain unresolved. All earlier ARK, generated-art and reference-art rights findings remain in force. Existing contributor/license notices, anonymous suggestions and owner-private audience were preserved. No copyright clearance is claimed.
+
+## October 4, 2026 incremental review
+
+Seven original concise guide and habitat summaries were written from individually indexed species-page facts; provenance, scope and limitations are recorded per guide and in guide-review-2026-10-04.json. Direct wiki retrieval returned 403. Full source comparisons, revision/contributor histories and firsthand official PvE verification remain pending. Dung Beetle indexed redirects also expose legacy/variant sections; only the corroborated base passive method and food facts were used, with relocation and cave eligibility left pending. No numerical tables, competitor content, artwork, datasets or calculator code were imported. Existing source/contributor/license notices and all earlier ARK and reference-art rights findings remain in force. Generated assets do not establish clearance. Artwork, anonymous suggestions and owner-private audience are unchanged; no full copyright clearance is claimed.
+
+## October 6, 2026 limited guide increment
+
+Ten original short knockout summaries were added with individual species URLs, review dates and per-species evidence in audit/guide-review-2026-10-06.json. Direct species requests returned 403. Indexed excerpts were reviewed without importing article prose, numerical tables, art or competitor code. Full article/revision/contributor comparison remains unavailable; no full similarity or copyright clearance is claimed. Existing source/contributor/license notices and every prior rights finding remain in force. No art or audience changes; noncommercial owner-private scope retained.
+
+## October 7, 2026 limited increment
+
+Ten original species summaries plus limited general habitat updates have individual URLs, dates and provenance in audit/guide-review-2026-10-07.json. Individual/video URLs remain metadata only; generalized About credits are preserved. Full species pages remain blocked, limiting full-article and revision/contributor comparisons. No competitor prose, assets, datasets or calculator code were imported. Every prior permission, source-license and reference-art finding remains unresolved; no blanket copyright clearance is claimed. No commercial or audience change.
+
+### October 8, 2026 guide and habitat review
+
+Added original guides for Sabertooth, Spino, Tapejara, Terror Bird, Shinehorn and Featherlight. Research provenance and comparison limits are in audit/guide-review-2026-10-08.json and guide metadata. Expanded typical habitat notes and native Aberration wording; exact map coverage and numerical estimates remain pending. Individual URLs remain verification metadata, with general credits only in the interface. No artwork, audience or prior rights findings changed. This review does not establish full copyright clearance; ARK and reference-art rights remain unresolved as previously documented.
+
+### October 9, 2026 limited increment
+
+Seven original guide summaries and their habitat records have individual URLs, dates, provenance and comparison limits in audit/guide-review-2026-10-09.json. Six erroneous habitat replies from the prior increment were corrected. Direct full-page comparison remains unavailable, so revision/contributor histories, exhaustive ASA map/variant coverage and numerical claims remain pending. No competitor prose, datasets, artwork or calculator code were imported. Generalized About credits, anonymous suggestions, the owner-private noncommercial audience and every earlier ARK/reference-art rights finding remain unchanged; no blanket copyright clearance is claimed.
+
+### October 10, 2026 limited guide and habitat review
+
+Added four original passive/special guides (Glowtail, Roll Rat, Chalicotherium, Vulture), four general habitat notes and two native Aberration notes. Individual source URLs, dates, provenance and comparison limitations are recorded in audit/guide-review-2026-10-10.json and guide metadata. Added an upcoming November 6 Giganotosaurus TLC notice without replacing the current knockout method. Direct Glowtail access returned 403; indexed species, food, Biomes and Spawn entries passages were reviewed. Full article/revision/contributor comparison, exhaustive official ASA maps, practical platform controls and numerical requirements remain pending. No competitor prose, datasets, code or artwork imported. Individual sources remain metadata only; general About credits, anonymous suggestions, original pixel artwork, interface and private noncommercial audience preserved. All earlier source/contributor/license notices and ARK/generated-art/reference-art rights findings remain; no full copyright clearance is claimed.
+
+### October 11, 2026 limited guide and habitat review
+
+Added five original guides: Griffin, Velonasaur, Yutyrannus, Manta and Onyc. Added three general habitat notes and refreshed two; no new Aberration claim. Individual species/food URLs, review dates, provenance and comparison limits appear in audit/guide-review-2026-10-11.json and guide metadata. Direct Manta access returned 403; indexed species, food, Biomes and Spawn entries passages were reviewed. Full article/revision/contributor comparison, exhaustive ASA maps, Onyc cave eligibility, firsthand testing and numerical formulas remain pending. The latest official announcement remains Community Crunch 527; no new released creature added. Retained version 101 Roll Rat controller advice and anonymous player-reported cues. No competitor prose, datasets, artwork or calculator code imported. Individual URLs remain metadata only; generalized About source/contributor/license and video credits, prior rights-review findings, original pixel artwork, interface and private noncommercial audience preserved. No full copyright clearance is claimed for ARK, generated sprites or reference artwork.
+
+### October 12, 2026 limited guide and habitat review
+
+Added four original guides (Gasbags, Liopleurodon, Mantis, Titanoboa), two general habitat notes, two refreshed general notes and an Aberrant Manta green/Fertile habitat note. Titanoboa's special label distinguishes dropped-egg feeding from ordinary passive hand-feeding. Provenance, individual URLs, review dates and comparison limits are in audit/guide-review-2026-10-12.json and guide metadata. Direct Gasbags access returned 403; indexed species, food, Biomes, Spawn entries and Aberration regional passages were reviewed. Full article/revision/contributor comparison, exhaustive official ASA maps, cave eligibility, firsthand methods and numerical formulas remain pending. Onyc artifact-cave eligibility remains unconfirmed; no personal tame confirmation was supplied. Latest news still leads with Community Crunch 527, and no new verified release was added. No competitor prose, datasets, assets or calculator code imported. General About source/contributor/license and video credits, anonymous suggestions, artwork, interface, private noncommercial audience and every previous rights finding remain preserved. No full clearance is claimed for ARK, generated sprites or reference artwork.
+
+### October 13, 2026 limited guide and habitat review
+
+Added four original guides (Karkinos, Rock Elemental, Pegomastax, Gacha), two general habitat notes, two refreshed general notes and a native Karkinos green/Fertile and blue/Bioluminescent note. Item-theft and dropped-item methods are distinguished from hand-feeding; siege knockout targets are distinguished from ordinary tranqs. Individual source URLs, dates, provenance and comparison limits are recorded in audit/guide-review-2026-10-13.json and guide metadata. Direct Karkinos article access returned 403; indexed species, item, Biomes and Spawn entries passages were reviewed. Full article/revision/contributor comparison, exhaustive official ASA maps and variants, trap/splash-damage details, item priorities and numerical formulas remain pending. Latest official news still leads with Community Crunch 527; no new verified creature release added. Existing Gasbags Snow Owl advice and all anonymous suggestions remain unchanged. No competitor prose, datasets, assets or calculator code imported. General About source/contributor/license and video credits, pixel artwork, interface, private noncommercial audience and all prior rights findings are preserved. No full clearance is claimed for ARK, generated sprites or reference artwork.
+
+### October 14, 2026 acquisition and encounter review
+
+Added three original crafted acquisition guides (Enforcer, Scout, Mek) and three untameable encounter guides (Ammonite, Cnidaria, Leedsichthys), with six general habitat/availability notes and an Aberrant Cnidaria red/Element note. Mek's availability note does not invent a wild habitat. Individual URLs, review dates, provenance and comparison limits are in audit/guide-review-2026-10-14.json and guide metadata. Direct Enforcer access returned 403; indexed species, items, Biomes, Spawn entries and Aberration passages were reviewed. Full articles/revision/contributor comparison, exhaustive official ASA maps, current console interactions and numerical requirements remain pending. Latest official index still leads with Community Crunch 527; no new verified release added. Gacha cooking-pot advice and all existing anonymous suggestions remain unchanged. No competitor prose, datasets, assets or calculator code imported. General source/contributor/license and video credits, artwork, interface, private noncommercial audience and every previous rights finding preserved. No full clearance claimed for ARK, generated sprites or reference artwork.
+
+### October 15, 2026 egg-acquisition and habitat review
+
+Added five original guides (Rock Drake, Deinonychus, Magmasaur, Fire Wyvern, Basilisk), three new general habitat notes, two refreshed notes and native Rock Drake/Basilisk Aberration notes. Egg raising uses the existing acquisition panel rather than a knockout planner; acquisition/encounter headings are distinct, and previously reviewed crafted guides now populate their acquisition panels. Individual URLs, dates, provenance and comparison limits are recorded in audit/guide-review-2026-10-15.json and guide metadata. Direct Rock Drake access returned 403; individually indexed species, item, Biomes and Spawn entries passages were reviewed. Fire Wyvern scope is limited within the shared Wyvern article. Full article/revision/contributor comparison, exhaustive ASA maps, nest strategies, platform behavior and numerical formulas remain pending. Latest official news still leads with Community Crunch 527; no new verified release added. Scout console behavior remains unconfirmed without a repeat request for testing. Existing anonymous suggestions, generalized source/contributor/license and video credits, pixel artwork, companion interface, private noncommercial audience and every prior rights finding are preserved. No competitor prose, datasets, assets or calculator code imported; no full clearance claimed for ARK, generated sprites or reference artwork.
+
+### October 16, 2026 limited special-method review
+
+Added three original guides (Carcharodontosaurus, Desmodus, Yi Ling), two new general habitat notes, a refreshed deep-ocean Tusoteuthis note and a native Yi Ling Aberration note without unverified regional distribution. Tusoteuthis taming remains pending because shared species grab instructions conflict with PvE carrying wording; no completed guide was added. Source URLs, dates, provenance and comparison limits are recorded in audit/guide-review-2026-10-16.json and metadata. Direct Tusoteuthis access returned 403; indexed individual species/redirect, technique, item, Biomes and Spawn entries passages were reviewed. Full article/revision/contributor comparison, exhaustive official ASA maps, firsthand methods and numerical formulas remain pending. The checked official index still leads with Community Crunch 527; no newly verified creature release added. Original pixel artwork, companion interface, private noncommercial audience, anonymous suggestions and generalized source/contributor/license and video credits are unchanged. Individual URLs remain verification metadata only. No competitor prose, datasets, assets or calculator code imported. Every earlier rights finding is preserved; no full clearance claimed for ARK, generated sprites or reference artwork.
+
+### October 17, 2026 special/passive guide and habitat review
+
+Added original Fasolasuchus, Bloodstalker, Ferox and Giant Bee guides. Three new general habitat notes, a refreshed Fasolasuchus note, a regular Giant Bee green/Fertile note and a refreshed Aberrant Fasolasuchus surface note distinguish variants and map-specific terrain. Individual source URLs, review dates, provenance and comparison limits are in audit/guide-review-2026-10-17.json and metadata. Direct Giant Bee article returned 403; indexed individual species/shared redirects, food, Biomes, Spawn entries and ASA map/patch context were reviewed. Full article/revision/contributor comparison, exhaustive official maps, practical platform techniques and numerical formulas remain pending. Community Crunch 528 announces Enigmasaur for November 6; it is upcoming and was not added as currently available. The separately published Tusoteuthis anonymous player-tested guide is preserved, with gameplay test date/version unspecified, as are all earlier anonymous suggestions. Existing general source/contributor/license and video credits, metadata-only individual URLs, original artwork, companion interface and private noncommercial audience remain intact. No competitor prose, datasets, assets or calculator code imported. All earlier rights-review findings are retained; no full clearance is claimed for ARK, generated sprites or reference artwork.
+
+### October 18, 2026 basket-capture and habitat review
+
+Added original Coelacanth, Piranha, Sabertooth Salmon and Trilobite Fish Basket guides, classified as special capture rather than ordinary knockout or hand-feeding. Added four general habitat notes and four variant-specific Aberration notes: green/Fertile and blue/Bioluminescent for Coelacanth, Piranha and Trilobite, with Salmon limited to the verified blue listing. Trilobite upkeep remains explicitly pending because species and basket references conflict. Individual URLs, dates, provenance and comparison limits are in audit/guide-review-2026-10-18.json and metadata. Direct Fish Basket and Aberration requests returned 403; indexed individual species/shared redirects, usage, Biomes, Spawn entries and ASA patch material reviewed. Full article/revision/contributor comparison, exhaustive official map eligibility, current upkeep and numerical requirements remain pending. Latest official index still leads with Community Crunch 528; no new current creature added. All existing artwork and icon assets, companion interface, anonymous suggestions, general source/contributor/license and video credits, metadata-only individual URLs, private noncommercial audience and every prior rights finding are preserved. No competitor prose, datasets, assets or calculator code imported; no full clearance is claimed for ARK, generated sprites or reference artwork.

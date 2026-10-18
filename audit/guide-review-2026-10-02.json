@@ -1,0 +1,123 @@
+{
+  "reviewDate": "2026-10-02",
+  "newGuides": [
+    "Achatina",
+    "Allosaurus",
+    "Anglerfish",
+    "Archaeopteryx",
+    "Beelzebufo",
+    "Brontosaurus",
+    "Compy"
+  ],
+  "updatedGuides": [
+    "Therizinosaurus"
+  ],
+  "availabilityOnly": [
+    "Cerberax",
+    "Gargantar"
+  ],
+  "newCatalogueEntries": [],
+  "provenance": {
+    "Achatina": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Achatina",
+          "https://ark.wiki.gg/wiki/Achatina"
+        ]
+      ]
+    },
+    "Allosaurus": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Allosaurus",
+          "https://ark.wiki.gg/wiki/Allosaurus"
+        ]
+      ]
+    },
+    "Anglerfish": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Anglerfish",
+          "https://ark.wiki.gg/wiki/Anglerfish"
+        ]
+      ]
+    },
+    "Archaeopteryx": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Archaeopteryx",
+          "https://ark.wiki.gg/wiki/Archaeopteryx"
+        ]
+      ]
+    },
+    "Beelzebufo": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Beelzebufo",
+          "https://ark.wiki.gg/wiki/Beelzebufo"
+        ]
+      ]
+    },
+    "Brontosaurus": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Brontosaurus",
+          "https://ark.wiki.gg/wiki/Brontosaurus"
+        ]
+      ]
+    },
+    "Compy": {
+      "access": "Indexed individual species passages; direct full-page access blocked",
+      "asa": "ASA species applicability checked; legacy numerical tables excluded. No firsthand gameplay test.",
+      "comparisonLimitations": "Original factual summary; full-article comparison, revision/contributor verification and rights clearance remain unresolved.",
+      "sources": [
+        [
+          "ARK Community Wiki: Compy",
+          "https://ark.wiki.gg/wiki/Compy"
+        ]
+      ]
+    }
+  },
+  "releaseAnnouncement": "https://survivetheark.com/index.php?/forums/topic/774248-therizino-tlc-cerberax-and-gargantar-are-out-now/",
+  "releaseDate": "2026-09-30",
+  "specialTameLimitations": {
+    "Cerberax": {
+      "access": "Official announcement body and indexed species excerpts; full wiki fetch blocked",
+      "comparisonLimitations": "Wiki special-tame instructions are incomplete or ambiguous; no complete guide or calculation inferred."
+    },
+    "Gargantar": {
+      "access": "Official announcement body and indexed species excerpts; full wiki fetch blocked",
+      "comparisonLimitations": "Wiki special-tame instructions are incomplete or ambiguous; no complete guide or calculation inferred."
+    }
+  },
+  "comparisonLimitations": "Full wiki bodies blocked; indexed factual passages used. Complete text/visual similarity, revision histories and legal clearance unresolved. No competitor material or numerical tables imported.",
+  "coverage": {
+    "catalogueEntries": 202,
+    "writtenGuides": 37,
+    "entriesWithoutWrittenGuides": 165,
+    "habitatOrEncounterRecords": 25
+  },
+  "ownerConfirmationQuestions": {
+    "Cerberax": "On official PvE, what is the head-trial order, and what final knockout or feeding action completes it?",
+    "Gargantar": "What armor action starts the tame, which resources does its HUD request, and does any phase require an unconscious target?"
+  },
+  "preserved": "Interface, speech bubbles, artwork, calculations, anonymous suggested methods, notices and owner-private audience"
+}

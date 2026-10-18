@@ -1,0 +1,56 @@
+{
+  "reviewed": "2026-10-02",
+  "input": "User-supplied preparation, taming and ability notes in chat",
+  "guide": {
+    "method": "special",
+    "overview": "Gargantar’s tame is a repeating cycle: let it swallow you, drop tools inside its stomach, then ride it to gather the resource it asks for. Each successful round adds taming progress.",
+    "food": "Bring weapons or tools you’re willing to lose. Drop them from your inventory while you’re inside its stomach to build torpor; higher-quality items do more, while Metal Picks are a craftable option. Once you’re riding it, gather the resource shown on screen. It may ask for wood, stone, metal, meat or keratin. For meat or keratin, kill a suitable wild creature and inhale its body.",
+    "preparation": "Bring spare armor, a durable Riot Shield and plenty of Medical Brews. The acid can wreck your gear, so keep replacements handy and give yourself plenty of health to work with. Pack extra weapons or tools for the stomach phase, and choose an area with nearby resource nodes and wild prey.\n\nA tribemate with a Daeodon can help you stay healed. Avoid support that removes the acid debuff—you need to build those stacks to get swallowed. You’ll need Dragontopia access to interact with Gargantar.",
+    "steps": [
+      "Approach on foot with your shield ready and get its attention. Keep an eye on your health as you let its acid attacks build the debuff. Use Medical Brews as needed; the bite alone isn’t what you’re waiting for.",
+      "Watch the acid icon on your HUD. At three stacks, it can swallow you and start the stomach phase. Avoid clearing the debuff before this happens.",
+      "Inside its stomach, open your inventory and drop the weapons or tools you brought. Keep going until the torpor bar fills. It will spit you out and fall unconscious.",
+      "Walk up to it and use the mount prompt. You don’t need a saddle for this part. It wakes up and asks for a resource—check the request before heading off.",
+      "You have two minutes for the resource hunt. Find the requested material and hold the inhale control shown in game to fill the meter. If it asks for meat or keratin, kill a suitable wild creature first and inhale the corpse. Fast movement can help you reach the next target.",
+      "When the resource meter fills, it throws you off and adds taming progress. Repeat the acid, stomach and resource-hunt stages until the tame finishes. If the timer runs out, prepare for another round and check the progress shown in game."
+    ],
+    "checked": "2026-10-02",
+    "sources": [
+      [
+        "Gargantar taming reference 1",
+        "https://www.youtube.com/watch?v=_bnwO719S7k"
+      ],
+      [
+        "Gargantar taming reference 2",
+        "https://www.youtube.com/watch?v=NhYa67lFW-M"
+      ]
+    ],
+    "provenance": {
+      "access": "Original source URLs supplied on 2026-10-06 for the earlier user-provided guide notes. Direct video retrieval failed; titles, channels and full transcript comparison remain unverified. Supplied URLs are retained without claiming independent review of the video content.",
+      "scope": "Original wording based on supplied notes; not firsthand official-server testing.",
+      "withheld": [
+        "1000 HP recommendation",
+        "armor instantly breaking regardless of quality",
+        "exact Fortress Mode damage percentage",
+        "exact PC flight key mapping",
+        "saddle level 52",
+        "no taming-effectiveness loss on failed trial",
+        "guaranteed Dragon Horn award timing"
+      ],
+      "pending": [
+        "Video titles/channel attribution and full-content comparison",
+        "Official PvE confirmation of complete taming sequence"
+      ],
+      "sourceLinksAdded": "2026-10-06"
+    }
+  },
+  "profile": {
+    "overview": "Gargantar is a bulky flying dragon built around its enormous appetite. It can inhale resources, use acid attacks and take a defensive stance. Its skill tree unlocks more abilities as you complete milestones.",
+    "uses": "Use it for gathering and transporting resources, with reduced weight for materials it inhales. Its acid attacks and defensive stance also give it a role in fights. Keep its stomach supplied to make the most of its combat bonuses, and use its flight moves to reposition.",
+    "abilities": "Inhaling fills its stomach meter. Keeping that meter filled boosts its damage and protection; Fortress Mode holds it in place for a more defensive stance while it has stomach contents.\n\nIts attacks include an acid projectile and a sustained acid spray. In flight, it can move quickly, roll, turn sharply, loop and dive. Follow the controls shown for your platform, and check which skills you’ve unlocked.\n\nThe Dragon Horn lets you call a bonded Gargantar to you.",
+    "source": "Gargantar"
+  },
+  "verification": "Wiki full-page access blocked. Official release confirms availability; detailed mechanics retained as user-reported, not independently tested.",
+  "preserved": "Existing map list and reported spawn coordinates; standard calculators and official rate connection unchanged.",
+  "sourceLinksAdded": "2026-10-06"
+}

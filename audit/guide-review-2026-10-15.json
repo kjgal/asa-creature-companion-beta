@@ -1,0 +1,118 @@
+{
+  "reviewDate": "2026-10-15",
+  "newGuides": [
+    "Rock Drake",
+    "Deinonychus",
+    "Magmasaur",
+    "Fire Wyvern",
+    "Basilisk"
+  ],
+  "updatedPresentation": [
+    "Enforcer",
+    "Scout",
+    "Mek"
+  ],
+  "newCatalogueEntries": [],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "latestAnnouncement": "Community Crunch 527: Trial by Fury",
+    "announcementDateUTC": "2026-10-10",
+    "finding": "October 15 news index shows no later verified creature-release announcement. Existing upcoming Giganotosaurus notice retained."
+  },
+  "species": {
+    "Rock Drake": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Rock_Drake",
+        "https://ark.wiki.gg/wiki/Rock_Drake_Egg",
+        "https://ark.wiki.gg/wiki/Nameless_Venom",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Adult non-tameability, egg acquisition and Nameless Venom feeding reviewed with ASA species material. Corrupted/mod forms excluded. Red nesting habitat corroborated by species and Biomes.",
+      "comparisonLimitations": "Direct Rock Drake returned 403. Full articles/revision/contributor history, exhaustive official ASA map eligibility, current nest strategies and numerical formulas pending. Shared Wyvern species article limited to Fire variant; competitor/mod material excluded."
+    },
+    "Deinonychus": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Deinonychus",
+        "https://ark.wiki.gg/wiki/Deinonychus_Egg",
+        "https://ark.wiki.gg/wiki/Deinonychus_Nest",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Egg-only acquisition and meat diet reviewed with ASA species sections. Legacy Extraordinary-Kibble egg claims excluded because ASA differs; no modded Aberrant form imported.",
+      "comparisonLimitations": "Direct Rock Drake returned 403. Full articles/revision/contributor history, exhaustive official ASA map eligibility, current nest strategies and numerical formulas pending. Shared Wyvern species article limited to Fire variant; competitor/mod material excluded."
+    },
+    "Magmasaur": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Magmasaur",
+        "https://ark.wiki.gg/wiki/Magmasaur_Egg",
+        "https://ark.wiki.gg/wiki/Ambergris",
+        "https://ark.wiki.gg/wiki/Sulfur",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Adult non-tameability, stolen-egg route and baby Ambergris/Sulfur reviewed with ASA species sections. Legacy breeding-location claims not generalized to current maps; exact official-map comparison pending.",
+      "comparisonLimitations": "Direct Rock Drake returned 403. Full articles/revision/contributor history, exhaustive official ASA map eligibility, current nest strategies and numerical formulas pending. Shared Wyvern species article limited to Fire variant; competitor/mod material excluded."
+    },
+    "Fire Wyvern": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Fire_Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern",
+        "https://ark.wiki.gg/wiki/Fire_Wyvern_Egg",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Fire variant reviewed through the shared Wyvern species article/redirect and Fire egg references, with ASA article material. Crystal passive taming and non-Fire/event variants excluded.",
+      "comparisonLimitations": "Direct Rock Drake returned 403. Full articles/revision/contributor history, exhaustive official ASA map eligibility, current nest strategies and numerical formulas pending. Shared Wyvern species article limited to Fire variant; competitor/mod material excluded."
+    },
+    "Basilisk": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Basilisk",
+        "https://ark.wiki.gg/wiki/Rock_Drake_Egg",
+        "https://ark.wiki.gg/wiki/Magmasaur_Egg",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": "Base dropped-egg sequence, accepted egg types and ASA-specific species context reviewed. Wiki passive classification mapped to special here to distinguish ground feeding; Alpha/Ghost/mod forms excluded.",
+      "comparisonLimitations": "Direct Rock Drake returned 403. Full articles/revision/contributor history, exhaustive official ASA map eligibility, current nest strategies and numerical formulas pending. Shared Wyvern species article limited to Fire variant; competitor/mod material excluded."
+    }
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Deinonychus",
+      "Fire Wyvern",
+      "Basilisk"
+    ],
+    "refreshedGeneral": [
+      "Rock Drake",
+      "Magmasaur"
+    ],
+    "newAberration": [
+      "Rock Drake",
+      "Basilisk"
+    ],
+    "limitations": "Typical terrain only; legacy map material not treated as all-map ASA presence. Native forms distinguished from Aberrant variants. Exact nest locations and exhaustive map comparison pending."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 127,
+    "withoutWrittenGuide": 75,
+    "generalHabitats": 89,
+    "aberrationHabitats": 13,
+    "detailedCreatureRecords": 110
+  },
+  "interactionChange": "Egg raising is a distinct catalogue classification using the existing acquisition panel and button; knockout planner hidden. Guide headings distinguish acquisition, wild encounter and tame. Existing crafted guide summaries now populate acquisition panels.",
+  "questions": [
+    "Basilisk: which egg-placement or containment approach has worked reliably for you on ASA official PvE?"
+  ],
+  "preserved": [
+    "Scout console exit behavior unconfirmed; no firsthand test supplied",
+    "Gacha anonymous Cooking Pot suggestion without universal fastest ranking",
+    "Gasbags Snow Owl advice with official-PvE timing pending",
+    "Roll Rat, Quetzal and Concavenator anonymous suggestions",
+    "Onyc artifact-cave eligibility pending"
+  ],
+  "displayPolicy": "Individual species/food/video URLs stay metadata only; generalized About credits preserved.",
+  "rights": "All prior source/contributor/license notices and ARK/generated-art/reference-art findings preserved. No full clearance claimed; private noncommercial audience unchanged."
+}

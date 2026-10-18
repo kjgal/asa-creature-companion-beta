@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-02",
+  "source": "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/",
+  "officiallySupported": [
+    "Listed map availability",
+    "Fire, venom and electrical combination attacks",
+    "Solo or cooperative combat"
+  ],
+  "userSupplied": [
+    "Ragnarok desert and snow regions; reported 50.0/76.5 sighting",
+    "Mobility and boss-team potential"
+  ],
+  "excluded": [
+    "Guaranteed spawn at coordinates",
+    "Top-tier boss ranking or guaranteed advantage",
+    "Exact debuff damage reduction values",
+    "Unresolved total rider count"
+  ],
+  "provenance": {
+    "access": "User pasted Gemini-produced notes and transcripts for both linked videos; direct video retrieval was blocked. No firsthand gameplay test by this app.",
+    "officialContext": "User identifies YPou as an official-server player. The second transcript explicitly mentions 3x rates and boosted stats.",
+    "foodClarification": "User confirms cyan kibble means Extraordinary Kibble. Exceptional Kibble is not recommended because the two transcripts disagree on its use in the green trial.",
+    "comparison": "Both transcripts describe random head order, the three trial types, repeated tranquilizing and a final feeding knockout. The second prose summary incorrectly claimed an automatic final knockout; its transcript describes further tranquilizing.",
+    "optionalStrategy": "Smoke/Focal Chili/Extinguisher method and corpse-harvest workaround remain creator-reported optional advice.",
+    "profileReview": "User-supplied habitat, uses and abilities notes compared with the official September 30 patch notes and earlier pasted video transcripts. No universal boss ranking, mutation advantage, exact debuff values or rider-count claim made.",
+    "coordinates": "50.0 latitude / 76.5 longitude provided by user; independently unverified and phrased as a reported sighting."
+  },
+  "copyChanges": "Separate About / Uses / Abilities; remove creator names and video commentary from visible taming advice; retain source links."
+}

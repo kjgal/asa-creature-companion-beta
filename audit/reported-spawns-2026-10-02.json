@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-02",
+  "provenance": "User-supplied video summary; source video URL requested for attribution.",
+  "species": {
+    "Cerberax": {
+      "habitat": "You can find Cerberax on The Center, Scorched Earth, Lost Colony, Ragnarok, Extinction, Valguero, Astraeos and Genesis.\n\nReported places to start looking (latitude, longitude):\n\nValguero: search the northern area around 41, 15.\n\nRagnarok: try the main desert around 58, 77. Another reported desert sighting is near 50, 76.5; snowy regions are also worth searching.\n\nThe Center: search the northern island; the reported area is spread out rather than a single point.\n\nExtinction: try the northern area around 22, 53.\n\nScorched Earth: look east of the scar, around 51, 28.\n\nAstraeos: search across Therokis, the dark Extinction-themed island.",
+      "spawnNotes": {
+        "supplied": "2026-10-02",
+        "sourceType": "User-provided summary of another video; video URL not yet supplied.",
+        "verification": "Reported sightings/search regions only; coordinate ordering assumed latitude then longitude as in the user’s preceding notes. Not guaranteed spawns or complete coverage.",
+        "points": [
+          "Valguero: search the northern area around 41, 15.",
+          "Ragnarok: try the main desert around 58, 77. Another reported desert sighting is near 50, 76.5; snowy regions are also worth searching.",
+          "The Center: search the northern island; the reported area is spread out rather than a single point.",
+          "Extinction: try the northern area around 22, 53.",
+          "Scorched Earth: look east of the scar, around 51, 28.",
+          "Astraeos: search across Therokis, the dark Extinction-themed island."
+        ]
+      }
+    },
+    "Gargantar": {
+      "habitat": "You can find Gargantar on The Center, Scorched Earth, Lost Colony, Ragnarok, Extinction, Valguero and Astraeos.\n\nReported places to start looking (latitude, longitude):\n\nValguero: try around 53, 13 and 41, 13.\n\nRagnarok: look around 23, 58 and farther east around 22, 64.\n\nThe Center: search the northern area around 14, 52 and 14, 61.\n\nExtinction: reported search points are 19, 15; 87, 28; and 85, 41.\n\nScorched Earth: search the scar around 51, 17.\n\nAstraeos: search around Therokis, the dark Extinction-themed island. Five spawn areas were reported, but exact points weren’t supplied.",
+      "spawnNotes": {
+        "supplied": "2026-10-02",
+        "sourceType": "User-provided summary of another video; video URL not yet supplied.",
+        "verification": "Reported sightings/search regions only; coordinate ordering assumed latitude then longitude as in the user’s preceding notes. Not guaranteed spawns or complete coverage.",
+        "points": [
+          "Valguero: try around 53, 13 and 41, 13.",
+          "Ragnarok: look around 23, 58 and farther east around 22, 64.",
+          "The Center: search the northern area around 14, 52 and 14, 61.",
+          "Extinction: reported search points are 19, 15; 87, 28; and 85, 41.",
+          "Scorched Earth: search the scar around 51, 17.",
+          "Astraeos: search around Therokis, the dark Extinction-themed island. Five spawn areas were reported, but exact points weren’t supplied."
+        ]
+      }
+    }
+  },
+  "excluded": "Extinction bottom-of-map description conflicts with 19 latitude. Preserved coordinates without that description; all sightings approximate."
+}

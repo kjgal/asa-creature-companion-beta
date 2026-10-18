@@ -1,0 +1,193 @@
+{
+  "reviewDate": "2026-10-06",
+  "newGuides": [
+    "Lymantria",
+    "Mammoth",
+    "Megalania",
+    "Megaloceros",
+    "Megalosaurus",
+    "Megatherium",
+    "Microraptor",
+    "Morellatops",
+    "Mosasaurus",
+    "Pachy"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "species": {
+    "Lymantria": {
+      "sources": [
+        [
+          "ARK Community Wiki: Lymantria",
+          "https://ark.wiki.gg/wiki/Lymantria"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ]
+      ],
+      "evidence": "Species knockout classification and spore behavior; Regular Kibble page corroborates food. ASA species imagery is indexed.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Mammoth": {
+      "sources": [
+        [
+          "ARK Community Wiki: Mammoth",
+          "https://ark.wiki.gg/wiki/Mammoth"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ]
+      ],
+      "evidence": "Species method, current kibble field and snow-biome knockout warning; mobile and Primitive Plus foods excluded.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Megalania": {
+      "sources": [
+        [
+          "ARK Community Wiki: Megalania",
+          "https://ark.wiki.gg/wiki/Megalania"
+        ],
+        [
+          "Extraordinary Kibble",
+          "https://ark.wiki.gg/wiki/Extraordinary_Kibble"
+        ]
+      ],
+      "evidence": "Species knockout/food fields, ceiling ambushes, disease and rapid torpor loss. Indexed Magalania redirect used; base page blocked.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Megaloceros": {
+      "sources": [
+        [
+          "ARK Community Wiki: Megaloceros",
+          "https://ark.wiki.gg/wiki/Megaloceros"
+        ],
+        [
+          "Simple Kibble",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ]
+      ],
+      "evidence": "Species Moose redirect supplies knockout classification and cold/redwood habitat; Simple Kibble page corroborates food.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Megalosaurus": {
+      "sources": [
+        [
+          "ARK Community Wiki: Megalosaurus",
+          "https://ark.wiki.gg/wiki/Megalosaurus"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ]
+      ],
+      "evidence": "Current species preferred-food and knockout passages; nightfall/inventory warning contains legacy patch references, so precise ASA retention/timing withheld.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Megatherium": {
+      "sources": [
+        [
+          "ARK Community Wiki: Megatherium",
+          "https://ark.wiki.gg/wiki/Megatherium"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ]
+      ],
+      "evidence": "Species knockout and preferred-food fields, cliff warning and insect-buff behavior; no reliable ASA habitat passage retrieved.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Microraptor": {
+      "sources": [
+        [
+          "ARK Community Wiki: Microraptor",
+          "https://ark.wiki.gg/wiki/Microraptor"
+        ]
+      ],
+      "evidence": "Species knockout, bola strategy and flower/mushroom food passages; ASA appearance is indexed. Legacy food quantities excluded.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Morellatops": {
+      "sources": [
+        [
+          "ARK Community Wiki: Morellatops",
+          "https://ark.wiki.gg/wiki/Morellatops"
+        ],
+        [
+          "Simple Kibble",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ],
+        [
+          "Scorched Earth Ascended",
+          "https://ark.wiki.gg/wiki/Scorched_Earth_Ascended"
+        ]
+      ],
+      "evidence": "Species Camel redirect supplies knockout, food and herd strategy; Scorched Earth ASA page confirms presence.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Mosasaurus": {
+      "sources": [
+        [
+          "ARK Community Wiki: Mosasaurus",
+          "https://ark.wiki.gg/wiki/Mosasaurus"
+        ],
+        [
+          "Exceptional Kibble",
+          "https://ark.wiki.gg/wiki/Exceptional_Kibble"
+        ]
+      ],
+      "evidence": "Species knockout and kibble fields, deep-water dossier and ASA patch section; legacy quantities and movement advice excluded.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    },
+    "Pachy": {
+      "sources": [
+        [
+          "ARK Community Wiki: Pachy",
+          "https://ark.wiki.gg/wiki/Pachy"
+        ],
+        [
+          "Simple Kibble",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ]
+      ],
+      "evidence": "Species knockout field, torpor behavior and ASA appearance; Simple Kibble page corroborates food.",
+      "access": "Direct species page returned 403; individual search-indexed species passages reviewed.",
+      "comparisonLimitations": "Indexed excerpts only. Full article comparison, revision/contributor history, exhaustive ASA map coverage and firsthand official PvE checks remain pending. No external prose, numerical tables or calculator code imported."
+    }
+  },
+  "officialAnnouncementCheck": {
+    "checkedThrough": "2026-10-06",
+    "latestLocatedAnnouncementDate": "2026-10-03",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774255-community-crunch-526-madness-takes-flight/",
+    "result": "Xeranox is upcoming; no new verified official-map creature release since the already catalogued Cerberax and Gargantar."
+  },
+  "coverage": {
+    "catalogueEntries": 202,
+    "writtenGuides": 76,
+    "entriesWithoutWrittenGuides": 126,
+    "habitatOrEncounterRecords": 62
+  },
+  "ownerConfirmationQuestions": [
+    "Megalosaurus: on official ASA PvE with the base species, does nightfall still wake an unconscious one, and what happens to its food inventory and tame progress?"
+  ],
+  "preserved": [
+    "Pixel artwork and interface",
+    "Companion speech bubbles",
+    "Existing four user-note follow-ups",
+    "Centralized references and contributor/license notices",
+    "Anonymous Concavenator Tek Rifle suggestion",
+    "Unresolved rights-review findings",
+    "Owner-private noncommercial audience"
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "creature": "Armadoggo",
+    "comparison": "indexed taming passage only; not full article",
+    "longest_contiguous_word_match": 3,
+    "matched_phrase": "near the armadoggo",
+    "eight_word_match_flag": false
+  },
+  {
+    "creature": "Concavenator",
+    "comparison": "indexed taming passage only; not full article",
+    "longest_contiguous_word_match": 4,
+    "matched_phrase": "until the taming bar",
+    "eight_word_match_flag": false
+  },
+  {
+    "creature": "Veilwyn",
+    "comparison": "indexed taming passage only; not full article",
+    "longest_contiguous_word_match": 6,
+    "matched_phrase": "leave the immediate area and try",
+    "eight_word_match_flag": false
+  },
+  {
+    "creature": "Helicoprion",
+    "comparison": "indexed taming passage only; not full article",
+    "longest_contiguous_word_match": 3,
+    "matched_phrase": "little ratfish treats",
+    "eight_word_match_flag": false
+  }
+]

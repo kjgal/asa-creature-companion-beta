@@ -1,0 +1,216 @@
+{
+  "reviewDate": "2026-10-08",
+  "newGuides": [
+    "Sabertooth",
+    "Spino",
+    "Tapejara",
+    "Terror Bird",
+    "Shinehorn",
+    "Featherlight"
+  ],
+  "updatedGuides": [],
+  "newCatalogueEntries": [],
+  "species": {
+    "Sabertooth": {
+      "sources": [
+        [
+          "ARK Community Wiki: Sabertooth",
+          "https://ark.wiki.gg/wiki/Sabertooth"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species knockout, food, bola strategy and ASA body-multiplier section reviewed; mountain habitat compared with Spawn entries.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    },
+    "Spino": {
+      "sources": [
+        [
+          "ARK Community Wiki: Spino",
+          "https://ark.wiki.gg/wiki/Spino"
+        ],
+        [
+          "Exceptional Kibble",
+          "https://ark.wiki.gg/wiki/Exceptional_Kibble"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species redirects resolve to the base Spino article with ASA sections; knockout and food facts corroborated by Exceptional Kibble. Variant-specific combat and numerical tables excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    },
+    "Tapejara": {
+      "sources": [
+        [
+          "ARK Community Wiki: Tapejara",
+          "https://ark.wiki.gg/wiki/Tapejara"
+        ],
+        [
+          "Superior Kibble",
+          "https://ark.wiki.gg/wiki/Superior_Kibble"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species knockout, food, skittish behavior and ASA color section reviewed. Biomes forest listings and Scorched Earth mountain Spawn entries support general habitat examples.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    },
+    "Terror Bird": {
+      "sources": [
+        [
+          "ARK Community Wiki: Terror Bird",
+          "https://ark.wiki.gg/wiki/Terror_Bird"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species bola strategy, food, rapid torpor loss and ASA animation note reviewed. General forest/redwood habitat compared with Biomes and Spawn entries; wild carrying advice excluded for official PvE.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    },
+    "Shinehorn": {
+      "sources": [
+        [
+          "ARK Community Wiki: Shinehorn",
+          "https://ark.wiki.gg/wiki/Shinehorn"
+        ],
+        [
+          "Plant Species Z Seed",
+          "https://ark.wiki.gg/wiki/Plant_Species_Z_Seed"
+        ],
+        [
+          "Aggeravic Mushroom",
+          "https://ark.wiki.gg/wiki/Aggeravic_Mushroom"
+        ],
+        [
+          "Taming",
+          "https://ark.wiki.gg/wiki/Taming"
+        ],
+        [
+          "Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species non-violent taming, foods, Bioluminescent habitat and explicit ASA Valguero note reviewed. Legacy numerical tables and other-map claims excluded.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    },
+    "Featherlight": {
+      "sources": [
+        [
+          "ARK Community Wiki: Featherlight",
+          "https://ark.wiki.gg/wiki/Featherlight"
+        ],
+        [
+          "Plant Species Z Seed",
+          "https://ark.wiki.gg/wiki/Plant_Species_Z_Seed"
+        ],
+        [
+          "Auric Mushroom",
+          "https://ark.wiki.gg/wiki/Auric_Mushroom"
+        ],
+        [
+          "Taming",
+          "https://ark.wiki.gg/wiki/Taming"
+        ],
+        [
+          "Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ],
+        [
+          "Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "The Lost Roads (Aberration)",
+          "https://ark.wiki.gg/wiki/The_Lost_Roads_(Aberration)"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species passages reviewed; direct Sabertooth access returned 403, limiting full-article comparison.",
+        "asa": "Species base-article redirect supplies food, passive behavior and ASA color sections; non-violent method corroborated by Taming and the Japanese species article. Lost Roads and Aberration region references support native Element habitat; no invented Aberrant variant.",
+        "comparisonLimitations": "Full article, revision/contributor history and exhaustive ASA map comparison unavailable. Firsthand official PvE testing and numerical estimates pending. Original summaries only; no source prose, competitor data, artwork or calculator code imported."
+      }
+    }
+  },
+  "officialReview": {
+    "url": "https://survivetheark.com/index.php?/forums/topic/774255-community-crunch-526-madness-takes-flight/",
+    "announcementDate": "2026-10-03",
+    "finding": "Xeranox announced as coming, not confirmed released. Cerberax and Gargantar already catalogued; no new eligible release verified."
+  },
+  "habitatReview": {
+    "newGeneral": [
+      "Sabertooth",
+      "Tapejara",
+      "Shinehorn",
+      "Featherlight"
+    ],
+    "refreshedGeneral": [
+      "Spino",
+      "Terror Bird"
+    ],
+    "newAberration": [
+      "Shinehorn",
+      "Featherlight"
+    ],
+    "limitations": "Biomes and Spawn entries combine legacy and current references. Typical habitat types only; no all-map guarantee or exact spawn points."
+  },
+  "pending": "Full wiki page access and exhaustive map/variant comparison; independent numerical formulas and firsthand official PvE checks.",
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 92,
+    "withoutWrittenGuide": 110,
+    "generalHabitats": 66,
+    "aberrationHabitats": 6,
+    "detailedCreatureRecords": 78
+  }
+}
