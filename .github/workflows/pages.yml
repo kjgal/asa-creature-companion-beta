@@ -23,6 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Restore creature artwork
+        run: unzip -o site/assets/creature-art.zip -d site/assets
       - run: node scripts/update-rate.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
