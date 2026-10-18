@@ -453,8 +453,8 @@ nav>button.selected{background:#293e3d}
 .beta-notice{margin:0 0 1rem;padding:.7rem .9rem;border:1px solid #719b91;background:#17272a;color:#c5d8d2;font-size:.8rem;line-height:1.6}.beta-notice strong{color:#e1f4e7}
 
 /* Quiet install control shared by desktop and phone. */
-.small-footer .install-app{display:block;margin:0 auto 4px;padding:4px 8px;min-height:32px;max-width:100%;font-size:.6875rem;color:var(--muted);background:none;border:0;box-shadow:none;text-decoration:underline;text-underline-offset:3px}
-.small-footer .install-app:hover{color:var(--teal)}
+.install-app{display:block;margin:0 auto 4px;padding:4px 8px;min-height:32px;max-width:100%;font-size:.6875rem;color:var(--muted);background:none;border:0;box-shadow:none;text-decoration:underline;text-underline-offset:3px}
+.install-app:hover{color:var(--teal)}
 .install-dialog{width:min(440px,calc(100% - 40px));max-width:calc(100% - 40px);max-height:calc(100dvh - 48px);overflow:auto;overflow-wrap:anywhere;min-width:0}
 .install-dialog p{line-height:1.65}
 @media(min-width:1000px){
@@ -486,3 +486,9 @@ nav>button.selected{background:#293e3d}
  .companions-view main{grid-template-columns:minmax(0,1fr)}
  .companion-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
 }
+
+/* Keep installation beside the title, with room to wrap on narrow phones. */
+header{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;min-width:0;max-width:100%;flex-wrap:wrap;overflow:visible}
+header>div{flex:1 1 220px;min-width:0;max-width:100%;overflow-wrap:anywhere}
+header>.install-app{flex:0 0 auto;margin:0 0 0 auto;padding:5px 2px;min-width:0;max-width:100%;white-space:nowrap;align-self:flex-start}
+@media(max-width:580px){header>div{flex-basis:180px}header>.install-app{font-size:.625rem}}

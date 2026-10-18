@@ -1,9 +1,9 @@
 const $=id=>document.getElementById(id);
 const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
-let state=read('asa-companion-v1',{companion:'drakeling',animation:true,motion:true,creature:'Rex',level:150,rate:1,method:'knockout',session:null});
+let state=read('asa-companion-v1',{companion:'armadoggo',animation:true,motion:true,creature:'Rex',level:150,rate:1,method:'knockout',session:null});
 // Invalidate saved estimates when their food values have been withdrawn; preserve session timing and notes.
 if(state.session?.estimate){const old=state.session.estimate;if(tamingCalculationData.creatures[old.creature]?.foods[old.food]?.quantityReviewed===false){state.session.pendingFood=old.food;state.session.pendingElixir=old.elixir;state.session.estimate=null;try{localStorage.setItem('asa-companion-v1',JSON.stringify(state))}catch{}}}
-const pets=[['drakeling','Drakeling'],['armadoggo','Armadoggo'],['otter','Otter'],['jerboa','Jerboa'],['veilwyn','Veilwyn'],['none','No companion']];
+const pets=[['armadoggo','Armadoggo'],['drakeling','Drakeling'],['otter','Otter'],['jerboa','Jerboa'],['veilwyn','Veilwyn'],['none','No companion']];
 const creatures=creatureCatalogue.map(c=>c.name);
 const petSounds={armadoggo:'Wuff! Wuff!',drakeling:'Chrrrp!',jerboa:'Squeak!',otter:'Chirp! Chirp!',veilwyn:'Prrr-chirp!'};
 const save=()=>{try{localStorage.setItem('asa-companion-v1',JSON.stringify(state))}catch{$('reply').textContent='Your browser could not save this session. Keep this page open.'}};
