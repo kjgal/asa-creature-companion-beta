@@ -239,7 +239,7 @@ function updateQuickQuestions(){
 }
 
 function methodLabel(name){const c=creatureCatalogue.find(c=>c.name===name);if(c?.acquisition==='Not tameable')return 'Not tameable';if(['Crafted / rewarded','Egg raising'].includes(c?.acquisition))return 'Acquisition';return {knockout:'Knockout tame',passive:'Passive tame',special:'Special tame'}[tamingGuides[name]?.method||(tamingCalculationData.creatures[name]?'knockout':null)]||'Method not checked';}
-function moveCompanion(){const perched=currentTab==='companions';$('settings-companion-home').hidden=!perched;document.body.classList.toggle('companions-view',perched);$('companion-toggle').tabIndex=perched?-1:0;if(perched)openBubble(false);const home=$(currentTab==='active'?'active-companion-home':currentTab==='companions'?'settings-companion-home':'plan-companion-home');home.append($('companion-chat'));}
+function moveCompanion(){const perched=currentTab==='companions';$('settings-companion-home').hidden=!perched;document.body.classList.toggle('companions-view',perched);$('companion-toggle').tabIndex=perched?-1:0;if(perched)openBubble(false);const desktop=window.matchMedia('(min-width:1000px)').matches&&!perched;$('desktop-companion-home').hidden=!desktop;const home=$(desktop?'desktop-companion-home':currentTab==='active'?'active-companion-home':perched?'settings-companion-home':'plan-companion-home');home.append($('companion-chat'));}
 
 moveCompanion();
 
@@ -247,7 +247,7 @@ moveCompanion();
 function alignChatTail(){
  const bubble=$('chat-bubble'),sprite=$('assistant-art').querySelector('.sprite');
  if(bubble.hidden||!sprite)return;
- if(window.matchMedia?.('(max-width:680px)').matches)return;
+ if(window.matchMedia?.('(max-width:680px), (min-width:1000px)').matches)return;
  const faceY={drakeling:.47,armadoggo:sprite.classList.contains('playing')?.70:.33,otter:.41,jerboa:.52,veilwyn:.52}[state.companion]??.5;
  const art=sprite.getBoundingClientRect(),box=bubble.getBoundingClientRect();
  if(!art.height||!box.height)return;
@@ -264,3 +264,5 @@ showOfficialRate(true);
 refreshOfficialRate();
 setInterval(()=>{if(!document.hidden)refreshOfficialRate();},5*60*1000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshOfficialRate();});
+
+window.matchMedia('(min-width:1000px)').addEventListener('change',()=>{moveCompanion();alignChatTail();});
