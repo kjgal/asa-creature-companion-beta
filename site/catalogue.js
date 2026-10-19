@@ -1953,3 +1953,7 @@ for(const [name,acquisition] of Object.entries({"Fasolasuchus":"Special tame","B
 
 // Fish Basket capture is a special tame, not ordinary knockout feeding.
 for(const name of ["Coelacanth","Piranha","Sabertooth Salmon","Trilobite"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Special tame",guideReviewed:"2026-10-18"});
+
+// Official-PvE base wild encounters reviewed October 19, 2026.
+for(const name of ["Glowbug","Seeker","Nameless","Eurypterid","Deathworm"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-19"});
+{const entry=creatureCatalogue.find(c=>c.name==="Glowbug");entry.aliases=[...new Set([...entry.aliases,"light bug"])];}

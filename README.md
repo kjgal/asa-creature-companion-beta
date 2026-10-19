@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 139 written guides out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 144 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp and accepts snapshots up to two hours old, then shows the existing unavailable/manual-rate fallback. An outage does not fabricate a new rate. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -26,3 +26,5 @@ Creature guides are adapted from the ARK Community Wiki and contributors under C
 Calculation data: ARK Smart Breeding by cadon and contributors, under the included MIT notice (`site/licenses/ARK-Smart-Breeding-MIT.txt`). Formula references: ARK Modding Wiki. Silkscreen font by the Silkscreen Project Authors, under the included OFL notice. ARK names and content belong to their respective owners. Pixel creature and companion images were generated for this project; they are not copied game icons. This repository does not grant ownership of third-party content or blanket rights clearance.
 
 Guide and habitat data migrated through private source revision 5aced342614731d065fe63d37441f6ddb8e3239c (October 18, 2026). Future updates use this repository directly.
+
+October 19 review: five wild-encounter guides, 58 catalogue entries still without written guides, 103 general habitat/availability notes and 22 Aberration notes. Provenance and limitations: audit/guide-review-2026-10-19.json.

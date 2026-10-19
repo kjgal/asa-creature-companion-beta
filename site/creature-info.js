@@ -2644,3 +2644,146 @@ Object.assign(aberrationHabitats,{
   "Sabertooth Salmon": "On Aberration, the Aberrant Sabertooth Salmon is listed in the blue (Bioluminescent) region. This note concerns that variant; a broader regional distribution is not asserted.",
   "Trilobite": "On Aberration, Aberrant Trilobite occurs in the green (Fertile) and blue (Bioluminescent) regions. This describes the Aberrant variant, not regular Trilobite on every map."
 });
+
+// Refresh metadata without replacing detailed encounter habitat/behavior fields.
+for(const [name,review] of Object.entries({
+  "Glowbug": {
+    "checked": "2026-10-19",
+    "scope": "Original detailed encounter fields retained; general habitat refreshed separately for typical terrain only.",
+    "sources": [
+      [
+        "ARK Community Wiki: Glowbug",
+        "https://ark.wiki.gg/wiki/Glowbug"
+      ],
+      [
+        "ARK Community Wiki: ASA gameplay changes",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Individual base species and ASA Light Bug naming context reviewed. Catalogue key Glowbug retained, with light bug alias; charge interaction does not imply tameability.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Seeker": {
+    "checked": "2026-10-19",
+    "scope": "Original detailed encounter fields retained; general habitat refreshed separately for typical terrain only.",
+    "sources": [
+      [
+        "ARK Community Wiki: Seeker",
+        "https://ark.wiki.gg/wiki/Seeker"
+      ],
+      [
+        "ARK Community Wiki: Element Falls",
+        "https://ark.wiki.gg/wiki/Element_Falls_(Aberration)"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base non-tameability and charge response reviewed with ASA species sections. Brute, summoned and mod-enabled taming forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Nameless": {
+    "checked": "2026-10-19",
+    "scope": "Original detailed encounter fields retained; general habitat refreshed separately for typical terrain only.",
+    "sources": [
+      [
+        "ARK Community Wiki: Nameless",
+        "https://ark.wiki.gg/wiki/Nameless"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base species and ASA Aberration context reviewed. No pet acquisition, forcetame or mod process imported.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Eurypterid": {
+    "checked": "2026-10-19",
+    "scope": "Original detailed encounter fields retained; general habitat refreshed separately for typical terrain only.",
+    "sources": [
+      [
+        "ARK Community Wiki: Eurypterid",
+        "https://ark.wiki.gg/wiki/Eurypterid"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base non-tameability, torpor threat and ASA land-death distinction reviewed through individual species sections. Mobile/Eerie and No Untameables mod behavior excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Deathworm": {
+    "checked": "2026-10-19",
+    "scope": "Original detailed encounter fields retained; general habitat refreshed separately for typical terrain only.",
+    "sources": [
+      [
+        "ARK Community Wiki: Deathworm",
+        "https://ark.wiki.gg/wiki/Deathworm"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base Deathworm habitat and non-tameability reviewed with ASA species context and wild invertebrate classification. Alpha, Iceworm, Corrupted and mod forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+})) creatureInfo[name]={...creatureInfo[name],...review};
+Object.assign(generalHabitats,{
+  "Glowbug": "Underground cavern terrain on maps where Glowbugs occur; local distribution is map-specific.",
+  "Seeker": "Deep cavern terrain, including Aberration’s Element-region encounters, on maps where Seekers occur.",
+  "Nameless": "Dark underground regions, including Aberration’s blue and red regions, on maps where Nameless occur.",
+  "Eurypterid": "Ocean-bottom terrain, including deep-water areas with coral or seaweed, on maps where it spawns.",
+  "Deathworm": "Large desert sand dunes, including Scorched Earth’s outer dunes, on maps where Deathworms spawn."
+});
+Object.assign(aberrationHabitats,{
+  "Glowbug": "On Aberration, native Glowbugs (Light Bugs) are documented in the red (Element) region, including Element Falls. This is not a distinct Aberrant variant or a complete regional spawn list.",
+  "Seeker": "On Aberration, native Seekers are documented in the red (Element) region, including Element Falls. This is not a separate Aberrant Seeker variant; wider regional coverage remains pending.",
+  "Nameless": "On Aberration, native Nameless emerge in the blue (Bioluminescent) and red (Element) regions without protective charge light. Do not treat the green (Fertile) region as a normal Nameless spawn habitat. This is not a separate Aberrant variant."
+});

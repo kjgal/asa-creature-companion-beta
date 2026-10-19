@@ -4335,3 +4335,159 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// Original wild-encounter summaries reviewed October 19, 2026.
+Object.assign(tamingGuides,{
+  "Glowbug": {
+    "method": "not-tameable",
+    "overview": "Glowbug, also called Light Bug, is a wild charge source rather than a tameable pet in normal official play.",
+    "food": "No taming food: this creature is not tameable in normal official play.",
+    "preparation": "Check the surrounding cavern for threats before approaching. Bring a charge-capable pet or battery if you intend to use the bug’s charge.",
+    "steps": [
+      "Locate the wild bug and check nearby threats",
+      "Approach for its available charge interaction",
+      "Move on when the interaction is finished"
+    ],
+    "specialAction": "Drawing charge from a wild bug does not tame it. Exact current ASA interaction controls and charge amounts remain pending.",
+    "tips": [
+      "Drawing charge from a wild bug does not tame it. Exact current ASA interaction controls and charge amounts remain pending."
+    ],
+    "checked": "2026-10-19",
+    "scope": "ASA official PvE base-species wild encounter where present; not a taming checklist.",
+    "sources": [
+      [
+        "ARK Community Wiki: Glowbug",
+        "https://ark.wiki.gg/wiki/Glowbug"
+      ],
+      [
+        "ARK Community Wiki: ASA gameplay changes",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Individual base species and ASA Light Bug naming context reviewed. Catalogue key Glowbug retained, with light bug alias; charge interaction does not imply tameability.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Seeker": {
+    "method": "not-tameable",
+    "overview": "Seeker is a hostile wild encounter, not a tameable creature in normal official play.",
+    "food": "No taming food: this creature is not tameable in normal official play.",
+    "preparation": "Plan an escape route and assess nearby charge sources. Balance Seeker danger against the protection charge light provides from Nameless.",
+    "steps": [
+      "Notice nearby Seekers before entering combat",
+      "Check whether charge light is strengthening them",
+      "Retreat or engage with the surrounding threats in mind"
+    ],
+    "specialAction": "Charge light empowers Seekers. Removing it can weaken them, but can also leave you exposed to Nameless; there is no taming feed or knockout sequence.",
+    "tips": [
+      "Charge light empowers Seekers. Removing it can weaken them, but can also leave you exposed to Nameless; there is no taming feed or knockout sequence."
+    ],
+    "checked": "2026-10-19",
+    "scope": "ASA official PvE base-species wild encounter where present; not a taming checklist.",
+    "sources": [
+      [
+        "ARK Community Wiki: Seeker",
+        "https://ark.wiki.gg/wiki/Seeker"
+      ],
+      [
+        "ARK Community Wiki: Element Falls",
+        "https://ark.wiki.gg/wiki/Element_Falls_(Aberration)"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base non-tameability and charge response reviewed with ASA species sections. Brute, summoned and mod-enabled taming forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Nameless": {
+    "method": "not-tameable",
+    "overview": "Nameless cannot be tamed in normal official play. Treat its emergence as an encounter hazard rather than the start of a taming attempt.",
+    "food": "No taming food: this creature is not tameable in normal official play.",
+    "preparation": "Bring a reliable charge-light source and an escape plan. Check its available charge before entering dangerous underground terrain.",
+    "steps": [
+      "Watch for emerging groups",
+      "Use charge light to reduce the threat",
+      "Leave the area or deal with the group before continuing"
+    ],
+    "specialAction": "Charge light helps keep Nameless at bay and weakens their defenses. The exact charge coverage and encounter timing are not quantified here.",
+    "tips": [
+      "Charge light helps keep Nameless at bay and weakens their defenses. The exact charge coverage and encounter timing are not quantified here."
+    ],
+    "checked": "2026-10-19",
+    "scope": "ASA official PvE base-species wild encounter where present; not a taming checklist.",
+    "sources": [
+      [
+        "ARK Community Wiki: Nameless",
+        "https://ark.wiki.gg/wiki/Nameless"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base species and ASA Aberration context reviewed. No pet acquisition, forcetame or mod process imported.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Eurypterid": {
+    "method": "not-tameable",
+    "overview": "Eurypterid is a wild aquatic hazard, not a tameable creature in normal official play.",
+    "food": "No taming food: this creature is not tameable in normal official play.",
+    "preparation": "Prepare underwater breathing, a way to keep your distance and an escape route. Account for its torpor-inducing attacks.",
+    "steps": [
+      "Scan the bottom before approaching",
+      "Avoid close contact with its attacks",
+      "Retreat before torpor prevents a safe escape"
+    ],
+    "specialAction": "A Fish Basket is not a verified taming route for Eurypterid. ASA land-beaching behavior differs from legacy accounts; no land trap or tame procedure is recommended.",
+    "tips": [
+      "A Fish Basket is not a verified taming route for Eurypterid. ASA land-beaching behavior differs from legacy accounts; no land trap or tame procedure is recommended."
+    ],
+    "checked": "2026-10-19",
+    "scope": "ASA official PvE base-species wild encounter where present; not a taming checklist.",
+    "sources": [
+      [
+        "ARK Community Wiki: Eurypterid",
+        "https://ark.wiki.gg/wiki/Eurypterid"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base non-tameability, torpor threat and ASA land-death distinction reviewed through individual species sections. Mobile/Eerie and No Untameables mod behavior excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Deathworm": {
+    "method": "not-tameable",
+    "overview": "Deathworm is a burrowing wild predator and cannot be tamed in normal official play.",
+    "food": "No taming food: this creature is not tameable in normal official play.",
+    "preparation": "Bring desert protection, a capable combat mount and a route away from the dunes. Scout for threats before dismounting.",
+    "steps": [
+      "Watch the sand for movement",
+      "Keep room to react when it emerges",
+      "Fight or withdraw without attempting a taming feed"
+    ],
+    "specialAction": "Its emergence is an attack, not a feeding or temporary-riding prompt. Alpha Deathworms, Iceworms and modded taming routes are outside this base-species guide.",
+    "tips": [
+      "Its emergence is an attack, not a feeding or temporary-riding prompt. Alpha Deathworms, Iceworms and modded taming routes are outside this base-species guide."
+    ],
+    "checked": "2026-10-19",
+    "scope": "ASA official PvE base-species wild encounter where present; not a taming checklist.",
+    "sources": [
+      [
+        "ARK Community Wiki: Deathworm",
+        "https://ark.wiki.gg/wiki/Deathworm"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+      "asa": "Base Deathworm habitat and non-tameability reviewed with ASA species context and wild invertebrate classification. Alpha, Iceworm, Corrupted and mod forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});

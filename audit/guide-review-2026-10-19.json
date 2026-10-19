@@ -1,0 +1,183 @@
+{
+  "reviewDate": "2026-10-19",
+  "repository": "kjgal/asa-creature-companion-beta",
+  "branch": "main",
+  "sourceBaseline": "4f6c2d683e4eaaca8d7b4218ab3c2e0f4272a810",
+  "newGuides": [
+    "Glowbug",
+    "Seeker",
+    "Nameless",
+    "Eurypterid",
+    "Deathworm"
+  ],
+  "guideType": "Not-tameable wild encounters",
+  "newCatalogueEntries": [],
+  "catalogueUpdates": [
+    "Reviewed not-tameable labels for five base species",
+    "Added light bug alias to the existing Glowbug entry"
+  ],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "checked": "2026-10-19",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "finding": "No later creature-release announcement found on the checked official index. Previously recorded Enigmasaur release is upcoming; no currently available creature added."
+  },
+  "species": {
+    "Glowbug": {
+      "sources": [
+        [
+          "ARK Community Wiki: Glowbug",
+          "https://ark.wiki.gg/wiki/Glowbug"
+        ],
+        [
+          "ARK Community Wiki: ASA gameplay changes",
+          "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ],
+        [
+          "ARK Community Wiki: Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+        "asa": "Individual base species and ASA Light Bug naming context reviewed. Catalogue key Glowbug retained, with light bug alias; charge interaction does not imply tameability.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    "Seeker": {
+      "sources": [
+        [
+          "ARK Community Wiki: Seeker",
+          "https://ark.wiki.gg/wiki/Seeker"
+        ],
+        [
+          "ARK Community Wiki: Element Falls",
+          "https://ark.wiki.gg/wiki/Element_Falls_(Aberration)"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ],
+        [
+          "ARK Community Wiki: Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+        "asa": "Base non-tameability and charge response reviewed with ASA species sections. Brute, summoned and mod-enabled taming forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    "Nameless": {
+      "sources": [
+        [
+          "ARK Community Wiki: Nameless",
+          "https://ark.wiki.gg/wiki/Nameless"
+        ],
+        [
+          "ARK Community Wiki: Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ],
+        [
+          "ARK Community Wiki: Aberration",
+          "https://ark.wiki.gg/wiki/Aberration"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+        "asa": "Base species and ASA Aberration context reviewed. No pet acquisition, forcetame or mod process imported.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    "Eurypterid": {
+      "sources": [
+        [
+          "ARK Community Wiki: Eurypterid",
+          "https://ark.wiki.gg/wiki/Eurypterid"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+        "asa": "Base non-tameability, torpor threat and ASA land-death distinction reviewed through individual species sections. Mobile/Eerie and No Untameables mod behavior excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    "Deathworm": {
+      "sources": [
+        [
+          "ARK Community Wiki: Deathworm",
+          "https://ark.wiki.gg/wiki/Deathworm"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual indexed species and relevant biome/spawn/map passages reviewed; direct Seeker article returned 403.",
+        "asa": "Base Deathworm habitat and non-tameability reviewed with ASA species context and wild invertebrate classification. Alpha, Iceworm, Corrupted and mod forms excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA map coverage, platform interactions and numerical claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  },
+  "habitats": {
+    "newGeneral": [
+      "Glowbug",
+      "Seeker",
+      "Nameless",
+      "Eurypterid",
+      "Deathworm"
+    ],
+    "newAberration": [
+      "Glowbug",
+      "Seeker",
+      "Nameless"
+    ],
+    "detailedRecords": "Existing detailed habitat and behavior fields preserved. New general replies describe typical terrain only where present.",
+    "limitations": "Glowbug and Seeker red/Element examples do not claim exhaustive regional coverage. Nameless blue/Bioluminescent and red/Element wording distinguishes native species from separate Aberrant variants. No exact coordinates or spawn timing."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuidesIncludingEncounterAndAcquisition": 144,
+    "missingGuides": 58,
+    "generalHabitatEntries": 103,
+    "aberrationHabitatEntries": 22,
+    "creatureInfoRecords": 122
+  },
+  "comparisonLimitations": "Direct Seeker article returned 403. Indexed individual species/shared redirects, Biomes, Spawn entries and map/ASA context reviewed. Full article/revision/contributor comparison, exhaustive official-map coverage, gameplay inputs and numerical validation pending. No quantities, durations or numerical effectiveness claims added.",
+  "ownerQuestions": [],
+  "preserved": "All earlier anonymous suggestions, including Concavenator Tek Rifle and player-tested Tusoteuthis, and unconfirmed Trilobite upkeep remain unchanged. Existing public free noncommercial beta, noindex/robots, relative paths, approved icon/manifest, interface/bubbles, scheduled official-rate.json workflow and fallback, general contributor/license/video credits and prior rights findings retained. Individual sources remain metadata only. Former private Site not modified."
+}
