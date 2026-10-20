@@ -2787,3 +2787,138 @@ Object.assign(aberrationHabitats,{
   "Seeker": "On Aberration, native Seekers are documented in the red (Element) region, including Element Falls. This is not a separate Aberrant Seeker variant; wider regional coverage remains pending.",
   "Nameless": "On Aberration, native Nameless emerge in the blue (Bioluminescent) and red (Element) regions without protective charge light. Do not treat the green (Fertile) region as a normal Nameless spawn habitat. This is not a separate Aberrant variant."
 });
+
+// Standard Wyvern variant habitat/acquisition review; preserve earlier detailed fields.
+for(const [name,review] of Object.entries({
+  "Ice Wyvern": {
+    "habitat": "Cold, snowy terrain on maps where Ice Wyverns occur; nesting locations are map-specific.",
+    "behavior": "A cold-associated flying predator; do not confuse it with Ragnarok’s Nunatak boss.",
+    "acquisition": "Obtain a Ice Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding. Find a fertilized Ice Wyvern egg in a nest. Collect the egg and escape the adults. Incubate it under suitable conditions. Claim the hatchling and provide suitable food while raising it. Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "checked": "2026-10-20",
+    "scope": "Typical terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ice Wyvern",
+        "https://ark.wiki.gg/wiki/Ice_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Ice Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Ice_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Ragnarok",
+        "https://ark.wiki.gg/wiki/Ragnarok"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Standard Ice variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections, ASA Ragnarok context and the separate ASA Ice Wyvern identifier. Nunatak boss is not an Ice Wyvern tame.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Lightning Wyvern": {
+    "habitat": "Wyvern trenches and rocky nesting ravines on maps where Lightning Wyverns spawn. Nest availability is map-specific.",
+    "behavior": "A flying predator with lightning breath near nesting terrain.",
+    "acquisition": "Obtain a Lightning Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding. Find a fertilized Lightning Wyvern egg in a nest. Collect the egg and escape the adults. Incubate it under suitable conditions. Claim the hatchling and provide suitable food while raising it. Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "checked": "2026-10-20",
+    "scope": "Typical terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lightning Wyvern",
+        "https://ark.wiki.gg/wiki/Lightning_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Lightning Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Lightning_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Poison Wyvern": {
+    "habitat": "Wyvern trenches and rocky nesting ravines on maps where Poison Wyverns spawn. Nest availability is map-specific.",
+    "behavior": "A flying predator with poison breath near nesting terrain.",
+    "acquisition": "Obtain a Poison Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding. Find a fertilized Poison Wyvern egg in a nest. Collect the egg and escape the adults. Incubate it under suitable conditions. Claim the hatchling and provide suitable food while raising it. Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "checked": "2026-10-20",
+    "scope": "Typical terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Poison Wyvern",
+        "https://ark.wiki.gg/wiki/Poison_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Poison Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Poison_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+})) creatureInfo[name]={...creatureInfo[name],...review};
+Object.assign(generalHabitats,{
+  "Ice Wyvern": "Cold, snowy terrain on maps where Ice Wyverns occur; nesting locations are map-specific.",
+  "Lightning Wyvern": "Wyvern trenches and rocky nesting ravines on maps where Lightning Wyverns spawn. Nest availability is map-specific.",
+  "Poison Wyvern": "Wyvern trenches and rocky nesting ravines on maps where Poison Wyverns spawn. Nest availability is map-specific."
+});

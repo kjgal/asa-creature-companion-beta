@@ -1,0 +1,164 @@
+{
+  "reviewDate": "2026-10-20",
+  "repository": "kjgal/asa-creature-companion-beta",
+  "branch": "main",
+  "sourceBaseline": "249eec91de4feb2b504155fd0221b7107633ba24",
+  "newGuides": [
+    "Ice Wyvern",
+    "Lightning Wyvern",
+    "Poison Wyvern"
+  ],
+  "newCatalogueEntries": [],
+  "species": {
+    "Ice Wyvern": {
+      "sources": [
+        [
+          "ARK Community Wiki: Ice Wyvern",
+          "https://ark.wiki.gg/wiki/Ice_Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Wyvern",
+          "https://ark.wiki.gg/wiki/Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Ice Wyvern Egg",
+          "https://ark.wiki.gg/wiki/Ice_Wyvern_Egg"
+        ],
+        [
+          "ARK Community Wiki: Wyvern Milk",
+          "https://ark.wiki.gg/wiki/Wyvern_Milk"
+        ],
+        [
+          "ARK Community Wiki: Ragnarok",
+          "https://ark.wiki.gg/wiki/Ragnarok"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+        "asa": "Standard Ice variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections, ASA Ragnarok context and the separate ASA Ice Wyvern identifier. Nunatak boss is not an Ice Wyvern tame.",
+        "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    "Lightning Wyvern": {
+      "sources": [
+        [
+          "ARK Community Wiki: Lightning Wyvern",
+          "https://ark.wiki.gg/wiki/Lightning_Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Wyvern",
+          "https://ark.wiki.gg/wiki/Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Lightning Wyvern Egg",
+          "https://ark.wiki.gg/wiki/Lightning_Wyvern_Egg"
+        ],
+        [
+          "ARK Community Wiki: Wyvern Milk",
+          "https://ark.wiki.gg/wiki/Wyvern_Milk"
+        ],
+        [
+          "ARK Community Wiki: Scorched Earth",
+          "https://ark.wiki.gg/wiki/Scorched_Earth"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+        "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+        "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    "Poison Wyvern": {
+      "sources": [
+        [
+          "ARK Community Wiki: Poison Wyvern",
+          "https://ark.wiki.gg/wiki/Poison_Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Wyvern",
+          "https://ark.wiki.gg/wiki/Wyvern"
+        ],
+        [
+          "ARK Community Wiki: Poison Wyvern Egg",
+          "https://ark.wiki.gg/wiki/Poison_Wyvern_Egg"
+        ],
+        [
+          "ARK Community Wiki: Wyvern Milk",
+          "https://ark.wiki.gg/wiki/Wyvern_Milk"
+        ],
+        [
+          "ARK Community Wiki: Scorched Earth",
+          "https://ark.wiki.gg/wiki/Scorched_Earth"
+        ],
+        [
+          "ARK Community Wiki: Biomes",
+          "https://ark.wiki.gg/wiki/Biomes"
+        ],
+        [
+          "ARK Community Wiki: Spawn entries",
+          "https://ark.wiki.gg/wiki/Spawn_entries"
+        ]
+      ],
+      "provenance": {
+        "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+        "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+        "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  },
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "checked": "2026-10-20",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "finding": "No later creature-release announcement found in the checked official index. Existing upcoming Enigmasaur/Giganotosaurus records retained; no new currently available creature added."
+  },
+  "habitats": {
+    "newGeneral": [
+      "Ice Wyvern",
+      "Lightning Wyvern",
+      "Poison Wyvern"
+    ],
+    "newAberration": [],
+    "limitations": "Cold/snow terrain for standard Ice variant; trenches/rocky nesting ravines for Lightning and Poison where present. Exact current ASA nest regions remain pending; legacy map lists are not universal ASA map claims."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuidesIncludingEncounterAndAcquisition": 147,
+    "missingGuides": 55,
+    "generalHabitatEntries": 106,
+    "aberrationHabitatEntries": 22,
+    "creatureInfoRecords": 125
+  },
+  "deferred": {
+    "Unicorn": {
+      "sources": [
+        "https://ark.wiki.gg/wiki/Unicorn",
+        "https://ark.wiki.gg/wiki/Equus",
+        "https://ark.wiki.gg/wiki/Rockarrot",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "finding": "Individual Unicorn and supporting Equus/food/spawn passages researched; direct Unicorn returned 403. Complete current ASA-specific feeding/riding and habitat comparison not established in this batch. No new Unicorn guide or catalogue method asserted; remains pending."
+    }
+  },
+  "comparisonLimitations": "Variant and egg URLs can redirect to shared Wyvern material. Only standard Ice/Lightning/Poison scope used; Crystal, event, Corrupted, Forest, boss and mod routes excluded. Indexed species, food, egg, Biomes, Spawn entries and ASA map/identifier material reviewed. Full article/revision/contributor comparison, exhaustive official-map/nest coverage, firsthand retrieval routes and numerical requirements remain pending. No imported competitor text/data/art/code or numerical claims added.",
+  "ownerQuestions": [
+    "If you have found Ice Wyvern nests on current ASA Ragnarok, which general snowy area has worked for you?"
+  ],
+  "preserved": "Artwork, approved footprint icon/manifest, interface/bubbles, general About source/contributor/license/video notices, hidden individual links, existing anonymous suggestions including Concavenator Tek Rifle and Tusoteuthis, public free noncommercial beta, noindex/robots and scheduled official-rate.json/manual fallback preserved. Existing detailed encounters retained; archived private Site untouched."
+}

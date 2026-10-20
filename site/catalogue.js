@@ -1957,3 +1957,6 @@ for(const name of ["Coelacanth","Piranha","Sabertooth Salmon","Trilobite"]) Obje
 // Official-PvE base wild encounters reviewed October 19, 2026.
 for(const name of ["Glowbug","Seeker","Nameless","Eurypterid","Deathworm"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-19"});
 {const entry=creatureCatalogue.find(c=>c.name==="Glowbug");entry.aliases=[...new Set([...entry.aliases,"light bug"])];}
+
+// Standard Wyvern variants use egg raising, reviewed October 20, 2026.
+for(const name of ["Ice Wyvern","Lightning Wyvern","Poison Wyvern"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Egg raising",guideReviewed:"2026-10-20"});

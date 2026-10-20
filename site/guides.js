@@ -4491,3 +4491,142 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// Original specified-variant acquisition summaries reviewed October 20, 2026.
+Object.assign(tamingGuides,{
+  "Ice Wyvern": {
+    "method": "acquisition",
+    "overview": "Obtain a Ice Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding.",
+    "food": "Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "preparation": "Prepare a safe egg-retrieval and escape route, suitable incubation and baby-raising space. Account for cold terrain and hostile adults. Plan milk access before hatching.",
+    "steps": [
+      "Find a fertilized Ice Wyvern egg in a nest",
+      "Collect the egg and escape the adults",
+      "Incubate it under suitable conditions",
+      "Claim the hatchling and provide suitable food while raising it"
+    ],
+    "specialAction": "Check the egg’s variant before taking it: this guide is for Ice Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded.",
+    "tips": [
+      "Check the egg’s variant before taking it: this guide is for Ice Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded."
+    ],
+    "checked": "2026-10-20",
+    "scope": "ASA official PvE specified standard Wyvern variant where present. Numerical requirements and exhaustive map eligibility remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ice Wyvern",
+        "https://ark.wiki.gg/wiki/Ice_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Ice Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Ice_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Ragnarok",
+        "https://ark.wiki.gg/wiki/Ragnarok"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Standard Ice variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections, ASA Ragnarok context and the separate ASA Ice Wyvern identifier. Nunatak boss is not an Ice Wyvern tame.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Lightning Wyvern": {
+    "method": "acquisition",
+    "overview": "Obtain a Lightning Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding.",
+    "food": "Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "preparation": "Prepare a safe egg-retrieval and escape route, suitable incubation and baby-raising space. Expect nearby adults to defend the nesting area. Plan milk access before hatching.",
+    "steps": [
+      "Find a fertilized Lightning Wyvern egg in a nest",
+      "Collect the egg and escape the adults",
+      "Incubate it under suitable conditions",
+      "Claim the hatchling and provide suitable food while raising it"
+    ],
+    "specialAction": "Check the egg’s variant before taking it: this guide is for Lightning Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded.",
+    "tips": [
+      "Check the egg’s variant before taking it: this guide is for Lightning Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded."
+    ],
+    "checked": "2026-10-20",
+    "scope": "ASA official PvE specified standard Wyvern variant where present. Numerical requirements and exhaustive map eligibility remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lightning Wyvern",
+        "https://ark.wiki.gg/wiki/Lightning_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Lightning Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Lightning_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Poison Wyvern": {
+    "method": "acquisition",
+    "overview": "Obtain a Poison Wyvern by collecting its fertilized nest egg, incubating it and raising the hatchling. Wild adults are not directly tamed by ordinary knockout feeding.",
+    "food": "Wyvern Milk is the checked baby food for this standard variant. Prepare a supply plan before hatching; quantities, feeding intervals, alternative feeding mechanics and food comparisons remain pending.",
+    "preparation": "Prepare a safe egg-retrieval and escape route, suitable incubation and baby-raising space. Expect nearby adults to defend the nesting area. Plan milk access before hatching.",
+    "steps": [
+      "Find a fertilized Poison Wyvern egg in a nest",
+      "Collect the egg and escape the adults",
+      "Incubate it under suitable conditions",
+      "Claim the hatchling and provide suitable food while raising it"
+    ],
+    "specialAction": "Check the egg’s variant before taking it: this guide is for Poison Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded.",
+    "tips": [
+      "Check the egg’s variant before taking it: this guide is for Poison Wyvern. Wild adult knockout is not the acquisition method. Crystal, Zombie, Forest, Corrupted, boss and modded Wyvern routes are excluded."
+    ],
+    "checked": "2026-10-20",
+    "scope": "ASA official PvE specified standard Wyvern variant where present. Numerical requirements and exhaustive map eligibility remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Poison Wyvern",
+        "https://ark.wiki.gg/wiki/Poison_Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Wyvern",
+        "https://ark.wiki.gg/wiki/Wyvern"
+      ],
+      [
+        "ARK Community Wiki: Poison Wyvern Egg",
+        "https://ark.wiki.gg/wiki/Poison_Wyvern_Egg"
+      ],
+      [
+        "ARK Community Wiki: Wyvern Milk",
+        "https://ark.wiki.gg/wiki/Wyvern_Milk"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ]
+    ],
+    "provenance": {
+      "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
+      "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
+      "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
