@@ -1,0 +1,71 @@
+{
+  "reviewed": "2026-10-21",
+  "audience": "Public, free, noncommercial GitHub beta for official PvE; archived private Site unchanged.",
+  "addedGuides": [
+    {
+      "name": "Leech",
+      "classification": "special Fish Basket capture",
+      "sources": ["https://ark.wiki.gg/wiki/Leech", "https://ark.wiki.gg/wiki/Fish_Basket", "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"],
+      "finding": "Fish Basket capture creates a limited one-use companion; it does not return after latching and has no normal inventory/feeding workflow.",
+      "comparisonLimitations": "Direct pages returned 403. Full article/revision/contributor comparison, map eligibility, platform prompts and edge cases remain pending."
+    },
+    {
+      "name": "Diseased Leech",
+      "classification": "special Fish Basket capture",
+      "sources": ["https://ark.wiki.gg/wiki/Diseased_Leech", "https://ark.wiki.gg/wiki/Fish_Basket", "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"],
+      "finding": "Shared species and Fish Basket references include the Diseased variant as a limited one-use capture and distinguish its Swamp Fever hazard.",
+      "comparisonLimitations": "Direct pages returned 403. Full article/revision/contributor comparison, map eligibility, disease handling and edge cases remain pending."
+    },
+    {
+      "name": "Meganeura",
+      "classification": "not tameable",
+      "sources": ["https://ark.wiki.gg/wiki/Meganeura", "https://ark.wiki.gg/wiki/Biomes", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "Regular and Aberrant Meganeura are untameable; wet wooded terrain and cave encounters are described without universal map claims.",
+      "comparisonLimitations": "Direct species page returned 403. Full article/revision/contributor comparison, exhaustive maps and aggression triggers remain pending."
+    },
+    {
+      "name": "Titanomyrma",
+      "classification": "not tameable",
+      "sources": ["https://ark.wiki.gg/wiki/Titanomyrma", "https://ark.wiki.gg/wiki/Biomes", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "Drone and Soldier forms are untameable group encounters; typical forest, cave and arid terrain is map-specific.",
+      "comparisonLimitations": "Direct species page returned 403. Full article/revision/contributor comparison, exhaustive maps and numerical group/combat details remain pending."
+    },
+    {
+      "name": "Oil Jug Bug",
+      "classification": "not tameable resource encounter",
+      "sources": ["https://ark.wiki.gg/wiki/Oil_Jug_Bug", "https://ark.wiki.gg/wiki/Scorched_Earth", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "The Oil variant is untameable; stored oil collection is a wild interaction, not domestication.",
+      "comparisonLimitations": "Direct species page returned 403. Full article/revision/contributor comparison, exhaustive maps, controls, refill behavior and yields remain pending."
+    },
+    {
+      "name": "Water Jug Bug",
+      "classification": "not tameable resource encounter",
+      "sources": ["https://ark.wiki.gg/wiki/Water_Jug_Bug", "https://ark.wiki.gg/wiki/Scorched_Earth", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "The Water variant is untameable; stored water collection is a wild interaction, not domestication.",
+      "comparisonLimitations": "Direct species page returned 403. Full article/revision/contributor comparison, exhaustive maps, controls, refill behavior and yields remain pending."
+    }
+  ],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "checked": "2026-10-21",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "finding": "No later creature-release announcement appeared in the checked official index. Enigmasaur and the Giganotosaurus TLC remain announced for November 6 and were not treated as currently available additions."
+  },
+  "habitats": {
+    "newGeneral": ["Diseased Leech", "Meganeura", "Titanomyrma", "Oil Jug Bug", "Water Jug Bug"],
+    "refreshedGeneral": ["Leech"],
+    "newAberration": [],
+    "limitations": "Typical swamp, wet forest/cave, grassy forest/cave/arid and desert terrain only where each creature occurs. No exact coordinates or universal map claims. Aberrant Meganeura is acknowledged without an unverified regional assignment."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuidesIncludingEncounterAndAcquisition": 153,
+    "missingGuides": 49,
+    "generalHabitatEntries": 111,
+    "aberrationHabitatEntries": 22,
+    "creatureInfoRecords": 131
+  },
+  "comparisonLimitations": "Indexed individual/shared species, Fish Basket, Biomes, Spawn entries, ASA patch and released-map passages were reviewed because direct article retrieval returned 403. Full article/revision/contributor comparison, exhaustive official ASA map coverage, firsthand interaction testing and numerical formulas remain pending. No imported competitor text, datasets, artwork, calculator code or invented numerical claims.",
+  "ownerQuestions": [],
+  "preserved": "Original pixel artwork, approved footprint icons and manifest, relative asset paths, interface and companion bubbles, generalized About source/contributor/license/video notices, metadata-only individual URLs, anonymous suggestions including Concavenator Tek Rifle, public beta/noindex, official-rate.json workflow/manual fallback, rights findings and archived private Site state preserved."
+}

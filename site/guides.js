@@ -372,6 +372,168 @@ Object.assign(tamingGuides, {
   }
 });
 
+// Fish Basket capture and untameable insect encounter review, October 21, 2026.
+Object.assign(tamingGuides,{
+  "Leech": {
+    "method": "special",
+    "overview": "Capture a live Leech with a Fish Basket and release it as a limited tame. This is a special capture method, not a knockout or ordinary hand-feeding tame.",
+    "food": "No taming-food sequence is used. The Fish Basket performs the capture, and the released Leech has no inventory or normal feeding workflow.",
+    "preparation": "Bring a Fish Basket and choose a safe swamp-water placement. Protect yourself from nearby Leeches and other swamp threats while positioning the basket.",
+    "steps": [
+      "Place the Fish Basket on the bottom near a live Leech",
+      "Wait until the basket is ready to capture",
+      "Use the basket prompt while the Leech is within reach",
+      "Release the filled basket in water"
+    ],
+    "specialAction": "This is a one-use companion: after the released Leech latches onto a survivor or creature, it does not return to the tribe's tame count. Current ASA capture controls and practical positioning details remain platform-specific.",
+    "tips": [
+      "This is a one-use companion: after the released Leech latches onto a survivor or creature, it does not return to the tribe's tame count. Current ASA capture controls and practical positioning details remain platform-specific."
+    ],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE base species where present; Fish Basket capture only, with mission, Mobile and mod variants excluded.",
+    "sources": [
+      ["ARK Community Wiki: Leech","https://ark.wiki.gg/wiki/Leech"],
+      ["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"],
+      ["ARK Community Wiki: ASA patch 92.21","https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Fish Basket and current ASA Fish Basket patch passages reviewed; direct species and Fish Basket requests returned 403.",
+      "asa": "The current species page marks Fish Basket capture and includes an ASA changelog; a 2026 ASA patch independently confirms Fish Basket remains active. Catalogue label is special capture, not untameable or ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, platform prompts, safe capture positioning and post-release edge cases remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Diseased Leech": {
+    "method": "special",
+    "overview": "Capture a live Diseased Leech with a Fish Basket and release it as a limited tame. This variant uses the same special capture route as a regular Leech rather than knockout or hand-feeding.",
+    "food": "No taming-food sequence is used. The Fish Basket performs the capture, and the released Diseased Leech has no inventory or normal feeding workflow.",
+    "preparation": "Bring a Fish Basket, disease protection or recovery supplies, and a safe swamp-water placement. Avoid being latched while positioning the basket.",
+    "steps": [
+      "Identify the red-orange Diseased Leech variant",
+      "Place the Fish Basket on the bottom near the live target",
+      "Use the basket prompt when capture is ready and the target is in reach",
+      "Release the filled basket in water"
+    ],
+    "specialAction": "The Diseased variant can transmit Swamp Fever. Like the regular Leech, it is a one-use companion that does not return after latching; disease cure details and exact platform controls are outside this capture guide.",
+    "tips": [
+      "The Diseased variant can transmit Swamp Fever. Like the regular Leech, it is a one-use companion that does not return after latching; disease cure details and exact platform controls are outside this capture guide."
+    ],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE Diseased Leech variant where present; Fish Basket capture only, with mission, Mobile and mod variants excluded.",
+    "sources": [
+      ["ARK Community Wiki: Diseased Leech","https://ark.wiki.gg/wiki/Diseased_Leech"],
+      ["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"],
+      ["ARK Community Wiki: ASA patch 92.21","https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"]
+    ],
+    "provenance": {
+      "access": "Indexed individual/shared species, Fish Basket and current ASA Fish Basket patch passages reviewed; direct species and Fish Basket requests returned 403.",
+      "asa": "The shared current species page explicitly identifies Diseased Leech and Fish Basket capture; the Fish Basket list identifies it as a one-time-use captured creature, and a 2026 ASA patch confirms the mechanic remains active.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, platform prompts, disease handling and post-release edge cases remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Meganeura": {
+    "method": "not-tameable",
+    "overview": "Meganeura is a wild insect encounter and cannot be tamed in normal official play.",
+    "food": "No taming food: Meganeura is not tameable in normal official play.",
+    "preparation": "Watch for small flying groups around wet forests and caves. Clear corpses and nearby threats deliberately because feeding activity can draw Meganeura into a fight.",
+    "steps": [
+      "Scan wet forest or cave terrain for flying insects",
+      "Expect Swamp Cave Meganeura to attack without provocation",
+      "Avoid or defeat the group before continuing"
+    ],
+    "specialAction": "Swamp Cave Meganeura are documented as unusually aggressive. Aberrant Meganeura is also untameable; neither variant has a normal PvE taming sequence.",
+    "tips": ["Swamp Cave Meganeura are documented as unusually aggressive. Aberrant Meganeura is also untameable; neither variant has a normal PvE taming sequence."],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE base and Aberrant wild encounters where present; not a taming checklist.",
+    "sources": [
+      ["ARK Community Wiki: Meganeura","https://ark.wiki.gg/wiki/Meganeura"],
+      ["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],
+      ["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, biome and spawn passages reviewed; direct species request returned 403.",
+      "asa": "Individual page includes separate ASA color data and explicitly marks regular and Aberrant Meganeura untameable. Mobile/Eerie and mod-enabled taming excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, exact aggression triggers and numerical combat claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Titanomyrma": {
+    "method": "not-tameable",
+    "overview": "Titanomyrma Drones and Soldiers are aggressive wild insects and cannot be tamed in normal official play.",
+    "food": "No taming food: Titanomyrma is not tameable in normal official play.",
+    "preparation": "Watch grass, forests, caves and arid terrain for low, easily missed groups. Keep an escape route and enough stamina to leave a swarm.",
+    "steps": [
+      "Look for ground Drones and flying Soldiers in the same area",
+      "Avoid being surrounded by the group",
+      "Retreat or clear the swarm before moving on"
+    ],
+    "specialAction": "The two wild forms attack as a group and can drain stamina. Their hive behavior does not provide a queen-feeding or other normal official taming method.",
+    "tips": ["The two wild forms attack as a group and can drain stamina. Their hive behavior does not provide a queen-feeding or other normal official taming method."],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE Drone and Soldier wild encounters where present; not a taming checklist.",
+    "sources": [
+      ["ARK Community Wiki: Titanomyrma","https://ark.wiki.gg/wiki/Titanomyrma"],
+      ["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],
+      ["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, biome and spawn passages reviewed; direct species request returned 403.",
+      "asa": "Current individual and ASA pages retain Drone/Soldier wild forms and identify Titanomyrma as untameable. Mobile/Eerie and No Untameables mod forms excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, group composition and numerical combat claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Oil Jug Bug": {
+    "method": "not-tameable",
+    "overview": "Oil Jug Bug is an untameable wild resource encounter. Its stored oil can be collected without converting the insect into a tame.",
+    "food": "No taming food: Oil Jug Bug is not tameable in normal official play.",
+    "preparation": "Search arid terrain where Jug Bugs occur and distinguish the oil-storing color from the Water variant. Approach without attacking if you want the stored resource.",
+    "steps": [
+      "Locate an Oil Jug Bug in suitable arid terrain",
+      "Approach the pouch-bearing insect without attacking",
+      "Use its available oil collection interaction",
+      "Expect nearby Jug Bugs to fly away afterward"
+    ],
+    "specialAction": "Collecting stored oil does not tame the bug. Exact yield, refill timing and enclosure behavior are deliberately not quantified here.",
+    "tips": ["Collecting stored oil does not tame the bug. Exact yield, refill timing and enclosure behavior are deliberately not quantified here."],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE Oil Jug Bug wild encounter where present; modded tameable variants excluded.",
+    "sources": [
+      ["ARK Community Wiki: Oil Jug Bug","https://ark.wiki.gg/wiki/Oil_Jug_Bug"],
+      ["ARK Community Wiki: Scorched Earth","https://ark.wiki.gg/wiki/Scorched_Earth"],
+      ["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]
+    ],
+    "provenance": {
+      "access": "Indexed individual/shared Jug Bug, ASA Scorched Earth and spawn passages reviewed; direct species request returned 403.",
+      "asa": "ASA Scorched Earth includes Oil and Water Jug Bug variants. Shared species page marks both untameable and separates nonlethal resource collection from domestication. Mod variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, controls, refill behavior and numerical resource yields remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Water Jug Bug": {
+    "method": "not-tameable",
+    "overview": "Water Jug Bug is an untameable wild resource encounter. Its stored water can be collected without converting the insect into a tame.",
+    "food": "No taming food: Water Jug Bug is not tameable in normal official play.",
+    "preparation": "Search arid terrain where Jug Bugs occur and distinguish the water-storing color from the Oil variant. Approach without attacking if you want the stored resource.",
+    "steps": [
+      "Locate a Water Jug Bug in suitable arid terrain",
+      "Approach the pouch-bearing insect without attacking",
+      "Use its available water collection interaction",
+      "Expect nearby Jug Bugs to fly away afterward"
+    ],
+    "specialAction": "Collecting stored water does not tame the bug. Exact yield, refill timing and enclosure behavior are deliberately not quantified here.",
+    "tips": ["Collecting stored water does not tame the bug. Exact yield, refill timing and enclosure behavior are deliberately not quantified here."],
+    "checked": "2026-10-21",
+    "scope": "ASA official PvE Water Jug Bug wild encounter where present; modded tameable variants excluded.",
+    "sources": [
+      ["ARK Community Wiki: Water Jug Bug","https://ark.wiki.gg/wiki/Water_Jug_Bug"],
+      ["ARK Community Wiki: Scorched Earth","https://ark.wiki.gg/wiki/Scorched_Earth"],
+      ["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]
+    ],
+    "provenance": {
+      "access": "Indexed individual/shared Jug Bug, ASA Scorched Earth and spawn passages reviewed; direct species request returned 403.",
+      "asa": "ASA Scorched Earth includes Oil and Water Jug Bug variants. Shared species page marks both untameable and separates nonlethal resource collection from domestication. Mod variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, controls, refill behavior and numerical resource yields remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+
 // Original species summaries reviewed October 9, 2026.
 Object.assign(tamingGuides, {
   "Thylacoleo": {

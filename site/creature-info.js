@@ -2922,3 +2922,63 @@ Object.assign(generalHabitats,{
   "Lightning Wyvern": "Wyvern trenches and rocky nesting ravines on maps where Lightning Wyverns spawn. Nest availability is map-specific.",
   "Poison Wyvern": "Wyvern trenches and rocky nesting ravines on maps where Poison Wyverns spawn. Nest availability is map-specific."
 });
+
+// Fish Basket and wild-insect habitat review, October 21, 2026.
+Object.assign(creatureInfo,{
+  "Leech": {
+    "habitat": "Shallow swamp water and swamp caves on maps where Leeches occur.",
+    "behavior": "It waits in water, then leaps onto passing survivors or creatures. Fish Basket capture creates a limited one-use companion.",
+    "checked": "2026-10-21",
+    "scope": "Typical terrain and base Fish Basket behavior only; exhaustive official ASA map coverage pending.",
+    "sources": [["ARK Community Wiki: Leech","https://ark.wiki.gg/wiki/Leech"],["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"]],
+    "provenance": tamingGuides.Leech.provenance
+  },
+  "Diseased Leech": {
+    "habitat": "Shallow swamp water and swamp caves on maps where the Diseased variant occurs.",
+    "behavior": "A red-orange Leech variant that can transmit Swamp Fever; Fish Basket capture produces the same limited one-use companion behavior.",
+    "checked": "2026-10-21",
+    "scope": "Typical terrain and Diseased variant Fish Basket behavior only; exhaustive official ASA map coverage pending.",
+    "sources": [["ARK Community Wiki: Diseased Leech","https://ark.wiki.gg/wiki/Diseased_Leech"],["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"]],
+    "provenance": tamingGuides["Diseased Leech"].provenance
+  },
+  "Meganeura": {
+    "habitat": "Wet, heavily wooded terrain and some caves on maps where it occurs; Swamp Cave is a documented aggressive encounter.",
+    "behavior": "A small flying insect that is normally drawn to nearby corpses; Swamp Cave groups can attack without provocation. It is not tameable.",
+    "checked": "2026-10-21",
+    "scope": "Typical terrain only; exact official ASA map and cave eligibility pending.",
+    "sources": [["ARK Community Wiki: Meganeura","https://ark.wiki.gg/wiki/Meganeura"],["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides.Meganeura.provenance
+  },
+  "Titanomyrma": {
+    "habitat": "Grassy forests, caves and arid regions on maps where Drone and Soldier groups spawn.",
+    "behavior": "Aggressive Drones and flying Soldiers can swarm a target and drain stamina. They are not tameable.",
+    "checked": "2026-10-21",
+    "scope": "Typical terrain only; exact official ASA map coverage and group composition pending.",
+    "sources": [["ARK Community Wiki: Titanomyrma","https://ark.wiki.gg/wiki/Titanomyrma"],["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides.Titanomyrma.provenance
+  },
+  "Oil Jug Bug": {
+    "habitat": "Desert badlands, canyons, dunes and greener arid regions on maps where Oil Jug Bugs spawn.",
+    "behavior": "A passive, untameable resource insect that flies away after collection or attack; its oil can be collected without harming it.",
+    "checked": "2026-10-21",
+    "scope": "Typical arid terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [["ARK Community Wiki: Oil Jug Bug","https://ark.wiki.gg/wiki/Oil_Jug_Bug"],["ARK Community Wiki: Scorched Earth","https://ark.wiki.gg/wiki/Scorched_Earth"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides["Oil Jug Bug"].provenance
+  },
+  "Water Jug Bug": {
+    "habitat": "Desert badlands, canyons, dunes and greener arid regions on maps where Water Jug Bugs spawn.",
+    "behavior": "A passive, untameable resource insect that flies away after collection or attack; its water can be collected without harming it.",
+    "checked": "2026-10-21",
+    "scope": "Typical arid terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [["ARK Community Wiki: Water Jug Bug","https://ark.wiki.gg/wiki/Water_Jug_Bug"],["ARK Community Wiki: Scorched Earth","https://ark.wiki.gg/wiki/Scorched_Earth"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides["Water Jug Bug"].provenance
+  }
+});
+Object.assign(generalHabitats,{
+  "Leech": "Shallow swamp water and swamp caves on maps where Leeches occur.",
+  "Diseased Leech": "Shallow swamp water and swamp caves on maps where the Diseased Leech variant occurs.",
+  "Meganeura": "Wet, heavily wooded terrain and some caves on maps where Meganeura occurs; Swamp Cave groups are unusually aggressive.",
+  "Titanomyrma": "Grassy forests, caves and arid regions on maps where Drone and Soldier groups occur.",
+  "Oil Jug Bug": "Desert badlands, canyons, dunes and greener arid regions on maps where Oil Jug Bugs spawn.",
+  "Water Jug Bug": "Desert badlands, canyons, dunes and greener arid regions on maps where Water Jug Bugs spawn."
+});

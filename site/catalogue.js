@@ -1960,3 +1960,7 @@ for(const name of ["Glowbug","Seeker","Nameless","Eurypterid","Deathworm"]) Obje
 
 // Standard Wyvern variants use egg raising, reviewed October 20, 2026.
 for(const name of ["Ice Wyvern","Lightning Wyvern","Poison Wyvern"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Egg raising",guideReviewed:"2026-10-20"});
+
+// Fish Basket and wild-insect classifications reviewed October 21, 2026.
+for(const name of ["Leech","Diseased Leech"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Special tame",guideReviewed:"2026-10-21"});
+for(const name of ["Meganeura","Titanomyrma","Oil Jug Bug","Water Jug Bug"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-21"});
