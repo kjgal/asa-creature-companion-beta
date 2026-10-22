@@ -372,6 +372,129 @@ Object.assign(tamingGuides, {
   }
 });
 
+// Limited capture, wild encounter and reward-availability review, October 22, 2026.
+Object.assign(tamingGuides,{
+  "Lamprey": {
+    "method": "special",
+    "overview": "Capture a live Lamprey with a Fish Basket and release it as a limited tame. This is a special capture method rather than knockout or ordinary hand-feeding.",
+    "food": "No taming-food sequence is used. The Fish Basket performs the capture, and a released Lamprey is a one-use companion rather than a normally fed tame.",
+    "preparation": "Bring a Fish Basket and choose a safe underwater placement. Lampreys may latch onto a survivor or damage the basket, so control nearby threats and position carefully.",
+    "steps": ["Place the Fish Basket underwater near a live Lamprey","Wait until the basket is ready to capture","Use the basket prompt while the target is in reach","Release the filled basket in water"],
+    "specialAction": "A released Lamprey disappears from the tribe's tame count after latching. Capture positioning, platform prompts and the temporary effects of a latch remain pending rather than being quantified here.",
+    "tips": ["A released Lamprey disappears from the tribe's tame count after latching. Capture positioning, platform prompts and the temporary effects of a latch remain pending rather than being quantified here."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE base Lamprey where present; Fish Basket capture only, excluding mission, mod and admin-spawn routes.",
+    "sources": [["ARK Community Wiki: Lamprey","https://ark.wiki.gg/wiki/Lamprey"],["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"],["ARK Community Wiki: ASA patch 92.21","https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21"],["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": {
+      "access": "Indexed individual species, Fish Basket, ASA patch, biome and spawn passages reviewed; direct article requests returned 403.",
+      "asa": "Current species data identifies Fish Basket capture, and a 2026 ASA patch confirms the basket system remains active. App classification is special capture, not untameable or ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA maps, platform prompts, capture reliability and latch effects remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Attack Drone": {
+    "method": "not-tameable",
+    "overview": "Attack Drone is an untameable mechanical wild or boss-minion encounter in normal official play.",
+    "food": "No taming food: Attack Drone is not tameable in normal official play.",
+    "preparation": "Expect a hovering ranged attacker and keep cover or ranged damage available. Do not plan a knockout or feeding attempt.",
+    "steps": ["Identify the hovering drone before entering its firing area","Use cover and keep track of other arena or biome threats","Avoid it or defeat it to continue"],
+    "specialAction": "Attack Drones keep distance and fire while airborne. Overseer, Lunar and malfunctioned forms do not provide a normal official taming route.",
+    "tips": ["Attack Drones keep distance and fire while airborne. Overseer, Lunar and malfunctioned forms do not provide a normal official taming route."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE base encounter where present; boss, mission and malfunctioned context distinguished, with modded tameable versions excluded.",
+    "sources": [["ARK Community Wiki: Attack Drone","https://ark.wiki.gg/wiki/Attack_Drone"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"],["ARK Community Wiki: Overseer Arena","https://ark.wiki.gg/wiki/Overseer_Arena"]],
+    "provenance": {
+      "access": "Indexed individual species, arena, creature-list and spawn passages reviewed; direct article request returned 403.",
+      "asa": "Current creature data identifies Attack Drone as untameable and includes its Overseer/Lunar contexts. Genesis mission and mod variants are not treated as tameable base creatures.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA encounter locations, arena phases and numerical combat claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Defense Unit": {
+    "method": "not-tameable",
+    "overview": "Defense Unit is an untameable mechanical encounter in normal official play.",
+    "food": "No taming food: Defense Unit is not tameable in normal official play.",
+    "preparation": "Watch for its rolling approach and nearby mechanical or city threats. Keep distance and avoid provoking Sanctuary units unless you intend to fight.",
+    "steps": ["Notice a rolling or patrolling Defense Unit before closing distance","Check whether it is already engaged with another creature","Avoid it or defeat it without attempting a tame"],
+    "specialAction": "It rolls to close distance, then uncurls to attack. Sanctuary, Overseer, Lunar and malfunctioned forms do not have a normal official taming or crafting route.",
+    "tips": ["It rolls to close distance, then uncurls to attack. Sanctuary, Overseer, Lunar and malfunctioned forms do not have a normal official taming or crafting route."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE base encounter where present; boss and malfunctioned variants distinguished, with modded versions excluded.",
+    "sources": [["ARK Community Wiki: Defense Unit","https://ark.wiki.gg/wiki/Defense_Unit"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"],["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]],
+    "provenance": {
+      "access": "Indexed individual species, Extinction, arena and spawn passages reviewed; direct article request returned 403.",
+      "asa": "Current species data marks Defense Unit untameable and distinguishes Sanctuary, Overseer, Lunar and malfunctioned contexts. It is not equated with craftable Enforcer or Scout acquisition.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA encounter locations, aggression conditions and numerical combat claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Polar Bear": {
+    "method": "not-tameable",
+    "overview": "Polar Bear is the high-level cave variant of Dire Bear and cannot be tamed in normal official play.",
+    "food": "No taming food: the cave Polar Bear is not tameable. A white Dire Polar Bear is a different, tameable variant and is not covered by this encounter guide.",
+    "preparation": "Prepare for hard snow or ice cave conditions and a powerful close-range animal. Verify the name before assuming a white bear follows the normal Dire Bear guide.",
+    "steps": ["Confirm the target is named Polar Bear rather than Dire Polar Bear","Treat the cave animal as a hostile encounter","Avoid or defeat it without starting a knockout tame"],
+    "specialAction": "Variant identity matters: Polar Bear from the documented hard caves is untameable, while Dire Polar Bear follows normal Dire Bear taming rules.",
+    "tips": ["Variant identity matters: Polar Bear from the documented hard caves is untameable, while Dire Polar Bear follows normal Dire Bear taming rules."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE cave Polar Bear encounter where present; tameable Dire Polar Bear and other Dire Bear variants excluded.",
+    "sources": [["ARK Community Wiki: Polar Bear","https://ark.wiki.gg/wiki/Polar_Bear"],["ARK Community Wiki: Dire Bear","https://ark.wiki.gg/wiki/Dire_Bear"],["ARK Community Wiki: Snow Cave","https://ark.wiki.gg/wiki/Snow_Cave"],["ARK Community Wiki: Ice Cave","https://ark.wiki.gg/wiki/Ice_Cave"]],
+    "provenance": {
+      "access": "Indexed shared Dire Bear/Polar Bear and cave passages reviewed; direct article request returned 403.",
+      "asa": "Current shared species material separates untameable cave Polar Bear from tameable Dire Polar Bear and includes ASA-specific presentation notes.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA cave availability and practical combat details remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Yeti": {
+    "method": "not-tameable",
+    "overview": "Yeti is an untameable cave variant of Gigantopithecus in normal official play.",
+    "food": "No taming food: Yeti is not tameable. The passive Gigantopithecus method does not apply to this cave variant.",
+    "preparation": "Prepare for a hard snow-cave encounter and strong close-range aggression. Do not approach with berries expecting a Gigantopithecus feed prompt.",
+    "steps": ["Identify the white cave creature as Yeti","Keep distance or use the cave route's safe positioning","Avoid or defeat it without attempting a passive feed"],
+    "specialAction": "Yeti is distinct from tameable Gigantopithecus. Unintended baby-claim behavior and event variants are not presented as official acquisition methods.",
+    "tips": ["Yeti is distinct from tameable Gigantopithecus. Unintended baby-claim behavior and event variants are not presented as official acquisition methods."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE base Yeti cave encounter where present; event, mission, Mobile and unintended exploit paths excluded.",
+    "sources": [["ARK Community Wiki: Yeti","https://ark.wiki.gg/wiki/Yeti"],["ARK Community Wiki: Snow Cave","https://ark.wiki.gg/wiki/Snow_Cave"],["ARK Community Wiki: Caves","https://ark.wiki.gg/wiki/Caves"]],
+    "provenance": {
+      "access": "Indexed individual species and cave passages reviewed; direct article request returned 403.",
+      "asa": "Current species page explicitly includes ASA and marks the high-stat cave Yeti untameable. An unintended ASA baby-claim behavior is excluded from the guide.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA cave availability and practical combat details remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Rubble Golem": {
+    "method": "not-tameable",
+    "overview": "Rubble Golem is a smaller untameable Rock Elemental variant found as a cave or desert-region encounter.",
+    "food": "No taming food: Rubble Golem cannot be tamed in normal official play. The siege knockout method for Rock Elemental does not apply.",
+    "preparation": "Watch for small rock disguises in cave terrain and bring an escape or combat plan. Do not spend cannon or feeding supplies on a taming attempt.",
+    "steps": ["Scan cave terrain for rocks that may animate","Create distance when the Rubble Golem emerges","Avoid or defeat it without attempting a Rock Elemental tame"],
+    "specialAction": "Rubble Golem can hide as a small rock but remains a separate untameable variant. Do not confuse it with a full Rock Elemental.",
+    "tips": ["Rubble Golem can hide as a small rock but remains a separate untameable variant. Do not confuse it with a full Rock Elemental."],
+    "checked": "2026-10-22",
+    "scope": "ASA official PvE Rubble Golem wild encounter where present; Rock, Ice, Chalk, Lava and mod variants excluded.",
+    "sources": [["ARK Community Wiki: Rubble Golem","https://ark.wiki.gg/wiki/Rubble_Golem"],["ARK Community Wiki: Rock Elemental","https://ark.wiki.gg/wiki/Rock_Elemental"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": {
+      "access": "Indexed shared Rock Elemental/Rubble Golem and spawn passages reviewed; direct article request returned 403.",
+      "asa": "Current shared variant section identifies Rubble Golem as untameable and documents cave availability. Tameable Rock Elemental and other variants are separated.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA caves, disguise behavior and numerical combat claims remain pending. Original encounter wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Scrap Golem": {
+    "method": "acquisition",
+    "overview": "Scrap Golem is a reward-acquired Rock Elemental variant rather than a normal wild tame. The documented Mad Mark Club ARK reward route is currently unavailable, so new acquisition remains pending until that mission returns or another official route is announced.",
+    "food": "No taming-food sequence is used for acquisition. Post-acquisition diet follows the reward creature's in-game behavior, but current upkeep details remain pending.",
+    "preparation": "Check current Club ARK mission availability before planning around this creature. The previous route required access to Bob's Tall Tales content and the Mad Mark mission.",
+    "steps": ["Check whether Mad Mark is currently offered in Club ARK","If it returns, complete the documented mission through its official interface","Claim and verify the Scrap Golem reward in game"],
+    "specialAction": "Do not search for a wild habitat or attempt a Rock Elemental knockout. The historical reward was described as rare, but no chance or repeat count is used here; the current reference says the mission is unavailable.",
+    "tips": ["Do not search for a wild habitat or attempt a Rock Elemental knockout. The historical reward was described as rare, but no chance or repeat count is used here; the current reference says the mission is unavailable."],
+    "checked": "2026-10-22",
+    "scope": "ASA official reward acquisition only; current availability pending, with admin, mod and wild-spawn assumptions excluded.",
+    "sources": [["Studio Wildcard: Club ARK Wasteland update","https://survivetheark.com/index.php?/forums/topic/769859-community-crunch-443-club-ark-update-community-creature-submission/"],["ARK Community Wiki: Scrap Golem","https://ark.wiki.gg/wiki/Scrap_Golem"],["ARK Community Wiki: Club ARK missions","https://ark.wiki.gg/wiki/Club_ARK/Missions"],["ARK Community Wiki: Taming","https://ark.wiki.gg/wiki/Taming"]],
+    "provenance": {
+      "access": "Official announcement plus indexed species, mission and acquisition passages reviewed; direct wiki article request returned 403.",
+      "asa": "Studio Wildcard announced Scrap Golem as a rare Mad Mark reward in ASA. Current wiki acquisition material says that mission is no longer available, so the guide retains the route as historical/currently unavailable rather than claiming a live tame.",
+      "comparisonLimitations": "Current mission return date, alternate official routes, reward delivery, transfer restrictions, upkeep and numerical reward chance are not asserted. Full article/revision/contributor comparison remains pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+
 // Fish Basket capture and untameable insect encounter review, October 21, 2026.
 Object.assign(tamingGuides,{
   "Leech": {

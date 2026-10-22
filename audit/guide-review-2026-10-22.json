@@ -1,0 +1,77 @@
+{
+  "reviewed": "2026-10-22",
+  "audience": "Public, free, noncommercial GitHub beta for official PvE; archived private Site unchanged.",
+  "addedGuides": [
+    {
+      "name": "Lamprey",
+      "classification": "special Fish Basket capture",
+      "sources": ["https://ark.wiki.gg/wiki/Lamprey", "https://ark.wiki.gg/wiki/Fish_Basket", "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/92.21", "https://ark.wiki.gg/wiki/Biomes", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "Fish Basket capture produces a limited one-use companion; the guide does not treat latching as ordinary permanent taming.",
+      "comparisonLimitations": "Direct pages returned 403. Full article/revision/contributor comparison, map coverage, platform prompts, capture reliability and latch effects remain pending."
+    },
+    {
+      "name": "Attack Drone",
+      "classification": "not tameable",
+      "sources": ["https://ark.wiki.gg/wiki/Attack_Drone", "https://ark.wiki.gg/wiki/Spawn_entries", "https://ark.wiki.gg/wiki/Overseer_Arena"],
+      "finding": "Untameable hovering ranged encounter; Overseer, Lunar and malfunctioned contexts are not converted into a base taming route.",
+      "comparisonLimitations": "Direct page returned 403. Full article/revision/contributor comparison, exhaustive current encounters and numerical combat claims remain pending."
+    },
+    {
+      "name": "Defense Unit",
+      "classification": "not tameable",
+      "sources": ["https://ark.wiki.gg/wiki/Defense_Unit", "https://ark.wiki.gg/wiki/Extinction", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "Untameable rolling mechanical encounter in Sanctuary, Overseer and Lunar contexts; not equated with craftable Enforcer or Scout.",
+      "comparisonLimitations": "Direct page returned 403. Full article/revision/contributor comparison, exhaustive current encounters and numerical combat claims remain pending."
+    },
+    {
+      "name": "Polar Bear",
+      "classification": "not tameable cave variant",
+      "sources": ["https://ark.wiki.gg/wiki/Polar_Bear", "https://ark.wiki.gg/wiki/Dire_Bear", "https://ark.wiki.gg/wiki/Snow_Cave", "https://ark.wiki.gg/wiki/Ice_Cave"],
+      "finding": "The cave Polar Bear is untameable and is distinct from the tameable Dire Polar Bear.",
+      "comparisonLimitations": "Direct page returned 403. Full article/revision/contributor comparison, exhaustive ASA cave availability and practical combat details remain pending."
+    },
+    {
+      "name": "Yeti",
+      "classification": "not tameable cave variant",
+      "sources": ["https://ark.wiki.gg/wiki/Yeti", "https://ark.wiki.gg/wiki/Snow_Cave", "https://ark.wiki.gg/wiki/Caves"],
+      "finding": "The cave Yeti is an untameable Gigantopithecus variant; event, mission and unintended baby-claim paths are excluded.",
+      "comparisonLimitations": "Direct page returned 403. Full article/revision/contributor comparison, exhaustive ASA cave availability and practical combat details remain pending."
+    },
+    {
+      "name": "Rubble Golem",
+      "classification": "not tameable variant",
+      "sources": ["https://ark.wiki.gg/wiki/Rubble_Golem", "https://ark.wiki.gg/wiki/Rock_Elemental", "https://ark.wiki.gg/wiki/Spawn_entries"],
+      "finding": "The small rock-disguised variant is untameable; the Rock Elemental siege knockout route does not apply.",
+      "comparisonLimitations": "Direct page returned 403. Full article/revision/contributor comparison, exhaustive ASA caves and numerical combat claims remain pending."
+    },
+    {
+      "name": "Scrap Golem",
+      "classification": "reward acquisition, currently unavailable",
+      "sources": ["https://survivetheark.com/index.php?/forums/topic/769859-community-crunch-443-club-ark-update-community-creature-submission/", "https://ark.wiki.gg/wiki/Scrap_Golem", "https://ark.wiki.gg/wiki/Club_ARK/Missions", "https://ark.wiki.gg/wiki/Taming"],
+      "finding": "Studio Wildcard introduced Scrap Golem as a Mad Mark Club ARK reward. Current wiki acquisition material says the mission is unavailable, so no live acquisition claim or wild habitat is shown.",
+      "comparisonLimitations": "Direct wiki page returned 403. Mission return date, alternate routes, delivery, transfer restrictions, upkeep and numerical reward chance are not asserted."
+    }
+  ],
+  "officialReview": {
+    "source": "https://survivetheark.com/",
+    "checked": "2026-10-22",
+    "latestAnnouncement": "Community Crunch 528: Not Quite What It Seems",
+    "finding": "No later creature-release announcement appeared in the checked official index. Enigmasaur and the Giganotosaurus TLC remain announced for November 6 and were not treated as currently available additions."
+  },
+  "habitats": {
+    "newGeneral": ["Lamprey", "Attack Drone", "Defense Unit", "Polar Bear", "Yeti", "Rubble Golem", "Scrap Golem"],
+    "newAberration": ["Lamprey"],
+    "limitations": "Typical waters, arena/Lunar/Sanctuary contexts, hard caves and Rubble cave/desert encounters only where present. Scrap Golem is availability wording, not a wild habitat. Lamprey's Aberration note distinguishes native regular Lamprey from an Aberrant variant."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuidesIncludingEncounterAndAcquisition": 160,
+    "missingGuides": 42,
+    "generalHabitatEntries": 118,
+    "aberrationHabitatEntries": 23,
+    "creatureInfoRecords": 138
+  },
+  "comparisonLimitations": "Indexed individual/shared species, Fish Basket, Biomes, Spawn entries, cave, mission and ASA patch material plus an official announcement were reviewed because direct article retrieval returned 403. Full article/revision/contributor comparison, exhaustive official ASA coverage, firsthand interaction testing and numerical formulas remain pending. No imported competitor text, datasets, artwork, calculator code or invented numerical claims.",
+  "ownerQuestions": [],
+  "preserved": "Original pixel artwork, approved footprint icons and manifest, relative asset paths, interface and companion bubbles, generalized About source/contributor/license/video notices, metadata-only individual URLs, anonymous suggestions including Concavenator Tek Rifle, public beta/noindex, official-rate.json workflow/manual fallback, rights findings and archived private Site state preserved."
+}

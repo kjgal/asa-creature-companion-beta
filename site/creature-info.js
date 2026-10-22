@@ -2982,3 +2982,76 @@ Object.assign(generalHabitats,{
   "Oil Jug Bug": "Desert badlands, canyons, dunes and greener arid regions on maps where Oil Jug Bugs spawn.",
   "Water Jug Bug": "Desert badlands, canyons, dunes and greener arid regions on maps where Water Jug Bugs spawn."
 });
+
+// Limited capture, encounter and reward availability habitats reviewed October 22, 2026.
+Object.assign(creatureInfo,{
+  "Lamprey": {
+    "habitat": "Underground waters on maps where Lampreys occur, including Aberration's blue and red-region water spawns.",
+    "behavior": "An aggressive aquatic animal that can latch onto survivors. Fish Basket capture creates a limited one-use companion.",
+    "checked": "2026-10-22",
+    "scope": "Typical waters only; exhaustive official ASA map coverage and latch effects pending.",
+    "sources": [["ARK Community Wiki: Lamprey","https://ark.wiki.gg/wiki/Lamprey"],["ARK Community Wiki: Fish Basket","https://ark.wiki.gg/wiki/Fish_Basket"],["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides.Lamprey.provenance
+  },
+  "Attack Drone": {
+    "habitat": "Overseer-arena and Lunar-biome encounters where Attack Drones are present; not a universal wild-map spawn.",
+    "behavior": "A hovering ranged mechanical attacker that keeps distance. It is not tameable.",
+    "checked": "2026-10-22",
+    "scope": "Typical official encounter contexts only; mission and mod variants excluded.",
+    "sources": [["ARK Community Wiki: Attack Drone","https://ark.wiki.gg/wiki/Attack_Drone"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides["Attack Drone"].provenance
+  },
+  "Defense Unit": {
+    "habitat": "Sanctuary on Extinction, the Overseer arena and Lunar-biome encounters where Defense Units occur.",
+    "behavior": "A mechanical unit that rolls to approach before uncurling to attack. It is not tameable or craftable.",
+    "checked": "2026-10-22",
+    "scope": "Typical official encounter contexts only; mission and mod variants excluded.",
+    "sources": [["ARK Community Wiki: Defense Unit","https://ark.wiki.gg/wiki/Defense_Unit"],["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides["Defense Unit"].provenance
+  },
+  "Polar Bear": {
+    "habitat": "Hard snow and ice caves where the untameable Polar Bear variant occurs.",
+    "behavior": "A hostile cave Dire Bear variant. It is distinct from the tameable white Dire Polar Bear.",
+    "checked": "2026-10-22",
+    "scope": "Untameable cave variant only; tameable Dire Polar Bear excluded.",
+    "sources": [["ARK Community Wiki: Polar Bear","https://ark.wiki.gg/wiki/Polar_Bear"],["ARK Community Wiki: Snow Cave","https://ark.wiki.gg/wiki/Snow_Cave"],["ARK Community Wiki: Ice Cave","https://ark.wiki.gg/wiki/Ice_Cave"]],
+    "provenance": tamingGuides["Polar Bear"].provenance
+  },
+  "Yeti": {
+    "habitat": "Hard snow-cave terrain on maps where the Yeti encounter occurs.",
+    "behavior": "A highly aggressive, untameable Gigantopithecus variant.",
+    "checked": "2026-10-22",
+    "scope": "Base cave Yeti only; event, mission, Mobile and unintended acquisition paths excluded.",
+    "sources": [["ARK Community Wiki: Yeti","https://ark.wiki.gg/wiki/Yeti"],["ARK Community Wiki: Snow Cave","https://ark.wiki.gg/wiki/Snow_Cave"]],
+    "provenance": tamingGuides.Yeti.provenance
+  },
+  "Rubble Golem": {
+    "habitat": "Caves and some desert-region encounters on maps where the smaller Rubble Golem variant occurs.",
+    "behavior": "It can disguise itself as a small rock before attacking. It is not tameable.",
+    "checked": "2026-10-22",
+    "scope": "Untameable Rubble variant only; full Rock Elemental and other variants excluded.",
+    "sources": [["ARK Community Wiki: Rubble Golem","https://ark.wiki.gg/wiki/Rubble_Golem"],["ARK Community Wiki: Rock Elemental","https://ark.wiki.gg/wiki/Rock_Elemental"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides["Rubble Golem"].provenance
+  },
+  "Scrap Golem": {
+    "habitat": "No normal wild habitat. It was distributed as a Club ARK Mad Mark reward when that mission was available.",
+    "behavior": "A reward-acquired Rock Elemental variant; current new-acquisition availability is pending because the documented mission is unavailable.",
+    "acquisition": "Check whether Mad Mark is currently offered in Club ARK. If the mission returns, complete it through the official interface and claim the Scrap Golem reward. No wild knockout route is documented.",
+    "checked": "2026-10-22",
+    "scope": "Official ASA reward availability only; no wild, admin or mod route implied.",
+    "sources": [["Studio Wildcard: Club ARK Wasteland update","https://survivetheark.com/index.php?/forums/topic/769859-community-crunch-443-club-ark-update-community-creature-submission/"],["ARK Community Wiki: Scrap Golem","https://ark.wiki.gg/wiki/Scrap_Golem"],["ARK Community Wiki: Club ARK missions","https://ark.wiki.gg/wiki/Club_ARK/Missions"]],
+    "provenance": tamingGuides["Scrap Golem"].provenance
+  }
+});
+Object.assign(generalHabitats,{
+  "Lamprey": "Underground waters on maps where Lampreys occur; on Aberration this includes blue and red-region water spawns.",
+  "Attack Drone": "Overseer-arena and Lunar-biome encounters where Attack Drones are present; not a universal wild-map spawn.",
+  "Defense Unit": "Sanctuary on Extinction, the Overseer arena and Lunar-biome encounters where Defense Units occur.",
+  "Polar Bear": "Hard snow and ice caves where the untameable Polar Bear variant occurs; not the tameable Dire Polar Bear.",
+  "Yeti": "Hard snow-cave terrain on maps where the untameable Yeti encounter occurs.",
+  "Rubble Golem": "Caves and some desert-region encounters on maps where the smaller untameable variant occurs.",
+  "Scrap Golem": "No normal wild habitat; it was a Club ARK Mad Mark reward when that mission was available."
+});
+Object.assign(aberrationHabitats,{
+  "Lamprey": "On Aberration, native Lampreys are documented in blue (Bioluminescent) waters and red (Element) waters. This is the regular Lamprey, not a separate Aberrant variant; exact regional coverage remains map-specific."
+});

@@ -1964,3 +1964,8 @@ for(const name of ["Ice Wyvern","Lightning Wyvern","Poison Wyvern"]) Object.assi
 // Fish Basket and wild-insect classifications reviewed October 21, 2026.
 for(const name of ["Leech","Diseased Leech"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Special tame",guideReviewed:"2026-10-21"});
 for(const name of ["Meganeura","Titanomyrma","Oil Jug Bug","Water Jug Bug"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-21"});
+
+// Limited capture, encounter and reward classifications reviewed October 22, 2026.
+Object.assign(creatureCatalogue.find(c=>c.name==="Lamprey"),{acquisition:"Special tame",guideReviewed:"2026-10-22"});
+for(const name of ["Attack Drone","Defense Unit","Polar Bear","Yeti","Rubble Golem"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-22"});
+Object.assign(creatureCatalogue.find(c=>c.name==="Scrap Golem"),{acquisition:"Crafted / rewarded",guideReviewed:"2026-10-22"});
