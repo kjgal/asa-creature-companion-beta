@@ -372,6 +372,166 @@ Object.assign(tamingGuides, {
   }
 });
 
+// Original temporary-Titan, hard-knockout and Reaper acquisition summaries reviewed October 23, 2026.
+Object.assign(tamingGuides,{
+  "Desert Titan": {
+    "method": "special",
+    "overview": "Summon the Desert Titan on Extinction, then cleanse its corruption nodes while avoiding unnecessary damage to the Titan. A successfully cleansed Titan becomes a temporary tame rather than a permanent creature.",
+    "food": "No taming food is used. The checked method is corruption-node cleansing; a tamed Titan cannot be maintained with normal feeding on official settings.",
+    "preparation": "Prepare the Desert Cave tribute separately, then bring a safe way to work around a flying boss, accurate ranged damage and protection from its flock and lightning. Exact tribute quantities and weapon budgets are intentionally not reproduced here.",
+    "steps": [
+      "Use the Desert Titan terminal to begin the encounter",
+      "Bait the Titan's lightning onto a wing corruption node so it becomes vulnerable",
+      "Damage the exposed wing nodes while minimizing hits to the Titan",
+      "After the wings are cleansed, expose and clear the tail node, then claim the subdued Titan"
+    ],
+    "specialAction": "The tail node does not become lightning-vulnerable until the wing nodes are cleansed. Damage to the Titan itself reduces the quality of the resulting tame. Treat the result as temporary on official servers.",
+    "tips": ["The tail node does not become lightning-vulnerable until the wing nodes are cleansed. Damage to the Titan itself reduces the quality of the resulting tame. Treat the result as temporary on official servers."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction boss tame; exact tribute, damage, health and lifetime numbers withheld pending formula-level verification.",
+    "sources": [
+      ["ARK Community Wiki: Desert Titan","https://ark.wiki.gg/wiki/Desert_Titan"],
+      ["ARK Community Wiki: Titans","https://ark.wiki.gg/wiki/Titans"],
+      ["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]
+    ],
+    "provenance": {
+      "access": "Individually indexed Desert Titan, Titans and Extinction passages reviewed; full direct article comparison remained unavailable.",
+      "asa": "The species page's ASA changelog and Extinction availability were checked. The corruption-node method is classified as special, not knockout or passive feeding, and official temporary-tame behavior is stated without a countdown.",
+      "comparisonLimitations": "Full revision/contributor comparison, exact tribute requirements, weapon efficiency, controller inputs, tame quality formula and current lifetime timing remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Forest Titan": {
+    "method": "special",
+    "overview": "Summon the Forest Titan on Extinction, then destroy its corruption nodes in sequence while limiting damage to the Titan. Interact with the subdued Titan to receive a temporary tame.",
+    "food": "No taming food is used. This is corruption-node cleansing, and normal feeding does not turn the official-server result into a permanent tame.",
+    "preparation": "Prepare the Forest Cave tribute separately. Bring accurate ranged damage, mobility for its roots and wide attacks, and enough protection to survive the arena. Exact tribute and ammunition quantities remain pending.",
+    "steps": [
+      "Use the Forest Titan terminal to begin the encounter",
+      "Destroy the corruption nodes on both shoulders",
+      "When the chin node appears, destroy it while avoiding body damage",
+      "Interact with the fallen Titan to complete the temporary tame"
+    ],
+    "specialAction": "The chin node appears only after both shoulder nodes are cleared. Its attack pattern changes as nodes are removed, so reassess the arena after each stage.",
+    "tips": ["The chin node appears only after both shoulder nodes are cleared. Its attack pattern changes as nodes are removed, so reassess the arena after each stage."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction boss tame; exact tribute, damage, health and lifetime numbers withheld pending formula-level verification.",
+    "sources": [
+      ["ARK Community Wiki: Forest Titan","https://ark.wiki.gg/wiki/Forest_Titan"],
+      ["ARK Community Wiki: Titans","https://ark.wiki.gg/wiki/Titans"],
+      ["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]
+    ],
+    "provenance": {
+      "access": "Individually indexed Forest Titan, Titans and Extinction passages reviewed; the Forest Titan article excerpt exposed the full node sequence and ASA changelog.",
+      "asa": "ASA Extinction availability and species-specific ASA fixes were reviewed. Special classification separates node cleansing from torpor knockout and ordinary feeding.",
+      "comparisonLimitations": "Full revision/contributor comparison, exact tribute requirements, damage efficiencies, platform inputs, tame quality formula and current lifetime timing remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Ice Titan": {
+    "method": "special",
+    "overview": "Summon the Ice Titan on Extinction, then destroy its corruption nodes in their required order while keeping it near the arena. Interact after the final node is cleared to receive a temporary tame.",
+    "food": "No taming food is used. The checked route is sequential corruption-node damage; normal feeding does not make the official-server Titan permanent.",
+    "preparation": "Prepare the Snow Dome encounter tribute separately. Bring accurate ranged damage, cold protection and mobility for its freezing and ground attacks. Exact tribute and ammunition quantities remain pending.",
+    "steps": [
+      "Use the Ice Titan terminal to begin the encounter",
+      "Destroy the corruption node on its right ankle",
+      "Destroy the right-shoulder node, then the chest node",
+      "Interact with the subdued Titan to complete the temporary tame"
+    ],
+    "specialAction": "The verified order is right ankle, right shoulder, then chest. If the Titan is pulled too far from its arena, node progress can reset; keep the encounter centered.",
+    "tips": ["The verified order is right ankle, right shoulder, then chest. If the Titan is pulled too far from its arena, node progress can reset; keep the encounter centered."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction boss tame; exact tribute, damage, health and lifetime numbers withheld pending formula-level verification.",
+    "sources": [
+      ["ARK Community Wiki: Ice Titan","https://ark.wiki.gg/wiki/Ice_Titan"],
+      ["ARK Community Wiki: Titans","https://ark.wiki.gg/wiki/Titans"],
+      ["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]
+    ],
+    "provenance": {
+      "access": "Individually indexed Ice Titan, Titans and Extinction passages reviewed; the Ice Titan excerpt exposed the node order and arena-reset warning.",
+      "asa": "ASA Extinction availability and the species page's ASA context were checked. Special classification separates node cleansing from a torpor knockout.",
+      "comparisonLimitations": "Full revision/contributor comparison, exact tribute requirements, node health, damage efficiencies, platform inputs, tame quality formula and current lifetime timing remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Titanosaur": {
+    "method": "knockout",
+    "overview": "Knock out the Titanosaur by landing hard-projectile hits on its head, then place its platform saddle to claim it. Ordinary tranquilizers, narcotics and food are not the taming route; on official servers it is a temporary tame.",
+    "food": "No taming food or narcotic is used. The official-server tame cannot be maintained by normal feeding.",
+    "preparation": "Bring a Titanosaur Platform Saddle and a mobile, carefully aimed hard-projectile setup. Cannon headshots are the checked efficient route. Clear fragile structures and valuable creatures from its path before provoking it.",
+    "steps": [
+      "Choose an open area and position the hard-projectile weapon for head shots",
+      "Strike the head and watch for the distinct successful torpor reaction",
+      "Keep repositioning and landing head hits until the Titanosaur falls unconscious",
+      "Place the platform saddle to claim the temporary tame"
+    ],
+    "specialAction": "Only well-placed hard-projectile hits to the head add the intended torpor. Avoid body hits and do not rely on a conventional trap or tranquilizer checklist.",
+    "tips": ["Only well-placed hard-projectile hits to the head add the intended torpor. Avoid body hits and do not rely on a conventional trap or tranquilizer checklist."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE base species where present; temporary-tame duration, projectile counts and exact map limits withheld pending independent numerical checks.",
+    "sources": [
+      ["ARK Community Wiki: Titanosaur","https://ark.wiki.gg/wiki/Titanosaur"],
+      ["ARK Community Wiki: Taming","https://ark.wiki.gg/wiki/Taming"],
+      ["ARK Community Wiki: Cannon Ball","https://ark.wiki.gg/wiki/Cannon_Ball"]
+    ],
+    "provenance": {
+      "access": "Individually indexed Titanosaur, Taming and Cannon Ball passages reviewed; redirect variants were compared for the same hard-head method.",
+      "asa": "The species article explicitly identifies ASA context and official temporary-tame behavior. Knockout classification is retained because torpor is applied, while the guide distinguishes its hard-head route from standard tranqs.",
+      "comparisonLimitations": "Full revision/contributor comparison, exhaustive current ASA map spawns, projectile alternatives, trap behavior, torpor formulas, shot counts and lifetime timing remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Reaper King": {
+    "method": "acquisition",
+    "overview": "Acquire a tame Reaper King as offspring from a wild Reaper Queen's impregnation sequence. Wild Kings are not direct tame targets, and this is neither breeding nor ordinary knockout taming.",
+    "food": "Prepare raw meat for the newborn's raising stage. Reaper Pheromone Glands can protect survivors and creatures from the hostile baby, but are no longer required merely to claim it.",
+    "preparation": "Bring radiation protection, charge light for the fight, a controlled retreat area and supplies for the newborn. Obtain Pheromone Glands from a dead Queen if you want their protective effect during the baby stage.",
+    "steps": [
+      "Find a wild Reaper Queen in an eligible deep-region encounter",
+      "Weaken the Queen until she shows the impregnation-ready effect",
+      "Turn off charge light and allow her successful grab to implant the embryo",
+      "Leave radiation, prepare a contained birth area, then claim and raise the newborn King"
+    ],
+    "specialAction": "The Queen must survive long enough to perform the grab, and charge light must be off for the impregnation attempt. Radiation can end the pregnancy. Exact health thresholds, gestation timing and experience bonuses remain pending.",
+    "tips": ["The Queen must survive long enough to perform the grab, and charge light must be off for the impregnation attempt. Radiation can end the pregnancy. Exact health thresholds, gestation timing and experience bonuses remain pending."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE regular Reaper King acquisition through a wild Reaper Queen; R, Surface, Subterranean, mission and mod variants excluded.",
+    "sources": [
+      ["Studio Wildcard: Aberration Ascended launch","https://survivetheark.com/index.php?/articles.html/aberration-ascended-and-bobs-tall-tales-steampunk-ascent-are-now-live-r2366/"],
+      ["ARK Community Wiki: Reaper","https://ark.wiki.gg/wiki/Reaper"],
+      ["ARK Community Wiki: Reaper Pheromone Gland","https://ark.wiki.gg/wiki/Reaper_Pheromone_Gland"]
+    ],
+    "provenance": {
+      "access": "Official Aberration Ascended launch text and individually indexed Reaper and Pheromone Gland passages reviewed.",
+      "asa": "Studio Wildcard explicitly describes the Reaper Queen impregnation route for Aberration Ascended. Acquisition classification separates the born tame King from untameable wild King and Queen variants.",
+      "comparisonLimitations": "Full revision/contributor comparison, exact weakening threshold, gestation, bonus levels, food quantities, imprint schedule and platform inputs remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Reaper Queen": {
+    "method": "not-tameable",
+    "overview": "A wild Reaper Queen is not directly tameable in normal official play. It is the encounter used to acquire a Reaper King through impregnation, not a female tame that joins the tribe.",
+    "food": "No taming food: the wild Queen is not a tame target. Raw meat is for raising the resulting King, not feeding the Queen.",
+    "preparation": "Bring radiation protection, charge light, a controlled fighting area and a safe exit. If pursuing a King, prepare separately for the impregnation and newborn stages.",
+    "steps": [
+      "Locate a wild Queen in an eligible deep Element-region encounter",
+      "Use charge light while controlling and weakening the threat",
+      "Either defeat it as an encounter or follow the separate King-acquisition sequence",
+      "Do not expect the Queen itself to become a tame"
+    ],
+    "specialAction": "Turning charge light off at the correct stage enables her impregnation grab for King acquisition. That action does not tame the Queen.",
+    "tips": ["Turning charge light off at the correct stage enables her impregnation grab for King acquisition. That action does not tame the Queen."],
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE regular Reaper Queen encounter on Aberration; R, Alpha, mission and mod variants excluded.",
+    "sources": [
+      ["Studio Wildcard: Aberration Ascended launch","https://survivetheark.com/index.php?/articles.html/aberration-ascended-and-bobs-tall-tales-steampunk-ascent-are-now-live-r2366/"],
+      ["ARK Community Wiki: Reaper","https://ark.wiki.gg/wiki/Reaper"],
+      ["ARK Community Wiki: Reaper Pheromone Gland","https://ark.wiki.gg/wiki/Reaper_Pheromone_Gland"]
+    ],
+    "provenance": {
+      "access": "Official Aberration Ascended launch text and individually indexed Reaper and Pheromone Gland passages reviewed.",
+      "asa": "Official ASA launch wording verifies the Queen-to-King acquisition interaction. The Queen remains an untameable encounter entry, while the offspring has its own acquisition guide.",
+      "comparisonLimitations": "Full revision/contributor comparison, exact weakening threshold, damage strategies, platform inputs and exhaustive map eligibility remain pending. Original summary only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+
 // Limited capture, wild encounter and reward-availability review, October 22, 2026.
 Object.assign(tamingGuides,{
   "Lamprey": {
@@ -4915,3 +5075,4 @@ Object.assign(tamingGuides,{
     }
   }
 });
+

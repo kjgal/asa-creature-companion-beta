@@ -3055,3 +3055,69 @@ Object.assign(generalHabitats,{
 Object.assign(aberrationHabitats,{
   "Lamprey": "On Aberration, native Lampreys are documented in blue (Bioluminescent) waters and red (Element) waters. This is the regular Lamprey, not a separate Aberrant variant; exact regional coverage remains map-specific."
 });
+
+// Temporary Titan, Titanosaur and Reaper habitat/availability review, October 23, 2026.
+Object.assign(creatureInfo,{
+  "Desert Titan": {
+    "habitat": "A summoned Extinction boss fought in the Desert Dome after using the Desert Titan terminal; it is not an ordinary roaming spawn.",
+    "behavior": "A flying Titan protected by flocks and lightning. Cleansing its corruption nodes can produce a temporary tame.",
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction encounter; exact terminal tribute and arena bounds pending.",
+    "sources": [["ARK Community Wiki: Desert Titan","https://ark.wiki.gg/wiki/Desert_Titan"],["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]],
+    "provenance": tamingGuides["Desert Titan"].provenance
+  },
+  "Forest Titan": {
+    "habitat": "A summoned Extinction boss in the Crater Forest/Sunken Forest region, reached through the Forest Titan terminal; it is not an ordinary roaming spawn.",
+    "behavior": "A ground Titan with wide melee and root attacks. Cleansing its ordered corruption nodes can produce a temporary tame.",
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction encounter; exact terminal tribute and arena bounds pending.",
+    "sources": [["ARK Community Wiki: Forest Titan","https://ark.wiki.gg/wiki/Forest_Titan"],["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]],
+    "provenance": tamingGuides["Forest Titan"].provenance
+  },
+  "Ice Titan": {
+    "habitat": "A summoned Extinction boss fought in the Snow Dome after using its terminal; it is not an ordinary roaming spawn.",
+    "behavior": "A mobile ground Titan with freezing attacks. Cleansing its ordered corruption nodes can produce a temporary tame.",
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE Extinction encounter; exact terminal tribute and arena bounds pending.",
+    "sources": [["ARK Community Wiki: Ice Titan","https://ark.wiki.gg/wiki/Ice_Titan"],["ARK Community Wiki: Extinction","https://ark.wiki.gg/wiki/Extinction"]],
+    "provenance": tamingGuides["Ice Titan"].provenance
+  },
+  "Titanosaur": {
+    "habitat": "Very large open terrain on maps where Titanosaurs spawn; exact regions differ by map and are not implied universally.",
+    "behavior": "A normally neutral roaming giant that becomes extremely destructive when provoked. A hard-projectile head knockout yields a temporary official-server tame.",
+    "checked": "2026-10-23",
+    "scope": "Typical open terrain only where present; exhaustive official ASA map coverage pending.",
+    "sources": [["ARK Community Wiki: Titanosaur","https://ark.wiki.gg/wiki/Titanosaur"],["ARK Community Wiki: Spawn entries","https://ark.wiki.gg/wiki/Spawn_entries"]],
+    "provenance": tamingGuides.Titanosaur.provenance
+  },
+  "Reaper King": {
+    "habitat": "On Aberration, wild King variants occur in underground and surface encounter contexts; a tame regular King is acquired as Queen offspring rather than found as a tameable wild spawn.",
+    "behavior": "Wild Kings are aggressive encounters. The player-acquired regular King is born from a wild Queen's embryo and raised.",
+    "acquisition": "Find and weaken an eligible wild Reaper Queen, allow her impregnation grab with charge light off, leave radiation, then claim and raise the newborn Reaper King.",
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE regular King acquisition; wild variants and other maps remain separate.",
+    "sources": [["Studio Wildcard: Aberration Ascended launch","https://survivetheark.com/index.php?/articles.html/aberration-ascended-and-bobs-tall-tales-steampunk-ascent-are-now-live-r2366/"],["ARK Community Wiki: Reaper","https://ark.wiki.gg/wiki/Reaper"]],
+    "provenance": tamingGuides["Reaper King"].provenance
+  },
+  "Reaper Queen": {
+    "habitat": "Aberration's deep red Element Region where regular wild Queens occur; this is not a green/Fertile or blue/Bioluminescent native spawn claim.",
+    "behavior": "A highly aggressive, untameable wild female. Its impregnation interaction is the route to a tame Reaper King, not to a tame Queen.",
+    "checked": "2026-10-23",
+    "scope": "ASA official PvE regular Queen on Aberration; R, Alpha, mission and mod variants excluded.",
+    "sources": [["Studio Wildcard: Aberration Ascended launch","https://survivetheark.com/index.php?/articles.html/aberration-ascended-and-bobs-tall-tales-steampunk-ascent-are-now-live-r2366/"],["ARK Community Wiki: Reaper","https://ark.wiki.gg/wiki/Reaper"],["ARK Community Wiki: Biomes","https://ark.wiki.gg/wiki/Biomes"]],
+    "provenance": tamingGuides["Reaper Queen"].provenance
+  }
+});
+Object.assign(generalHabitats,{
+  "Desert Titan": "A summoned Extinction boss fought in the Desert Dome after using the Desert Titan terminal; not an ordinary roaming spawn.",
+  "Forest Titan": "A summoned Extinction boss in the Crater Forest/Sunken Forest region, reached through the Forest Titan terminal.",
+  "Ice Titan": "A summoned Extinction boss fought in the Snow Dome after using the Ice Titan terminal; not an ordinary roaming spawn.",
+  "Titanosaur": "Very large open terrain on maps where Titanosaurs spawn; exact regions differ by map.",
+  "Reaper King": "Wild King variants occur in map-specific underground and surface encounters; tame regular Kings are acquired as Queen offspring.",
+  "Reaper Queen": "Deep red Element-region terrain on Aberration where regular wild Queens occur."
+});
+Object.assign(aberrationHabitats,{
+  "Reaper King": "On Aberration, wild Surface Kings occur on the surface and Subterranean Kings can emerge underground. A tame regular King is acquired from a Queen rather than directly tamed from either wild form.",
+  "Reaper Queen": "On Aberration, regular wild Reaper Queens are native to the red (Element) Region. This does not imply green/Fertile or blue/Bioluminescent native Queen spawns."
+});
+

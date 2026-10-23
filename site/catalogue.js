@@ -425,7 +425,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Desmodus",
@@ -661,7 +662,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Gacha",
@@ -830,7 +832,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Ice Wyvern",
@@ -1453,7 +1456,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Offspring acquisition",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Reaper Queen",
@@ -1462,7 +1466,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Not tameable"
+    "acquisition": "Not tameable",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Rex",
@@ -1711,7 +1716,8 @@ const creatureCatalogue=[
     "dlc": false,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Knockout tame",
+    "guideReviewed": "2026-10-23"
   },
   {
     "name": "Triceratops",
@@ -1969,3 +1975,4 @@ for(const name of ["Meganeura","Titanomyrma","Oil Jug Bug","Water Jug Bug"]) Obj
 Object.assign(creatureCatalogue.find(c=>c.name==="Lamprey"),{acquisition:"Special tame",guideReviewed:"2026-10-22"});
 for(const name of ["Attack Drone","Defense Unit","Polar Bear","Yeti","Rubble Golem"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-22"});
 Object.assign(creatureCatalogue.find(c=>c.name==="Scrap Golem"),{acquisition:"Crafted / rewarded",guideReviewed:"2026-10-22"});
+
