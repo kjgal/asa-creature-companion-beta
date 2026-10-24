@@ -3463,9 +3463,9 @@ Object.assign(tamingGuides, {
     }
   }
 });
-const gigaTlcNotice="Upcoming change: Wildcard announced a Giganotosaurus TLC for November 6, 2026. The preview describes a different taming challenge; practical steps and official-live rollout remain pending. This guide retains the current knockout method.";
+const gigaTlcNotice="Upcoming change: Wildcard now targets November 5, 2026 for the Giganotosaurus TLC alongside Enigmasaur. Practical steps and official-live rollout remain pending. This guide retains the current knockout method.";
 tamingGuides.Giganotosaurus.tips=[...(tamingGuides.Giganotosaurus.tips||[]),gigaTlcNotice];
-tamingGuides.Giganotosaurus.upcomingChange={announced:true,targetDate:"2026-11-06",status:"Upcoming; not substituted for the current live method",checked:"2026-10-10",source:"https://survivetheark.com/index.php?/forums/topic/774274-community-crunch-527-trial-by-fury/"};
+tamingGuides.Giganotosaurus.upcomingChange={announced:true,targetDate:"2026-11-05",status:"Upcoming; not substituted for the current live method",checked:"2026-10-24",source:"https://survivetheark.com/index.php?/forums/topic/774298-community-crunch-529-ghouls-just-wanna-have-fun/"};
 tamingGuides.Giganotosaurus.announcementReviewed="2026-10-10";
 tamingGuides.Giganotosaurus.sources.push(["Studio Wildcard: Community Crunch 527","https://survivetheark.com/index.php?/forums/topic/774274-community-crunch-527-trial-by-fury/"]);
 // Original guide review, October 11, 2026.
@@ -5072,6 +5072,121 @@ Object.assign(tamingGuides,{
       "access": "Individually indexed variant/shared species, egg, food, biome and spawn passages reviewed; direct Unicorn request returned 403 during the wider research batch.",
       "asa": "Specified standard variant egg-acquisition and milk route reviewed through shared Wyvern/egg sections and ASA Scorched Earth context. Crystal passive feeding and event/reward routes excluded.",
       "comparisonLimitations": "Variant links redirect to shared species or egg material; claims are limited to the specified standard variant. Full articles/revision/contributor comparison, exact current ASA nest regions, practical routes, numerical quantities/times and alternatives remain pending. Original summaries; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
+
+// Original species summaries reviewed October 24, 2026.
+Object.assign(tamingGuides,{
+  "Unicorn": {
+    "method": "passive",
+    "overview": "Approach quietly, feed, mount, and respond to its bucking feed prompt until tamed.",
+    "food": "Rockarrot or Simple Kibble are checked options. Amounts and feeding intervals remain pending.",
+    "preparation": "Put food in the last hotbar slot. Ghillie can help the approach; check the route for predators before mounting.",
+    "steps": [
+      "Approach without startling it and use the first feed prompt",
+      "Mount when prompted",
+      "Feed when it bucks and asks to be calmed",
+      "Repeat the riding sequence until the tame finishes"
+    ],
+    "specialAction": "Watch the prompt rather than repeatedly pressing feed. Early input can throw you off; platform-specific controls remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Unicorn",
+        "https://ark.wiki.gg/wiki/Unicorn"
+      ],
+      [
+        "ARK Community Wiki: Equus",
+        "https://ark.wiki.gg/wiki/Equus"
+      ],
+      [
+        "ARK Community Wiki: Highlands",
+        "https://ark.wiki.gg/wiki/Highlands"
+      ]
+    ],
+    "tips": [
+      "Watch the prompt rather than repeatedly pressing feed. Early input can throw you off; platform-specific controls remain pending."
+    ],
+    "checked": "2026-10-24",
+    "scope": "ASA official PvE regular species where present; numerical requirements remain pending.",
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "Regular ASA Unicorn uses the shared Equus riding method. Mobile Griffin kibble and other game-specific food sections excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Phoenix": {
+    "method": "special",
+    "overview": "On Scorched Earth, apply suitable fire repeatedly to the flying Phoenix during a heat wave to advance taming.",
+    "food": "Fire advances the tame; Sulfur is its checked food after taming. Fire applications and supply amounts remain pending.",
+    "preparation": "Bring heat protection, water, a way to follow it and a supported fire source such as Flame Arrows, a Flamethrower or Fire Wyvern breath.",
+    "steps": [
+      "Locate the Phoenix during a Scorched Earth heat wave",
+      "Keep applying suitable fire while following its flight",
+      "If the weather ends, note where it becomes ash",
+      "Return during another heat wave and check its progress"
+    ],
+    "specialAction": "The Scorched Earth route depends on the heat wave. Outside-heat-wave ash tricks and Astraeos taming conditions remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Phoenix",
+        "https://ark.wiki.gg/wiki/Phoenix"
+      ],
+      [
+        "ARK Community Wiki: Weather",
+        "https://ark.wiki.gg/wiki/Weather"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "tips": [
+      "The Scorched Earth route depends on the heat wave. Outside-heat-wave ash tricks and Astraeos taming conditions remain pending."
+    ],
+    "checked": "2026-10-24",
+    "scope": "ASA official PvE regular species where present; numerical requirements remain pending.",
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "ASA species changelog confirms availability and later Astraeos addition. Special label distinguishes fire application from ordinary passive food feeding. Guide limited to Scorched Earth; mission variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Troodon": {
+    "method": "special",
+    "overview": "Let the wild Troodon kill creatures belonging to you or your tribe to gain taming progress.",
+    "food": "The taming resource is eligible owned creatures, rather than food placed in a hotbar. Sacrifice choices and quantities remain pending.",
+    "preparation": "Use a controlled area and only creatures you intend to lose. The offering must be unmounted and must not be set to Passive. Protect yourself from torpor attacks.",
+    "steps": [
+      "Isolate the intended wild Troodon",
+      "Prepare an eligible creature belonging to your tribe",
+      "Allow the Troodon to land the killing attack",
+      "Check progress before repeating with another offering"
+    ],
+    "specialAction": "Night reduces the documented experience requirement. Kill credit, aggression and pauses between offerings need attention; no sacrifice calculator or timing is asserted.",
+    "sources": [
+      [
+        "ARK Community Wiki: Troodon",
+        "https://ark.wiki.gg/wiki/Troodon"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "tips": [
+      "Night reduces the documented experience requirement. Kill credit, aggression and pauses between offerings need attention; no sacrifice calculator or timing is asserted."
+    ],
+    "checked": "2026-10-24",
+    "scope": "ASA official PvE regular species where present; numerical requirements remain pending.",
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "Base species and explicit ASA species notes reviewed. Special label distinguishes owned-creature sacrifice from hand feeding; numerical experience and effectiveness claims withheld.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
     }
   }
 });

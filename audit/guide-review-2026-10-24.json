@@ -1,0 +1,81 @@
+{
+  "reviewed": "2026-10-24",
+  "addedGuides": [
+    {
+      "name": "Unicorn",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Unicorn",
+        "https://ark.wiki.gg/wiki/Equus",
+        "https://ark.wiki.gg/wiki/Highlands"
+      ],
+      "finding": "Approach quietly, feed, mount, and respond to its bucking feed prompt until tamed.",
+      "provenance": {
+        "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+        "asa": "Regular ASA Unicorn uses the shared Equus riding method. Mobile Griffin kibble and other game-specific food sections excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Phoenix",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Phoenix",
+        "https://ark.wiki.gg/wiki/Weather",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "finding": "On Scorched Earth, apply suitable fire repeatedly to the flying Phoenix during a heat wave to advance taming.",
+      "provenance": {
+        "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+        "asa": "ASA species changelog confirms availability and later Astraeos addition. Special label distinguishes fire application from ordinary passive food feeding. Guide limited to Scorched Earth; mission variants excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Troodon",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Troodon",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "finding": "Let the wild Troodon kill creatures belonging to you or your tribe to gain taming progress.",
+      "provenance": {
+        "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+        "asa": "Base species and explicit ASA species notes reviewed. Special label distinguishes owned-creature sacrifice from hand feeding; numerical experience and effectiveness claims withheld.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "updatedGuides": [
+    "Giganotosaurus upcoming TLC date changed to November 5; current knockout guide retained"
+  ],
+  "officialReview": {
+    "source": "https://survivetheark.com/index.php?/forums/topic/774298-community-crunch-529-ghouls-just-wanna-have-fun/",
+    "checked": "2026-10-24",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "Giga TLC and Enigmasaur now target November 5. Upcoming Fear Ascended content is not added as currently available. The event graphic contains a conflicting older year, so event-year details are not asserted."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Unicorn",
+      "Phoenix",
+      "Troodon"
+    ],
+    "aberrationChanges": [],
+    "limitations": "Phoenix method restricted to Scorched Earth; Astraeos conditions pending. No universal map or Aberration presence implied."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 169,
+    "missingGuides": 33,
+    "generalHabitatEntries": 125,
+    "aberrationHabitatEntries": 25,
+    "creatureInfoRecords": 146
+  },
+  "ownerQuestions": [
+    "Have you tamed a Phoenix on current ASA Astraeos, and what weather or location conditions allowed the fire taming?"
+  ],
+  "comparisonLimitations": "Direct species requests returned 403. Indexed species/shared method, biome, spawn and official announcement passages reviewed; full article/revision/contributor comparison and firsthand official PvE tests pending. Numerical quantities, timings and effectiveness withheld.",
+  "preserved": "Public free noncommercial beta; artwork, footprint icons, UI/bubbles, anonymous suggestions, metadata-only references, notices, rights findings and October 24 rate repair preserved. Archived private Site untouched."
+}

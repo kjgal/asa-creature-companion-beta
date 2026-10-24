@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 166 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 169 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp. Snapshots older than two hours are clearly marked as delayed; snapshots older than 24 hours are rejected and use the unavailable/manual-rate fallback. This tolerates delayed GitHub schedules without claiming a fresh check or changing the source timestamp. Requests bypass cached JSON, and a failed refresh preserves browser progress and manual overrides. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -36,4 +36,6 @@ October 21 review: regular and Diseased Leech Fish Basket guides plus four untam
 October 22 review: one Lamprey Fish Basket guide, five untameable cave/mechanical encounter guides and a currently unavailable Scrap Golem reward guide, leaving 42 catalogue entries without written guides. Habitat coverage is 118 general notes and 23 Aberration notes. Provenance and limitations: audit/guide-review-2026-10-22.json.
 
 October 23 review: temporary special-tame guides for the Desert, Forest and Ice Titans; a hard-projectile knockout guide for Titanosaur; and distinct Reaper King offspring-acquisition and untameable Reaper Queen guides, leaving 36 catalogue entries without written guides. Habitat coverage is 122 general notes and 25 Aberration notes. Provenance and limitations: audit/guide-review-2026-10-23.json.
+
+October 24 review: Unicorn passive riding-feed, Phoenix special fire-taming and Troodon special sacrifice guides, with three general habitat notes. Coverage is 169 written guides of 202 entries, leaving 33; habitats have 125 general and 25 Aberration notes. Phoenix's Astraeos conditions remain pending. The upcoming Giga TLC/Enigmasaur target is now November 5 per Community Crunch 529. See audit/guide-review-2026-10-24.json for provenance and limitations.
 

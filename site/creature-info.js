@@ -3121,3 +3121,87 @@ Object.assign(aberrationHabitats,{
   "Reaper Queen": "On Aberration, regular wild Reaper Queens are native to the red (Element) Region. This does not imply green/Fertile or blue/Bioluminescent native Queen spawns."
 });
 
+// General habitats reviewed October 24, 2026.
+Object.assign(creatureInfo,{
+  "Unicorn": {
+    "habitat": "Rare Equus-like encounters in open grassy terrain where present, including Ragnarok's Highlands.",
+    "behavior": "A rare, easily startled Equus variant.",
+    "checked": "2026-10-24",
+    "scope": "Typical terrain where present; exhaustive official ASA maps pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Unicorn",
+        "https://ark.wiki.gg/wiki/Unicorn"
+      ],
+      [
+        "ARK Community Wiki: Equus",
+        "https://ark.wiki.gg/wiki/Equus"
+      ],
+      [
+        "ARK Community Wiki: Highlands",
+        "https://ark.wiki.gg/wiki/Highlands"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "Regular ASA Unicorn uses the shared Equus riding method. Mobile Griffin kibble and other game-specific food sections excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Phoenix": {
+    "habitat": "Scorched Earth's open desert skies during heat waves. ASA also lists Astraeos availability, whose local conditions remain pending.",
+    "behavior": "An elusive flaming bird that becomes ash when Scorched Earth's heat wave ends.",
+    "checked": "2026-10-24",
+    "scope": "Typical terrain where present; exhaustive official ASA maps pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Phoenix",
+        "https://ark.wiki.gg/wiki/Phoenix"
+      ],
+      [
+        "ARK Community Wiki: Weather",
+        "https://ark.wiki.gg/wiki/Weather"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "ASA species changelog confirms availability and later Astraeos addition. Special label distinguishes fire application from ordinary passive food feeding. Guide limited to Scorched Earth; mission variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Troodon": {
+    "habitat": "Redwood forests, arid badlands and Extinction's Sunken Forest where the map's spawn lists include Troodon.",
+    "behavior": "A small predator whose night aggression and torpor attacks can overwhelm survivors.",
+    "checked": "2026-10-24",
+    "scope": "Typical terrain where present; exhaustive official ASA maps pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Troodon",
+        "https://ark.wiki.gg/wiki/Troodon"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, shared method and habitat passages reviewed; direct species requests returned 403.",
+      "asa": "Base species and explicit ASA species notes reviewed. Special label distinguishes owned-creature sacrifice from hand feeding; numerical experience and effectiveness claims withheld.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform interactions and numerical formulas remain pending. Original wording only; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Unicorn": "Rare Equus-like encounters in open grassy terrain where present, including Ragnarok's Highlands.",
+  "Phoenix": "Scorched Earth's open desert skies during heat waves. ASA also lists Astraeos availability, whose local conditions remain pending.",
+  "Troodon": "Redwood forests, arid badlands and Extinction's Sunken Forest where the map's spawn lists include Troodon."
+});
+

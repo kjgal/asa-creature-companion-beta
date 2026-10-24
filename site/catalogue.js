@@ -1339,7 +1339,8 @@ const creatureCatalogue=[
     "dlc": false,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-24"
   },
   {
     "name": "Piranha",
@@ -1746,7 +1747,8 @@ const creatureCatalogue=[
     "dlc": false,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-24"
   },
   {
     "name": "Tusoteuthis",
@@ -1775,7 +1777,8 @@ const creatureCatalogue=[
     "dlc": false,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-10-24"
   },
   {
     "name": "Veilwyn",
