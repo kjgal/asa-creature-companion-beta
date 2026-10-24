@@ -81,7 +81,7 @@ function rate(v){if(!Number.isFinite(v)||v<0.1)return;state.rate=v;save();render
 function showOfficialRate(unavailable=false){
  const known=state.officialRate;
  const delayed=known&&Date.now()-Date.parse(known.checkedAt)>2*60*60*1000;
- $('official-rate').textContent=known?'Official rate: ×'+known.rate+(unavailable||delayed?' (last checked)':' (scheduled check)'):unavailable?'Official rate unavailable':'Checking official rate…';
+ $('official-rate').textContent=known?'Official rate: ×'+known.rate+(unavailable||delayed?' (last checked)':''):unavailable?'Official rate unavailable':'Checking official rate…';
  const checked=$('official-rate-checked');
  checked.hidden=!known;
  if(known){const date=new Date(known.checkedAt),today=date.toDateString()===new Date().toDateString();checked.dateTime=known.checkedAt;checked.title=date.toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'});checked.textContent='Last checked: '+date.toLocaleString(undefined,today?{hour:'numeric',minute:'2-digit'}:{month:'numeric',day:'numeric',hour:'numeric',minute:'2-digit'});}
