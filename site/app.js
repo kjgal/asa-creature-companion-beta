@@ -80,21 +80,23 @@ let officialRateBusy=false;
 function rate(v){if(!Number.isFinite(v)||v<0.1)return;state.rate=v;save();renderPlannerEstimate();}
 function showOfficialRate(unavailable=false){
  const known=state.officialRate;
- $('official-rate').textContent=known?'Official rate: ×'+known.rate+' (scheduled check)'+(unavailable?' (last checked)':''):unavailable?'Official rate unavailable':'Checking official rate…';
+ const delayed=known&&Date.now()-Date.parse(known.checkedAt)>2*60*60*1000;
+ $('official-rate').textContent=known?'Official rate: ×'+known.rate+(unavailable||delayed?' (last checked)':' (scheduled check)'):unavailable?'Official rate unavailable':'Checking official rate…';
  const checked=$('official-rate-checked');
  checked.hidden=!known;
  if(known){const date=new Date(known.checkedAt),today=date.toDateString()===new Date().toDateString();checked.dateTime=known.checkedAt;checked.title=date.toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit',timeZoneName:'short'});checked.textContent='Last checked: '+date.toLocaleString(undefined,today?{hour:'numeric',minute:'2-digit'}:{month:'numeric',day:'numeric',hour:'numeric',minute:'2-digit'});}
  else{checked.removeAttribute('datetime');checked.textContent='';}
- $('rate-help').textContent=state.customRate!==null?'Using custom rate: ×'+state.customRate:unavailable?'Couldn’t refresh. Using ×'+state.rate+'; check your server or enter a custom rate.':'';
+ $('rate-help').textContent=state.customRate!==null?'Using custom rate: ×'+state.customRate:unavailable?'Couldn’t refresh. Using ×'+state.rate+'; check your server or enter a custom rate.':delayed?'Automatic check delayed. Using the last checked ×'+known.rate+'; check your server if rates have changed.':'';
  $('rate-help').hidden=!$('rate-help').textContent;
 }
 async function refreshOfficialRate(){
  if(officialRateBusy)return;officialRateBusy=true;
  try{
-  const response=await fetch('official-rate.json',{cache:'no-store',signal:AbortSignal.timeout(10000)});
+  const response=await fetch('official-rate.json?checked='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(10000)});
   if(!response.ok)throw new Error('Unavailable');
   const data=await response.json();
-  if(!Number.isFinite(data.rate)||data.rate<0.1||data.rate>100||!Number.isFinite(Date.parse(data.checkedAt))||Date.now()-Date.parse(data.checkedAt)>2*60*60*1000)throw new Error('Invalid or stale rate');
+  const checkedAt=Date.parse(data.checkedAt),age=Date.now()-checkedAt;
+  if(!Number.isFinite(data.rate)||data.rate<0.1||data.rate>100||!Number.isFinite(checkedAt)||age< -5*60*1000||age>24*60*60*1000)throw new Error('Invalid or stale rate');
   state.officialRate={rate:data.rate,checkedAt:data.checkedAt};
   if(state.customRate===null){$('custom-rate').value='';rate(data.rate);}
   else save();
