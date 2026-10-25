@@ -122,7 +122,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Knockout tame",
+    "guideReviewed": "2026-10-25"
   },
   {
     "name": "Attack Drone",
@@ -1060,7 +1061,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-25"
   },
   {
     "name": "Megalania",
@@ -1588,7 +1590,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-25"
   },
   {
     "name": "Shinehorn",

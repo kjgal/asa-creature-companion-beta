@@ -1,0 +1,81 @@
+{
+  "reviewed": "2026-10-25",
+  "addedGuides": [
+    {
+      "name": "Astrocetus",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Astrocetus",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ],
+      "finding": "Apply torpor with carefully aimed hard-projectile head hits, then feed the unconscious Astrocetus. Ordinary tranquilizers do not work.",
+      "provenance": {
+        "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+        "asa": "Regular species reviewed in the released ASA Genesis Part 1 context; hard-head knockout distinguished from ordinary tranqs. Mission/VR variants excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Megachelon",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Megachelon",
+        "https://ark.wiki.gg/wiki/Parakeet_Fish_School",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/91.17",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ],
+      "finding": "Attract a Parakeet Fish School as a survivor, then lead it to a Megachelon so the school follows it and starts taming.",
+      "provenance": {
+        "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+        "asa": "ASA Genesis Part 1 release and an ASA patch fixing Megachelon taming reviewed. Special label distinguishes fish-school escort from passive hand feeding.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Shastasaurus",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Shastasaurus",
+        "https://ark.wiki.gg/wiki/Ichthyosaurus",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ],
+      "finding": "Use a tamed Ichthyosaurus to attract the Shastasaurus, lead it toward the surface, remove its marked leeches, then feed at its mouth.",
+      "provenance": {
+        "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+        "asa": "ASA-native The Center creature and explicit ASA leech-removal sequence reviewed. Special label distinguishes the multi-action method from ordinary passive feeding.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-25",
+    "source": "https://survivetheark.com/",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "No newer current creature release found. Fear Ascended is announced for October 28 through November 11, 2026 in corrected official author content. Ghost additions remain upcoming and are not added to the current catalogue. Giga TLC and Enigmasaur remain targeted for November 5."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Astrocetus",
+      "Megachelon",
+      "Shastasaurus"
+    ],
+    "aberrationChanges": [],
+    "limitations": "Lunar Astrocetus and Ocean Megachelon wording limited to Genesis Part 1; deep-ocean Shastasaurus only where eligible. No universal-map or Aberration presence implied."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 172,
+    "missingGuides": 30,
+    "generalHabitatEntries": 128,
+    "aberrationHabitatEntries": 25,
+    "creatureInfoRecords": 149
+  },
+  "ownerQuestions": [],
+  "comparisonLimitations": "Direct species pages returned 403. Indexed individual species, shared method, biome/spawn and official ASA launch/patch passages reviewed. Full article/revision/contributor comparison, current map/variant eligibility, firsthand gameplay validation and numerical formulas remain pending. No competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Original artwork, approved footprint icons/manifest, relative paths, interface and bubbles, generalized credits, metadata-only links, anonymous suggestions including Concavenator Tek Rifle, public free noncommercial beta, noindex, rate-recovery fixes and workflow/manual fallback. Prior rights findings and notices preserved; archived private Site untouched."
+}

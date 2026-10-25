@@ -3205,3 +3205,107 @@ Object.assign(generalHabitats,{
   "Troodon": "Redwood forests, arid badlands and Extinction's Sunken Forest where the map's spawn lists include Troodon."
 });
 
+// General habitats reviewed October 25, 2026.
+Object.assign(creatureInfo,{
+  "Astrocetus": {
+    "habitat": "Genesis Part 1's Lunar biome, floating above exposed rocky terrain.",
+    "behavior": "A huge floating creature that can retaliate when approached.",
+    "checked": "2026-10-25",
+    "scope": "Typical map-specific terrain; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Astrocetus",
+        "https://ark.wiki.gg/wiki/Astrocetus"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "Studio Wildcard: Genesis Part 1 launch",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "Regular species reviewed in the released ASA Genesis Part 1 context; hard-head knockout distinguished from ordinary tranqs. Mission/VR variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Megachelon": {
+    "habitat": "Genesis Part 1's Ocean biome, with fish schools found deeper in the water.",
+    "behavior": "A giant swimming turtle with a broad, living shell.",
+    "checked": "2026-10-25",
+    "scope": "Typical map-specific terrain; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Megachelon",
+        "https://ark.wiki.gg/wiki/Megachelon"
+      ],
+      [
+        "ARK Community Wiki: Parakeet Fish School",
+        "https://ark.wiki.gg/wiki/Parakeet_Fish_School"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 91.17",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/91.17"
+      ],
+      [
+        "Studio Wildcard: Genesis Part 1 launch",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA Genesis Part 1 release and an ASA patch fixing Megachelon taming reviewed. Special label distinguishes fish-school escort from passive hand feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Shastasaurus": {
+    "habitat": "Deep ocean water on maps with eligible Shastasaurus spawns, including The Center.",
+    "behavior": "Generally peaceful until provoked; it approaches Ichthyosaurus during taming.",
+    "checked": "2026-10-25",
+    "scope": "Typical map-specific terrain; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Shastasaurus",
+        "https://ark.wiki.gg/wiki/Shastasaurus"
+      ],
+      [
+        "ARK Community Wiki: Ichthyosaurus",
+        "https://ark.wiki.gg/wiki/Ichthyosaurus"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Center",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ]
+    ],
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA-native The Center creature and explicit ASA leech-removal sequence reviewed. Special label distinguishes the multi-action method from ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Astrocetus": "Genesis Part 1's Lunar biome, floating above exposed rocky terrain.",
+  "Megachelon": "Genesis Part 1's Ocean biome, with fish schools found deeper in the water.",
+  "Shastasaurus": "Deep ocean water on maps with eligible Shastasaurus spawns, including The Center."
+});
+

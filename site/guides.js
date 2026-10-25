@@ -5191,3 +5191,138 @@ Object.assign(tamingGuides,{
   }
 });
 
+// Original species summaries reviewed October 25, 2026.
+Object.assign(tamingGuides,{
+  "Astrocetus": {
+    "method": "knockout",
+    "overview": "Apply torpor with carefully aimed hard-projectile head hits, then feed the unconscious Astrocetus. Ordinary tranquilizers do not work.",
+    "food": "Extraordinary Kibble is the checked preferred food; quantities and feeding times remain pending.",
+    "preparation": "Prepare for Lunar hazards and bring kibble and a mobile cannon setup, such as a Tek Hover Skiff. Avoid killing it with misplaced shots.",
+    "steps": [
+      "Find a safe firing position",
+      "Land hard-projectile hits on the head until it falls unconscious",
+      "Place taming food in its inventory and protect it",
+      "Monitor the tame until completion"
+    ],
+    "specialAction": "Watch head-hit placement and health. Cannon splash, alternative weapons and exact torpor requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Astrocetus",
+        "https://ark.wiki.gg/wiki/Astrocetus"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "Studio Wildcard: Genesis Part 1 launch",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ]
+    ],
+    "tips": [
+      "Watch head-hit placement and health. Cannon splash, alternative weapons and exact torpor requirements remain pending."
+    ],
+    "checked": "2026-10-25",
+    "scope": "ASA official PvE regular species where present; numerical requirements pending.",
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "Regular species reviewed in the released ASA Genesis Part 1 context; hard-head knockout distinguished from ordinary tranqs. Mission/VR variants excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Megachelon": {
+    "method": "special",
+    "overview": "Attract a Parakeet Fish School as a survivor, then lead it to a Megachelon so the school follows it and starts taming.",
+    "food": "A live Parakeet Fish School, shown as a Microbe Swarm while targeting you, advances the tame. No hotbar-food sequence is used.",
+    "preparation": "Bring underwater breathing supplies and protection from predators. Find the turtle and a school before starting.",
+    "steps": [
+      "Get targeted by a Microbe Swarm while unmounted",
+      "Lead the school slowly to the Megachelon",
+      "Check that the school transfers to following the turtle",
+      "Protect the turtle and school until taming completes"
+    ],
+    "specialAction": "The school must target the survivor. Mounts and shoulder pets can distract it; damage to the turtle can erase progress.",
+    "sources": [
+      [
+        "ARK Community Wiki: Megachelon",
+        "https://ark.wiki.gg/wiki/Megachelon"
+      ],
+      [
+        "ARK Community Wiki: Parakeet Fish School",
+        "https://ark.wiki.gg/wiki/Parakeet_Fish_School"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 91.17",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/91.17"
+      ],
+      [
+        "Studio Wildcard: Genesis Part 1 launch",
+        "https://survivetheark.com/index.php?/articles.html/ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now-r2546/"
+      ]
+    ],
+    "tips": [
+      "The school must target the survivor. Mounts and shoulder pets can distract it; damage to the turtle can erase progress."
+    ],
+    "checked": "2026-10-25",
+    "scope": "ASA official PvE regular species where present; numerical requirements pending.",
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA Genesis Part 1 release and an ASA patch fixing Megachelon taming reviewed. Special label distinguishes fish-school escort from passive hand feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Shastasaurus": {
+    "method": "special",
+    "overview": "Use a tamed Ichthyosaurus to attract the Shastasaurus, lead it toward the surface, remove its marked leeches, then feed at its mouth.",
+    "food": "Extraordinary Kibble is preferred; fish meats are documented alternatives. Amounts and food comparisons remain pending.",
+    "preparation": "Bring a tamed Ichthyosaurus, Sickle, underwater breathing gear and food in the last hotbar slot. Clear nearby predators.",
+    "steps": [
+      "Attract it with your Ichthyosaurus and lead upward",
+      "Use the Sickle on the marked leeches when prompted",
+      "After removal, approach its mouth and feed",
+      "Repeat the interaction cycle until tamed"
+    ],
+    "specialAction": "Follow the removal prompt and avoid striking the Shastasaurus itself. Input timing and helper counts remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Shastasaurus",
+        "https://ark.wiki.gg/wiki/Shastasaurus"
+      ],
+      [
+        "ARK Community Wiki: Ichthyosaurus",
+        "https://ark.wiki.gg/wiki/Ichthyosaurus"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Center",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ]
+    ],
+    "tips": [
+      "Follow the removal prompt and avoid striking the Shastasaurus itself. Input timing and helper counts remain pending."
+    ],
+    "checked": "2026-10-25",
+    "scope": "ASA official PvE regular species where present; numerical requirements pending.",
+    "provenance": {
+      "access": "Individual indexed species, supporting method, biome/spawn and ASA release/patch passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA-native The Center creature and explicit ASA leech-removal sequence reviewed. Special label distinguishes the multi-action method from ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official ASA map eligibility, firsthand platform interactions, practical shortcuts and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+

@@ -1,0 +1,14 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const app=fs.readFileSync('site/app.js','utf8'),data=['catalogue','guides','creature-info','taming-data'].map(n=>fs.readFileSync('site/'+n+'.js','utf8')).join('\n');
+const routing=app.slice(app.indexOf('function creatureProfileReply'),app.indexOf("document.querySelectorAll('[data-question]')"));
+const methodLabel=app.split('\n').find(x=>x.startsWith('function methodLabel('));
+vm.runInNewContext(data+'\n'+`let reply,chatTarget,currentTab='plan',state={rate:1};function say(text,target,sources){reply={text,target,sources};}function planningEstimate(){return null;}`+routing+methodLabel+`
+for(const n of ['Astrocetus','Megachelon','Shastasaurus']){const g=tamingGuides[n];assert.equal(g.checked,'2026-10-25');assert.equal(creatureCatalogue.find(c=>c.name===n).guideReviewed,'2026-10-25');chatTarget=n;ask('How do I tame it?');assert.ok(reply.text.includes(g.overview));assert.ok(reply.text.includes(g.steps[0]));ask('Food?');assert.ok(reply.text.includes(g.food));ask('Preparation?');assert.ok(reply.text.includes(g.preparation));ask('Habitat?');assert.ok(reply.text.startsWith(generalHabitats[n]));assert.ok(reply.text.includes('vary by map'));assert.ok(g.provenance.comparisonLimitations);}
+assert.equal(tamingGuides.Astrocetus.method,'knockout');assert.equal(methodLabel('Astrocetus'),'Knockout tame');for(const n of ['Megachelon','Shastasaurus']){assert.equal(tamingGuides[n].method,'special');assert.equal(methodLabel(n),'Special tame');}
+assert.equal(tamingGuides.Giganotosaurus.upcomingChange.targetDate,'2026-11-05');assert.equal(tamingGuides.Giganotosaurus.method,'knockout');
+assert.deepEqual([creatureCatalogue.length,Object.keys(tamingGuides).length,Object.keys(creatureInfo).length,Object.keys(generalHabitats).length,Object.keys(aberrationHabitats).length],[202,172,149,128,25]);
+const protectedGuides=JSON.stringify([tamingGuides['Roll Rat'],tamingGuides.Quetzal,tamingGuides.Concavenator,tamingGuides.Gasbags,tamingGuides.Onyc,tamingGuides.Gacha,tamingGuides.Tusoteuthis,tamingGuides.Trilobite]);assert.equal(crypto.createHash('sha256').update(protectedGuides).digest('hex'),'3f787483846f8fb4dfcc5744bfe93ce6e68e11aefd80993798356de973c80969');
+`,{assert,crypto});
+assert.ok(app.includes('age>24*60*60*1000'));assert.ok(app.includes('official-rate.json?checked='));assert.ok(!app.includes('(scheduled check)'));assert.ok(!app.includes('/api/official-rate'));
+const html=fs.readFileSync('site/index.html','utf8');assert.ok(!/References for|youtube\.com|youtu\.be|<iframe/i.test(html));assert.ok(html.includes('noindex'));assert.ok(html.includes('guide-review-oct25'));
+console.log('October 25 method, food, preparation, habitat, classification, anonymous-suggestion and rate-preservation checks passed.');
