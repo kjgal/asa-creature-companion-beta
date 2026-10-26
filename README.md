@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 172 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 175 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp. Snapshots older than two hours are clearly marked as delayed; snapshots older than 24 hours are rejected and use the unavailable/manual-rate fallback. This tolerates delayed GitHub schedules without claiming a fresh check or changing the source timestamp. Requests bypass cached JSON, and a failed refresh preserves browser progress and manual overrides. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -40,4 +40,6 @@ October 23 review: temporary special-tame guides for the Desert, Forest and Ice 
 October 24 review: Unicorn passive riding-feed, Phoenix special fire-taming and Troodon special sacrifice guides, with three general habitat notes. Coverage is 169 written guides of 202 entries, leaving 33; habitats have 125 general and 25 Aberration notes. Phoenix's Astraeos conditions remain pending. The upcoming Giga TLC/Enigmasaur target is now November 5 per Community Crunch 529. See audit/guide-review-2026-10-24.json for provenance and limitations.
 
 October 25 review: Astrocetus hard-projectile knockout, Megachelon fish-school escort and Shastasaurus interaction/removal/feeding guides. Coverage is 172 written guides of 202 entries, leaving 30. Habitats have 128 general and 25 Aberration notes. Sources and comparison limits: audit/guide-review-2026-10-25.json.
+
+October 26 review: Ceratosaurus cocktail-assisted feeding, Pyromane douse/ride/flame absorption and Cosmo light-cue feeding guides. Coverage is 175 written guides of 202 entries, leaving 27. Habitats have 131 general and 26 Aberration notes. Cosmo's precise regional distribution remains pending. Sources and limitations: audit/guide-review-2026-10-26.json.
 

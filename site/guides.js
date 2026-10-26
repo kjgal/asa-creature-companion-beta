@@ -5326,3 +5326,134 @@ Object.assign(tamingGuides,{
   }
 });
 
+// Original species summaries reviewed October 26, 2026.
+Object.assign(tamingGuides,{
+  "Ceratosaurus": {
+    "method": "special",
+    "overview": "Have the wild Ceratosaurus attack a tame affected by Hemogoblin Cocktail. Once blood-drunk, it accepts passive feeding.",
+    "food": "Bring Hemogoblin Cocktail for your supporting tame and Extraordinary Kibble for the Ceratosaurus. Quantities remain pending.",
+    "preparation": "Prepare cocktails using Cerato Venom Spines. Choose a durable supporting tame with a good saddle and clear surrounding threats.",
+    "steps": [
+      "Feed the cocktail to your supporting tame",
+      "Let the target attack it until blood-drunk",
+      "Approach the calm Ceratosaurus and feed when prompted",
+      "If it sobers, repeat the cocktail stage before feeding again"
+    ],
+    "specialAction": "Watch the supporting tame's health and cocktail effect. Gaps in attacks can lose drunk progress; exact timing remains pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ceratosaurus",
+        "https://ark.wiki.gg/wiki/Ceratosaurus"
+      ],
+      [
+        "ARK Community Wiki: Hemogoblin Cocktail",
+        "https://ark.wiki.gg/wiki/Hemogoblin_Cocktail"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Grand Hills",
+        "https://ark.wiki.gg/wiki/The_Grand_Hills"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "tips": [
+      "Watch the supporting tame's health and cocktail effect. Gaps in attacks can lose drunk progress; exact timing remains pending."
+    ],
+    "checked": "2026-10-26",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "Base ASA Ceratosaurus and ASA cocktail item reviewed; the separate ARK Additions mod's level/quantity advice excluded. Special label distinguishes cocktail preparation from ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Pyromane": {
+    "method": "special",
+    "overview": "Douse and weaken the wild Pyromane until mounting becomes available, then ride it to burn creatures and absorb their flames for taming progress.",
+    "food": "No ordinary taming-food handoff is documented for this challenge. Progress comes from the mounted flame-absorption action.",
+    "preparation": "Confirm Fantastic Tames access. Plan safe water access, controlled damage and nearby prey for the mounted stage.",
+    "steps": [
+      "Lure it into water to apply Doused",
+      "Weaken it carefully until the mount interaction appears",
+      "Ride it out and ignite nearby creatures",
+      "Use Flame Absorb on burning targets until the tame completes"
+    ],
+    "specialAction": "Dousing and weakening are prerequisites to the ride. Exact health threshold, challenge timing and controller inputs remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Pyromane",
+        "https://ark.wiki.gg/wiki/Pyromane"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ],
+      [
+        "ARK Community Wiki: The Center",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ]
+    ],
+    "tips": [
+      "Dousing and weakening are prerequisites to the ride. Exact health threshold, challenge timing and controller inputs remain pending."
+    ],
+    "checked": "2026-10-26",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA Fantastic Tames creature reviewed. Water route retained; extinguisher alternatives, PvE wild-carry transport and numerical thresholds not asserted.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Cosmo": {
+    "method": "special",
+    "overview": "Approach a landed Cosmo while its light is green, stop while it is red, and feed during a safe approach. Repeat the minigame until tamed.",
+    "food": "Chitin and Plant Species Z Seeds are checked taming foods. Keep Chitin available for the approach; food amounts remain pending.",
+    "preparation": "Confirm eligible paid-content access, carry taming supplies and clear threats without startling the spider.",
+    "steps": [
+      "Find a landed Cosmo and watch its light",
+      "Move closer only while it glows green",
+      "Stand still when it turns red",
+      "Feed when permitted and repeat after it moves away"
+    ],
+    "specialAction": "Moving on red can trigger web shots and flight. Follow the light cues; platform-specific prompts remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cosmo",
+        "https://ark.wiki.gg/wiki/Cosmo"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: Cosmo concept",
+        "https://survivetheark.com/index.php?/forums/topic/739652-community-crunch-419-steampunk-ascent-cosmo-concept/"
+      ]
+    ],
+    "tips": [
+      "Moving on red can trigger web shots and flight. Follow the light cues; platform-specific prompts remain pending."
+    ],
+    "checked": "2026-10-26",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA-native Cosmo and Aberration context reviewed. Special label describes its movement minigame. Native regular Cosmo distinguished from Aberrant variants; precise regional distribution pending.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+

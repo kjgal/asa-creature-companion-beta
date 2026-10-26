@@ -1,0 +1,84 @@
+{
+  "reviewed": "2026-10-26",
+  "addedGuides": [
+    {
+      "name": "Ceratosaurus",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Ceratosaurus",
+        "https://ark.wiki.gg/wiki/Hemogoblin_Cocktail",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/The_Grand_Hills",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "finding": "Have the wild Ceratosaurus attack a tame affected by Hemogoblin Cocktail. Once blood-drunk, it accepts passive feeding.",
+      "provenance": {
+        "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+        "asa": "Base ASA Ceratosaurus and ASA cocktail item reviewed; the separate ARK Additions mod's level/quantity advice excluded. Special label distinguishes cocktail preparation from ordinary passive feeding.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Pyromane",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Pyromane",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Scorched_Earth",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ],
+      "finding": "Douse and weaken the wild Pyromane until mounting becomes available, then ride it to burn creatures and absorb their flames for taming progress.",
+      "provenance": {
+        "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+        "asa": "ASA Fantastic Tames creature reviewed. Water route retained; extinguisher alternatives, PvE wild-carry transport and numerical thresholds not asserted.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Cosmo",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Cosmo",
+        "https://ark.wiki.gg/wiki/Aberration",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://survivetheark.com/index.php?/forums/topic/739652-community-crunch-419-steampunk-ascent-cosmo-concept/"
+      ],
+      "finding": "Approach a landed Cosmo while its light is green, stop while it is red, and feed during a safe approach. Repeat the minigame until tamed.",
+      "provenance": {
+        "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+        "asa": "ASA-native Cosmo and Aberration context reviewed. Special label describes its movement minigame. Native regular Cosmo distinguished from Aberrant variants; precise regional distribution pending.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-26",
+    "source": "https://survivetheark.com/index.php?/forums/",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "No newer released creature found. Fear Ascended event variants remain upcoming. Giga TLC and Enigmasaur remain targeted for November 5; not substituted for current live methods."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Ceratosaurus",
+      "Pyromane",
+      "Cosmo"
+    ],
+    "addedAberration": [
+      "Cosmo"
+    ],
+    "limitations": "Ceratosaurus mountain/hill and some coast examples, Scorched Earth Pyromane trench example, Cosmo dark caverns only where eligible. Native regular Cosmo is distinguished from an Aberrant variant; precise green/blue/red/surface distribution pending."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 175,
+    "missingGuides": 27,
+    "generalHabitatEntries": 131,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 152
+  },
+  "ownerQuestions": [
+    "On your controller, which displayed prompt or button feeds Cosmo during the green-light approach?"
+  ],
+  "comparisonLimitations": "Direct species pages returned 403. Indexed individual species, item, Biomes, Spawn entries, map and official Cosmo announcement passages reviewed. Full article/revision/contributor comparison, exhaustive current official ASA maps, platform inputs, practical shortcuts and numerical formulas remain pending. No competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Public free noncommercial beta, artwork/approved footprint icons and manifest, relative paths, interface/bubbles, generalized source/contributor/license/video credits, metadata-only individual URLs, anonymous suggestions including Concavenator Tek Rifle, noindex, rate recovery and existing workflow/manual fallback. Prior rights findings preserved; archived private Site untouched."
+}

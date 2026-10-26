@@ -3309,3 +3309,104 @@ Object.assign(generalHabitats,{
   "Shastasaurus": "Deep ocean water on maps with eligible Shastasaurus spawns, including The Center."
 });
 
+// General habitats reviewed October 26, 2026.
+Object.assign(creatureInfo,{
+  "Ceratosaurus": {
+    "habitat": "Mountain slopes, surrounding hills and some coastal regions where its map-specific spawn lists include it.",
+    "behavior": "An aggressive, fast theropod with venomous attacks.",
+    "checked": "2026-10-26",
+    "scope": "Typical terrain where present; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ceratosaurus",
+        "https://ark.wiki.gg/wiki/Ceratosaurus"
+      ],
+      [
+        "ARK Community Wiki: Hemogoblin Cocktail",
+        "https://ark.wiki.gg/wiki/Hemogoblin_Cocktail"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Grand Hills",
+        "https://ark.wiki.gg/wiki/The_Grand_Hills"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "Base ASA Ceratosaurus and ASA cocktail item reviewed; the separate ARK Additions mod's level/quantity advice excluded. Special label distinguishes cocktail preparation from ordinary passive feeding.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Pyromane": {
+    "habitat": "Map-specific fire-associated terrain; Scorched Earth's Wyvern Trench is a documented example. Other regional coverage remains pending.",
+    "behavior": "An aggressive fire-bodied feline with large and shoulder-pet forms.",
+    "checked": "2026-10-26",
+    "scope": "Typical terrain where present; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Pyromane",
+        "https://ark.wiki.gg/wiki/Pyromane"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Scorched Earth",
+        "https://ark.wiki.gg/wiki/Scorched_Earth"
+      ],
+      [
+        "ARK Community Wiki: The Center",
+        "https://ark.wiki.gg/wiki/The_Center"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA Fantastic Tames creature reviewed. Water route retained; extinguisher alternatives, PvE wild-carry transport and numerical thresholds not asserted.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Cosmo": {
+    "habitat": "Dark cavern walls and ceilings on maps where Cosmo spawns; approach a landed specimen for taming.",
+    "behavior": "A skittish glowing spider that retreats from larger threats.",
+    "checked": "2026-10-26",
+    "scope": "Typical terrain where present; exhaustive official ASA distribution pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cosmo",
+        "https://ark.wiki.gg/wiki/Cosmo"
+      ],
+      [
+        "ARK Community Wiki: Aberration",
+        "https://ark.wiki.gg/wiki/Aberration"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: Cosmo concept",
+        "https://survivetheark.com/index.php?/forums/topic/739652-community-crunch-419-steampunk-ascent-cosmo-concept/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and supporting item, biome/spawn or official announcement passages reviewed. Direct species pages returned 403.",
+      "asa": "ASA-native Cosmo and Aberration context reviewed. Special label describes its movement minigame. Native regular Cosmo distinguished from Aberrant variants; precise regional distribution pending.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official ASA maps, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Ceratosaurus": "Mountain slopes, surrounding hills and some coastal regions where its map-specific spawn lists include it.",
+  "Pyromane": "Map-specific fire-associated terrain; Scorched Earth's Wyvern Trench is a documented example. Other regional coverage remains pending.",
+  "Cosmo": "Dark cavern walls and ceilings on maps where Cosmo spawns; approach a landed specimen for taming."
+});
+Object.assign(aberrationHabitats,{Cosmo:"On Aberration, Cosmo is a native regular species, not an Aberrant variant. Look for dark cavern walls and ceilings; green/Fertile, blue/Bioluminescent, red/Element and surface distribution remain pending."});
+
