@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 175 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 177 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp. Snapshots older than two hours are clearly marked as delayed; snapshots older than 24 hours are rejected and use the unavailable/manual-rate fallback. This tolerates delayed GitHub schedules without claiming a fresh check or changing the source timestamp. Requests bypass cached JSON, and a failed refresh preserves browser progress and manual overrides. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -43,3 +43,5 @@ October 25 review: Astrocetus hard-projectile knockout, Megachelon fish-school e
 
 October 26 review: Ceratosaurus cocktail-assisted feeding, Pyromane douse/ride/flame absorption and Cosmo light-cue feeding guides. Coverage is 175 written guides of 202 entries, leaving 27. Habitats have 131 general and 26 Aberration notes. Cosmo's precise regional distribution remains pending. Sources and limitations: audit/guide-review-2026-10-26.json.
 
+
+October 27 review: Oasisaur resurrection-defense special tame and Rhyniognatha offspring acquisition, with two general habitat notes. Coverage is 177 written guides of 202 entries, leaving 25. Habitats have 133 general and 26 Aberration notes. Conflicting numerical thresholds and unconfirmed special actions remain pending; see audit/guide-review-2026-10-27.json.

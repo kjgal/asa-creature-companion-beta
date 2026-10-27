@@ -1,0 +1,70 @@
+{
+  "reviewed": "2026-10-27",
+  "addedGuides": [
+    {
+      "name": "Oasisaur",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Oasisaur",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://survivetheark.com/index.php?/forums/topic/727913-scorched-earth-ascended-and-bobs-tall-tales-is-live/"
+      ],
+      "finding": "Place Death Essence in the oasis on a wild Oasisaur's back, then defend the summoned baby from attacking Vultures until the challenge completes.",
+      "provenance": {
+        "access": "Indexed individual species, supporting biome/spawn and ASA release/patch passages reviewed on 2026-10-27. Direct species requests returned 403.",
+        "asa": "ASA-native Bob's Tall Tales creature and Scorched Earth launch verified. App special classification describes the defense minigame; wiki calls the non-knockout route passive.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official map coverage, firsthand controls and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Rhyniognatha",
+      "classification": "acquisition",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Rhyniognatha",
+        "https://ark.wiki.gg/wiki/The_Writhing_Swamps",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "finding": "Acquire offspring through a wild female and a sacrificial host tame. Wild adults cannot be directly tamed, and the host dies when the offspring emerges.",
+      "provenance": {
+        "access": "Indexed individual species, supporting biome/spawn and ASA release/patch passages reviewed on 2026-10-27. Direct species requests returned 403.",
+        "asa": "ASA species/patch passages and structure obstruction warning reviewed. Host offspring acquisition distinguished from direct adult taming; Lost Island legacy map advice excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official map coverage, firsthand controls and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-27",
+    "source": "https://survivetheark.com/index.php?/forums/forum/6-announcements/",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "No newer live creature release found. Fear Ascended starts October 28, 2026. Upcoming variants not added before release."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Oasisaur",
+      "Rhyniognatha"
+    ],
+    "addedAberration": [],
+    "limitations": "Scorched Earth dune and The Island swamp examples only. No native/Aberrant or universal map claims added."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 177,
+    "missingGuides": 25,
+    "generalHabitatEntries": 133,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 154
+  },
+  "ownerQuestions": [
+    "For Oasisaur on official PvE, have you confirmed whether friendly fire can harm the defense baby or whether a failed attempt prevents an immediate retry?",
+    "For Rhyniognatha on official PvE, what open-space positioning has reliably allowed the female's impregnation animation?"
+  ],
+  "researchConflicts": [
+    "Rhyniognatha shared Taming page gives an absolute health value while the species page gives a percentage; numerical thresholds withheld.",
+    "Indexed Rhyniognatha redirects disagree on the host weight needed for full quality. No host-quality numbers or formula published.",
+    "Oasisaur source leaves failed-attempt cooldown and friendly fire unresolved. No answer assumed."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official map coverage, firsthand controls and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "All earlier rights findings, public free noncommercial beta, artwork/icons/manifest, interface/bubbles, generalized credits, metadata-only individual/video links, anonymous suggestions, rate workflow/manual fallback and undeployed rate-service preparation. Archived private Site untouched."
+}

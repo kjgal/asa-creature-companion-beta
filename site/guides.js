@@ -5457,3 +5457,90 @@ Object.assign(tamingGuides,{
   }
 });
 
+
+// October 27, 2026: original special/acquisition summaries; URLs retained as metadata only.
+Object.assign(tamingGuides,{
+  "Oasisaur": {
+    "method": "special",
+    "overview": "Place Death Essence in the oasis on a wild Oasisaur's back, then defend the summoned baby from attacking Vultures until the challenge completes.",
+    "food": "Death Essence starts the challenge; this is not ordinary berry feeding. Post-tame feeding uses filled plant pots; upkeep details remain pending.",
+    "preparation": "Confirm Bob's Tall Tales access. Bring an adult tame's Death Essence, a way onto the back and ranged weapons for defense.",
+    "steps": [
+      "Reach the oasis inventory on its back",
+      "Insert Death Essence to begin",
+      "Protect the baby through the Vulture waves",
+      "Complete the defense to tame the Oasisaur"
+    ],
+    "specialAction": "The creature used for this taming challenge is lost. Use an essence you can spare. Retry conditions, friendly-fire behavior and numerical requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Oasisaur",
+        "https://ark.wiki.gg/wiki/Oasisaur"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "Studio Wildcard: Scorched Earth Ascended launch",
+        "https://survivetheark.com/index.php?/forums/topic/727913-scorched-earth-ascended-and-bobs-tall-tales-is-live/"
+      ]
+    ],
+    "tips": [
+      "The creature used for this taming challenge is lost. Use an essence you can spare. Retry conditions, friendly-fire behavior and numerical requirements remain pending."
+    ],
+    "checked": "2026-10-27",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species, supporting biome/spawn and ASA release/patch passages reviewed on 2026-10-27. Direct species requests returned 403.",
+      "asa": "ASA-native Bob's Tall Tales creature and Scorched Earth launch verified. App special classification describes the defense minigame; wiki calls the non-knockout route passive.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official map coverage, firsthand controls and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Rhyniognatha": {
+    "method": "acquisition",
+    "overview": "Acquire offspring through a wild female and a sacrificial host tame. Wild adults cannot be directly tamed, and the host dies when the offspring emerges.",
+    "food": "Use a male's Rhyniognatha Pheromone on the host. Supply its requested pregnancy cravings; the offspring accepts meat or berries.",
+    "preparation": "Prepare an eligible large host you can lose, controlled damage and a secure place to claim the newborn.",
+    "steps": [
+      "Collect Pheromone from a male",
+      "Carefully weaken a wild female and apply Pheromone to the host",
+      "Allow the female space to perform her impregnation attack",
+      "Maintain the host's food and fulfill displayed cravings",
+      "Claim and raise the offspring after emergence"
+    ],
+    "specialAction": "Cryopodding the pregnant host destroys the embryo. ASA structures can obstruct impregnation. Exact health thresholds, host-quality formulas and growth times remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Rhyniognatha",
+        "https://ark.wiki.gg/wiki/Rhyniognatha"
+      ],
+      [
+        "ARK Community Wiki: The Writhing Swamps",
+        "https://ark.wiki.gg/wiki/The_Writhing_Swamps"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "tips": [
+      "Cryopodding the pregnant host destroys the embryo. ASA structures can obstruct impregnation. Exact health thresholds, host-quality formulas and growth times remain pending."
+    ],
+    "checked": "2026-10-27",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species, supporting biome/spawn and ASA release/patch passages reviewed on 2026-10-27. Direct species requests returned 403.",
+      "asa": "ASA species/patch passages and structure obstruction warning reviewed. Host offspring acquisition distinguished from direct adult taming; Lost Island legacy map advice excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive official map coverage, firsthand controls and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});

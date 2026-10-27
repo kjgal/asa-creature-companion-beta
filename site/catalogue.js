@@ -1199,7 +1199,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-10-27"
   },
   {
     "name": "Oil Jug Bug",
@@ -1493,7 +1494,8 @@ const creatureCatalogue=[
     "dlc": false,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Offspring acquisition",
+    "guideReviewed": "2026-10-27"
   },
   {
     "name": "Rock Drake",
