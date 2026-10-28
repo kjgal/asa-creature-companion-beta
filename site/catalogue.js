@@ -186,7 +186,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Knockout tame",
+    "guideReviewed": "2026-10-28"
   },
   {
     "name": "Bloodstalker",
@@ -419,7 +420,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-10-28"
   },
   {
     "name": "Desert Titan",

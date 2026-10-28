@@ -1,0 +1,71 @@
+{
+  "reviewed": "2026-10-28",
+  "addedGuides": [
+    {
+      "name": "Bison",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Bison",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/67.0",
+        "https://survivetheark.com/index.php?/forums/topic/773502-ark-2025-content-year-in-review/"
+      ],
+      "finding": "Render the Bison unconscious with tranquilizers, then put suitable herbivore food in its inventory and protect it while it eats.",
+      "provenance": {
+        "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA-native Bison and released Ragnarok context verified; no milk/raising numerical claims imported. Header and body disagree on food preference, so foods are listed without ranking."
+      }
+    },
+    {
+      "name": "Deinotherium",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Deinotherium",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/The_Western_Coast",
+        "https://ark.wiki.gg/wiki/Southern_Jungle"
+      ],
+      "finding": "Offer Beer Jars during the Deinotherium's receptive display. Read its body language before approaching beneath the trunk, then withdraw after feeding.",
+      "provenance": {
+        "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "Integrated ASA Deinotherium species identifier and ASA spawn context verified. Separate ARK Additions mod page excluded; no mod numerical advice imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-28",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774298-community-crunch-529-ghouls-just-wanna-have-fun/",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "Fear Ascended announced for October 28–November 11, 2026, with new Ghost variants. No separate live-launch confirmation or independently checked event-variant tame/acquisition mechanics found at review time. Do not substitute ordinary species methods or assume ghost forms are tameable. No new catalogue entry added."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Deinotherium"
+    ],
+    "addedAberration": [],
+    "pending": [
+      "Bison typical biome types and regional distribution"
+    ],
+    "limitations": "Beach/jungle spawn and named regional examples support Deinotherium. Bison's dedicated Ragnarok spawn container does not establish terrain type; habitat remains explicitly pending."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 179,
+    "missingGuides": 23,
+    "generalHabitatEntries": 134,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 156
+  },
+  "ownerQuestions": [
+    "For Deinotherium on your controller, does standing beneath its trunk after the receptive displays trigger the beer handoff automatically, or is an interaction prompt required?"
+  ],
+  "researchConflicts": [
+    "Bison species header calls crops preferred, while body says Mejoberries outrank crops. List accepted foods without an unverified ranking.",
+    "Deinotherium acceptance probabilities, minimum player level, amounts and intervals not independently checked; numbers withheld."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "All prior rights findings and notices, public free noncommercial audience, artwork/icons/manifest, interface/bubbles, metadata-only individual/video URLs, anonymous suggestions, rate refresh workflow/manual fallback and undeployed Worker preparation. Archived private Site untouched."
+}

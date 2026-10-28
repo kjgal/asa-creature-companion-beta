@@ -3477,3 +3477,70 @@ Object.assign(generalHabitats,{
   "Oasisaur": "Open desert dunes on Scorched Earth. Other map-specific regions remain pending.",
   "Rhyniognatha": "Swamp wetlands, including The Island's Writhing Swamps. Other map-specific regions remain pending."
 });
+
+// October 28, 2026: preserve earlier detailed encounter records.
+Object.assign(creatureInfo,{
+  "Bison": {
+    "habitat": "Ragnarok is a verified ASA map for Bison. Typical biome types and regional distribution remain pending; no Highlands or snow location is assumed.",
+    "behavior": "A territorial herd animal with a rider-dismounting throw.",
+    "checked": "2026-10-28",
+    "scope": "ASA example areas only; not availability on every map.",
+    "sources": [
+      [
+        "ARK Community Wiki: Bison",
+        "https://ark.wiki.gg/wiki/Bison"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: ASA Ragnarok launch patch",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/67.0"
+      ],
+      [
+        "Studio Wildcard: 2025 content review",
+        "https://survivetheark.com/index.php?/forums/topic/773502-ark-2025-content-year-in-review/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Bison and released Ragnarok context verified; no milk/raising numerical claims imported. Header and body disagree on food preference, so foods are listed without ranking."
+    }
+  },
+  "Deinotherium": {
+    "habitat": "Coastal beaches and jungle terrain where map-specific spawns permit it; The Island's Western Coast and The Center's Southern Jungle are documented examples.",
+    "behavior": "A territorial herd animal that can rally companions and charge intruders.",
+    "checked": "2026-10-28",
+    "scope": "ASA example areas only; not availability on every map.",
+    "sources": [
+      [
+        "ARK Community Wiki: Deinotherium",
+        "https://ark.wiki.gg/wiki/Deinotherium"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: The Western Coast",
+        "https://ark.wiki.gg/wiki/The_Western_Coast"
+      ],
+      [
+        "ARK Community Wiki: Southern Jungle",
+        "https://ark.wiki.gg/wiki/Southern_Jungle"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA Deinotherium species identifier and ASA spawn context verified. Separate ARK Additions mod page excluded; no mod numerical advice imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{Deinotherium:"Coastal beaches and jungle terrain where map-specific spawns permit it; The Island's Western Coast and The Center's Southern Jungle are documented examples."});

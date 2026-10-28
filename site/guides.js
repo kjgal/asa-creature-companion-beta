@@ -5544,3 +5544,94 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// October 28, 2026 species review; individual source URLs are metadata only.
+Object.assign(tamingGuides,{
+  "Bison": {
+    "method": "knockout",
+    "overview": "Render the Bison unconscious with tranquilizers, then put suitable herbivore food in its inventory and protect it while it eats.",
+    "food": "Superior Kibble, Mejoberries and crops are documented foods. Relative food preference and numerical requirements remain pending.",
+    "preparation": "Plan isolation from the herd, a secure firing position, tranquilizers, food and torpor supplies. Carry a Parachute for its throwing attack.",
+    "steps": [
+      "Separate the target from nearby herd threats",
+      "Apply tranquilizers from a protected position",
+      "Place food in its inventory after it falls unconscious",
+      "Watch torpor and defend it until taming completes"
+    ],
+    "specialAction": "A Bison can dismount and launch a rider. Do not assume it will flee as torpor rises; keep an escape route.",
+    "sources": [
+      [
+        "ARK Community Wiki: Bison",
+        "https://ark.wiki.gg/wiki/Bison"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: ASA Ragnarok launch patch",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/67.0"
+      ],
+      [
+        "Studio Wildcard: 2025 content review",
+        "https://survivetheark.com/index.php?/forums/topic/773502-ark-2025-content-year-in-review/"
+      ]
+    ],
+    "tips": [
+      "A Bison can dismount and launch a rider. Do not assume it will flee as torpor rises; keep an escape route."
+    ],
+    "checked": "2026-10-28",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Bison and released Ragnarok context verified; no milk/raising numerical claims imported. Header and body disagree on food preference, so foods are listed without ranking."
+    }
+  },
+  "Deinotherium": {
+    "method": "passive",
+    "overview": "Offer Beer Jars during the Deinotherium's receptive display. Read its body language before approaching beneath the trunk, then withdraw after feeding.",
+    "food": "Place Beer Jars in the final hotbar slot. Food amounts and feeding intervals remain pending.",
+    "preparation": "Isolate a calm target from herd interference, prepare beer and an escape route, and confirm the player-level taming requirement in game.",
+    "steps": [
+      "Approach slowly while it is not fighting",
+      "Wait to see head shaking, ear flapping and trunk swinging before offering beer",
+      "Retreat if it curls its trunk or pins its ears back",
+      "Approach beneath the trunk during a receptive display for the beer handoff",
+      "Back away after feeding and repeat once it settles"
+    ],
+    "specialAction": "Do not wait indefinitely through displays: it can become hostile. Exact acceptance odds, timing and controller prompts remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Deinotherium",
+        "https://ark.wiki.gg/wiki/Deinotherium"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: The Western Coast",
+        "https://ark.wiki.gg/wiki/The_Western_Coast"
+      ],
+      [
+        "ARK Community Wiki: Southern Jungle",
+        "https://ark.wiki.gg/wiki/Southern_Jungle"
+      ]
+    ],
+    "tips": [
+      "Do not wait indefinitely through displays: it can become hostile. Exact acceptance odds, timing and controller prompts remain pending."
+    ],
+    "checked": "2026-10-28",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual species, biome/spawn, regional and ASA release/patch passages reviewed on 2026-10-28. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, exhaustive current official map coverage, firsthand platform inputs and numerical formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA Deinotherium species identifier and ASA spawn context verified. Separate ARK Additions mod page excluded; no mod numerical advice imported."
+    }
+  }
+});
