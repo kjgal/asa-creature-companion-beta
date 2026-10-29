@@ -3544,3 +3544,83 @@ Object.assign(creatureInfo,{
   }
 });
 Object.assign(generalHabitats,{Deinotherium:"Coastal beaches and jungle terrain where map-specific spawns permit it; The Island's Western Coast and The Center's Southern Jungle are documented examples."});
+
+// October 29: refresh partial evolution records while retaining earlier fields.
+for(const [name,record] of Object.entries({
+  "Malwyn": {
+    "acquisition": "Evolve a companion Veilwyn into Malwyn by feeding it Corrupted Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding. Use a companion Veilwyn to match a wild Solwyn's requested emotes. Claim Pristine Vulpite once the Solwyn's curiosity is full. Reinforce that Vulpite with Red Element Shards at a Bloodforge to make Corrupted Vulpite. Build the companion Veilwyn's Adventure! progress in Lost Colony. Feed Corrupted Vulpite when Adventure! is full to transform it. Corrupted Vulpite is the evolution item. This is not a standard taming-food calculation; post-evolution upkeep details remain pending. The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending.",
+    "habitat": "For an owned Malwyn, use the Lost Colony Veilwyn-evolution route. Wild encounters are documented as Thrall-controlled Lost Malwyn, not ordinary tameable adults. Their precise terrain distribution remains pending.",
+    "behavior": "A combat-focused evolved companion; Thrall-controlled Lost Malwyn encounters are a separate form.",
+    "checked": "2026-10-29",
+    "scope": "ASA official PvE Lost Colony evolution route; normal species only, not Lost/mission variants.",
+    "sources": [
+      [
+        "ARK Community Wiki: Malwyn",
+        "https://ark.wiki.gg/wiki/Malwyn"
+      ],
+      [
+        "ARK Community Wiki: Veilwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn"
+      ],
+      [
+        "ARK Community Wiki: Pristine Vulpite",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Corrupted Vulpite",
+        "https://ark.wiki.gg/wiki/Corrupted_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+    }
+  },
+  "Solwyn": {
+    "acquisition": "Evolve a companion Veilwyn into Solwyn by feeding it Pristine Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding. Use a companion Veilwyn to match a wild Solwyn's requested emotes. Claim Pristine Vulpite once the Solwyn's curiosity is full. Build the companion Veilwyn's Adventure! progress in Lost Colony. Feed Pristine Vulpite when Adventure! is full to transform it. Pristine Vulpite is the evolution item. This is not a standard taming-food calculation; post-evolution upkeep details remain pending. The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending.",
+    "habitat": "Lost Colony has wild Solwyn that provide Pristine Vulpite through the companion-emote interaction. Obtain your own through Veilwyn evolution; precise wild biome distribution remains pending.",
+    "behavior": "A mobile evolved companion; wild Solwyn supply the evolution resource through curiosity interactions.",
+    "checked": "2026-10-29",
+    "scope": "ASA official PvE Lost Colony evolution route; normal species only, not Lost/mission variants.",
+    "sources": [
+      [
+        "ARK Community Wiki: Solwyn",
+        "https://ark.wiki.gg/wiki/Solwyn"
+      ],
+      [
+        "ARK Community Wiki: Veilwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn"
+      ],
+      [
+        "ARK Community Wiki: Pristine Vulpite",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+    }
+  }
+})) Object.assign(creatureInfo[name],record);
+Object.assign(generalHabitats,{
+  "Malwyn": "For an owned Malwyn, use the Lost Colony Veilwyn-evolution route. Wild encounters are documented as Thrall-controlled Lost Malwyn, not ordinary tameable adults. Their precise terrain distribution remains pending.",
+  "Solwyn": "Lost Colony has wild Solwyn that provide Pristine Vulpite through the companion-emote interaction. Obtain your own through Veilwyn evolution; precise wild biome distribution remains pending."
+});

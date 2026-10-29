@@ -5635,3 +5635,102 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// October 29, 2026 evolution acquisition review; individual URLs remain metadata only.
+Object.assign(tamingGuides,{
+  "Malwyn": {
+    "method": "acquisition",
+    "overview": "Evolve a companion Veilwyn into Malwyn by feeding it Corrupted Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding.",
+    "food": "Corrupted Vulpite is the evolution item. This is not a standard taming-food calculation; post-evolution upkeep details remain pending.",
+    "preparation": "Confirm Lost Colony access, obtain a Veilwyn, activate companion mode and make room under the tame limit. Gather the required Vulpite before attempting evolution.",
+    "steps": [
+      "Use a companion Veilwyn to match a wild Solwyn's requested emotes",
+      "Claim Pristine Vulpite once the Solwyn's curiosity is full",
+      "Reinforce that Vulpite with Red Element Shards at a Bloodforge to make Corrupted Vulpite",
+      "Build the companion Veilwyn's Adventure! progress in Lost Colony",
+      "Feed Corrupted Vulpite when Adventure! is full to transform it"
+    ],
+    "specialAction": "The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending.",
+    "checked": "2026-10-29",
+    "scope": "ASA official PvE Lost Colony evolution route; normal species only, not Lost/mission variants.",
+    "sources": [
+      [
+        "ARK Community Wiki: Malwyn",
+        "https://ark.wiki.gg/wiki/Malwyn"
+      ],
+      [
+        "ARK Community Wiki: Veilwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn"
+      ],
+      [
+        "ARK Community Wiki: Pristine Vulpite",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Corrupted Vulpite",
+        "https://ark.wiki.gg/wiki/Corrupted_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+    },
+    "tips": [
+      "The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending."
+    ]
+  },
+  "Solwyn": {
+    "method": "acquisition",
+    "overview": "Evolve a companion Veilwyn into Solwyn by feeding it Pristine Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding.",
+    "food": "Pristine Vulpite is the evolution item. This is not a standard taming-food calculation; post-evolution upkeep details remain pending.",
+    "preparation": "Confirm Lost Colony access, obtain a Veilwyn, activate companion mode and make room under the tame limit. Gather the required Vulpite before attempting evolution.",
+    "steps": [
+      "Use a companion Veilwyn to match a wild Solwyn's requested emotes",
+      "Claim Pristine Vulpite once the Solwyn's curiosity is full",
+      "Build the companion Veilwyn's Adventure! progress in Lost Colony",
+      "Feed Pristine Vulpite when Adventure! is full to transform it"
+    ],
+    "specialAction": "The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending.",
+    "checked": "2026-10-29",
+    "scope": "ASA official PvE Lost Colony evolution route; normal species only, not Lost/mission variants.",
+    "sources": [
+      [
+        "ARK Community Wiki: Solwyn",
+        "https://ark.wiki.gg/wiki/Solwyn"
+      ],
+      [
+        "ARK Community Wiki: Veilwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn"
+      ],
+      [
+        "ARK Community Wiki: Pristine Vulpite",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+    },
+    "tips": [
+      "The wild Solwyn interaction supplies Vulpite; it does not tame that Solwyn. Vulpite quality affects evolution results; exact stat inheritance, costs, cooldowns and controller inputs remain pending."
+    ]
+  }
+});

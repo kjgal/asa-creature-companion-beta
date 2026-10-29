@@ -1,0 +1,80 @@
+{
+  "reviewed": "2026-10-29",
+  "addedGuides": [
+    {
+      "name": "Malwyn",
+      "classification": "acquisition",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Malwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite",
+        "https://ark.wiki.gg/wiki/Corrupted_Vulpite",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      "finding": "Evolve a companion Veilwyn into Malwyn by feeding it Corrupted Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding.",
+      "provenance": {
+        "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+      }
+    },
+    {
+      "name": "Solwyn",
+      "classification": "acquisition",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Solwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn",
+        "https://ark.wiki.gg/wiki/Pristine_Vulpite",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      "finding": "Evolve a companion Veilwyn into Solwyn by feeding it Pristine Vulpite once its Adventure! progress is full. A wild adult is not directly tamed by knockout or ordinary feeding.",
+      "provenance": {
+        "access": "Indexed individual species, Veilwyn, Vulpite-item, ASA patch, official launch and spawn-map passages reviewed on 2026-10-29. Direct Malwyn and Solwyn pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA-native Lost Colony evolution route corroborated by species, item and official launch sources. Acquired regular form distinguished from wild item-source and Thrall-controlled Lost forms; no wild-tame or unofficial transfer shortcut inferred."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-29",
+    "sources": [
+      "https://survivetheark.com/index.php?/forums/topic/774298-community-crunch-529-ghouls-just-wanna-have-fun/",
+      "https://survivetheark.com/index.php?/profile/180634-studiowildcard/content/"
+    ],
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "No newer creature-release announcement found. Fear Ascended is announced for October 28–November 11, 2026; separate event-variant tame/acquisition mechanics remain pending. No event variants or upcoming Enigmasaur added as verified current acquisitions."
+  },
+  "habitats": {
+    "addedGeneralAvailability": [
+      "Malwyn",
+      "Solwyn"
+    ],
+    "addedAberration": [],
+    "limitations": "These are availability/acquisition notes, not newly verified terrain descriptions. Lost Colony wild Solwyn item-source and Thrall-controlled Lost Malwyn distinguished from acquired regular forms. Exact regional biome distributions remain pending; no Aberration claim added.",
+    "supportingSources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+    ]
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 181,
+    "missingGuides": 21,
+    "generalHabitatAvailabilityEntries": 136,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 156
+  },
+  "ownerQuestions": [
+    "For Solwyn's curiosity interaction on controller, which Veilwyn emote controls and final Use prompt have you confirmed on official PvE?"
+  ],
+  "pending": [
+    "Numerical Vulpite cost and quality/inheritance formulas, Adventure XP requirements, cooldowns and platform prompts.",
+    "Detailed wild Solwyn and Lost Malwyn habitat types.",
+    "Full source revision/contributor comparison; direct species pages returned 403."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controls, exact regional habitats and numerical quality/XP/timing formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "All earlier rights findings and source/contributor/license notices, public free noncommercial audience, original pixel assets/icons/manifest, interface/bubbles, metadata-only individual/video URLs, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and undeployed rate-service preparation. Archived private Site untouched."
+}

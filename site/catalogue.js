@@ -1020,7 +1020,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Crafted / rewarded",
+    "guideReviewed": "2026-10-29"
   },
   {
     "name": "Mammoth",
@@ -1625,7 +1626,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Crafted / rewarded",
+    "guideReviewed": "2026-10-29"
   },
   {
     "name": "Spino",
