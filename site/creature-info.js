@@ -3624,3 +3624,77 @@ Object.assign(generalHabitats,{
   "Malwyn": "For an owned Malwyn, use the Lost Colony Veilwyn-evolution route. Wild encounters are documented as Thrall-controlled Lost Malwyn, not ordinary tameable adults. Their precise terrain distribution remains pending.",
   "Solwyn": "Lost Colony has wild Solwyn that provide Pristine Vulpite through the companion-emote interaction. Obtain your own through Veilwyn evolution; precise wild biome distribution remains pending."
 });
+
+// October 30 habitat review; all earlier detailed records retained.
+Object.assign(creatureInfo,{
+  "Acrocanthosaurus": {
+    "habitat": "Redwood forests, open plains and desert badlands where the map's spawns include it; Genesis: Part 1 also has a bog example. The Island's redwoods are a checked starting area.",
+    "behavior": "An aggressive theropod that braces behind its armored sides and can enter an adrenaline state.",
+    "checked": "2026-10-30",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Acrocanthosaurus",
+        "https://ark.wiki.gg/wiki/Acrocanthosaurus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Redwood Forests",
+        "https://ark.wiki.gg/wiki/The_Redwood_Forests"
+      ],
+      [
+        "Studio Wildcard: ASA PC patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA species and official availability verified. Current base-game structure restriction retained; incompatible mod trapping instructions excluded. Knockout classification includes an unusual sedative handoff."
+    }
+  },
+  "Cryolophosaurus": {
+    "habitat": "Snow regions on eligible maps. Checked examples include The Island, The Center, Valguero, Ragnarok, Extinction and Astraeos; map-specific availability still applies.",
+    "behavior": "An aggressive predator with torpor spit and freezing breath.",
+    "checked": "2026-10-30",
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cryolophosaurus",
+        "https://ark.wiki.gg/wiki/Cryolophosaurus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 94.7",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/94.7"
+      ],
+      [
+        "Studio Wildcard: ASA server patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v947-updated-10062026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA species and official snow-spawn expansion corroborated. Shield-reflection knockout distinguished from a generic tranq method. Mod, R and X variant assumptions excluded."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Acrocanthosaurus": "Redwood forests, open plains and desert badlands where the map's spawns include it; Genesis: Part 1 also has a bog example. The Island's redwoods are a checked starting area.",
+  "Cryolophosaurus": "Snow regions on eligible maps. Checked examples include The Island, The Center, Valguero, Ragnarok, Extinction and Astraeos; map-specific availability still applies."
+});

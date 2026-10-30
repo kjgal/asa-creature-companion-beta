@@ -5734,3 +5734,98 @@ Object.assign(tamingGuides,{
     ]
   }
 });
+
+// October 30, 2026: unusual knockout routes; source URLs retained as verification metadata.
+Object.assign(tamingGuides,{
+  "Acrocanthosaurus": {
+    "method": "knockout",
+    "overview": "Trigger its defensive stance and frustration roar with controlled damage, then feed a sedative during the open-mouth window. Repeat until unconscious before starting food taming.",
+    "food": "Exceptional Kibble or Raw Mutton are checked feeding choices. Narcotic, Narcoberries or Bio Toxin serve the earlier knockout interaction, not the food stage.",
+    "preparation": "Bring a firearm, sedatives in the final hotbar slot, taming food and an escape plan. Work away from trapping structures.",
+    "steps": [
+      "Deal controlled damage until it shields and then roars",
+      "Approach the open mouth and use the sedative-feeding interaction",
+      "Retreat and repeat the cycle until it collapses",
+      "Stop damaging it and place food in its inventory"
+    ],
+    "specialAction": "Ranged tranquilizers do not provide this knockout. Nearby trapping structures can prevent the required roar. Damage thresholds, quantities and controller prompts remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Acrocanthosaurus",
+        "https://ark.wiki.gg/wiki/Acrocanthosaurus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: The Redwood Forests",
+        "https://ark.wiki.gg/wiki/The_Redwood_Forests"
+      ],
+      [
+        "Studio Wildcard: ASA PC patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/"
+      ]
+    ],
+    "checked": "2026-10-30",
+    "tips": [
+      "Ranged tranquilizers do not provide this knockout. Nearby trapping structures can prevent the required roar. Damage thresholds, quantities and controller prompts remain pending."
+    ],
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA species and official availability verified. Current base-game structure restriction retained; incompatible mod trapping instructions excluded. Knockout classification includes an unusual sedative handoff."
+    }
+  },
+  "Cryolophosaurus": {
+    "method": "knockout",
+    "overview": "Reflect its torpor spit back with a raised shield until it becomes unconscious. Use terrain cover against freezing breath, then feed the sleeping creature.",
+    "food": "Exceptional Kibble or Raw Mutton are checked choices after knockout. Food and torpor-supply amounts remain pending.",
+    "preparation": "Bring a durable shield, nearby solid cover, food, Narcotics and personal torpor recovery supplies. Isolate it from other fights and confirm the taming-level requirement in game.",
+    "steps": [
+      "Hold its attention at range beside cover",
+      "Raise the shield to reflect incoming spit",
+      "Hide behind terrain when it switches to freezing breath",
+      "Resume reflection when spit attacks return",
+      "After knockout, supply food and monitor torpor closely"
+    ],
+    "specialAction": "A shield reflects spit but does not stop freezing breath. Losing the attack cycle can undo torpor progress; exact timings, reflection positioning and controller inputs remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cryolophosaurus",
+        "https://ark.wiki.gg/wiki/Cryolophosaurus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: ASA patch 94.7",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/94.7"
+      ],
+      [
+        "Studio Wildcard: ASA server patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v947-updated-10062026/"
+      ]
+    ],
+    "checked": "2026-10-30",
+    "tips": [
+      "A shield reflects spit but does not stop freezing breath. Losing the attack cycle can undo torpor progress; exact timings, reflection positioning and controller inputs remain pending."
+    ],
+    "scope": "ASA official PvE regular species where eligible; numerical requirements pending.",
+    "provenance": {
+      "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Integrated ASA species and official snow-spawn expansion corroborated. Shield-reflection knockout distinguished from a generic tranq method. Mod, R and X variant assumptions excluded."
+    }
+  }
+});

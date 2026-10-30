@@ -1,0 +1,72 @@
+{
+  "reviewed": "2026-10-30",
+  "addedGuides": [
+    {
+      "name": "Acrocanthosaurus",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Acrocanthosaurus",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/The_Redwood_Forests",
+        "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/"
+      ],
+      "finding": "Trigger its defensive stance and frustration roar with controlled damage, then feed a sedative during the open-mouth window. Repeat until unconscious before starting food taming.",
+      "provenance": {
+        "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "Integrated ASA species and official availability verified. Current base-game structure restriction retained; incompatible mod trapping instructions excluded. Knockout classification includes an unusual sedative handoff."
+      }
+    },
+    {
+      "name": "Cryolophosaurus",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Cryolophosaurus",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended/Patch/94.7",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v947-updated-10062026/"
+      ],
+      "finding": "Reflect its torpor spit back with a raised shield until it becomes unconscious. Use terrain cover against freezing breath, then feed the sleeping creature.",
+      "provenance": {
+        "access": "Indexed individual base-ASA species, biome, spawn and official patch passages reviewed on 2026-10-30. Direct species pages returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "Integrated ASA species and official snow-spawn expansion corroborated. Shield-reflection knockout distinguished from a generic tranq method. Mod, R and X variant assumptions excluded."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-30",
+    "source": "https://survivetheark.com/index.php?/forums/",
+    "latest": "Community Crunch 529: Ghouls Just Wanna Have Fun",
+    "finding": "No newer creature release found at review time. Event-variant acquisition remains unverified. No new creature catalogue entry added; future Giga TLC/Enigmasaur not substituted for current live methods."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Acrocanthosaurus",
+      "Cryolophosaurus"
+    ],
+    "addedAberration": [],
+    "limitations": "Acro redwood/plains/desert and Genesis bog wording restricted to map-specific occurrence. Cryo snow regions supported by species and official expanded-spawn patch. General Spawn entries reviewed, but reliable indexed base species-container matches were not obtained; mod spawn tables excluded. No claim of every snow map or any Aberration native variant."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 183,
+    "missingGuides": 19,
+    "generalHabitatAvailabilityEntries": 138,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 158
+  },
+  "ownerQuestions": [
+    "For Acrocanthosaurus on controller, which prompt reliably feeds the sedative during its roar?",
+    "For Cryolophosaurus on official PvE, what shield-facing position reliably reflects its spit back at it?"
+  ],
+  "pending": [
+    "Numerical damage thresholds, reflection torpor, amounts, timings and effectiveness formulas.",
+    "Firsthand platform interactions, current trap exclusion distance and complete variant/map eligibility.",
+    "Full article/revision/contributor comparison; direct species pages returned 403."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE inputs, exhaustive map/variant coverage and numerical torpor/food/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Prior rights findings and source/contributor/license notices, public free noncommercial audience, original artwork/icons/manifest, interface/bubbles, metadata-only individual/video URLs, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and undeployed rate-service preparation. Archived private Site untouched."
+}
