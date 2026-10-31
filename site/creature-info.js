@@ -3698,3 +3698,99 @@ Object.assign(generalHabitats,{
   "Acrocanthosaurus": "Redwood forests, open plains and desert badlands where the map's spawns include it; Genesis: Part 1 also has a bog example. The Island's redwoods are a checked starting area.",
   "Cryolophosaurus": "Snow regions on eligible maps. Checked examples include The Island, The Center, Valguero, Ragnarok, Extinction and Astraeos; map-specific availability still applies."
 });
+
+// October 31 habitat review; earlier detailed records retained.
+Object.assign(creatureInfo,{
+  "Dreadnoughtus": {
+    "habitat": "Extinction's exposed wasteland, where Element Veins occur and meteor storms are a hazard. This describes the checked Extinction route; other maps need separate review.",
+    "behavior": "A territorial sauropod that tolerates smaller creatures but challenges larger threats.",
+    "checked": "2026-10-31",
+    "scope": "ASA official PvE Extinction vein-defense route; other-map acquisition remains pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Dreadnoughtus",
+        "https://ark.wiki.gg/wiki/Dreadnoughtus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Extinction",
+        "https://ark.wiki.gg/wiki/Extinction"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Extinction species verified. Wiki calls the route passive; app special label distinguishes the vein-defense stage from ordinary hand-feeding. Astraeos mechanics not inferred."
+    }
+  },
+  "Megaraptor": {
+    "habitat": "Grasslands, redwood forests and jungle terrain where its map-specific spawns occur. Valguero's White Cliffs are a documented regional example.",
+    "behavior": "A solitary ambush predator that camouflages itself and attacks from close range.",
+    "checked": "2026-10-31",
+    "scope": "ASA official PvE regular species where eligible; event and mission variants excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Megaraptor",
+        "https://ark.wiki.gg/wiki/Megaraptor"
+      ],
+      [
+        "ARK Community Wiki: The White Cliffs",
+        "https://ark.wiki.gg/wiki/The_White_Cliffs_(Valguero)"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA Valguero species verified. Altar-and-Torch knockout distinguished from generic tranquilizers; Grendel and Ghost variants excluded."
+    }
+  },
+  "Cat": {
+    "habitat": "Jungle terrain on eligible maps; The Center's Southern Jungle is a checked example. Its presence and temperament do not imply that every nearby Cat is tameable by your survivor.",
+    "behavior": "A small carnivore whose calm, frightened or angry response depends on the survivor.",
+    "checked": "2026-10-31",
+    "scope": "ASA official PvE regular species where eligible; event and mission variants excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cat",
+        "https://ark.wiki.gg/wiki/Cat"
+      ],
+      [
+        "ARK Community Wiki: Southern Jungle",
+        "https://ark.wiki.gg/wiki/Southern_Jungle"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA Cat passive method verified. Survivor-dependent temperament distinguished from a universal feeding tame; Feline Form and Ghost forms excluded."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Dreadnoughtus": "Extinction's exposed wasteland, where Element Veins occur and meteor storms are a hazard. This describes the checked Extinction route; other maps need separate review.",
+  "Megaraptor": "Grasslands, redwood forests and jungle terrain where its map-specific spawns occur. Valguero's White Cliffs are a documented regional example.",
+  "Cat": "Jungle terrain on eligible maps; The Center's Southern Jungle is a checked example. Its presence and temperament do not imply that every nearby Cat is tameable by your survivor."
+});

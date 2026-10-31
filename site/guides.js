@@ -5829,3 +5829,132 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// October 31 species review; individual source URLs remain metadata only.
+Object.assign(tamingGuides,{
+  "Dreadnoughtus": {
+    "method": "special",
+    "overview": "Feed Element to lead a wild Dreadnoughtus to an Element Vein, then defend it while it consumes the vein and gains taming progress.",
+    "food": "Element starts the following stage; an Element Vein supplies the defense-stage feeding. Quantities and vein-quality comparisons remain pending.",
+    "preparation": "Scout an accessible vein and route, plan for meteors, and bring a controllable combat mount. Approach with a smaller mount to avoid provoking it.",
+    "steps": [
+      "Feed Element and guide it toward the selected vein",
+      "Let it reach the vein and begin eating",
+      "Defend it from the attacking corrupted creatures",
+      "Keep attackers off it until feeding completes the tame"
+    ],
+    "specialAction": "Damage interrupts feeding and can reduce tame quality. Do not rely on unattended tames to defend it; their event targeting needs firsthand confirmation.",
+    "sources": [
+      [
+        "ARK Community Wiki: Dreadnoughtus",
+        "https://ark.wiki.gg/wiki/Dreadnoughtus"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Extinction",
+        "https://ark.wiki.gg/wiki/Extinction"
+      ]
+    ],
+    "checked": "2026-10-31",
+    "tips": [
+      "Damage interrupts feeding and can reduce tame quality. Do not rely on unattended tames to defend it; their event targeting needs firsthand confirmation."
+    ],
+    "scope": "ASA official PvE Extinction vein-defense route; other-map acquisition remains pending.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA-native Extinction species verified. Wiki calls the route passive; app special label distinguishes the vein-defense stage from ordinary hand-feeding. Astraeos mechanics not inferred."
+    }
+  },
+  "Megaraptor": {
+    "method": "knockout",
+    "overview": "Activate its altar with a Torch equipped, then interrupt its ambushes with timed torch hits until it falls unconscious. Feed it afterward.",
+    "food": "Exceptional Kibble or Raw Mutton are checked food options after knockout. The Torch is part of the knockout challenge.",
+    "preparation": "Find an altar with its Megaraptor nearby. Bring durable armor, healing supplies and spare Torches; clear unrelated threats.",
+    "steps": [
+      "Equip a Torch and interact with the altar",
+      "Watch for the camouflaged Megaraptor approaching",
+      "Strike it before the ambush lands",
+      "Repeat timed interruptions until knockout",
+      "Place taming food in its inventory"
+    ],
+    "specialAction": "Torch swings have a recovery interval; repeated blind swinging can miss the counter window. Leaving the altar triggers a retry cooldown; exact timing and inputs remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Megaraptor",
+        "https://ark.wiki.gg/wiki/Megaraptor"
+      ],
+      [
+        "ARK Community Wiki: The White Cliffs",
+        "https://ark.wiki.gg/wiki/The_White_Cliffs_(Valguero)"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "checked": "2026-10-31",
+    "tips": [
+      "Torch swings have a recovery interval; repeated blind swinging can miss the counter window. Leaving the altar triggers a retry cooldown; exact timing and inputs remain pending."
+    ],
+    "scope": "ASA official PvE regular species where eligible; event and mission variants excluded.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA Valguero species verified. Altar-and-Torch knockout distinguished from generic tranquilizers; Grendel and Ghost variants excluded."
+    }
+  },
+  "Cat": {
+    "method": "passive",
+    "overview": "Choose a Cat that is calm toward your survivor, then hand-feed it repeatedly. A frightened or angry Cat cannot be directly tamed by that survivor.",
+    "food": "Raw Prime Fish Meat is the checked preferred food. Put it in the final hotbar slot; amounts and intervals remain pending.",
+    "preparation": "Check its response to you before approaching and carry feeding supplies. Another survivor may be needed for a Cat that rejects you.",
+    "steps": [
+      "Find a Cat that remains calm around you",
+      "Approach with food in the final hotbar slot",
+      "Use the feeding interaction when available",
+      "Repeat feeding until the tame completes"
+    ],
+    "specialAction": "Temperament differs by survivor. Chasing a scared Cat or enduring attacks does not establish a verified way to change its preference.",
+    "sources": [
+      [
+        "ARK Community Wiki: Cat",
+        "https://ark.wiki.gg/wiki/Cat"
+      ],
+      [
+        "ARK Community Wiki: Southern Jungle",
+        "https://ark.wiki.gg/wiki/Southern_Jungle"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "checked": "2026-10-31",
+    "tips": [
+      "Temperament differs by survivor. Chasing a scared Cat or enduring attacks does not establish a verified way to change its preference."
+    ],
+    "scope": "ASA official PvE regular species where eligible; event and mission variants excluded.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "ASA Cat passive method verified. Survivor-dependent temperament distinguished from a universal feeding tame; Feline Form and Ghost forms excluded."
+    }
+  }
+});
+Object.assign(tamingGuides.Giganotosaurus.upcomingChange,{checked:"2026-10-31",source:"https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/"});

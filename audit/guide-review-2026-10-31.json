@@ -1,0 +1,100 @@
+{
+  "reviewed": "2026-10-31",
+  "addedGuides": [
+    {
+      "name": "Dreadnoughtus",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Dreadnoughtus",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Extinction"
+      ],
+      "finding": "Feed Element to lead a wild Dreadnoughtus to an Element Vein, then defend it while it consumes the vein and gains taming progress.",
+      "provenance": {
+        "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA-native Extinction species verified. Wiki calls the route passive; app special label distinguishes the vein-defense stage from ordinary hand-feeding. Astraeos mechanics not inferred."
+      }
+    },
+    {
+      "name": "Megaraptor",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Megaraptor",
+        "https://ark.wiki.gg/wiki/The_White_Cliffs_(Valguero)",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "finding": "Activate its altar with a Torch equipped, then interrupt its ambushes with timed torch hits until it falls unconscious. Feed it afterward.",
+      "provenance": {
+        "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA Valguero species verified. Altar-and-Torch knockout distinguished from generic tranquilizers; Grendel and Ghost variants excluded."
+      }
+    },
+    {
+      "name": "Cat",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Cat",
+        "https://ark.wiki.gg/wiki/Southern_Jungle",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "finding": "Choose a Cat that is calm toward your survivor, then hand-feed it repeatedly. A frightened or angry Cat cannot be directly tamed by that survivor.",
+      "provenance": {
+        "access": "Indexed individual species, Biomes, Spawn entries, regional pages and official announcements reviewed on 2026-10-31. Direct species requests returned 403.",
+        "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+        "asa": "ASA Cat passive method verified. Survivor-dependent temperament distinguished from a universal feeding tame; Feline Form and Ghost forms excluded."
+      }
+    }
+  ],
+  "updatedGuides": [
+    {
+      "name": "Giganotosaurus",
+      "change": "Rechecked upcoming-change metadata against Community Crunch 530; current knockout method retained.",
+      "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/"
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-10-31",
+    "latest": "Community Crunch 530: Trick or Teeth",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "finding": "Latest announcement confirms November 5 Giga TLC target and upcoming Enigmasaur. Neither treated as newly live. Fear Ascended acknowledged as active, but event-variant acquisition remains unverified. No new catalogue creatures added."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Dreadnoughtus",
+      "Megaraptor",
+      "Cat"
+    ],
+    "addedAberration": [],
+    "limitations": "Dreadnoughtus habitat/method limited to Extinction wasteland; Astraeos acquisition not inferred. Megaraptor terrain supported by species/White Cliffs; Cat jungle example supported by Southern Jungle. No universal map presence or new Aberration claims.",
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/The_White_Cliffs_(Valguero)",
+      "https://ark.wiki.gg/wiki/Southern_Jungle"
+    ]
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 186,
+    "missingGuides": 16,
+    "generalHabitatAvailabilityEntries": 141,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 161
+  },
+  "ownerQuestions": [
+    "During Dreadnoughtus defense on official PvE, do your unattended tames attack the corrupted waves, or must you control the defender directly?",
+    "For Megaraptor on controller, which altar interaction and torch-swing timing have worked reliably?"
+  ],
+  "pending": [
+    "Dreadnoughtus defense AI behavior and any Astraeos-specific acquisition route.",
+    "Megaraptor counter/retry timing and controller inputs.",
+    "Full article/revision/contributor comparison, complete maps/variants and all numerical quantities/times/effectiveness formulas."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE controller checks, exhaustive map/variant eligibility and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Earlier rights findings and source/contributor/license notices, public free noncommercial audience, original artwork/icons/manifest, interface/bubbles, metadata-only individual/video URLs, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and undeployed rate-service preparation. Archived private Site untouched."
+}
