@@ -3794,3 +3794,77 @@ Object.assign(generalHabitats,{
   "Megaraptor": "Grasslands, redwood forests and jungle terrain where its map-specific spawns occur. Valguero's White Cliffs are a documented regional example.",
   "Cat": "Jungle terrain on eligible maps; The Center's Southern Jungle is a checked example. Its presence and temperament do not imply that every nearby Cat is tameable by your survivor."
 });
+
+// November 1 habitat review; all earlier detailed records retained.
+Object.assign(creatureInfo,{
+  "Boaratos": {
+    "habitat": "Therokis, Astraeos's volcanic island, is the checked habitat example. This does not imply availability on other maps or the same taming rules for Astral/boss variants.",
+    "behavior": "An aggressive hog-like creature with fiery attacks.",
+    "checked": "2026-11-01",
+    "scope": "ASA official PvE regular Astraeos species; variants and mod versions excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Boaratos",
+        "https://ark.wiki.gg/wiki/Boaratos"
+      ],
+      [
+        "ARK Community Wiki: Astraeos",
+        "https://ark.wiki.gg/wiki/Astraeos"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: Astraeos Heaven & Abyss launch",
+        "https://survivetheark.com/index.php?/forums/topic/774170-astraeos-heaven-abyss-update-is-now-live/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirects, Biomes, general Spawn entries, Astraeos and official release/patch passages reviewed on 2026-11-01. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE testing, complete variant/spawn coverage and numerical quantities/torpor/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Regular Boaratos section in shared species page verified against the official Astraeos addition. Astral Boaratos and Kroaratos not treated as the same tame."
+    }
+  },
+  "Grand Tortugar": {
+    "habitat": "Reef-lined shores of Pyranthos and some small southwestern islands on Astraeos. These are typical regional examples, not a complete spawn map.",
+    "behavior": "An aggressive, heavily shelled reptile that can bite, trample and knock targets back.",
+    "checked": "2026-11-01",
+    "scope": "ASA official PvE regular Astraeos species; variants and mod versions excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Grand Tortugar",
+        "https://ark.wiki.gg/wiki/Grand_Tortugar"
+      ],
+      [
+        "ARK Community Wiki: Astraeos",
+        "https://ark.wiki.gg/wiki/Astraeos"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: ASA PC patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species/shared redirects, Biomes, general Spawn entries, Astraeos and official release/patch passages reviewed on 2026-11-01. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE testing, complete variant/spawn coverage and numerical quantities/torpor/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Base ASA Grand Tortugar and official Astraeos release context verified. Separate Ports of Atlas mod instructions excluded; speculative trap dimensions and efficiency rankings not imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Boaratos": "Therokis, Astraeos's volcanic island, is the checked habitat example. This does not imply availability on other maps or the same taming rules for Astral/boss variants.",
+  "Grand Tortugar": "Reef-lined shores of Pyranthos and some small southwestern islands on Astraeos. These are typical regional examples, not a complete spawn map."
+});

@@ -5958,3 +5958,97 @@ Object.assign(tamingGuides,{
   }
 });
 Object.assign(tamingGuides.Giganotosaurus.upcomingChange,{checked:"2026-10-31",source:"https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/"});
+
+// November 1, 2026 Astraeos review; individual URLs remain metadata only.
+Object.assign(tamingGuides,{
+  "Boaratos": {
+    "method": "knockout",
+    "overview": "Knock the Boaratos unconscious with tranquilizers, then place suitable food in its inventory. Keep a close watch on torpor throughout feeding.",
+    "food": "Extraordinary Kibble or Raw Meat are documented taming foods. Amounts and comparative feeding times remain pending.",
+    "preparation": "Bring tranquilizers, food and a ready supply of Narcotics or Bio Toxin. Confirm Astraeos access and plan protection from its fiery attacks and nearby threats.",
+    "steps": [
+      "Choose an isolated target and a protected firing position",
+      "Apply tranquilizers until it becomes unconscious",
+      "Place taming food in its inventory",
+      "Maintain torpor and protect it until feeding completes"
+    ],
+    "specialAction": "Its torpor drops rapidly after knockout. Monitor the unconsciousness bar rather than relying on an unverified dosing interval.",
+    "sources": [
+      [
+        "ARK Community Wiki: Boaratos",
+        "https://ark.wiki.gg/wiki/Boaratos"
+      ],
+      [
+        "ARK Community Wiki: Astraeos",
+        "https://ark.wiki.gg/wiki/Astraeos"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: Astraeos Heaven & Abyss launch",
+        "https://survivetheark.com/index.php?/forums/topic/774170-astraeos-heaven-abyss-update-is-now-live/"
+      ]
+    ],
+    "checked": "2026-11-01",
+    "tips": [
+      "Its torpor drops rapidly after knockout. Monitor the unconsciousness bar rather than relying on an unverified dosing interval."
+    ],
+    "scope": "ASA official PvE regular Astraeos species; variants and mod versions excluded.",
+    "provenance": {
+      "access": "Indexed individual species/shared redirects, Biomes, general Spawn entries, Astraeos and official release/patch passages reviewed on 2026-11-01. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE testing, complete variant/spawn coverage and numerical quantities/torpor/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Regular Boaratos section in shared species page verified against the official Astraeos addition. Astral Boaratos and Kroaratos not treated as the same tame."
+    }
+  },
+  "Grand Tortugar": {
+    "method": "knockout",
+    "overview": "Use tranquilizers on exposed areas to knock the Grand Tortugar unconscious, then feed it from its inventory.",
+    "food": "Superior Kibble, Raw Mutton, Raw Prime Meat and Raw Meat are documented foods. Quantities and feeding-time comparisons remain pending.",
+    "preparation": "Bring ranged tranquilizers, food and torpor supplies. Plan an escape from bites, trampling and tail knockback, with room to aim away from the shell.",
+    "steps": [
+      "Approach from a position with a clear escape route",
+      "Aim tranquilizers at the exposed head or underbelly",
+      "Avoid standing beneath it while aiming",
+      "After knockout, add food and monitor its torpor"
+    ],
+    "specialAction": "The armored upper shell reduces the effect of incoming hits. Aim for exposed areas; trap dimensions and numerical shot requirements remain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Grand Tortugar",
+        "https://ark.wiki.gg/wiki/Grand_Tortugar"
+      ],
+      [
+        "ARK Community Wiki: Astraeos",
+        "https://ark.wiki.gg/wiki/Astraeos"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: ASA PC patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/708761-asa-pc-patch-notes-client-v947-updated-09302026/"
+      ]
+    ],
+    "checked": "2026-11-01",
+    "tips": [
+      "The armored upper shell reduces the effect of incoming hits. Aim for exposed areas; trap dimensions and numerical shot requirements remain pending."
+    ],
+    "scope": "ASA official PvE regular Astraeos species; variants and mod versions excluded.",
+    "provenance": {
+      "access": "Indexed individual species/shared redirects, Biomes, general Spawn entries, Astraeos and official release/patch passages reviewed on 2026-11-01. Direct species pages returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison, firsthand official PvE testing, complete variant/spawn coverage and numerical quantities/torpor/timing/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+      "asa": "Base ASA Grand Tortugar and official Astraeos release context verified. Separate Ports of Atlas mod instructions excluded; speculative trap dimensions and efficiency rankings not imported."
+    }
+  }
+});
