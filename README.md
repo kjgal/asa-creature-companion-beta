@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 188 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 190 written guides (including acquisition and wild encounters) out of 202 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp. Snapshots older than two hours are clearly marked as delayed; snapshots older than 24 hours are rejected and use the unavailable/manual-rate fallback. This tolerates delayed GitHub schedules without claiming a fresh check or changing the source timestamp. Requests bypass cached JSON, and a failed refresh preserves browser progress and manual overrides. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -55,3 +55,5 @@ October 30 review: Acrocanthosaurus roar-window sedative knockout and Cryolophos
 October 31 review: Dreadnoughtus vein-defense special, Megaraptor altar/Torch knockout and temperament-dependent Cat passive guides, with three general habitat notes. Coverage is 186 written guides of 202 entries, leaving 16. Habitat/availability notes total 141 general and 26 Aberration. Community Crunch 530 reconfirms the upcoming November 5 Giga TLC; current live method retained. See audit/guide-review-2026-10-31.json.
 
 November 1 review: Boaratos and Grand Tortugar knockout guides with two Astraeos habitat notes. Coverage is 188 written guides of 202 entries, leaving 14. General habitat/availability notes total 143; Aberration notes remain 26. Numerical torpor/dosing, shot and food requirements remain pending. See audit/guide-review-2026-11-01.json.
+
+November 2 review: Parrot passive trust challenge and Palaeoctopus sedative-feeding knockout guides. Coverage is 190 written guides of 202 entries, leaving 12. Habitat/availability notes total 145 general and 26 Aberration: one seabed habitat and one explicitly pending-terrain availability note added. Food rankings and practical special-action details remain pending; see audit/guide-review-2026-11-02.json.

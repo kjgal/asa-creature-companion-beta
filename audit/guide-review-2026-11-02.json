@@ -1,0 +1,67 @@
+{
+  "reviewed": "2026-11-02",
+  "addedGuides": [
+    {
+      "name": "Parrot",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Parrot",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      "provenance": {
+        "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+        "asa": "ASA official PvE Parrot introduced with Tides of Fortune alongside Genesis: Part 1; separate Ports of Atlas mod excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+      }
+    },
+    {
+      "name": "Palaeoctopus",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Palaeoctopus",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/",
+        "https://ark.wiki.gg/wiki/Ocean_(Genesis)",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Genesis:_Part_1/Spawn_Locations"
+      ],
+      "provenance": {
+        "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+        "asa": "ASA official PvE regular Palaeoctopus; Alpha variant and mod versions excluded.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-02",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "latest": "Community Crunch 530: Trick or Teeth",
+    "finding": "No newer live creature addition verified. November 5 Giganotosaurus TLC and Enigmasaur remain upcoming; current Giga method retained."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Parrot",
+      "Palaeoctopus"
+    ],
+    "addedAberration": [],
+    "limitations": "Parrot terrain remains pending; availability only. Palaeoctopus seabed supported by individual species and Ocean/Biomes entries. Spawn-location index provides regional context, not independently matched ASA spawn containers. No Aberration or every-map claim."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 190,
+    "missingGuides": 12,
+    "generalHabitatAvailabilityEntries": 145,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 165
+  },
+  "ownerQuestions": [
+    "Parrot: have you confirmed which mission rewards advance trust on official PvE?",
+    "Palaeoctopus: which food is preferred on your official server, and does the displayed feed prompt match the real-bite camera shake on your controller?"
+  ],
+  "pending": [
+    "Parrot typical habitat, post-tame diet and qualifying mission rewards.",
+    "Palaeoctopus conflicting food rankings and firsthand feed-prompt confirmation.",
+    "Full-source comparison and numerical formulas."
+  ],
+  "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified.",
+  "preserved": "Existing rights/license notices, artwork, UI/bubbles, public-beta/noindex/icons/manifest, metadata-only individual/video references, anonymous suggestions and rate workflow/manual fallback. Archived Site untouched."
+}

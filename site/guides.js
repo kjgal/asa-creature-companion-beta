@@ -6052,3 +6052,83 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 2: individual ASA species review; numerical estimates remain pending.
+Object.assign(tamingGuides,{
+  "Parrot": {
+    "method": "passive",
+    "overview": "A passive trust challenge: invite the Parrot onto your shoulder, then earn affinity through activities before its taming window ends.",
+    "food": "Trust comes from activities, not a checked hand-fed food. Post-tame diet and food quantities remain pending.",
+    "preparation": "Bring a Shovel for buried treasure, or prepare a safe Alpha-hunting route. Check access to Tides of Fortune content.",
+    "steps": [
+      "Approach a wild Parrot and use an emote, such as Wave. Let it settle on your shoulder.",
+      "While the challenge is active, earn trust by defeating Alpha creatures or following a beach message-in-a-bottle treasure map and digging up its cache.",
+      "Watch the affinity bar and remaining challenge window; continue supported activities until the tame completes."
+    ],
+    "specialAction": "Mission completion and end-of-mission crates are also documented; the exact qualifying rewards and controller prompts still need firsthand confirmation.",
+    "scope": "ASA official PvE Parrot introduced with Tides of Fortune alongside Genesis: Part 1; separate Ports of Atlas mod excluded.",
+    "tips": [
+      "Mission completion and end-of-mission crates are also documented; the exact qualifying rewards and controller prompts still need firsthand confirmation."
+    ],
+    "checked": "2026-11-02",
+    "sources": [
+      [
+        "ARK Community Wiki: Parrot",
+        "https://ark.wiki.gg/wiki/Parrot"
+      ],
+      [
+        "Studio Wildcard: Genesis and Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+      "asa": "ASA official PvE Parrot introduced with Tides of Fortune alongside Genesis: Part 1; separate Ports of Atlas mod excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+    }
+  },
+  "Palaeoctopus": {
+    "method": "knockout",
+    "overview": "A sedative-feeding knockout followed by inventory feeding; ordinary tranquilizer shots are not the documented route.",
+    "food": "Black Pearls, Exceptional Kibble and Raw Prime Fish Meat are documented, but the page's food rankings conflict. Preferred food and effectiveness remain pending.",
+    "preparation": "Bring Bio Toxin or Narcotics, healing supplies and a reliable oxygen plan. Put the sedative in the rightmost hotbar slot.",
+    "steps": [
+      "Find a camouflaged Palaeoctopus resting on the seabed; a freely swimming one may flee.",
+      "Let it grab you. Ignore the fake bites; at the real bite's camera shake, use the displayed interaction prompt to feed the sedative.",
+      "Heal between attempts and repeat until unconscious, then put taming food in its inventory."
+    ],
+    "specialAction": "Use the interaction prompt, not the sedative's hotbar key. Exact controller timing and food preference still need confirmation.",
+    "scope": "ASA official PvE regular Palaeoctopus; Alpha variant and mod versions excluded.",
+    "tips": [
+      "Use the interaction prompt, not the sedative's hotbar key. Exact controller timing and food preference still need confirmation."
+    ],
+    "checked": "2026-11-02",
+    "sources": [
+      [
+        "ARK Community Wiki: Palaeoctopus",
+        "https://ark.wiki.gg/wiki/Palaeoctopus"
+      ],
+      [
+        "Studio Wildcard: Genesis and Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Ocean (Genesis)",
+        "https://ark.wiki.gg/wiki/Ocean_(Genesis)"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Genesis spawn locations",
+        "https://ark.wiki.gg/wiki/Genesis:_Part_1/Spawn_Locations"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+      "asa": "ASA official PvE regular Palaeoctopus; Alpha variant and mod versions excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+    }
+  }
+});

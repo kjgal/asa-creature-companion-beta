@@ -3868,3 +3868,64 @@ Object.assign(generalHabitats,{
   "Boaratos": "Therokis, Astraeos's volcanic island, is the checked habitat example. This does not imply availability on other maps or the same taming rules for Astral/boss variants.",
   "Grand Tortugar": "Reef-lined shores of Pyranthos and some small southwestern islands on Astraeos. These are typical regional examples, not a complete spawn map."
 });
+
+Object.assign(creatureInfo,{
+  "Parrot": {
+    "habitat": "Genesis: Part 1 availability is verified, but its typical terrain and full spawn distribution remain pending. This is an availability note, not a confirmed beach-spawn claim.",
+    "behavior": "A shoulder companion whose documented tame uses trust-building activities.",
+    "checked": "2026-11-02",
+    "scope": "ASA official PvE Parrot introduced with Tides of Fortune alongside Genesis: Part 1; separate Ports of Atlas mod excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Parrot",
+        "https://ark.wiki.gg/wiki/Parrot"
+      ],
+      [
+        "Studio Wildcard: Genesis and Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+      "asa": "ASA official PvE Parrot introduced with Tides of Fortune alongside Genesis: Part 1; separate Ports of Atlas mod excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+    }
+  },
+  "Palaeoctopus": {
+    "habitat": "Seabed in Genesis: Part 1's Ocean biome and Astraeos Sea on Astraeos. These are checked examples, not availability on every map.",
+    "behavior": "A camouflaged ambush hunter that grabs nearby targets.",
+    "checked": "2026-11-02",
+    "scope": "ASA official PvE regular Palaeoctopus; Alpha variant and mod versions excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Palaeoctopus",
+        "https://ark.wiki.gg/wiki/Palaeoctopus"
+      ],
+      [
+        "Studio Wildcard: Genesis and Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Ocean (Genesis)",
+        "https://ark.wiki.gg/wiki/Ocean_(Genesis)"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Genesis spawn locations",
+        "https://ark.wiki.gg/wiki/Genesis:_Part_1/Spawn_Locations"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual ASA species and official announcement passages reviewed on 2026-11-02. Direct article access returned 403.",
+      "asa": "ASA official PvE regular Palaeoctopus; Alpha variant and mod versions excluded.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE validation remain pending. Direct species pages returned 403; indexed individual species passages were reviewed. No competitor text, datasets, art or calculator code imported. Numerical quantities, timing and effectiveness formulas are not verified."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Parrot": "Genesis: Part 1 availability is verified, but its typical terrain and full spawn distribution remain pending. This is an availability note, not a confirmed beach-spawn claim.",
+  "Palaeoctopus": "Seabed in Genesis: Part 1's Ocean biome and Astraeos Sea on Astraeos. These are checked examples, not availability on every map."
+});

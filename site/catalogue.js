@@ -1291,7 +1291,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Knockout tame",
+    "guideReviewed": "2026-11-02"
   },
   {
     "name": "Paraceratherium",
@@ -1318,7 +1319,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-11-02"
   },
   {
     "name": "Pegomastax",
