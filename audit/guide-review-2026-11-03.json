@@ -1,0 +1,69 @@
+{
+  "reviewed": "2026-11-03",
+  "addedGuides": [
+    {
+      "name": "Dreadmare",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Dreadmare",
+        "https://survivetheark.com/index.php?/forums/topic/751781-fear-ascended-and-fantastic-tames-dreadmare-are-live/",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE regular Dreadmare; ritual classified as special here although the wiki infobox calls it passive.",
+        "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Tidepup",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Tidepup",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE regular Tidepup introduced with Tides of Fortune; Ghost variants and Mudpuppy excluded.",
+        "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-03",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "latestCreatureNews": "Community Crunch 530: Trick or Teeth",
+    "finding": "Fresh announcements index and CC530 checked. No newly live creature addition verified. November 5 Giganotosaurus TLC and Enigmasaur remain upcoming; current Giga method retained."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Dreadmare",
+      "Tidepup"
+    ],
+    "addedAberration": [],
+    "limitations": "Dreadmare nocturnal skies and official release-map examples documented; no terrain preference inferred. Tidepup map availability only, terrain pending. General Spawn entries includes an Axolotl-only container but region matching is incomplete. Biomes alone does not establish species presence. No every-map or Aberration claims."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 192,
+    "missingGuides": 10,
+    "generalHabitatAvailabilityEntries": 147,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 167
+  },
+  "ownerQuestions": [
+    "Tidepup: on official PvE, do you feed it during its rest after healing, and which controller prompt or inventory action works?",
+    "Dreadmare: which controller interaction claims the completed altar's tame?"
+  ],
+  "pending": [
+    "Tidepup inventory-versus-interaction feeding step, food rankings, health threshold and evolution.",
+    "Typical terrain for both creatures and complete ASA spawn-container comparison.",
+    "Dreadmare firsthand final claim interaction and numerical ritual requirements.",
+    "Full-source comparison and numerical formulas."
+  ],
+  "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported.",
+  "preserved": "Existing rights/license notices, artwork, UI/bubbles, public-beta/noindex/icons/manifest, metadata-only individual/video references, anonymous suggestions and rate workflow/manual fallback. Archived Site untouched."
+}

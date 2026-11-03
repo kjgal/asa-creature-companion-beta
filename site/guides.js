@@ -6132,3 +6132,88 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 3: individual ASA species review; uncertain interactions remain pending.
+Object.assign(tamingGuides,{
+  "Dreadmare": {
+    "method": "special",
+    "overview": "Earn a Dreadmare through repeated altar-summoned battles, rather than a tranquilizer knockout.",
+    "food": "Offer the tribute requested by the Dark Altar. These sacrifices replace a taming-food ration; requirements vary by request and map.",
+    "preparation": "Check Fantastic Tames: Dreadmare access. Gather varied land-creature trophies and combat supplies; choose an altar location away from your base.",
+    "steps": [
+      "Find the desired wild Dreadmare at night, defeat it and recover its Dark Altar.",
+      "Place the altar and begin during nighttime. Supply its requested tribute, then defeat the summoned Dreadmare before it disappears.",
+      "Repeat the tribute and combat cycle. When the challenge completes, interact with the altar to summon your tamed Dreadmare."
+    ],
+    "specialAction": "Missing a tribute damages the altar and can summon the trophy's creature alongside the Dreadmare. Repeated misses can end the attempt. Altars expire if left unplaced and cannot transfer between servers.",
+    "scope": "ASA official PvE regular Dreadmare; ritual classified as special here although the wiki infobox calls it passive.",
+    "checked": "2026-11-03",
+    "tips": [
+      "Missing a tribute damages the altar and can summon the trophy's creature alongside the Dreadmare. Repeated misses can end the attempt. Altars expire if left unplaced and cannot transfer between servers."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Dreadmare",
+        "https://ark.wiki.gg/wiki/Dreadmare"
+      ],
+      [
+        "Studio Wildcard: Dreadmare launch",
+        "https://survivetheark.com/index.php?/forums/topic/751781-fear-ascended-and-fantastic-tames-dreadmare-are-live/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Dreadmare; ritual classified as special here although the wiki infobox calls it passive.",
+      "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Tidepup": {
+    "method": "passive",
+    "overview": "Build trust by allowing a wild Tidepup to heal an injured survivor or tame, with rests between healing sessions.",
+    "food": "The wiki lists Regular Kibble, Raw Meat, Raw Mutton and Cooked Lamb Chop. Food ranking and the feeding interaction remain pending.",
+    "preparation": "Check Tides of Fortune access. Bring listed food and arrange a controlled encounter with an injured tame; exact health thresholds are unverified.",
+    "steps": [
+      "Approach a wild Tidepup on foot or with a suitable small or medium tame.",
+      "Allow it to approach the injured target and heal, then let it rest.",
+      "The wiki describes feeding during its resting state, but leaves the inventory-versus-interaction route unclear. Follow an offered in-game prompt; this step needs confirmation.",
+      "Allow recovery between healing sessions and watch the taming bar."
+    ],
+    "specialAction": "Do not use a knockout route. The healing-and-rest cycle is documented; exact feed controls and the later evolution procedure remain pending.",
+    "scope": "ASA official PvE regular Tidepup introduced with Tides of Fortune; Ghost variants and Mudpuppy excluded.",
+    "checked": "2026-11-03",
+    "tips": [
+      "Do not use a knockout route. The healing-and-rest cycle is documented; exact feed controls and the later evolution procedure remain pending."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Tidepup",
+        "https://ark.wiki.gg/wiki/Tidepup"
+      ],
+      [
+        "Studio Wildcard: Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Tidepup introduced with Tides of Fortune; Ghost variants and Mudpuppy excluded.",
+      "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});

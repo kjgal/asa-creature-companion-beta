@@ -554,7 +554,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-11-03"
   },
   {
     "name": "Dreadnoughtus",
@@ -1711,7 +1712,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-11-03"
   },
   {
     "name": "Titanoboa",

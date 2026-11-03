@@ -3929,3 +3929,68 @@ Object.assign(generalHabitats,{
   "Parrot": "Genesis: Part 1 availability is verified, but its typical terrain and full spawn distribution remain pending. This is an availability note, not a confirmed beach-spawn claim.",
   "Palaeoctopus": "Seabed in Genesis: Part 1's Ocean biome and Astraeos Sea on Astraeos. These are checked examples, not availability on every map."
 });
+
+Object.assign(creatureInfo,{
+  "Dreadmare": {
+    "habitat": "Nighttime skies on supported maps; Scorched Earth and The Center are official release examples. Exact terrain preferences remain pending. This is not an every-map spawn claim.",
+    "behavior": "A nocturnal flyer with ranged attacks and debilitating effects.",
+    "checked": "2026-11-03",
+    "scope": "ASA official PvE regular Dreadmare; ritual classified as special here although the wiki infobox calls it passive.",
+    "sources": [
+      [
+        "ARK Community Wiki: Dreadmare",
+        "https://ark.wiki.gg/wiki/Dreadmare"
+      ],
+      [
+        "Studio Wildcard: Dreadmare launch",
+        "https://survivetheark.com/index.php?/forums/topic/751781-fear-ascended-and-fantastic-tames-dreadmare-are-live/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Dreadmare; ritual classified as special here although the wiki infobox calls it passive.",
+      "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Tidepup": {
+    "habitat": "Genesis: Part 1 and Astraeos availability is documented. Typical terrain and matching ASA spawn regions remain pending; amphibious behavior alone does not establish a shoreline habitat.",
+    "behavior": "An amphibious creature that heals injured allies.",
+    "checked": "2026-11-03",
+    "scope": "ASA official PvE regular Tidepup introduced with Tides of Fortune; Ghost variants and Mudpuppy excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Tidepup",
+        "https://ark.wiki.gg/wiki/Tidepup"
+      ],
+      [
+        "Studio Wildcard: Tides of Fortune launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-03 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Tidepup introduced with Tides of Fortune; Ghost variants and Mudpuppy excluded.",
+      "comparisonLimitations": "Indexed individual species passages and official announcements reviewed; direct species pages returned 403. Full article/revision/contributor comparison, firsthand official PvE checks and numerical quantities/timing/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Dreadmare": "Nighttime skies on supported maps; Scorched Earth and The Center are official release examples. Exact terrain preferences remain pending. This is not an every-map spawn claim.",
+  "Tidepup": "Genesis: Part 1 and Astraeos availability is documented. Typical terrain and matching ASA spawn regions remain pending; amphibious behavior alone does not establish a shoreline habitat."
+});
