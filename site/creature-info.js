@@ -3994,3 +3994,68 @@ Object.assign(generalHabitats,{
   "Dreadmare": "Nighttime skies on supported maps; Scorched Earth and The Center are official release examples. Exact terrain preferences remain pending. This is not an every-map spawn claim.",
   "Tidepup": "Genesis: Part 1 and Astraeos availability is documented. Typical terrain and matching ASA spawn regions remain pending; amphibious behavior alone does not establish a shoreline habitat."
 });
+
+Object.assign(creatureInfo,{
+  "Burrowbuck": {
+    "habitat": "Regular Burrowbuck is documented on official maps including Valguero, Scorched Earth and Aberration. Precise biome distribution remains pending; map availability does not establish every region or an Aberrant variant.",
+    "behavior": "A skittish mammal that retreats underground when startled.",
+    "checked": "2026-11-04",
+    "scope": "ASA official PvE regular Burrowbuck/Burrowdoe; Ghost variants and unrelated mod jackalopes excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Burrowbuck",
+        "https://ark.wiki.gg/wiki/Burrowbuck"
+      ],
+      [
+        "Studio Wildcard: Burrowbuck release",
+        "https://survivetheark.com/index.php?/forums/topic/773885-ark-fantastic-tames-season-1-burrowbuck-and-araneo-tlc-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Burrowbuck/Burrowdoe; Ghost variants and unrelated mod jackalopes excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Drakeling": {
+    "habitat": "Typical seasonal associations are Spring with lush grasslands, Summer with desert, Autumn with redwoods and Winter with snowy mountains. Ragnarok is a checked official-map example; seasonal variants and habitat availability differ by map.",
+    "behavior": "A curious shoulder dragon drawn to fire.",
+    "checked": "2026-11-04",
+    "scope": "ASA official PvE ordinary seasonal Drakelings; Ghost acquisition and Lost variant behavior are outside this review.",
+    "sources": [
+      [
+        "ARK Community Wiki: Drakeling",
+        "https://ark.wiki.gg/wiki/Drakeling"
+      ],
+      [
+        "Studio Wildcard: Drakeling release",
+        "https://survivetheark.com/index.php?/forums/topic/772489-ragnarok-ascended-and-lost-colony-expansion-pass-are-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE ordinary seasonal Drakelings; Ghost acquisition and Lost variant behavior are outside this review.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Burrowbuck": "Regular Burrowbuck is documented on official maps including Valguero, Scorched Earth and Aberration. Precise biome distribution remains pending; map availability does not establish every region or an Aberrant variant.",
+  "Drakeling": "Typical seasonal associations are Spring with lush grasslands, Summer with desert, Autumn with redwoods and Winter with snowy mountains. Ragnarok is a checked official-map example; seasonal variants and habitat availability differ by map."
+});

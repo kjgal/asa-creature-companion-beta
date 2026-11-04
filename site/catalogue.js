@@ -234,7 +234,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-11-04"
   },
   {
     "name": "Carbonemys",
@@ -545,7 +546,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": "drakeling",
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-11-04"
   },
   {
     "name": "Dreadmare",

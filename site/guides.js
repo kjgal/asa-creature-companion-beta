@@ -6217,3 +6217,87 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 4: individual ASA passive-method review; numerical estimates remain pending.
+Object.assign(tamingGuides,{
+  "Burrowbuck": {
+    "method": "passive",
+    "overview": "A cautious hand-feeding tame: move slowly, feed when prompted, then relocate the Burrowbuck after it burrows.",
+    "food": "Superior Kibble or Rockarrot in the last hotbar slot. Quantities and effectiveness calculations remain pending.",
+    "preparation": "Check Fantastic Tames access. Bring food, Ghillie Armor and Cactus Broth; whether both stealth measures are essential needs confirmation. Clear nearby threats without alarming the target.",
+    "steps": [
+      "Locate a calm wild Burrowbuck and crouch toward it slowly.",
+      "Use the feeding prompt, then stop and watch where it resurfaces.",
+      "Track it through the taming panel or visual cues, and repeat cautious feeds until tamed."
+    ],
+    "specialAction": "Sprinting, a rushed approach or nearby predator aggression can frighten it into a blinding kick and retreat. Exact recovery behavior and the reported control over its escape direction remain pending.",
+    "scope": "ASA official PvE regular Burrowbuck/Burrowdoe; Ghost variants and unrelated mod jackalopes excluded.",
+    "checked": "2026-11-04",
+    "tips": [
+      "Sprinting, a rushed approach or nearby predator aggression can frighten it into a blinding kick and retreat. Exact recovery behavior and the reported control over its escape direction remain pending."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Burrowbuck",
+        "https://ark.wiki.gg/wiki/Burrowbuck"
+      ],
+      [
+        "Studio Wildcard: Burrowbuck release",
+        "https://survivetheark.com/index.php?/forums/topic/773885-ark-fantastic-tames-season-1-burrowbuck-and-araneo-tlc-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Burrowbuck/Burrowdoe; Ghost variants and unrelated mod jackalopes excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Drakeling": {
+    "method": "passive",
+    "overview": "Invite a Drakeling onto your shoulder with a torch, complete its requested activity, then feed it.",
+    "food": "Exceptional Kibble or Cooked Prime Meat in the last hotbar slot. Exact food quantities and activity XP requirements remain pending.",
+    "preparation": "Check Drakeling content access. Bring a torch, food, harvesting tools and crafting materials; plan safe opportunities for the requested activities.",
+    "steps": [
+      "Dismount and hold a torch near the wild Drakeling so it can settle on your shoulder.",
+      "Read its current request: harvest, craft or kill. Perform that activity until its progress bar fills.",
+      "Feed from the last hotbar slot when ready, then check the next request. Repeat until tamed."
+    ],
+    "specialAction": "Mounting a creature suspends the taming process. Requests can change between rounds; controller feed controls still need confirmation.",
+    "scope": "ASA official PvE ordinary seasonal Drakelings; Ghost acquisition and Lost variant behavior are outside this review.",
+    "checked": "2026-11-04",
+    "tips": [
+      "Mounting a creature suspends the taming process. Requests can change between rounds; controller feed controls still need confirmation."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Drakeling",
+        "https://ark.wiki.gg/wiki/Drakeling"
+      ],
+      [
+        "Studio Wildcard: Drakeling release",
+        "https://survivetheark.com/index.php?/forums/topic/772489-ragnarok-ascended-and-lost-colony-expansion-pass-are-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE ordinary seasonal Drakelings; Ghost acquisition and Lost variant behavior are outside this review.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});

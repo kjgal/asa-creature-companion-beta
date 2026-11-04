@@ -1,0 +1,68 @@
+{
+  "reviewed": "2026-11-04",
+  "addedGuides": [
+    {
+      "name": "Burrowbuck",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Burrowbuck",
+        "https://survivetheark.com/index.php?/forums/topic/773885-ark-fantastic-tames-season-1-burrowbuck-and-araneo-tlc-are-out-now/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE regular Burrowbuck/Burrowdoe; Ghost variants and unrelated mod jackalopes excluded.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Drakeling",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Drakeling",
+        "https://survivetheark.com/index.php?/forums/topic/772489-ragnarok-ascended-and-lost-colony-expansion-pass-are-now-live/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-04 using indexed individual/shared species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE ordinary seasonal Drakelings; Ghost acquisition and Lost variant behavior are outside this review.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-04",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "latestCreatureNews": "Community Crunch 530: Trick or Teeth",
+    "finding": "Fresh official homepage and CC530 checked. Giganotosaurus TLC remains scheduled for November 5; Enigmasaur is upcoming and not verified live. No new catalogue addition; current Giga method retained."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Burrowbuck",
+      "Drakeling"
+    ],
+    "addedAberration": [],
+    "limitations": "Drakeling base/shared species passages support seasonal terrain associations, with Ragnarok official-release context and Spawn entries winter presence. Complete per-map ASA containers remain pending. Burrowbuck map availability verified; no exact biome or Aberration green/blue/red/surface assignment established. No universal-map or Aberrant-variant claim."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 194,
+    "missingGuides": 8,
+    "generalHabitatAvailabilityEntries": 149,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 169
+  },
+  "ownerQuestions": [
+    "Burrowbuck: on official PvE, are both Ghillie and Cactus Broth needed for reliable feeds, and can you control its retreat direction?",
+    "Drakeling: which controller action feeds it after the requested activity bar fills?"
+  ],
+  "pending": [
+    "Burrowbuck precise habitat, necessity of both stealth measures, retreat-direction tip and recovery behavior.",
+    "Drakeling controller feed interaction; event/Lost variants and complete per-map distribution.",
+    "Full-source comparison and numerical quantities, activity XP, times and effectiveness formulas."
+  ],
+  "comparisonLimitations": "Direct individual species pages returned 403; indexed base/shared species passages and official release announcements reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical food/XP/time/effectiveness formulas remain pending. No competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Earlier rights/license findings, artwork/icons/manifest, interface/bubbles, free noncommercial beta/noindex, metadata-only individual/video references, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and archived private Site."
+}
