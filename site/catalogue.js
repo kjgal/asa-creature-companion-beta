@@ -1011,7 +1011,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Knockout tame",
+    "guideReviewed": "2026-11-05"
   },
   {
     "name": "Magmasaur",
@@ -1240,7 +1241,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-11-05"
   },
   {
     "name": "Otter",

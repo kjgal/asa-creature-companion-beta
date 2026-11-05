@@ -1,0 +1,69 @@
+{
+  "reviewed": "2026-11-05",
+  "addedGuides": [
+    {
+      "name": "Maeguana",
+      "classification": "knockout",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Maeguana",
+        "https://survivetheark.com/index.php?/forums/topic/771425-astraeos-and-love-ascended-are-live/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE regular Maeguana on Astraeos; separate Maewing and mod instructions excluded.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Ossidon",
+      "classification": "special",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Ossidon",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+        "asa": "ASA official PvE regular Ossidon on Lost Colony; Alpha/Revenant variants excluded. Classified as special here although the wiki infobox says passive.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-05",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "latestCreatureNews": "Community Crunch 530: Trick or Teeth",
+    "finding": "Fresh official sources still describe the November 5 Giga/Enigmasaur target as upcoming. Live deployment not confirmed at review time. Current Giga method retained; no new creature added from an announced date alone."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Maeguana",
+      "Ossidon"
+    ],
+    "addedAberration": [],
+    "limitations": "Ossidon frozen wastelands supported by species text and tundra container in Lost Colony spawn data; official release removes temporary-map spawns. Maeguana Astraeos availability verified, precise terrain remains pending. Biomes/Spawn entries are context, not proof of universal availability. No Aberration claims."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 196,
+    "missingGuides": 6,
+    "generalHabitatAvailabilityEntries": 151,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 171
+  },
+  "ownerQuestions": [
+    "Ossidon: which controller input forms the bolus, and what cues reliably show a completed collection round on official PvE?"
+  ],
+  "pending": [
+    "Maeguana precise habitats, reliable roofed-trap layout and de-rendering reset tactic.",
+    "Ossidon controller actions, collection order, transitions, torpor threshold and numerical round/effectiveness formulas.",
+    "Live Giga TLC/Enigmasaur release confirmation and verified replacement mechanics.",
+    "Full-source comparison and numerical requirements."
+  ],
+  "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported.",
+  "preserved": "Earlier rights/license findings, original artwork/icons/manifest, interface/bubbles, free noncommercial beta/noindex, metadata-only individual/video references, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and archived private Site."
+}

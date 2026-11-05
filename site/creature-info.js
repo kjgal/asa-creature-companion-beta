@@ -4059,3 +4059,72 @@ Object.assign(generalHabitats,{
   "Burrowbuck": "Regular Burrowbuck is documented on official maps including Valguero, Scorched Earth and Aberration. Precise biome distribution remains pending; map availability does not establish every region or an Aberrant variant.",
   "Drakeling": "Typical seasonal associations are Spring with lush grasslands, Summer with desert, Autumn with redwoods and Winter with snowy mountains. Ragnarok is a checked official-map example; seasonal variants and habitat availability differ by map."
 });
+
+Object.assign(creatureInfo,{
+  "Maeguana": {
+    "habitat": "Astraeos is the checked official-map habitat example. Its typical terrain and complete biome distribution remain pending; this availability note does not establish presence on other maps.",
+    "behavior": "A skittish gliding reptile that flees when threatened.",
+    "checked": "2026-11-05",
+    "scope": "ASA official PvE regular Maeguana on Astraeos; separate Maewing and mod instructions excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Maeguana",
+        "https://ark.wiki.gg/wiki/Maeguana"
+      ],
+      [
+        "Studio Wildcard: Astraeos launch",
+        "https://survivetheark.com/index.php?/forums/topic/771425-astraeos-and-love-ascended-are-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Maeguana on Astraeos; separate Maewing and mod instructions excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Ossidon": {
+    "habitat": "Frozen wastelands and tundra on Lost Colony. Earlier temporary spawns on other maps were removed at Lost Colony's launch; this is not an every-snow-biome claim.",
+    "behavior": "An aggressive cold-adapted mammal.",
+    "checked": "2026-11-05",
+    "scope": "ASA official PvE regular Ossidon on Lost Colony; Alpha/Revenant variants excluded. Classified as special here although the wiki infobox says passive.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ossidon",
+        "https://ark.wiki.gg/wiki/Ossidon"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Ossidon on Lost Colony; Alpha/Revenant variants excluded. Classified as special here although the wiki infobox says passive.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Maeguana": "Astraeos is the checked official-map habitat example. Its typical terrain and complete biome distribution remain pending; this availability note does not establish presence on other maps.",
+  "Ossidon": "Frozen wastelands and tundra on Lost Colony. Earlier temporary spawns on other maps were removed at Lost Colony's launch; this is not an every-snow-biome claim."
+});

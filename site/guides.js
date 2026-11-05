@@ -6301,3 +6301,91 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 5: individual ASA method review; numerical thresholds remain pending.
+Object.assign(tamingGuides,{
+  "Maeguana": {
+    "method": "knockout",
+    "overview": "Knock the Maeguana unconscious with tranquilizers, then tame it through inventory feeding. Prepare for its rapid airborne escape.",
+    "food": "Basic Kibble, Raw Mutton and Raw Prime Meat are documented options. Food quantities and comparative effectiveness remain pending.",
+    "preparation": "Bring tranquilizers, food and torpor supplies. Prepare a roofed enclosure that prevents gliding escape; exact trap dimensions are unverified.",
+    "steps": [
+      "Clear nearby threats and guide the Maeguana into the enclosure. The wiki describes Giant Bee Honey or Rare Flowers as lures.",
+      "Close the entrance and check the roof before applying tranquilizers.",
+      "Once unconscious, place taming food in its inventory and protect it through feeding."
+    ],
+    "specialAction": "A startled Maeguana can leap and glide away quickly. Shot counts, weapon-quality thresholds and the reported de-rendering reset tactic remain pending.",
+    "scope": "ASA official PvE regular Maeguana on Astraeos; separate Maewing and mod instructions excluded.",
+    "checked": "2026-11-05",
+    "tips": [
+      "A startled Maeguana can leap and glide away quickly. Shot counts, weapon-quality thresholds and the reported de-rendering reset tactic remain pending."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Maeguana",
+        "https://ark.wiki.gg/wiki/Maeguana"
+      ],
+      [
+        "Studio Wildcard: Astraeos launch",
+        "https://survivetheark.com/index.php?/forums/topic/771425-astraeos-and-love-ascended-are-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Maeguana on Astraeos; separate Maewing and mod instructions excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  },
+  "Ossidon": {
+    "method": "special",
+    "overview": "A torpor-assisted riding challenge: make the Ossidon sleepy, then complete mounted ice-bolus collection rounds.",
+    "food": "This reviewed route earns progress through the bolus challenge. A conventional taming-food ration has not been verified.",
+    "preparation": "Check Lost Colony access. Bring cold protection and tranquilizers, and scout space for rolling and collecting wild creatures without terrain obstructions.",
+    "steps": [
+      "Apply tranquilizers until the Ossidon enters its sleepy, rideable stage. The exact torpor threshold remains pending; do not assume a full knockout is required.",
+      "Mount and use the displayed bolus-forming control. Capture the wild creatures and icicles specified by the challenge.",
+      "Follow the on-screen goals and repeat mounted rounds until taming completes."
+    ],
+    "specialAction": "Icicle collection affects effectiveness, but no verified effectiveness calculator is supplied. Controller inputs, collection order and the transition between rounds need firsthand confirmation.",
+    "scope": "ASA official PvE regular Ossidon on Lost Colony; Alpha/Revenant variants excluded. Classified as special here although the wiki infobox says passive.",
+    "checked": "2026-11-05",
+    "tips": [
+      "Icicle collection affects effectiveness, but no verified effectiveness calculator is supplied. Controller inputs, collection order and the transition between rounds need firsthand confirmation."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Ossidon",
+        "https://ark.wiki.gg/wiki/Ossidon"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Lost Colony spawn data",
+        "https://ark.wiki.gg/wiki/DataMap:Maps/Creature_Spawns/Lost_Colony"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-05 using indexed species passages and official release text; direct species access returned 403.",
+      "asa": "ASA official PvE regular Ossidon on Lost Colony; Alpha/Revenant variants excluded. Classified as special here although the wiki infobox says passive.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE testing, complete ASA spawn-container matching and numerical quantities/thresholds/times/effectiveness formulas remain pending. Original wording; no competitor prose, datasets, artwork or calculator code imported."
+    }
+  }
+});
