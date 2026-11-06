@@ -1,0 +1,77 @@
+{
+  "reviewed": "2026-11-06",
+  "addedGuides": [
+    {
+      "name": "Gloon",
+      "classification": "passive",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Gloon",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://survivetheark.com/index.php?/forums/topic/715262-asa-xbox-patch-notes-client-v944-updated-09302026/"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+        "asa": "ASA official PvE regular Gloon on Lost Colony; no Aberration-map or event-variant acquisition inferred.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Gigadesmodus",
+      "classification": "acquisition",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Gigadesmodus",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/",
+        "https://ark.wiki.gg/wiki/Biomes",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Gigadesmodus_Egg_Sac"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+        "asa": "ASA official PvE regular Gigadesmodus boss reward on Lost Colony; spawned/unofficial animals excluded.",
+        "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "updatedGuides": [
+    {
+      "name": "Giganotosaurus",
+      "change": "Elapsed announcement target warning refreshed; legacy method not revalidated or replaced.",
+      "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/"
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-06",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774312-community-crunch-530-trick-or-teeth/",
+    "latestCreatureNews": "Community Crunch 530: Trick or Teeth",
+    "finding": "Fresh official news/announcements searches still return announcements rather than a verified live release for Giga TLC/Enigmasaur. No catalogue addition from target dates alone."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Gloon",
+      "Gigadesmodus"
+    ],
+    "addedAberration": [],
+    "limitations": "Gloon towers within Lost Colony Aberrant Crash Sites supported by species and official regional text. Biomes/Spawn entries are context; complete ASA containers remain pending. Gigadesmodus is an acquisition/no-wild-habitat note. No new Aberration-map claim."
+  },
+  "coverage": {
+    "catalogue": 202,
+    "writtenGuides": 198,
+    "missingGuides": 4,
+    "generalHabitatAvailabilityEntries": 153,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 173
+  },
+  "ownerQuestions": [
+    "Gloon: on controller, which feed prompt appears after its eyes deflate, and do body hits reset that feeding state?"
+  ],
+  "pending": [
+    "Gloon precise controller feed action and recovery after unintended body damage.",
+    "Gigadesmodus egg-sac incubation, baby diet and complete boss reward/access rules.",
+    "Giga TLC/Enigmasaur live confirmation and replacement mechanics.",
+    "Full-source comparison and numerical requirements."
+  ],
+  "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported.",
+  "preserved": "Earlier rights/license findings, original artwork/icons/manifest, interface/bubbles, noncommercial beta/noindex, metadata-only individual/video references, anonymous suggestions including Concavenator Tek Rifle, rate workflow/manual fallback and archived private Site."
+}

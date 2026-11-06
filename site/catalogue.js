@@ -733,7 +733,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Egg raising",
+    "guideReviewed": "2026-11-06"
   },
   {
     "name": "Giganotosaurus",
@@ -771,7 +772,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Passive tame",
+    "guideReviewed": "2026-11-06"
   },
   {
     "name": "Glowbug",

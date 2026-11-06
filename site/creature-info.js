@@ -4128,3 +4128,77 @@ Object.assign(generalHabitats,{
   "Maeguana": "Astraeos is the checked official-map habitat example. Its typical terrain and complete biome distribution remain pending; this availability note does not establish presence on other maps.",
   "Ossidon": "Frozen wastelands and tundra on Lost Colony. Earlier temporary spawns on other maps were removed at Lost Colony's launch; this is not an every-snow-biome claim."
 });
+
+Object.assign(creatureInfo,{
+  "Gloon": {
+    "habitat": "Corrupted towers within Lost Colony's toxic Aberrant Crash Sites, with Revenants nearby. This is crash-site terrain on Lost Colony; precise spawn-container boundaries remain pending.",
+    "behavior": "A floating amphibian whose mesmerizing attack leaves survivors vulnerable to its Revenant guards.",
+    "checked": "2026-11-06",
+    "scope": "ASA official PvE regular Gloon on Lost Colony; no Aberration-map or event-variant acquisition inferred.",
+    "sources": [
+      [
+        "ARK Community Wiki: Gloon",
+        "https://ark.wiki.gg/wiki/Gloon"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: ASA Xbox patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/715262-asa-xbox-patch-notes-client-v944-updated-09302026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+      "asa": "ASA official PvE regular Gloon on Lost Colony; no Aberration-map or event-variant acquisition inferred.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Gigadesmodus": {
+    "habitat": "Boss-reward acquisition on Lost Colony, followed by egg-sac raising. It has no normal wild habitat to search for; a tamed individual's location is not a wild spawn record.",
+    "behavior": "A giant bat acquired through the boss-reward route.",
+    "checked": "2026-11-06",
+    "scope": "ASA official PvE regular Gigadesmodus boss reward on Lost Colony; spawned/unofficial animals excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Gigadesmodus",
+        "https://ark.wiki.gg/wiki/Gigadesmodus"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Gigadesmodus Egg Sac",
+        "https://ark.wiki.gg/wiki/Gigadesmodus_Egg_Sac"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+      "asa": "ASA official PvE regular Gigadesmodus boss reward on Lost Colony; spawned/unofficial animals excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    },
+    "acquisition": "Obtain a fertilized Gigadesmodus Egg Sac from the Lost King and Lost Queen boss encounter, then hatch and raise it. There is no normal wild spawn to tranquilize for this official route. Knockout instructions for command-spawned or custom-spawn animals do not establish official acquisition."
+  }
+});
+Object.assign(generalHabitats,{
+  "Gloon": "Corrupted towers within Lost Colony's toxic Aberrant Crash Sites, with Revenants nearby. This is crash-site terrain on Lost Colony; precise spawn-container boundaries remain pending.",
+  "Gigadesmodus": "Boss-reward acquisition on Lost Colony, followed by egg-sac raising. It has no normal wild habitat to search for; a tamed individual's location is not a wild spawn record."
+});

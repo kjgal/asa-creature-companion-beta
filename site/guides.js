@@ -6389,3 +6389,99 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 6: individual ASA method and acquisition review.
+Object.assign(tamingGuides,{
+  "Gloon": {
+    "method": "passive",
+    "overview": "Clear the Revenants guarding the Gloon, lower it by targeting its eyes, then feed it once its eyes stop glowing.",
+    "food": "Basic Kibble or Plant Proto Species R Seed are documented feeding options. Quantities, rankings and the exact feeding control remain pending.",
+    "preparation": "Check Lost Colony access. Bring precise ranged weapons, food and a plan for the Revenant group and hazardous crash-site terrain.",
+    "steps": [
+      "Stay outside its mesmerizing attack while defeating the associated Revenants; use the HUD's remaining-enemy guidance.",
+      "Aim at the eyes to deflate them and lower the Gloon. Avoid body hits that provoke it.",
+      "When it hovers near the ground with unlit eyes, use its passive-feeding prompt and repeat until tamed."
+    ],
+    "specialAction": "A later patch removed the crouching requirement. Older instructions that call crouching mandatory are outdated; eye hits and guard clearance still matter.",
+    "scope": "ASA official PvE regular Gloon on Lost Colony; no Aberration-map or event-variant acquisition inferred.",
+    "checked": "2026-11-06",
+    "tips": [
+      "A later patch removed the crouching requirement. Older instructions that call crouching mandatory are outdated; eye hits and guard clearance still matter."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Gloon",
+        "https://ark.wiki.gg/wiki/Gloon"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "Studio Wildcard: ASA Xbox patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/715262-asa-xbox-patch-notes-client-v944-updated-09302026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+      "asa": "ASA official PvE regular Gloon on Lost Colony; no Aberration-map or event-variant acquisition inferred.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Gigadesmodus": {
+    "method": "acquisition",
+    "overview": "Obtain a fertilized Gigadesmodus Egg Sac from the Lost King and Lost Queen boss encounter, then hatch and raise it.",
+    "food": "No wild-taming ration applies to this boss-reward route. Baby diet, food quantities and incubation requirements remain pending verification.",
+    "preparation": "Prepare for the Lost Colony boss encounter and a secure hatchery. Boss access, survival and egg-sac care require separate planning; detailed numerical requirements remain pending.",
+    "steps": [
+      "Complete the Lost King and Lost Queen encounter and survive to receive its documented reward.",
+      "Secure the fertilized egg sac and prepare suitable incubation conditions; exact settings remain pending.",
+      "Hatch the egg sac and raise the offspring, checking in-game care requirements."
+    ],
+    "specialAction": "There is no normal wild spawn to tranquilize for this official route. Knockout instructions for command-spawned or custom-spawn animals do not establish official acquisition.",
+    "scope": "ASA official PvE regular Gigadesmodus boss reward on Lost Colony; spawned/unofficial animals excluded.",
+    "checked": "2026-11-06",
+    "tips": [
+      "There is no normal wild spawn to tranquilize for this official route. Knockout instructions for command-spawned or custom-spawn animals do not establish official acquisition."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Gigadesmodus",
+        "https://ark.wiki.gg/wiki/Gigadesmodus"
+      ],
+      [
+        "Studio Wildcard: Lost Colony launch",
+        "https://survivetheark.com/index.php?/forums/topic/773450-ark-lost-colony-is-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Gigadesmodus Egg Sac",
+        "https://ark.wiki.gg/wiki/Gigadesmodus_Egg_Sac"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-06 using indexed individual/shared species passages and official release/patch text; direct species pages returned 403.",
+      "asa": "ASA official PvE regular Gigadesmodus boss reward on Lost Colony; spawned/unofficial animals excluded.",
+      "comparisonLimitations": "Direct individual species pages returned 403; indexed species/shared passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks, complete ASA spawn-container matching and numerical food/incubation/time/effectiveness formulas remain pending. Original wording; no competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
+
+// Announcement review only: do not present an elapsed target date as verified current mechanics.
+tamingGuides.Giganotosaurus.tips=["Release verification pending (November 6, 2026): Wildcard announced a Giga TLC for November 5, but its official-live rollout and replacement steps have not been verified here. The legacy knockout instructions below may be outdated; check your server before using them."];
+Object.assign(tamingGuides.Giganotosaurus.upcomingChange,{"status":"Announced target passed; live rollout and replacement mechanics pending verification","checked":"2026-11-06"});
