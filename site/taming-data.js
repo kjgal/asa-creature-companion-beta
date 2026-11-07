@@ -6032,3 +6032,6 @@ const tamingCalculationData = {
   },
   "reviewRevision": "2026-10-01-kibble-conflict"
 };
+
+// Legacy Giga food data retained for provenance, withdrawn from live estimates after the v97 method change.
+Object.assign(tamingCalculationData.creatures.Giganotosaurus,{method:"special",status:"Withdrawn pending independent post-v97 feeding-formula verification",methodReviewed:"2026-11-07"});

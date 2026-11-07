@@ -142,7 +142,8 @@ const creatureCatalogue=[
     "dlc": true,
     "pet": null,
     "aliases": [],
-    "acquisition": "Guide being checked"
+    "acquisition": "Egg raising",
+    "guideReviewed": "2026-11-07"
   },
   {
     "name": "Baryonyx",
@@ -745,7 +746,8 @@ const creatureCatalogue=[
     "aliases": [
       "giga"
     ],
-    "acquisition": "Guide being checked"
+    "acquisition": "Special tame",
+    "guideReviewed": "2026-11-07"
   },
   {
     "name": "Gigantopithecus",
@@ -2008,3 +2010,19 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Lamprey"),{acquisition:"Specia
 for(const name of ["Attack Drone","Defense Unit","Polar Bear","Yeti","Rubble Golem"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Not tameable",guideReviewed:"2026-10-22"});
 Object.assign(creatureCatalogue.find(c=>c.name==="Scrap Golem"),{acquisition:"Crafted / rewarded",guideReviewed:"2026-10-22"});
 
+
+// Newly released official-map species; practical guide and original artwork pending.
+creatureCatalogue.push({
+  "name": "Enigmasaur",
+  "slug": "enigmasaur",
+  "category": "New companions and DLC creatures",
+  "dlc": true,
+  "pet": null,
+  "aliases": [],
+  "acquisition": "Guide being checked",
+  "artworkPending": true,
+  "releaseVerified": "2026-11-07"
+});
+
+// v97 supersedes the earlier catalogue review override.
+Object.assign(creatureCatalogue.find(c=>c.name==="Giganotosaurus"),{acquisition:"Special tame",guideReviewed:"2026-11-07"});

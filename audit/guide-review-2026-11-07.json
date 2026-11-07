@@ -1,0 +1,88 @@
+{
+  "reviewed": "2026-11-07",
+  "addedGuides": [
+    {
+      "name": "Aureliax",
+      "classification": "acquisition",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Aureliax",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/",
+        "https://ark.wiki.gg/wiki/Taming",
+        "https://ark.wiki.gg/wiki/Spawn_entries",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-07 via indexed individual species and official v97 passages; direct species access returned 403.",
+        "asa": "ASA official PvE regular Aureliax on Lost Colony; acquisition classification reflects its egg-raising route.",
+        "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "updatedGuides": [
+    {
+      "name": "Giganotosaurus",
+      "classification": "special",
+      "change": "Replaced obsolete standard knockout with official v97 Apex Challenge; disabled legacy estimates and migrated saved sessions.",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Giganotosaurus",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ],
+      "provenance": {
+        "access": "Reviewed 2026-11-07 via indexed individual species and official v97 passages; direct species access returned 403.",
+        "asa": "ASA official PvE regular Giganotosaurus after v97 on November 6, 2026; ASE and distinct variants excluded.",
+        "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "catalogueAdditions": [
+    {
+      "name": "Enigmasaur",
+      "release": "2026-11-06",
+      "source": "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/",
+      "limitations": "Individual wiki stub stale; practical guide and original artwork pending. Code placeholder only."
+    }
+  ],
+  "officialReview": {
+    "checked": "2026-11-07",
+    "releaseDate": "2026-11-06",
+    "source": "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/",
+    "patchSource": "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/",
+    "finding": "Official v97 confirms live Enigmasaur and Giga TLC. Indexed Giga/Enigmasaur wiki release descriptions lag behind official text; current official release takes precedence. No quantities or percentages copied into the guide."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Aureliax",
+      "Enigmasaur"
+    ],
+    "addedAberration": [],
+    "limitations": "Aureliax mountain airspace supported by individual species and Lost Colony mountain spawn entry. Enigmasaur map availability only; no typical biome or Aberration zone inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 199,
+    "missingGuides": 4,
+    "generalHabitatAvailabilityEntries": 155,
+    "aberrationHabitatEntries": 26,
+    "creatureInfoRecords": 175
+  },
+  "ownerQuestions": [
+    "Giganotosaurus: on official PvE, what positioning and target reliably lets the Giga land challenge hits and complete its Enrage phase?",
+    "Aureliax: which enemies appear during egg defense, and does an active companion cancel the gift stage on your server?",
+    "Enigmasaur: what interaction presents a matching tame, and what confirms progress when it changes form?"
+  ],
+  "pending": [
+    "Giga offering recipe quantities, post-TLC food preference and feeding formulas.",
+    "Aureliax Neophyte-versus-Gargoyle defense wording, incubation/raising quantities and firsthand controls.",
+    "Enigmasaur practical method, food, typical biomes, Aberration zones and original artwork.",
+    "Full-source comparison and numerical requirements."
+  ],
+  "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported.",
+  "previousDeployment": {
+    "sha": "53d64b4f0c4b61a123a6af20de70a9796af08dac",
+    "run": 42230657064,
+    "conclusion": "success"
+  },
+  "preserved": "Original art/interface/bubbles, relative assets/icons/manifest, beta/noindex, rights/license findings, metadata-only references, anonymous suggestions, rate workflows/manual fallback; archived Site untouched."
+}

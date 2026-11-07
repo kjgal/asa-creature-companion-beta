@@ -4202,3 +4202,73 @@ Object.assign(generalHabitats,{
   "Gloon": "Corrupted towers within Lost Colony's toxic Aberrant Crash Sites, with Revenants nearby. This is crash-site terrain on Lost Colony; precise spawn-container boundaries remain pending.",
   "Gigadesmodus": "Boss-reward acquisition on Lost Colony, followed by egg-sac raising. It has no normal wild habitat to search for; a tamed individual's location is not a wild spawn record."
 });
+
+Object.assign(creatureInfo,{
+  "Aureliax": {
+    "habitat": "Airspace above Lost Colony's frozen mountain peaks. Species text and the Lost Colony mountain spawn container support this typical habitat; complete regional coverage remains pending.",
+    "behavior": "A floating dragon whose acquisition involves gifts and egg defense.",
+    "acquisition": "Earn an Aureliax egg through gift requests and an egg-defense challenge, then hatch and raise the offspring.",
+    "checked": "2026-11-07",
+    "scope": "ASA official PvE regular Aureliax on Lost Colony; acquisition classification reflects its egg-raising route.",
+    "sources": [
+      [
+        "ARK Community Wiki: Aureliax",
+        "https://ark.wiki.gg/wiki/Aureliax"
+      ],
+      [
+        "Studio Wildcard: v97 release",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+      ],
+      [
+        "Studio Wildcard: server v97 patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-07 via indexed individual species and official v97 passages; direct species access returned 403.",
+      "asa": "ASA official PvE regular Aureliax on Lost Colony; acquisition classification reflects its egg-raising route.",
+      "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Enigmasaur": {
+    "habitat": "Official v97 availability: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region.",
+    "behavior": "A shapeshifter released with Fantastic Tames Season 1. Its dossier describes showing matching tamed creatures; practical taming steps and food remain pending.",
+    "checked": "2026-11-07",
+    "scope": "ASA official PvE Enigmasaur; release confirmed November 6, 2026. No guide counted from dossier-only mechanics.",
+    "sources": [
+      [
+        "Studio Wildcard: v97 release",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+      ],
+      [
+        "Studio Wildcard: server v97 patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ],
+      [
+        "ARK Community Wiki: Enigmasaur",
+        "https://ark.wiki.gg/wiki/Enigmasaur"
+      ]
+    ],
+    "provenance": {
+      "access": "Official v97 map list and indexed individual wiki stub reviewed 2026-11-07. The wiki index still describes the species as unreleased; official release supersedes that stale status.",
+      "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Aureliax": "Airspace above Lost Colony's frozen mountain peaks. Species text and the Lost Colony mountain spawn container support this typical habitat; complete regional coverage remains pending.",
+  "Enigmasaur": "Official v97 availability: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region."
+});
+Object.assign(creatureInfo.Giganotosaurus,{behavior:"An aggressive apex predator whose ASA taming now uses the Apex Challenge.",behaviorReviewed:"2026-11-07",methodSource:"https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"});

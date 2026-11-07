@@ -6485,3 +6485,99 @@ Object.assign(tamingGuides,{
 // Announcement review only: do not present an elapsed target date as verified current mechanics.
 tamingGuides.Giganotosaurus.tips=["Release verification pending (November 6, 2026): Wildcard announced a Giga TLC for November 5, but its official-live rollout and replacement steps have not been verified here. The legacy knockout instructions below may be outdated; check your server before using them."];
 Object.assign(tamingGuides.Giganotosaurus.upcomingChange,{"status":"Announced target passed; live rollout and replacement mechanics pending verification","checked":"2026-11-06"});
+
+// November 7: v97 live method replacement and individual egg-acquisition review.
+Object.assign(tamingGuides,{
+  "Giganotosaurus": {
+    "method": "special",
+    "overview": "ASA's Apex Challenge replaces the old tranquilizer knockout. Start with an Apex Offering and survive the Giga's attacks and Enrage before inventory feeding becomes possible.",
+    "food": "The challenge ends with an unconscious Giga that can be fed. Post-TLC food preferences, quantities and feeding times remain pending revalidation.",
+    "preparation": "Craft an Apex Offering using Alpha trophies and prepare durable combat equipment, healing and a survival route. Offering recipe quantities remain pending.",
+    "steps": [
+      "Carry an Apex Offering near a wild Giganotosaurus to initiate its Apex Challenge.",
+      "During the challenge, attacks landed by the Giga increase its torpor.",
+      "Enrage it and survive until Enrage ends to remove the initial torpor cap.",
+      "Continue the challenge until it becomes unconscious, then follow its inventory-feeding stage."
+    ],
+    "specialAction": "Standard tranq-and-feed instructions are obsolete for this ASA route. Automated quantities and timers are withheld until the new method and feeding formulas are independently checked.",
+    "scope": "ASA official PvE regular Giganotosaurus after v97 on November 6, 2026; ASE and distinct variants excluded.",
+    "checked": "2026-11-07",
+    "tips": [
+      "Standard tranq-and-feed instructions are obsolete for this ASA route. Automated quantities and timers are withheld until the new method and feeding formulas are independently checked."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Giganotosaurus",
+        "https://ark.wiki.gg/wiki/Giganotosaurus"
+      ],
+      [
+        "Studio Wildcard: v97 release",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+      ],
+      [
+        "Studio Wildcard: server v97 patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-07 via indexed individual species and official v97 passages; direct species access returned 403.",
+      "asa": "ASA official PvE regular Giganotosaurus after v97 on November 6, 2026; ASE and distinct variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "releaseChange": {
+      "released": "2026-11-06",
+      "reviewed": "2026-11-07",
+      "status": "Official v97 release confirmed; Apex Challenge replaces standard knockout",
+      "source": "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+    }
+  },
+  "Aureliax": {
+    "method": "acquisition",
+    "overview": "Earn an Aureliax egg through gift requests and an egg-defense challenge, then hatch and raise the offspring.",
+    "food": "Provide the requested gifts, which can include tools or creature trophies. Raw Meat is documented for the hatchling; quantities and incubation conditions remain pending.",
+    "preparation": "Bring aerial access, fall protection, gifts and equipment for defending the egg. Dismiss active shoulder pets and companions before approaching.",
+    "steps": [
+      "Reach a wild Aureliax above Lost Colony's peaks and use its mount interaction.",
+      "Fulfil its displayed gift requests, checking the required item and quality.",
+      "When it becomes an egg and descends, defend it against the marked attackers and follow the remaining-enemy HUD.",
+      "After the defense completes, claim the egg, hatch it and raise the offspring."
+    ],
+    "specialAction": "The species page names Neophyte attackers while the general taming page says Gargoyles. Exact enemy identity and preferred defense setup remain pending; follow the encounter HUD.",
+    "scope": "ASA official PvE regular Aureliax on Lost Colony; acquisition classification reflects its egg-raising route.",
+    "checked": "2026-11-07",
+    "tips": [
+      "The species page names Neophyte attackers while the general taming page says Gargoyles. Exact enemy identity and preferred defense setup remain pending; follow the encounter HUD."
+    ],
+    "sources": [
+      [
+        "ARK Community Wiki: Aureliax",
+        "https://ark.wiki.gg/wiki/Aureliax"
+      ],
+      [
+        "Studio Wildcard: v97 release",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+      ],
+      [
+        "Studio Wildcard: server v97 patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Reviewed 2026-11-07 via indexed individual species and official v97 passages; direct species access returned 403.",
+      "asa": "ASA official PvE regular Aureliax on Lost Colony; acquisition classification reflects its egg-raising route.",
+      "comparisonLimitations": "Direct species pages returned 403; indexed individual species passages and official release/patch text reviewed. Full article/revision/contributor comparison, firsthand official PvE checks and numerical offering/gift/food/incubation/time/effectiveness formulas remain pending. No competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
