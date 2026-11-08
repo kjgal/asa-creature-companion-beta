@@ -4272,3 +4272,81 @@ Object.assign(generalHabitats,{
   "Enigmasaur": "Official v97 availability: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region."
 });
 Object.assign(creatureInfo.Giganotosaurus,{behavior:"An aggressive apex predator whose ASA taming now uses the Apex Challenge.",behaviorReviewed:"2026-11-07",methodSource:"https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"});
+
+// November 8: map-scoped habitat review; retain detailed encounter records.
+Object.assign(creatureInfo,{
+  "Elderclaw": {
+    "habitat": "Wooded habitats where the map supports Elderclaw; Aberration's green (Fertile) region is a documented underground example. Other map-specific terrain remains under review.",
+    "behavior": "Usually unaggressive until provoked; adults defend themselves.",
+    "acquisition": "Raise an Elderclaw from a tended seed; wild adults cannot be domesticated directly.",
+    "checked": "2026-11-08",
+    "scope": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Elderclaw",
+        "https://ark.wiki.gg/wiki/Elderclaw"
+      ],
+      [
+        "Studio Wildcard: Elderclaw launch",
+        "https://survivetheark.com/index.php?/forums/topic/772919-valguero-ascended-and-fantastic-tames-elderclaw-are-now-live/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+      "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Umbra": {
+    "habitat": "Map-specific aerial encounters. Official Dragontopia launch confirms ASA availability, but precise terrain and the current map-by-map distribution remain pending; do not assume it occurs on every map.",
+    "behavior": "An aerial dragon with a challenge-based taming route.",
+    "acquisition": "Complete Umbra's aerial challenge cycle and feed during its calm stage.",
+    "checked": "2026-11-08",
+    "scope": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+    "sources": [
+      [
+        "ARK Community Wiki: Umbra",
+        "https://ark.wiki.gg/wiki/Umbra"
+      ],
+      [
+        "Studio Wildcard: Dragontopia launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+      "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});
+Object.assign(generalHabitats,{
+  "Elderclaw": "Wooded habitats where the map supports Elderclaw; Aberration's green (Fertile) region is a documented underground example. Other map-specific terrain remains under review.",
+  "Umbra": "Map-specific aerial encounters. Official Dragontopia launch confirms ASA availability, but precise terrain and the current map-by-map distribution remain pending; do not assume it occurs on every map.",
+  "Achatina": "Damp swamps and wooded terrain, including redwood and conifer forest examples where map-specific spawns support them.",
+  "Bulbdog": "Underground habitat on supported maps; Aberration's green (Fertile) region is the verified example here. Other-map terrain remains pending."
+});
+Object.assign(aberrationHabitats,{
+  "Elderclaw": "On Aberration, regular Elderclaw is listed in green (Fertile) land spawn entries. It is not an Aberrant variant; blue, red and surface distribution is not established here.",
+  "Achatina": "On Aberration, the Aberrant Achatina occurs in the blue (Bioluminescent) region, including Crystalline Swamps. This does not place regular Achatina in all underground regions.",
+  "Bulbdog": "On Aberration, native Bulbdogs occur in the green (Fertile) region. They are not an Aberrant variant; the blue, red and surface regions are not implied by this note."
+});
+Object.assign(creatureInfo.Enigmasaur,{behavior:"Disguises itself as local creatures; its newly documented taming route presents matching tames for scanning.",acquisition:"Build trust by letting the disguised Enigmasaur scan your matching tamed species.",checked:"2026-11-08",scope:"Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",sources:[["ARK Community Wiki: Enigmasaur","https://ark.wiki.gg/wiki/Enigmasaur"],["Studio Wildcard: v97 release","https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"],["Studio Wildcard: server v97 patch notes","https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"]],provenance:{"access":"Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.","asa":"Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.","comparisonLimitations":"Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."}});
+Object.assign(creatureInfo["Achatina"],{habitat:"Damp swamps and wooded terrain, including redwood and conifer forest examples where map-specific spawns support them.",checked:"2026-11-08",habitatProvenance:{"access":"Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.","asa":"Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.","comparisonLimitations":"Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported.","sources":["https://ark.wiki.gg/wiki/Achatina","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries","https://ark.wiki.gg/wiki/Crystalline_Swamps_(Aberration)"]}});
+Object.assign(creatureInfo["Bulbdog"],{habitat:"Underground habitat on supported maps; Aberration's green (Fertile) region is the verified example here. Other-map terrain remains pending.",checked:"2026-11-08",habitatProvenance:{"access":"Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.","asa":"Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.","comparisonLimitations":"Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported.","sources":["https://ark.wiki.gg/wiki/Bulbdog","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"]}});

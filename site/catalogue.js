@@ -2026,3 +2026,6 @@ creatureCatalogue.push({
 
 // v97 supersedes the earlier catalogue review override.
 Object.assign(creatureCatalogue.find(c=>c.name==="Giganotosaurus"),{acquisition:"Special tame",guideReviewed:"2026-11-07"});
+
+// November 8 reviewed acquisition classifications.
+for(const [name,acquisition] of Object.entries({Elderclaw:"Offspring acquisition",Umbra:"Special tame",Enigmasaur:"Special tame"})){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition,guideReviewed:"2026-11-08"});}

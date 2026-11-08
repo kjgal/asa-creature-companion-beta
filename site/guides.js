@@ -6581,3 +6581,111 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 8: individually researched acquisition and challenge guides.
+Object.assign(tamingGuides,{
+  "Elderclaw": {
+    "method": "acquisition",
+    "overview": "Raise an Elderclaw from a tended seed; wild adults cannot be domesticated directly.",
+    "food": "Seed requests include Ammonite Bile, Bio Toxin, Black Pearls, Giant Bee Honey, Leech Blood or Sap. Hatchling diet remains pending.",
+    "preparation": "Prepare a Large Crop Plot with water and fertilizer, requested resources and equipment to defeat the parent.",
+    "steps": [
+      "Defeat a wild adult and retrieve its seed from the inventory.",
+      "Plant the seed in the prepared crop plot and keep its water and fertilizer supplied.",
+      "Respond to the displayed care requests as it grows.",
+      "Interact with the mature fruitling's egg, then claim and raise the baby."
+    ],
+    "specialAction": "A wild cub can also be claimed after its parent is defeated. Seed-care controls and baby feeding need firsthand confirmation; no growth timer or effectiveness estimate is supplied.",
+    "sources": [
+      [
+        "ARK Community Wiki: Elderclaw",
+        "https://ark.wiki.gg/wiki/Elderclaw"
+      ],
+      [
+        "Studio Wildcard: Elderclaw launch",
+        "https://survivetheark.com/index.php?/forums/topic/772919-valguero-ascended-and-fantastic-tames-elderclaw-are-now-live/"
+      ]
+    ],
+    "checked": "2026-11-08",
+    "scope": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+    "provenance": {
+      "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+      "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": [
+      "A wild cub can also be claimed after its parent is defeated. Seed-care controls and baby feeding need firsthand confirmation; no growth timer or effectiveness estimate is supplied."
+    ]
+  },
+  "Umbra": {
+    "method": "special",
+    "overview": "Complete Umbra's aerial challenge cycle and feed during its calm stage.",
+    "food": "Extraordinary Kibble or Cooked Lamb Chop are documented for the feeding stage; quantities remain pending.",
+    "preparation": "Bring a Drake Claw and food. Learn the dragon's movement controls and prepare fall protection.",
+    "steps": [
+      "Find a landed Umbra and use the Drake Claw interaction to begin.",
+      "Copy its displayed flight maneuvers.",
+      "Attack the spawned flying creatures while avoiding their hits.",
+      "Complete the travel challenge, using the instructed dive.",
+      "Feed during the calm window and repeat the cycle until bonded."
+    ],
+    "specialAction": "The wiki calls this passive, but it includes combat and flight challenges. Dragon Horn/Drake Claw activation wording and controller prompts need confirmation; follow the encounter HUD.",
+    "sources": [
+      [
+        "ARK Community Wiki: Umbra",
+        "https://ark.wiki.gg/wiki/Umbra"
+      ],
+      [
+        "Studio Wildcard: Dragontopia launch",
+        "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+      ]
+    ],
+    "checked": "2026-11-08",
+    "scope": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+    "provenance": {
+      "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+      "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": [
+      "The wiki calls this passive, but it includes combat and flight challenges. Dragon Horn/Drake Claw activation wording and controller prompts need confirmation; follow the encounter HUD."
+    ]
+  },
+  "Enigmasaur": {
+    "method": "special",
+    "overview": "Build trust by letting the disguised Enigmasaur scan your matching tamed species.",
+    "food": "The documented taming sequence uses matching tames rather than a stated food hand-in. Food preferences and any additional feeding interaction remain pending.",
+    "preparation": "Keep access to several tamed species, their required saddles and a way to relocate the encounter.",
+    "steps": [
+      "Watch its disguise and identify the species it is copying.",
+      "Bring your tame of that species, equipped with a saddle where applicable.",
+      "Ride it close to the Enigmasaur, face the encounter and remain still for the scan.",
+      "After it changes disguise, provide the next matching species and repeat until tamed."
+    ],
+    "specialAction": "Scan prompts, eligible species and practical positioning still need firsthand confirmation. No level-to-progress or effectiveness formula is claimed.",
+    "sources": [
+      [
+        "ARK Community Wiki: Enigmasaur",
+        "https://ark.wiki.gg/wiki/Enigmasaur"
+      ],
+      [
+        "Studio Wildcard: v97 release",
+        "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+      ],
+      [
+        "Studio Wildcard: server v97 patch notes",
+        "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+      ]
+    ],
+    "checked": "2026-11-08",
+    "scope": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+    "provenance": {
+      "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+      "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+      "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": [
+      "Scan prompts, eligible species and practical positioning still need firsthand confirmation. No level-to-progress or effectiveness formula is claimed."
+    ]
+  }
+});

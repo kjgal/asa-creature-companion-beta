@@ -1,0 +1,148 @@
+{
+  "reviewed": "2026-11-08",
+  "baseline": "712782f274e73e60699135d533ec71778002d07e",
+  "addedGuides": [
+    {
+      "name": "Elderclaw",
+      "classification": "acquisition",
+      "sources": [
+        [
+          "ARK Community Wiki: Elderclaw",
+          "https://ark.wiki.gg/wiki/Elderclaw"
+        ],
+        [
+          "Studio Wildcard: Elderclaw launch",
+          "https://survivetheark.com/index.php?/forums/topic/772919-valguero-ascended-and-fantastic-tames-elderclaw-are-now-live/"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+        "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+        "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Umbra",
+      "classification": "special",
+      "sources": [
+        [
+          "ARK Community Wiki: Umbra",
+          "https://ark.wiki.gg/wiki/Umbra"
+        ],
+        [
+          "Studio Wildcard: Dragontopia launch",
+          "https://survivetheark.com/index.php?/forums/topic/773981-ark-tides-of-fortune-dragontopia-and-genesis-part-1-are-out-now/"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+        "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+        "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Enigmasaur",
+      "classification": "special",
+      "sources": [
+        [
+          "ARK Community Wiki: Enigmasaur",
+          "https://ark.wiki.gg/wiki/Enigmasaur"
+        ],
+        [
+          "Studio Wildcard: v97 release",
+          "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+        ],
+        [
+          "Studio Wildcard: server v97 patch notes",
+          "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species and official passages reviewed 2026-11-08; direct article access returned 403.",
+        "asa": "Regular ASA official PvE creature; event, mission, command-only and mod variants excluded.",
+        "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "updatedGuides": [],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-08",
+    "latestReleaseReviewed": "2026-11-06",
+    "sources": [
+      "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/",
+      "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+    ],
+    "finding": "v97 Enigmasaur/Giga release reconfirmed. No additional official-map creature release verified in this review."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Elderclaw",
+      "Umbra",
+      "Achatina",
+      "Bulbdog"
+    ],
+    "addedAberration": [
+      "Elderclaw",
+      "Achatina",
+      "Bulbdog"
+    ],
+    "refreshedAvailability": [
+      "Enigmasaur"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Crystalline_Swamps_(Aberration)",
+      "https://ark.wiki.gg/wiki/Achatina",
+      "https://ark.wiki.gg/wiki/Bulbdog",
+      "https://ark.wiki.gg/wiki/Elderclaw"
+    ],
+    "limitations": "Elderclaw and Bulbdog matched to Fertile land entries; Aberrant Achatina matched to BioLand and Crystalline Swamps. Umbra is an availability note, not verified terrain. Enigmasaur biomes/regions remain pending. No spawn weights or coordinates copied."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 202,
+    "missingGuides": [
+      "Lumina"
+    ],
+    "generalHabitatAvailabilityEntries": 159,
+    "aberrationHabitatEntries": 29,
+    "creatureInfoRecords": 177
+  },
+  "pendingResearch": [
+    {
+      "name": "Lumina",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Lumina",
+        "https://survivetheark.com/index.php?/forums/topic/774031-community-crunch-514-the-belly-of-the-beast/"
+      ],
+      "finding": "Individual species lists Superior Kibble/Raw Mutton but describes weakening, mimic, target and diving stages without a feeding hand-in. Passive infobox does not explain the combat initiation. Guide withheld pending coherent feeding/controls confirmation; numerical health threshold omitted."
+    }
+  ],
+  "ownerQuestions": [
+    "Elderclaw: what does the newly claimed cub accept as food on official PvE?",
+    "Umbra: does the Drake Claw itself start the ride, or is a Dragon Horn interaction also required?",
+    "Lumina: after weakening it, when does it accept food, and which controller prompts start each challenge?"
+  ],
+  "sourceAccess": {
+    "directSpeciesStatus": 403,
+    "individualSpecies": [
+      "Elderclaw",
+      "Umbra",
+      "Lumina",
+      "Enigmasaur"
+    ],
+    "additionalSpecies": [
+      "Achatina",
+      "Bulbdog"
+    ],
+    "comparisonLimitations": "Direct species pages returned 403. Indexed individual species passages and official announcements reviewed; full article/revision/contributor comparison and firsthand official PvE controls remain pending. Numerical quantities, times and effectiveness formulas were not added. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "preserved": "Original artwork, interface/bubbles, beta/noindex, icons/manifest/relative assets, rights/license notices, anonymous suggestions and metadata-only URLs. Rate workflow/manual fallback unchanged; archived Site untouched.",
+  "validation": {
+    "syntax": "All site JavaScript files passed node --check.",
+    "interaction": "tests/guide-review-2026-11-08.cjs passed: new guide routes, pending Lumina, general habitat replies, variant wording, counts, protected guide hashes, Giga estimate withdrawal and saved-session preservation.",
+    "publication": "Saved source revision and matching Pages workflow checked after commit; see run report."
+  }
+}
