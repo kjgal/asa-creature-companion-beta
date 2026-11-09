@@ -6689,3 +6689,65 @@ Object.assign(tamingGuides,{
     ]
   }
 });
+
+// November 9: refresh older base-species knockout guidance.
+Object.assign(tamingGuides,{
+  "Archaeopteryx": {
+    "method": "knockout",
+    "overview": "Carefully render the Archaeopteryx unconscious, then feed through its inventory. Its fragile health makes excessive weapon damage a risk.",
+    "food": "Simple Kibble or Chitin for taming. Keep Chitin for its diet after domestication.",
+    "preparation": "Carry a bola, controlled torpor equipment and food. Search the trees as well as the forest floor, and clear nearby threats.",
+    "steps": [
+      "Restrain the target before it climbs or glides away.",
+      "Apply torpor carefully and cease fire when it falls unconscious.",
+      "Place taming food in its inventory and protect the sleeping creature.",
+      "Monitor torpor until the tame finishes, then keep Chitin available."
+    ],
+    "specialAction": "This is a standard knockout route. No shot count, weapon damage threshold or feeding timer has been independently verified here.",
+    "tips": [
+      "This is a standard knockout route. No shot count, weapon damage threshold or feeding timer has been independently verified here."
+    ],
+    "checked": "2026-11-09",
+    "scope": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+    "provenance": {
+      "access": "Reviewed indexed individual species, Biomes and Spawn entries on 2026-11-09; direct pages returned 403.",
+      "asa": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Species pages share legacy material; numerical tables, dosing, timers and effectiveness formulas were excluded. No competitor text, datasets, artwork or code imported."
+    },
+    "sources": [
+      [
+        "ARK Community Wiki: Archaeopteryx",
+        "https://ark.wiki.gg/wiki/Archaeopteryx"
+      ]
+    ]
+  },
+  "Castoroides": {
+    "method": "knockout",
+    "overview": "Knock out the beaver and feed it through the inventory while closely watching its rapidly falling torpor.",
+    "food": "Superior Kibble is preferred; crops are an alternative. Food counts and duration remain pending.",
+    "preparation": "Stock torpor supplies before beginning and clear a safe area. Nearby beavers can retaliate when a beaver is attacked or its dam is looted.",
+    "steps": [
+      "Choose a target beside a safe stretch of shore and account for nearby beavers.",
+      "Apply torpor until it becomes unconscious, then stop attacking.",
+      "Add food to its inventory and monitor torpor closely.",
+      "Keep it unconscious and protected until domestication completes."
+    ],
+    "specialAction": "Taking items from a dam can provoke its defenders. Do not treat a dam as a safe staging area; this guide does not verify trap dimensions or restraint eligibility.",
+    "tips": [
+      "Taking items from a dam can provoke its defenders. Do not treat a dam as a safe staging area; this guide does not verify trap dimensions or restraint eligibility."
+    ],
+    "checked": "2026-11-09",
+    "scope": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+    "provenance": {
+      "access": "Reviewed indexed individual species, Biomes and Spawn entries on 2026-11-09; direct pages returned 403.",
+      "asa": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Species pages share legacy material; numerical tables, dosing, timers and effectiveness formulas were excluded. No competitor text, datasets, artwork or code imported."
+    },
+    "sources": [
+      [
+        "ARK Community Wiki: Castoroides",
+        "https://ark.wiki.gg/wiki/Castoroides"
+      ]
+    ]
+  }
+});

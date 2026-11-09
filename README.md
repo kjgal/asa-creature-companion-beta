@@ -70,3 +70,6 @@ November 7 review: official v97 release dated November 6 confirms Giga TLC and E
 
 
 November 8 review: added Elderclaw seed/cub acquisition, Umbra aerial challenge-feeding and Enigmasaur matching-tame scan guides. Coverage: 202 written guides of 203 entries; Lumina remains pending because feeding and challenge instructions are incomplete. General habitat/availability notes: 159; Aberration notes: 29. Added green/Fertile native Elderclaw and Bulbdog notes, and blue/Bioluminescent Aberrant Achatina. These counts do not imply complete guide validation, precise terrain coverage or numerical formulas. Individual source provenance and comparison limitations: audit/guide-review-2026-11-08.json.
+
+
+November 9 review: refreshed Archaeopteryx and Castoroides knockout guides, preparation and provenance. No new guide or creature added; coverage remains 202 written guides of 203 entries, with Lumina's feeding/challenge sequence pending. Added four general habitat notes (163 total, 40 catalogue entries without one) and two blue/Bioluminescent Aberrant water-habitat notes (31 Aberration notes total). Existing detailed encounters preserved. General habitat counts include availability notes and do not establish complete maps or guide validation. See audit/guide-review-2026-11-09.json and tests/guide-review-2026-11-09.cjs.

@@ -1,0 +1,112 @@
+{
+  "reviewed": "2026-11-09",
+  "baseline": "2c6c5bf766135ab072afdf0ce27fdcb0b2e295e5",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Archaeopteryx",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Archaeopteryx",
+          "https://ark.wiki.gg/wiki/Archaeopteryx"
+        ]
+      ],
+      "provenance": {
+        "access": "Reviewed indexed individual species, Biomes and Spawn entries on 2026-11-09; direct pages returned 403.",
+        "asa": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Species pages share legacy material; numerical tables, dosing, timers and effectiveness formulas were excluded. No competitor text, datasets, artwork or code imported."
+      },
+      "changes": "Clearer fragile-health preparation, restraint/knockout sequence and post-tame Chitin distinction."
+    },
+    {
+      "name": "Castoroides",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Castoroides",
+          "https://ark.wiki.gg/wiki/Castoroides"
+        ]
+      ],
+      "provenance": {
+        "access": "Reviewed indexed individual species, Biomes and Spawn entries on 2026-11-09; direct pages returned 403.",
+        "asa": "ASA official PvE regular base species; distinct Aberrant, mission, event, mobile and mod routes excluded from these tame instructions.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Species pages share legacy material; numerical tables, dosing, timers and effectiveness formulas were excluded. No competitor text, datasets, artwork or code imported."
+      },
+      "changes": "Added dam-defense preparation, explicit monitoring sequence, special-action limitation and current provenance."
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-09",
+    "sources": [
+      "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/",
+      "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+    ],
+    "latestReleaseReviewed": "2026-11-06",
+    "finding": "Official announcement index and current v97 patch record checked. No later official-map creature release verified; no catalogue additions inferred."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Archaeopteryx",
+      "Castoroides",
+      "Dimetrodon",
+      "Diplocaulus"
+    ],
+    "addedAberration": [
+      "Dimetrodon",
+      "Diplocaulus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Archaeopteryx",
+      "https://ark.wiki.gg/wiki/Castoroides",
+      "https://ark.wiki.gg/wiki/Dimetrodon",
+      "https://ark.wiki.gg/wiki/Diplocaulus",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "evidence": "Species passages support redwood/tree-floor Archaeopteryx, freshwater-bank Castoroides and shallow swamp Dimetrodon/Diplocaulus. Spawn entries support SwampWater base species and TwitchBioWater Aberrant Dimetrodon/Diplocaulus. Biomes confirms swamp context.",
+    "limitations": "Some legacy/shared wiki material remains mixed with ASA. Typical habitat examples only; no complete map or regional distribution, spawn weight, coordinates or carry tactic inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 202,
+    "missingGuides": [
+      "Lumina"
+    ],
+    "generalHabitatAvailabilityEntries": 163,
+    "generalHabitatMissingEntries": 40,
+    "aberrationHabitatEntries": 31,
+    "creatureInfoRecords": 178
+  },
+  "pendingResearch": [
+    {
+      "name": "Lumina",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      "finding": "Current indexed page still lists Superior Kibble/Raw Mutton and a damage-initiated sequence but does not document when or how feeding fits into the challenge. Dossier feeding is not sufficient practical confirmation. Full guide remains pending; no numerical health threshold included."
+    }
+  ],
+  "ownerQuestions": [
+    "Lumina: when does the food prompt appear during the riding challenge, and which interaction feeds it on official PvE?"
+  ],
+  "sourceAccess": {
+    "directStatus": 403,
+    "pages": [
+      "Lumina",
+      "Archaeopteryx",
+      "Castoroides",
+      "Dimetrodon",
+      "Diplocaulus",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Species pages share legacy material; numerical tables, dosing, timers and effectiveness formulas were excluded. No competitor text, datasets, artwork or code imported."
+  },
+  "validation": {
+    "syntax": "All materialized site JavaScript files passed node --check.",
+    "interaction": "tests/guide-review-2026-11-09.cjs passed: refreshed guides, food/preparation replies, general habitat replies, variant wording, counts and preserved encounter details; prior special guides, pending Lumina, Giga estimates/session migration and protected anonymous suggestion hashes retained."
+  },
+  "preserved": "Original artwork, UI and speech bubbles; free noncommercial beta/noindex, rights/source/contributor/license notices, relative assets/icons/manifest; anonymous suggestions and metadata-only individual/video URLs; rate workflow/manual fallback. Archived Site untouched."
+}

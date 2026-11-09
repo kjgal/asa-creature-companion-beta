@@ -2029,3 +2029,6 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Giganotosaurus"),{acquisition:
 
 // November 8 reviewed acquisition classifications.
 for(const [name,acquisition] of Object.entries({Elderclaw:"Offspring acquisition",Umbra:"Special tame",Enigmasaur:"Special tame"})){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition,guideReviewed:"2026-11-08"});}
+
+// November 9: reviewed base-species route labels.
+for(const name of ["Archaeopteryx","Castoroides"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Knockout tame",guideReviewed:"2026-11-09"});}
