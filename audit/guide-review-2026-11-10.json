@@ -1,0 +1,117 @@
+{
+  "reviewed": "2026-11-10",
+  "baseline": "8767f0178590ac2c3e1e4971e351d9486050980a",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Otter",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Otter",
+          "https://ark.wiki.gg/wiki/Otter"
+        ],
+        [
+          "Fish-corpse reference (retained)",
+          "https://ark.wiki.gg/wiki/Dead_Fish"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-10; direct species pages returned 403.",
+        "asa": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Shared legacy numerical tables, counts, feeding times and effectiveness formulas excluded. No competitor text, data, art or calculator code imported."
+      },
+      "change": "Distinguish taming hand-in from ongoing food after domestication; refresh preparation, actions and review metadata."
+    },
+    {
+      "name": "Dung Beetle",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Dung Beetle",
+          "https://ark.wiki.gg/wiki/Dung_Beetle"
+        ],
+        [
+          "Massive Animal Feces reference (retained)",
+          "https://ark.wiki.gg/wiki/Massive_Animal_Feces"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-10; direct species pages returned 403.",
+        "asa": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+        "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Shared legacy numerical tables, counts, feeding times and effectiveness formulas excluded. No competitor text, data, art or calculator code imported."
+      },
+      "change": "Distinguish taming hand-in from ongoing food after domestication; refresh preparation, actions and review metadata."
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-10",
+    "latestReleaseReviewed": "2026-11-06",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"
+    ],
+    "finding": "Official home still features Community Crunch 531; v97 remains the latest verified release record in this review. No later official-map creature addition confirmed."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Otter",
+      "Dung Beetle",
+      "Equus"
+    ],
+    "addedAberration": [
+      "Otter",
+      "Dung Beetle",
+      "Equus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Otter",
+      "https://ark.wiki.gg/wiki/Dung_Beetle",
+      "https://ark.wiki.gg/wiki/Equus",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+    ],
+    "evidence": "Inland/Redwood water entries support Otter; Fertile water entries support Aberrant Otter. BioLand and Element cave/chamber entries support Aberrant Dung Beetle. Fertile land entries support Aberrant Equus; species/Highlands passages support open rolling terrain.",
+    "limitations": "Typical examples only, with regular and Aberrant variants separated. No universal map/region claim, numerical spawn weights or coordinates. Species share ASE/ASA material; complete container and map coverage remains pending."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 202,
+    "missingGuides": [
+      "Lumina"
+    ],
+    "generalHabitatAvailabilityEntries": 166,
+    "generalHabitatMissingEntries": 37,
+    "aberrationHabitatEntries": 34,
+    "creatureInfoRecords": 179
+  },
+  "pendingResearch": [
+    {
+      "name": "Lumina",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      "finding": "Rechecked indexed species instructions; feeding timing remains unexplained despite food preferences and riding challenges being listed. Guide remains pending. Prior owner question retained without assuming an answer."
+    }
+  ],
+  "ownerQuestions": [
+    "Lumina (still pending): at what point in the riding challenge does its food prompt appear, and what action feeds it?"
+  ],
+  "sourceAccess": {
+    "directSpeciesStatus": 403,
+    "pages": [
+      "Otter",
+      "Dung_Beetle",
+      "Equus",
+      "Lumina"
+    ],
+    "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Shared legacy numerical tables, counts, feeding times and effectiveness formulas excluded. No competitor text, data, art or calculator code imported."
+  },
+  "validation": {
+    "syntax": "All materialized site JavaScript files passed node --check.",
+    "interaction": "tests/guide-review-2026-11-10.cjs passed: passive food/preparation/action replies, post-tame diets, general habitat replies, variant wording, preserved encounter behavior and Equus suggestion; existing Giga estimate withdrawal/session migration, metadata-only sources, anonymous protected guides and pending Lumina regression checks passed."
+  },
+  "preserved": "Original art, UI/bubbles, public free noncommercial beta/noindex, relative icons/assets/manifest, source/contributor/license notices, anonymous suggestions and metadata-only individual/video URLs. Rate workflow/manual fallback unchanged; archived Site untouched."
+}

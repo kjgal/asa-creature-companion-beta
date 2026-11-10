@@ -73,3 +73,6 @@ November 8 review: added Elderclaw seed/cub acquisition, Umbra aerial challenge-
 
 
 November 9 review: refreshed Archaeopteryx and Castoroides knockout guides, preparation and provenance. No new guide or creature added; coverage remains 202 written guides of 203 entries, with Lumina's feeding/challenge sequence pending. Added four general habitat notes (163 total, 40 catalogue entries without one) and two blue/Bioluminescent Aberrant water-habitat notes (31 Aberration notes total). Existing detailed encounters preserved. General habitat counts include availability notes and do not establish complete maps or guide validation. See audit/guide-review-2026-11-09.json and tests/guide-review-2026-11-09.cjs.
+
+
+November 10 review: refreshed Otter and Dung Beetle passive guides, distinguishing taming hand-ins from their ongoing diets. Added Otter, Dung Beetle and Equus general habitats (166 total; 37 catalogue entries without general notes) plus three Aberrant regional notes (34 total). Blue/Bioluminescent and red/Element Dung Beetle habitats are separate from green/Fertile Otter and Equus examples. Guide coverage remains 202 of 203; Lumina is still pending. No catalogue addition. Detailed encounters, anonymous suggestions and rate behavior preserved. Provenance and checks: audit/guide-review-2026-11-10.json and tests/guide-review-2026-11-10.cjs.

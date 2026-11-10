@@ -6751,3 +6751,73 @@ Object.assign(tamingGuides,{
     ]
   }
 });
+
+// November 10: food hand-in versus ongoing care review.
+Object.assign(tamingGuides,{
+  "Otter": {
+    "method": "passive",
+    "overview": "Feed intact fish corpses to the conscious Otter until its taming progress completes.",
+    "food": "Carry a dead fish without harvesting it, then use the feed interaction while holding the body. Loose fish meat is not the taming hand-in; fish meat is its diet after taming.",
+    "preparation": "Find nearby fish and a safe stretch of bank. Keep the Otter located while collecting fresh bodies and protect it from predators.",
+    "steps": [
+      "Locate the Otter and a supply of fish.",
+      "Kill a fish while leaving its body intact.",
+      "Drag the corpse to the Otter and use its feed prompt.",
+      "Repeat with fresh fish until the tame finishes, then provide fish meat."
+    ],
+    "specialAction": "This is corpse feeding, not an unconscious inventory tame. Fish size affects progress, but no size-to-progress formula or required count is verified here.",
+    "tips": [
+      "This is corpse feeding, not an unconscious inventory tame. Fish size affects progress, but no size-to-progress formula or required count is verified here."
+    ],
+    "checked": "2026-11-10",
+    "scope": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-10; direct species pages returned 403.",
+      "asa": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Shared legacy numerical tables, counts, feeding times and effectiveness formulas excluded. No competitor text, data, art or calculator code imported."
+    },
+    "sources": [
+      [
+        "ARK Community Wiki: Otter",
+        "https://ark.wiki.gg/wiki/Otter"
+      ],
+      [
+        "Fish-corpse reference (retained)",
+        "https://ark.wiki.gg/wiki/Dead_Fish"
+      ]
+    ]
+  },
+  "Dung Beetle": {
+    "method": "passive",
+    "overview": "Use repeated feeding prompts on a calm, conscious Dung Beetle.",
+    "food": "Large Animal Feces are preferred; smaller feces are alternatives. Massive Animal Feces are not accepted. After taming, provide meat as food; feces for processing do not sustain it.",
+    "preparation": "Carry suitable feces and clear surrounding threats before approaching. Leave room to retreat if it becomes aggravated.",
+    "steps": [
+      "Find a safe approach and ready the taming food.",
+      "Approach the calm beetle from behind.",
+      "Feed when the interaction appears.",
+      "Wait for the next feeding opportunity and repeat until tamed."
+    ],
+    "specialAction": "Do not knock it out. Wild relocation and cave-specific eligibility remain pending official PvE checks; no feeding interval is supplied.",
+    "tips": [
+      "Do not knock it out. Wild relocation and cave-specific eligibility remain pending official PvE checks; no feeding interval is supplied."
+    ],
+    "checked": "2026-11-10",
+    "scope": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-10; direct species pages returned 403.",
+      "asa": "ASA official PvE regular species; separate Aberrant habitats do not extend these instructions to all variants or maps.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain pending. Shared legacy numerical tables, counts, feeding times and effectiveness formulas excluded. No competitor text, data, art or calculator code imported."
+    },
+    "sources": [
+      [
+        "ARK Community Wiki: Dung Beetle",
+        "https://ark.wiki.gg/wiki/Dung_Beetle"
+      ],
+      [
+        "Massive Animal Feces reference (retained)",
+        "https://ark.wiki.gg/wiki/Massive_Animal_Feces"
+      ]
+    ]
+  }
+});

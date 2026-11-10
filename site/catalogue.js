@@ -2032,3 +2032,6 @@ for(const [name,acquisition] of Object.entries({Elderclaw:"Offspring acquisition
 
 // November 9: reviewed base-species route labels.
 for(const name of ["Archaeopteryx","Castoroides"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Knockout tame",guideReviewed:"2026-11-09"});}
+
+// November 10: reviewed conscious-feeding routes.
+for(const name of ["Otter","Dung Beetle"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Passive tame",guideReviewed:"2026-11-10"});}
