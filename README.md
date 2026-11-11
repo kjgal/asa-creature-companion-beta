@@ -76,3 +76,6 @@ November 9 review: refreshed Archaeopteryx and Castoroides knockout guides, prep
 
 
 November 10 review: refreshed Otter and Dung Beetle passive guides, distinguishing taming hand-ins from their ongoing diets. Added Otter, Dung Beetle and Equus general habitats (166 total; 37 catalogue entries without general notes) plus three Aberrant regional notes (34 total). Blue/Bioluminescent and red/Element Dung Beetle habitats are separate from green/Fertile Otter and Equus examples. Guide coverage remains 202 of 203; Lumina is still pending. No catalogue addition. Detailed encounters, anonymous suggestions and rate behavior preserved. Provenance and checks: audit/guide-review-2026-11-10.json and tests/guide-review-2026-11-10.cjs.
+
+
+November 11 review: refreshed Basilosaurus and Ichthyosaurus passive feeding guides with approach hazards, preparation and source limitations. Added three marine habitat notes, including Archelon shallow/deep-sea examples. Coverage remains 202 written guides of 203 entries; Lumina's feeding stage remains pending. General habitat/availability notes: 169 (34 catalogue entries without one); Aberration notes unchanged at 34. No creature additions inferred from Dragontopia reveals. Detailed encounters, anonymous suggestions and rate behavior preserved. See audit/guide-review-2026-11-11.json and tests/guide-review-2026-11-11.cjs.

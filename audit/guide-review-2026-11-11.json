@@ -1,0 +1,107 @@
+{
+  "reviewed": "2026-11-11",
+  "baseline": "bab807ecee03f1f1dbf00c39f72c6c19e1d8bf75",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Basilosaurus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Basilosaurus",
+          "https://ark.wiki.gg/wiki/Basilosaurus"
+        ],
+        [
+          "Earlier species alias (retained)",
+          "https://ark.wiki.gg/wiki/Basilo"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-11; direct species pages returned 403.",
+        "asa": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+        "comparisonLimitations": "Shared legacy material is present in species pages. Full article/revision/contributor comparison, firsthand official PvE testing and complete spawn-map matching remain pending. No numerical feeding, time or effectiveness formulas added; no competitor text, datasets, art or code imported."
+      },
+      "change": "Refresh preparation, conscious-feeding actions, approach hazards and pending numerical limits."
+    },
+    {
+      "name": "Ichthyosaurus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Ichthyosaurus",
+          "https://ark.wiki.gg/wiki/Ichthyosaurus"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-11; direct species pages returned 403.",
+        "asa": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+        "comparisonLimitations": "Shared legacy material is present in species pages. Full article/revision/contributor comparison, firsthand official PvE testing and complete spawn-map matching remain pending. No numerical feeding, time or effectiveness formulas added; no competitor text, datasets, art or code imported."
+      },
+      "change": "Refresh preparation, conscious-feeding actions, approach hazards and pending numerical limits."
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-11",
+    "latestReleaseReviewed": "2026-11-06",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+    ],
+    "finding": "Official home still features Crunch 531 and the v97 release. Its November 7/9 Dragontopia reveal announcements are not proof of live official-map availability. No later creature release confirmed."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Basilosaurus",
+      "Ichthyosaurus",
+      "Archelon"
+    ],
+    "addedAberration": [],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Basilosaurus",
+      "https://ark.wiki.gg/wiki/Ichthyosaurus",
+      "https://ark.wiki.gg/wiki/Archelon",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "evidence": "Species passages document shallower Basilosaurus and shallow/deep Archelon marine habitats. ASA ocean and Ragnarok ocean spawn entries include these species and Ichthyosaurus. General ocean context does not establish universal map presence.",
+    "limitations": "Complete map/container matching remains pending. No regular marine species or new variant inferred on Aberration; existing 34 regional notes preserved. Shared ASE/ASA material and numerical tables excluded from quantitative claims."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 202,
+    "missingGuides": [
+      "Lumina"
+    ],
+    "generalHabitatAvailabilityEntries": 169,
+    "generalHabitatMissingEntries": 34,
+    "aberrationHabitatEntries": 34,
+    "creatureInfoRecords": 181
+  },
+  "pendingResearch": [
+    {
+      "name": "Lumina",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      "finding": "Indexed individual species still gives riding minigames without a practical feeding stage. No guide added or numerical health threshold copied. Existing confirmation question remains unresolved."
+    }
+  ],
+  "ownerQuestions": [
+    "Lumina (retained pending question): when does its food prompt appear during the riding challenge, and what action feeds it?"
+  ],
+  "sourceAccess": {
+    "directSpeciesStatus": 403,
+    "pages": [
+      "Basilosaurus",
+      "Ichthyosaurus",
+      "Archelon"
+    ],
+    "comparisonLimitations": "Shared legacy material is present in species pages. Full article/revision/contributor comparison, firsthand official PvE testing and complete spawn-map matching remain pending. No numerical feeding, time or effectiveness formulas added; no competitor text, datasets, art or code imported."
+  },
+  "validation": {
+    "syntax": "All materialized site JavaScript files passed node --check.",
+    "interaction": "tests/guide-review-2026-11-11.cjs passed: marine method/food/preparation/action and habitat replies; preserved detailed behavior, prior guide routes, pending Lumina, Giga estimate/session restrictions, protected anonymous suggestions and metadata-only source handling."
+  },
+  "preserved": "Original art, UI/bubbles, free noncommercial beta/noindex, relative icons/assets/manifest, rights/source/contributor/license notices and anonymous suggestions. Rate workflow/manual fallback unchanged; archived Site untouched."
+}

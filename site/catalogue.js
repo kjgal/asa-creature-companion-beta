@@ -2035,3 +2035,6 @@ for(const name of ["Archaeopteryx","Castoroides"]){Object.assign(creatureCatalog
 
 // November 10: reviewed conscious-feeding routes.
 for(const name of ["Otter","Dung Beetle"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Passive tame",guideReviewed:"2026-11-10"});}
+
+// November 11: reviewed marine feeding routes.
+for(const name of ["Basilosaurus","Ichthyosaurus"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Passive tame",guideReviewed:"2026-11-11"});}

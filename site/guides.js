@@ -6821,3 +6821,69 @@ Object.assign(tamingGuides,{
     ]
   }
 });
+
+// November 11: marine passive-tame approach review.
+Object.assign(tamingGuides,{
+  "Basilosaurus": {
+    "method": "passive",
+    "overview": "Feed the conscious Basilosaurus through its interaction prompt while keeping the surrounding water safe.",
+    "food": "Exceptional Kibble is preferred. Raw Mutton and Raw Prime Meat are documented alternatives; quantities and feeding intervals remain pending.",
+    "preparation": "Prepare an air supply, suitable food and a water mount. Deal with nearby Manta and roaming predators before attempting to feed.",
+    "steps": [
+      "Scout the Basilosaurus and its accompanying creatures.",
+      "Put the taming food in the final hotbar slot.",
+      "Approach and feed when its prompt permits.",
+      "Keep track of it, watch for renewed predator attention and repeat when ready."
+    ],
+    "specialAction": "Do not tranquilize it. Feeding can draw predator attention, so keep checking the water around you rather than treating a successful approach as permanently safe.",
+    "sources": [
+      [
+        "ARK Community Wiki: Basilosaurus",
+        "https://ark.wiki.gg/wiki/Basilosaurus"
+      ],
+      [
+        "Earlier species alias (retained)",
+        "https://ark.wiki.gg/wiki/Basilo"
+      ]
+    ],
+    "tips": [
+      "Do not tranquilize it. Feeding can draw predator attention, so keep checking the water around you rather than treating a successful approach as permanently safe."
+    ],
+    "checked": "2026-11-11",
+    "scope": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-11; direct species pages returned 403.",
+      "asa": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+      "comparisonLimitations": "Shared legacy material is present in species pages. Full article/revision/contributor comparison, firsthand official PvE testing and complete spawn-map matching remain pending. No numerical feeding, time or effectiveness formulas added; no competitor text, datasets, art or code imported."
+    }
+  },
+  "Ichthyosaurus": {
+    "method": "passive",
+    "overview": "Tame a conscious Ichthyosaurus with repeated feeding interactions; it may swim away between them.",
+    "food": "Simple Kibble is preferred; Raw Mutton and Raw Prime Meat are alternatives. Required amounts and duration remain pending.",
+    "preparation": "Choose accessible water with an escape route, ready your air supply and watch for sharks and Manta. Plan how to follow without being drawn into danger.",
+    "steps": [
+      "Place food in the final hotbar slot.",
+      "Approach the curious animal and use its feeding prompt.",
+      "Wait until another feeding interaction is available.",
+      "Follow cautiously and repeat until domestication completes."
+    ],
+    "specialAction": "This uses conscious feeding, not knockout equipment. A friendly target does not make nearby predators harmless; containment tactics remain unverified here.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ichthyosaurus",
+        "https://ark.wiki.gg/wiki/Ichthyosaurus"
+      ]
+    ],
+    "tips": [
+      "This uses conscious feeding, not knockout equipment. A friendly target does not make nearby predators harmless; containment tactics remain unverified here."
+    ],
+    "checked": "2026-11-11",
+    "scope": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-11; direct species pages returned 403.",
+      "asa": "ASA official PvE regular species; X, brute, mission, event, mobile and mod variants excluded from the tame instructions.",
+      "comparisonLimitations": "Shared legacy material is present in species pages. Full article/revision/contributor comparison, firsthand official PvE testing and complete spawn-map matching remain pending. No numerical feeding, time or effectiveness formulas added; no competitor text, datasets, art or code imported."
+    }
+  }
+});
