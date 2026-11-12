@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-12",
+  "baseline": "91b432a8881f95906511d0df639d49100902f1e6",
+  "request": "Supply the missing Enigmasaur image.",
+  "asset": {
+    "path": "site/assets/creatures/enigmasaur.png",
+    "width": 160,
+    "height": 160,
+    "mode": "RGBA",
+    "bytes": 25810,
+    "sha256": "a817e97f60d7f0476eaa3ee77ecd1c37b1e96946b0913a0b58c38442694dd0c3",
+    "blob": "0f8ba0b55159e1e28c0973f6cfbdb6670665e143",
+    "alphaBounds": [
+      12,
+      21,
+      151,
+      157
+    ]
+  },
+  "creation": {
+    "mode": "Built-in image generation",
+    "prompt": "Create ONE new pixel-art catalogue sprite of ARK: Survival Ascended's Enigmasaur, in its natural chameleon/theropod form (NOT disguised as another species). Input image 1 Rex and input image 2 Chalicotherium are STYLE AND FRAMING REFERENCES ONLY; do not alter them or copy their species. Match their detailed restrained retro game sprite technique: small crisp pixels, dark near-black outline, compact highlights and shading, isolated readable silhouette, side three-quarter view facing RIGHT, full body visible, single grounded neutral standing pose. Enigmasaur identity: bipedal theropod-like chameleon, squat compact head with a prominent rounded chameleon eye, short forearms with adjustable grasping claws, stronger bent hind legs, long thick curling chameleon tail, distinctive feathery spiny frills along neck and back. Jewel teal/turquoise and purple dorsal/frill accents, muted orange/copper underside and scattered scales, consistent with official creature concept; natural shaded game sprite, no glow/cloud/shape-shift effect. Frame at the same visual scale as these existing sprites with generous transparent margin and no clipping; feet close to the bottom, creature occupies roughly 140x130 of a 160x160 logical pixel canvas. Actual output 160x160 pixels if supported; otherwise preserve a clean coherent small logical pixel grid for nearest-neighbor export. Completely transparent background. No ground plane, shadow outside body, labels, logo, text, border, checkerboard, extra creatures, saddle or rider. This is original new fan sprite art, not a copy/paste of official promo artwork.",
+    "inputs": [
+      {
+        "role": "Style/framing reference",
+        "url": "https://kjgal.github.io/asa-creature-companion-beta/assets/creatures/rex.png"
+      },
+      {
+        "role": "Style/framing reference",
+        "url": "https://kjgal.github.io/asa-creature-companion-beta/assets/creatures/chalicotherium.png"
+      },
+      {
+        "role": "Creature identity/appearance research",
+        "url": "https://survivetheark.com/uploads/monthly_2026_05/image.png.ef54c625f77103d4f10607ef17332c87.png",
+        "access": "Indexed official concept and textual appearance reviewed; direct download returned 403. Not passed as a raster generation input."
+      },
+      {
+        "role": "Appearance description",
+        "url": "https://ark.wiki.gg/wiki/Enigmasaur"
+      }
+    ],
+    "export": "Generated RGBA source exported to the app's 160x160 format with nearest-neighbor sampling. Transparency preserved; no recoloring or modifications to existing sprites."
+  },
+  "review": {
+    "visual": "Reviewed full sprite beside existing Rex and Chalicotherium at 160px on app-like gray, with nearest-neighbor enlargement. Bipedal chameleon silhouette, curled tail, frills and full limbs readable; no visible clipping. Static catalogue asset only; no animation claimed.",
+    "technical": "PNG header/dimensions/hash, image routing, cache revision and preservation checks passed.",
+    "limitations": "No full pixel-level comparison with official reference, reverse-image corpus, or comprehensive third-party artwork comparison. Generated/reference-derived character design rights remain unresolved; no blanket copyright clearance claimed."
+  },
+  "deployment": {
+    "assetPlacement": "Standalone creature PNG alongside the existing archive. Original creature-art.zip and all original sprites untouched."
+  },
+  "preserved": "Guides, numerical calculations, rate workflow/manual fallback, interface/bubbles, icons/manifest/noindex, anonymous suggestions, source/contributor/license notices and free noncommercial public-beta audience retained."
+}

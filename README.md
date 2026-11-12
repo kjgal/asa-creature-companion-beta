@@ -85,3 +85,6 @@ November 12 review: refreshed Jerboa and Lymantria knockout guides with controll
 
 
 November 12 Lumina follow-up: added its special riding-challenge guide using indexed species/official release references and anonymous supplied reference notes. Feeding-prompt/repeat-cycle and ejection-retry details are explicitly Suggested methods pending independent confirmation; no firsthand origin assumed. Numerical thresholds/bonuses, target controls, glide criteria and saddle/skill/Horn details remain pending. Coverage is 203 written guides of 203 catalogue entries, not complete validation. General habitat/availability notes: 173 (30 catalogue gaps); Aberration notes remain 35. No creature or artwork added. See audit/lumina-followup-2026-11-12.json and tests/lumina-followup-2026-11-12.cjs.
+
+
+November 12 artwork follow-up: supplied Enigmasaur's missing generated 160x160 transparent sprite and replaced its code placeholder. Original creature-art.zip, all existing creature images, guides and UI retained. Prompt, input provenance, export hash, visual/technical checks and unresolved character/reference-art rights limitations: audit/enigmasaur-art-2026-11-12.json. Tests: tests/enigmasaur-art-2026-11-12.cjs. No new copyright clearance or commercial rights claimed.

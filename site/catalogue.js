@@ -2044,3 +2044,6 @@ for(const name of ["Jerboa","Lymantria"]){Object.assign(creatureCatalogue.find(c
 
 // November 12 follow-up: damage-initiated flight/feeding challenge; numerical details pending.
 Object.assign(creatureCatalogue.find(c=>c.name==="Lumina"),{acquisition:"Special tame",guideReviewed:"2026-11-12",guideStatus:"Includes suggested methods pending confirmation"});
+
+// November 12: generated Enigmasaur sprite now supplied as a standalone PNG.
+Object.assign(creatureCatalogue.find(c=>c.name==="Enigmasaur"),{artworkPending:false,artworkReviewed:"2026-11-12",artworkProvenance:"Generated project sprite; rights review remains pending"});
