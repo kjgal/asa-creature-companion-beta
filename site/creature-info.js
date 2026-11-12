@@ -4404,3 +4404,38 @@ Object.assign(aberrationHabitats,{
 creatureInfo["Jerboa"]??={};Object.assign(creatureInfo["Jerboa"],{habitat:"Arid terrain on supported maps, with Scorched Earth's badlands, canyons and oasis surroundings as documented examples. These are search areas, not a claim that every desert contains Jerboa.",checked:"2026-11-12",habitatProvenance:{"access":"Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.","asa":"Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.","comparisonLimitations":"Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported.","sources":["https://ark.wiki.gg/wiki/Jerboa","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"]}});
 creatureInfo["Lymantria"]??={};Object.assign(creatureInfo["Lymantria"],{habitat:"Dry desert terrain, including Scorched Earth's badlands and high desert; Extinction's Desert Dome is another documented habitat example. Presence varies with map-specific spawns.",checked:"2026-11-12",habitatProvenance:{"access":"Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.","asa":"Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.","comparisonLimitations":"Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported.","sources":["https://ark.wiki.gg/wiki/Lymantria","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"]}});
 creatureInfo["Iguanodon"]??={};Object.assign(creatureInfo["Iguanodon"],{habitat:"Grasslands and wooded terrain on supported maps, with some dry badlands examples on Scorched Earth. Aberration uses a distinct Aberrant variant rather than establishing regular Iguanodon everywhere.",checked:"2026-11-12",habitatProvenance:{"access":"Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.","asa":"Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.","comparisonLimitations":"Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported.","sources":["https://ark.wiki.gg/wiki/Iguanodon","https://ark.wiki.gg/wiki/Biomes","https://ark.wiki.gg/wiki/Spawn_entries"]}});
+
+// November 12 follow-up: daytime availability, precise terrain pending.
+Object.assign(creatureInfo,{
+  "Lumina": {
+    "habitat": "Daytime aerial encounters on maps that support Lumina. Exact biome and terrain distribution remain pending; the dedicated spawn entry does not imply presence on every map.",
+    "behavior": "A typically docile daytime dragon that becomes the subject of a riding challenge when provoked.",
+    "acquisition": "Lumina uses a riding challenge: weaken her to begin, then complete prompted aerial tasks. Feeding and retry details below include suggested methods awaiting independent confirmation.",
+    "checked": "2026-11-12",
+    "scope": "ASA regular Lumina; daytime behavior is documented, complete map and biome coverage pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lumina",
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      [
+        "Studio Wildcard: Lumina launch",
+        "https://survivetheark.com/index.php?/forums/topic/774027-lumina-awakens-%E2%9C%A8/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and official launch passages reviewed 2026-11-12; direct species page returned 403.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain incomplete. The numerical initiation threshold, timings and ability bonuses in supplied notes were not promoted into the guide. No competitor text, datasets, artwork or calculator code imported.",
+      "habitatLimitations": "Daytime aerial encounter/availability note only; Biomes provides context but no Lumina-specific terrain. No Aberration habitat or variant inferred."
+    }
+  }
+});
+generalHabitats.Lumina="Daytime aerial encounters on maps that support Lumina. Exact biome and terrain distribution remain pending; the dedicated spawn entry does not imply presence on every map.";

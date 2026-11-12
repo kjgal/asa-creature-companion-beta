@@ -13,7 +13,7 @@ For local use, first unzip `site/assets/creature-art.zip` into `site/assets/`, t
 
 ## Beta limits
 
-This snapshot has 202 written guides (including acquisition and wild encounters) out of 203 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
+This snapshot has 203 written guides (including acquisition and wild encounters) out of 203 catalogue entries. Full-page source comparison, some gameplay details and numerical requirements remain pending. Some methods are documented or player-reported suggestions. Check results in game. No account, shared save or cloud sync is provided; session progress is stored in each browser.
 
 Official rates are read from ARK’s public dynamic configuration during each deployment. The UI shows the actual check timestamp. Snapshots older than two hours are clearly marked as delayed; snapshots older than 24 hours are rejected and use the unavailable/manual-rate fallback. This tolerates delayed GitHub schedules without claiming a fresh check or changing the source timestamp. Requests bypass cached JSON, and a failed refresh preserves browser progress and manual overrides. The first unbuilt copy uses manual rates. The daily guide and habitat update task now writes directly to this repository at 6 a.m. America/Los_Angeles. This beta is the active app; the former private Site is retained as an archived copy.
 
@@ -82,3 +82,6 @@ November 11 review: refreshed Basilosaurus and Ichthyosaurus passive feeding gui
 
 
 November 12 review: refreshed Jerboa and Lymantria knockout guides with controlled-damage preparation, food and action notes. Added three general habitat notes (172 total; 31 catalogue entries without general notes) and a green/Fertile Aberrant Iguanodon note (35 Aberration notes total). Coverage remains 202 written guides of 203 entries; Lumina's feeding stage is still pending. No new creatures inferred from reveal material. Existing detailed encounters, anonymous suggestions and rate behavior preserved. Sources/comparison limits and checks: audit/guide-review-2026-11-12.json and tests/guide-review-2026-11-12.cjs.
+
+
+November 12 Lumina follow-up: added its special riding-challenge guide using indexed species/official release references and anonymous supplied reference notes. Feeding-prompt/repeat-cycle and ejection-retry details are explicitly Suggested methods pending independent confirmation; no firsthand origin assumed. Numerical thresholds/bonuses, target controls, glide criteria and saddle/skill/Horn details remain pending. Coverage is 203 written guides of 203 catalogue entries, not complete validation. General habitat/availability notes: 173 (30 catalogue gaps); Aberration notes remain 35. No creature or artwork added. See audit/lumina-followup-2026-11-12.json and tests/lumina-followup-2026-11-12.cjs.

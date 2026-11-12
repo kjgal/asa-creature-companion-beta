@@ -1,0 +1,109 @@
+{
+  "reviewed": "2026-11-12",
+  "baseline": "0aff72bd705932ace2f000bb0c8f17561596947d",
+  "addedGuide": {
+    "name": "Lumina",
+    "method": "special",
+    "sources": [
+      [
+        "ARK Community Wiki: Lumina",
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      [
+        "ARK Community Wiki: Superior Kibble",
+        "https://ark.wiki.gg/wiki/Superior_Kibble"
+      ],
+      [
+        "Studio Wildcard: Lumina launch",
+        "https://survivetheark.com/index.php?/forums/topic/774027-lumina-awakens-%E2%9C%A8/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and official launch passages reviewed 2026-11-12; direct species page returned 403.",
+      "asa": "Official July 9, 2026 release and current species ASA sections reviewed. Regular Lumina only; full map/terrain coverage remains pending.",
+      "suggestedMethods": "Anonymous reference notes received 2026-11-12 describe a feeding prompt after the flight challenges and retry progress retention. Firsthand origin was not established; these details are suggestions, not independently verified observations.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain incomplete. The numerical initiation threshold, timings and ability bonuses in supplied notes were not promoted into the guide. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "verification": {
+      "independentlySupported": [
+        "ASA release",
+        "Superior Kibble preference",
+        "damage-initiated riding challenge",
+        "mimic, glowing-target and downward-flight tasks"
+      ],
+      "suggestedPending": [
+        "post-challenge feeding prompt and repeat cycle",
+        "ejection recovery with retained progress"
+      ],
+      "pending": [
+        "exact initiation threshold",
+        "target attack/controller inputs",
+        "glide duration-versus-distance criterion",
+        "saddle-free riding and skill unlock requirements",
+        "Dragon Horn/anchor and numerical ability details",
+        "numerical quantities, timers and effectiveness"
+      ]
+    }
+  },
+  "referenceNotes": {
+    "status": "Anonymous supplied reference notes; not established as firsthand official PvE observations.",
+    "incorporatedAsSuggestions": [
+      "Feeding prompt after flight challenges; offer Superior Kibble and repeat as required.",
+      "After ejection, deploy fall protection and re-engage; retained progress unverified."
+    ],
+    "independentlySupported": [
+      "ASA release",
+      "preferred kibble",
+      "damage-initiated flight challenge",
+      "mimic/target/downward-flight tasks"
+    ],
+    "notPromotedToApp": [
+      "Numerical health threshold, time windows, ability bonuses and synergy ranges.",
+      "Guaranteed retry progress, target bite-versus-projectile controls and timed-versus-distance glide.",
+      "Saddle-free riding, skill unlock and Dragon Horn/anchor details pending further checking."
+    ]
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Lumina"
+    ],
+    "addedAberration": [],
+    "scope": "Daytime aerial availability note; precise terrain pending.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lumina",
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      [
+        "Studio Wildcard: Lumina launch",
+        "https://survivetheark.com/index.php?/forums/topic/774027-lumina-awakens-%E2%9C%A8/"
+      ],
+      [
+        "ARK Community Wiki: Spawn entries",
+        "https://ark.wiki.gg/wiki/Spawn_entries"
+      ],
+      [
+        "ARK Community Wiki: Biomes",
+        "https://ark.wiki.gg/wiki/Biomes"
+      ]
+    ]
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingWrittenGuides": 0,
+    "generalHabitatAvailabilityEntries": 173,
+    "generalHabitatMissingEntries": 30,
+    "aberrationHabitatEntries": 35,
+    "creatureInfoRecords": 183,
+    "limitations": "All catalogue entries now have written summaries; individual steps, formulas, precise habitats and full-source comparisons are not all verified."
+  },
+  "ownerQuestions": [
+    "Lumina: do the glowing targets accept a bite, a projectile, or both, and does the glide HUD measure time or distance?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript files passed node --check.",
+    "interaction": "tests/lumina-followup-2026-11-12.cjs passed: guide/food/preparation/habitat replies, suggestion labels, no visible numerical claims or source URLs, correct special classification and calculator exclusion; saved-session/older-guide protections retained."
+  },
+  "preserved": "Original artwork/UI/bubbles, free noncommercial beta/noindex, relative assets/icons/manifest, rate workflow/manual fallback, rights/source/contributor/license notices, anonymous suggestions and metadata-only references. Archived Site untouched."
+}

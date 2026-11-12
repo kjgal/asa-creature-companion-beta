@@ -6953,3 +6953,66 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 12 follow-up: source-supported challenge with anonymous suggested feeding/retry details.
+Object.assign(tamingGuides,{
+  "Lumina": {
+    "method": "special",
+    "overview": "Lumina uses a riding challenge: weaken her to begin, then complete prompted aerial tasks. Feeding and retry details below include suggested methods awaiting independent confirmation.",
+    "food": "Superior Kibble is the documented preferred kibble. Suggested method: offer it when the feeding prompt appears after the flight challenges. Quantities and timers remain pending.",
+    "preparation": "Bring a controlled-damage weapon, Superior Kibble and fall protection. Find safe airspace and learn the movement and attack prompts before starting.",
+    "steps": [
+      "Weaken Lumina with controlled damage until she starts the riding challenge.",
+      "Copy the aerial movements shown by the mimic prompts.",
+      "Clear the glowing targets with the indicated attack.",
+      "Complete the prompted downward-flight challenge.",
+      "Suggested method: feed Superior Kibble when prompted, then repeat the challenge-and-feed cycle as required."
+    ],
+    "specialAction": "Suggested method: if ejected, deploy fall protection and re-engage. Keeping prior progress after a retry is reported but unverified. Target attack inputs and whether the glide checks time or distance remain pending.",
+    "tips": [
+      "Suggested method: if ejected, deploy fall protection and re-engage. Keeping prior progress after a retry is reported but unverified. Target attack inputs and whether the glide checks time or distance remain pending."
+    ],
+    "checked": "2026-11-12",
+    "scope": "Regular Lumina on ASA official PvE; distinct from Umbra. Challenge route classified as special despite the wiki's passive infobox. No knockout estimates apply.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lumina",
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      [
+        "ARK Community Wiki: Superior Kibble",
+        "https://ark.wiki.gg/wiki/Superior_Kibble"
+      ],
+      [
+        "Studio Wildcard: Lumina launch",
+        "https://survivetheark.com/index.php?/forums/topic/774027-lumina-awakens-%E2%9C%A8/"
+      ]
+    ],
+    "provenance": {
+      "access": "Indexed individual species and official launch passages reviewed 2026-11-12; direct species page returned 403.",
+      "asa": "Official July 9, 2026 release and current species ASA sections reviewed. Regular Lumina only; full map/terrain coverage remains pending.",
+      "suggestedMethods": "Anonymous reference notes received 2026-11-12 describe a feeding prompt after the flight challenges and retry progress retention. Firsthand origin was not established; these details are suggestions, not independently verified observations.",
+      "comparisonLimitations": "Full article/revision/contributor comparison and firsthand official PvE testing remain incomplete. The numerical initiation threshold, timings and ability bonuses in supplied notes were not promoted into the guide. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "verification": {
+      "independentlySupported": [
+        "ASA release",
+        "Superior Kibble preference",
+        "damage-initiated riding challenge",
+        "mimic, glowing-target and downward-flight tasks"
+      ],
+      "suggestedPending": [
+        "post-challenge feeding prompt and repeat cycle",
+        "ejection recovery with retained progress"
+      ],
+      "pending": [
+        "exact initiation threshold",
+        "target attack/controller inputs",
+        "glide duration-versus-distance criterion",
+        "saddle-free riding and skill unlock requirements",
+        "Dragon Horn/anchor and numerical ability details",
+        "numerical quantities, timers and effectiveness"
+      ]
+    }
+  }
+});

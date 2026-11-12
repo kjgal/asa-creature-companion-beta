@@ -2041,3 +2041,6 @@ for(const name of ["Basilosaurus","Ichthyosaurus"]){Object.assign(creatureCatalo
 
 // November 12: reviewed base-species knockout labels.
 for(const name of ["Jerboa","Lymantria"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Knockout tame",guideReviewed:"2026-11-12"});}
+
+// November 12 follow-up: damage-initiated flight/feeding challenge; numerical details pending.
+Object.assign(creatureCatalogue.find(c=>c.name==="Lumina"),{acquisition:"Special tame",guideReviewed:"2026-11-12",guideStatus:"Includes suggested methods pending confirmation"});
