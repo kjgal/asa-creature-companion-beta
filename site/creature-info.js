@@ -4243,7 +4243,7 @@ Object.assign(creatureInfo,{
     }
   },
   "Enigmasaur": {
-    "habitat": "Official v97 availability: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region.",
+    "habitat": "Available on: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region.",
     "behavior": "A shapeshifter released with Fantastic Tames Season 1. Its dossier describes showing matching tamed creatures; practical taming steps and food remain pending.",
     "checked": "2026-11-07",
     "scope": "ASA official PvE Enigmasaur; release confirmed November 6, 2026. No guide counted from dossier-only mechanics.",
@@ -4269,7 +4269,7 @@ Object.assign(creatureInfo,{
 });
 Object.assign(generalHabitats,{
   "Aureliax": "Airspace above Lost Colony's frozen mountain peaks. Species text and the Lost Colony mountain spawn container support this typical habitat; complete regional coverage remains pending.",
-  "Enigmasaur": "Official v97 availability: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region."
+  "Enigmasaur": "Available on: The Center, Scorched Earth, Aberration, Ragnarok, Extinction, Valguero, Lost Colony and Astraeos. Typical biomes and Aberration green/blue/red/surface regions remain pending; the list does not imply every region."
 });
 Object.assign(creatureInfo.Giganotosaurus,{behavior:"An aggressive apex predator whose ASA taming now uses the Apex Challenge.",behaviorReviewed:"2026-11-07",methodSource:"https://survivetheark.com/index.php?/forums/topic/773786-asa-server-patch-notes-server-v97-updated-11062026/"});
 

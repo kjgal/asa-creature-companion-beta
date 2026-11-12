@@ -1,0 +1,9 @@
+{
+  "reviewed": "2026-11-12",
+  "baseline": "64421d7ec0b32dc62131e58716bd343a9aa0043a",
+  "change": "Removed the internal patch-version label from both Enigmasaur habitat fields shown to players.",
+  "before": "Official v97 availability:",
+  "after": "Available on:",
+  "preserved": "Map list, pending regional caveat, source URLs/review metadata, sprite, all other guides/data, licensing/source notices and rate behavior.",
+  "validation": "JavaScript syntax and focused Habitat reply checks passed."
+}
