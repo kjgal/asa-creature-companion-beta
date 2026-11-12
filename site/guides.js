@@ -6887,3 +6887,69 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+// November 12: small-creature and moth knockout preparation.
+Object.assign(tamingGuides,{
+  "Jerboa": {
+    "method": "knockout",
+    "overview": "Carefully render the Jerboa unconscious, then let it eat taming food from its inventory.",
+    "food": "Plant Species Y Seeds are preferred. Mejoberries are an alternative; amounts and feeding times remain pending.",
+    "preparation": "Prepare food, controlled torpor equipment and torpor supplies before approaching. Keep damage low and use the level actually encountered when planning.",
+    "steps": [
+      "Choose a safe target and clear nearby threats.",
+      "Apply torpor carefully, stopping once it is unconscious.",
+      "Place food in its inventory and monitor torpor.",
+      "Protect it while it eats and confirm completion before moving it."
+    ],
+    "specialAction": "This is a knockout route, even though Jerboa is a shoulder companion. No shot count or guaranteed weapon setting is verified here.",
+    "sources": [
+      [
+        "ARK Community Wiki: Jerboa",
+        "https://ark.wiki.gg/wiki/Jerboa"
+      ]
+    ],
+    "tips": [
+      "This is a knockout route, even though Jerboa is a shoulder companion. No shot count or guaranteed weapon setting is verified here."
+    ],
+    "checked": "2026-11-12",
+    "scope": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.",
+      "asa": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+      "comparisonLimitations": "Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported."
+    }
+  },
+  "Lymantria": {
+    "method": "knockout",
+    "overview": "Restrain the moth, make it unconscious and feed through its inventory while protecting the area.",
+    "food": "Regular Kibble is preferred; crops are a documented alternative. Quantities and duration remain pending.",
+    "preparation": "Bring a bola, food and controlled torpor equipment. Its limited health makes excess damage risky; leave space to move away from slowing spores.",
+    "steps": [
+      "Secure a safe approach and restrain it before it escapes upward.",
+      "Apply controlled torpor and stop attacking when it falls unconscious.",
+      "Add food to its inventory.",
+      "Monitor torpor and nearby threats until the tame completes."
+    ],
+    "specialAction": "Stay clear of its spore cloud. A tent or trap is not treated as a guaranteed solution, and no exact weapon damage or dosing requirement is supplied.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lymantria",
+        "https://ark.wiki.gg/wiki/Lymantria"
+      ],
+      [
+        "Regular Kibble (retained)",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ]
+    ],
+    "tips": [
+      "Stay clear of its spore cloud. A tent or trap is not treated as a guaranteed solution, and no exact weapon damage or dosing requirement is supplied."
+    ],
+    "checked": "2026-11-12",
+    "scope": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+    "provenance": {
+      "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.",
+      "asa": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+      "comparisonLimitations": "Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported."
+    }
+  }
+});

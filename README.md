@@ -79,3 +79,6 @@ November 10 review: refreshed Otter and Dung Beetle passive guides, distinguishi
 
 
 November 11 review: refreshed Basilosaurus and Ichthyosaurus passive feeding guides with approach hazards, preparation and source limitations. Added three marine habitat notes, including Archelon shallow/deep-sea examples. Coverage remains 202 written guides of 203 entries; Lumina's feeding stage remains pending. General habitat/availability notes: 169 (34 catalogue entries without one); Aberration notes unchanged at 34. No creature additions inferred from Dragontopia reveals. Detailed encounters, anonymous suggestions and rate behavior preserved. See audit/guide-review-2026-11-11.json and tests/guide-review-2026-11-11.cjs.
+
+
+November 12 review: refreshed Jerboa and Lymantria knockout guides with controlled-damage preparation, food and action notes. Added three general habitat notes (172 total; 31 catalogue entries without general notes) and a green/Fertile Aberrant Iguanodon note (35 Aberration notes total). Coverage remains 202 written guides of 203 entries; Lumina's feeding stage is still pending. No new creatures inferred from reveal material. Existing detailed encounters, anonymous suggestions and rate behavior preserved. Sources/comparison limits and checks: audit/guide-review-2026-11-12.json and tests/guide-review-2026-11-12.cjs.

@@ -2038,3 +2038,6 @@ for(const name of ["Otter","Dung Beetle"]){Object.assign(creatureCatalogue.find(
 
 // November 11: reviewed marine feeding routes.
 for(const name of ["Basilosaurus","Ichthyosaurus"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Passive tame",guideReviewed:"2026-11-11"});}
+
+// November 12: reviewed base-species knockout labels.
+for(const name of ["Jerboa","Lymantria"]){Object.assign(creatureCatalogue.find(c=>c.name===name),{acquisition:"Knockout tame",guideReviewed:"2026-11-12"});}

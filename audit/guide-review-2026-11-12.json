@@ -1,0 +1,108 @@
+{
+  "reviewed": "2026-11-12",
+  "baseline": "284c673270afe409131446439640ddef6d482999",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Jerboa",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Jerboa",
+          "https://ark.wiki.gg/wiki/Jerboa"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.",
+        "asa": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+        "comparisonLimitations": "Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported."
+      },
+      "change": "Refresh controlled knockout preparation, species-specific food/actions and pending numerical limits."
+    },
+    {
+      "name": "Lymantria",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Lymantria",
+          "https://ark.wiki.gg/wiki/Lymantria"
+        ],
+        [
+          "Regular Kibble (retained)",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Indexed individual species, Biomes and Spawn entries reviewed 2026-11-12; direct species pages returned 403.",
+        "asa": "Regular base species on ASA official PvE. Skeletal, mission, mobile, mod and other distinct variants excluded from the tame instructions.",
+        "comparisonLimitations": "Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported."
+      },
+      "change": "Refresh controlled knockout preparation, species-specific food/actions and pending numerical limits."
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-12",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+    ],
+    "finding": "Official home and announcement index still feature Crunch 531/v97. New Dragontopia reveal material is not treated as official-live release verification. No further official-map creature addition confirmed."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Jerboa",
+      "Lymantria",
+      "Iguanodon"
+    ],
+    "addedAberration": [
+      "Iguanodon"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Jerboa",
+      "https://ark.wiki.gg/wiki/Lymantria",
+      "https://ark.wiki.gg/wiki/Iguanodon",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "evidence": "Biomes lists Jerboa in badlands/canyon/oasis examples and Lymantria in badlands/high-desert/Desert Dome examples. Base Iguanodon grassland/forest note retained and dry badlands example added. Aberrant Iguanodon matched to TwitchFertileLandEasy on Aberration.",
+    "limitations": "Typical examples only; no universal map or desert presence. Exact map/container completeness pending. Mod spawn pages returned during search were excluded. No numerical spawn weights or coordinates imported."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 202,
+    "missingGuides": [
+      "Lumina"
+    ],
+    "generalHabitatAvailabilityEntries": 172,
+    "generalHabitatMissingEntries": 31,
+    "aberrationHabitatEntries": 35,
+    "creatureInfoRecords": 182
+  },
+  "pendingResearch": [
+    {
+      "name": "Lumina",
+      "sources": [
+        "https://ark.wiki.gg/wiki/Lumina"
+      ],
+      "finding": "Current indexed species still does not connect its food preferences to a practical feeding stage within riding challenges. No guide or numerical health threshold added."
+    }
+  ],
+  "ownerQuestions": [
+    "Lumina (existing unresolved question): when does the food prompt appear during its riding challenge, and what interaction feeds it?"
+  ],
+  "sourceAccess": {
+    "directSpeciesStatus": 403,
+    "pages": [
+      "Jerboa",
+      "Lymantria",
+      "Iguanodon"
+    ],
+    "comparisonLimitations": "Species pages share legacy material. Full article/revision/contributor comparison, firsthand official PvE checks and complete map/container matching remain pending. No numerical health, torpor, quantity, timer or effectiveness formulas added. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "validation": {
+    "syntax": "All materialized site JavaScript files passed node --check.",
+    "interaction": "tests/guide-review-2026-11-12.cjs passed: knockout food/preparation/action replies, general habitat replies, Aberrant scope, preserved encounter behavior; prior passive/special routes, pending Lumina, Giga estimate/session protection, source visibility and anonymous protected guide regressions passed."
+  },
+  "preserved": "Original art/interface/bubbles, free noncommercial public beta/noindex, relative assets/icons/manifest, source/contributor/license and rights findings, anonymous suggestions and metadata-only individual/video URLs. Rate workflow/manual fallback unchanged; archived Site untouched."
+}
