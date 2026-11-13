@@ -2047,3 +2047,7 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Lumina"),{acquisition:"Special
 
 // November 12: generated Enigmasaur sprite now supplied as a standalone PNG.
 Object.assign(creatureCatalogue.find(c=>c.name==="Enigmasaur"),{artworkPending:false,artworkReviewed:"2026-11-12",artworkProvenance:"Generated project sprite; rights review remains pending"});
+
+
+// November 13: reviewed guide metadata only.
+for(const name of ["Moschops","Pachy"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-13"});

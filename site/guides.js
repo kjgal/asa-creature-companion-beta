@@ -7016,3 +7016,70 @@ Object.assign(tamingGuides,{
     }
   }
 });
+
+
+// November 13: species-specific official PvE refresh.
+for (const [name,guide] of Object.entries({
+  "Moschops": {
+    "method": "passive",
+    "overview": "Approach without attacking and read the food request. Offer that item through the feed interaction; inspect the prompt again before each later feeding.",
+    "food": "The request can change. Examples include berries, honey, Organic Polymer, Rare Flowers, Rare Mushrooms and meat; use the item currently requested rather than a fixed kibble plan.",
+    "preparation": "Carry varied foods and clear nearby threats. Plan to follow it on foot; do not rely on a mount carrying a wild creature into a pen on official PvE.",
+    "steps": [
+      "Read the current food request",
+      "Offer the requested item when feeding is available",
+      "Follow safely and inspect each new request",
+      "Continue until ownership changes in game"
+    ],
+    "specialAction": "Avoid provoking it while approaching. In ASA, a wild parent can defend its young, so do not assume every Moschops will flee.",
+    "sources": [
+      [
+        "ARK Community Wiki: Moschops",
+        "https://ark.wiki.gg/wiki/Moschops"
+      ],
+      [
+        "Passive feeding context",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ],
+    "checked": "2026-11-13",
+    "scope": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+    "provenance": {
+      "access": "Individual species and contextual wiki passages reviewed 2026-11-13 through search indexing.",
+      "asa": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+      "comparisonLimitations": "Indexed excerpts only; direct species, Biomes and Spawn entries requests returned 403. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. No numerical requirements or competitor text, datasets, artwork or code imported."
+    },
+    "tips": "Avoid provoking it while approaching. In ASA, a wild parent can defend its young, so do not assume every Moschops will flee."
+  },
+  "Pachy": {
+    "method": "knockout",
+    "overview": "Restrain it if needed, apply torpor to its body and stop attacking when it falls unconscious. Put food in its inventory and guard it while it eats.",
+    "food": "Simple Kibble is its preferred kibble. Crops and berries are alternatives; quantities and feeding times remain pending independent ASA checks.",
+    "preparation": "Bring a Bola, torpor supplies and food. Approach from the side so you can reach its body while avoiding its charging head.",
+    "steps": [
+      "Prepare a safe approach and restraint",
+      "Apply torpor to the body rather than the armored head",
+      "Stop at knockout and place food in its inventory",
+      "Watch torpor and protect it until the tame completes"
+    ],
+    "specialAction": "The headplate resists damage. Its own head attacks apply torpor, so avoid trading blows directly in front of it.",
+    "sources": [
+      [
+        "ARK Community Wiki: Pachy",
+        "https://ark.wiki.gg/wiki/Pachy"
+      ],
+      [
+        "Simple Kibble",
+        "https://ark.wiki.gg/wiki/Simple_Kibble"
+      ]
+    ],
+    "checked": "2026-11-13",
+    "scope": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+    "provenance": {
+      "access": "Individual species and contextual wiki passages reviewed 2026-11-13 through search indexing.",
+      "asa": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+      "comparisonLimitations": "Indexed excerpts only; direct species, Biomes and Spawn entries requests returned 403. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. No numerical requirements or competitor text, datasets, artwork or code imported."
+    },
+    "tips": "The headplate resists damage. Its own head attacks apply torpor, so avoid trading blows directly in front of it."
+  }
+})) Object.assign(tamingGuides[name],guide);

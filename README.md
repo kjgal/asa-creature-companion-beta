@@ -88,3 +88,6 @@ November 12 Lumina follow-up: added its special riding-challenge guide using ind
 
 
 November 12 artwork follow-up: supplied Enigmasaur's missing generated 160x160 transparent sprite and replaced its code placeholder. Original creature-art.zip, all existing creature images, guides and UI retained. Prompt, input provenance, export hash, visual/technical checks and unresolved character/reference-art rights limitations: audit/enigmasaur-art-2026-11-12.json. Tests: tests/enigmasaur-art-2026-11-12.cjs. No new copyright clearance or commercial rights claimed.
+
+
+November 13 review: refreshed Moschops passive request-feeding and Pachy body-targeted knockout guides. Added two general habitat notes (175 total; 28 catalogue gaps) and a green/Fertile Aberrant Moschops note (36 Aberration notes). Written coverage remains 203 of 203, not full validation. No creature additions or new artwork. Official release review found no additional confirmed live creature/TLC beyond the existing release records. Direct wiki access returned 403; indexed passages reviewed. See audit/guide-review-2026-11-13.json and tests/guide-review-2026-11-13.cjs.

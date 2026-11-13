@@ -1,0 +1,104 @@
+{
+  "reviewed": "2026-11-13",
+  "baseline": "1745a2d34dd38e2be74cb2fdfab7f04055fb18dd",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Moschops",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Moschops",
+          "https://ark.wiki.gg/wiki/Moschops"
+        ],
+        [
+          "Passive feeding context",
+          "https://ark.wiki.gg/wiki/Taming"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual wiki passages reviewed 2026-11-13 through search indexing.",
+        "asa": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+        "comparisonLimitations": "Indexed excerpts only; direct species, Biomes and Spawn entries requests returned 403. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. No numerical requirements or competitor text, datasets, artwork or code imported."
+      }
+    },
+    {
+      "name": "Pachy",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Pachy",
+          "https://ark.wiki.gg/wiki/Pachy"
+        ],
+        [
+          "Simple Kibble",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual wiki passages reviewed 2026-11-13 through search indexing.",
+        "asa": "Regular ASA official PvE species; mobile, mission, mod and distinct variant instructions excluded.",
+        "comparisonLimitations": "Indexed excerpts only; direct species, Biomes and Spawn entries requests returned 403. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. No numerical requirements or competitor text, datasets, artwork or code imported."
+      }
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-13",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/774323-community-crunch-531-unreal-engine-58-enigmasaur-and-giga-tlc-out-now/"
+    ],
+    "finding": "Official home still features Crunch 531 and November 6 Giga/Enigmasaur release. November 13 TLC voting milestone does not verify a live TLC; Dragontopia reveals are not release confirmation. No additional creature or replacement method inferred."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Moschops",
+      "Pachy"
+    ],
+    "addedAberration": [
+      "Moschops"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Moschops",
+      "https://ark.wiki.gg/wiki/Pachy",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "evidence": "Species and Biomes entries support woodland/redwood examples and Moschops grasslands. Native Spawn entries matches Aberrant Moschops to AB_DinoSpawnEntries_TwitchFertileLandEasy_C. Mod spawn tables excluded.",
+    "limitations": "Typical examples only; no complete ASA map/container or region coverage inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 184,
+    "generalHabitatAvailabilityEntries": 175,
+    "generalHabitatMissingEntries": 28,
+    "aberrationHabitatEntries": 36
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Moschops",
+      "Pachy",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Indexed excerpts only; direct species, Biomes and Spawn entries requests returned 403. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. No numerical requirements or competitor text, datasets, artwork or code imported."
+  },
+  "pendingResearch": [
+    "Full article access and revision/contributor comparison",
+    "Moschops exact changing-food pool by variant; no exhaustive list claimed",
+    "Lumina exact feeding input and glide criterion remain suggested/pending as previously recorded",
+    "Numerical quantities, times and effectiveness where no independently checked formulas exist"
+  ],
+  "ownerQuestions": [
+    "Lumina: which interaction feeds Superior Kibble when its prompt appears, and what marks completion of the glide phase?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-13.cjs: guide, food, preparation, habitat, variant, source-visibility, calculator and preservation checks."
+  },
+  "preserved": "Original artwork/interface/bubbles, Enigmasaur sprite and clean availability label, public beta/noindex/relative assets/icons/manifest, rate workflow/manual fallback, anonymous suggestions and metadata-only individual/video URLs. Archived Site untouched."
+}
