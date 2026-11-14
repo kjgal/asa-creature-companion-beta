@@ -1,0 +1,113 @@
+{
+  "reviewed": "2026-11-14",
+  "baseline": "2e477f8071ea800392e89461a0d8ce939b491ebf",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Lystrosaurus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Lystrosaurus",
+          "https://ark.wiki.gg/wiki/Lystrosaurus"
+        ],
+        [
+          "Passive feeding context",
+          "https://ark.wiki.gg/wiki/Taming"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species and contextual passages reviewed 2026-11-14.",
+        "asa": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. Shared legacy numerical tables, mod and mobile instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Ovis",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Ovis",
+          "https://ark.wiki.gg/wiki/Ovis"
+        ],
+        [
+          "Ragnarok Highlands",
+          "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+        ]
+      ],
+      "provenance": {
+        "access": "Search-indexed individual species and contextual passages reviewed 2026-11-14.",
+        "asa": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. Shared legacy numerical tables, mod and mobile instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "announcementOnlyGuides": [
+    "Brontosaurus"
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-14",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/articles.html/community-crunch-532-a-dragon-of-thorns-and-roses-r2568/"
+    ],
+    "finding": "Crunch 532 announces Brontosaurus as a future TLC winner and previews Silvanor for December 10. No live Bronto TLC release/revised method or Silvanor official-map availability established. No future creature added to the active catalogue.",
+    "sourceAccess": "Official home readable; direct Crunch article returned 403. Indexed announcement corroborates."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Lystrosaurus",
+      "Ovis",
+      "Brontosaurus"
+    ],
+    "addedAberration": [
+      "Lystrosaurus",
+      "Ovis"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Lystrosaurus",
+      "https://ark.wiki.gg/wiki/Ovis",
+      "https://ark.wiki.gg/wiki/Brontosaurus",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+    ],
+    "evidence": "Biomes beach/jungle and grassland examples; Highlands confirms Ovis. Native Spawn entries matches Aberrant Lystrosaurus and Aberrant Ovis to AB_DinoSpawnEntries_TwitchFertileLandEasy_C. Mod spawn tables excluded.",
+    "limitations": "Typical examples, not exhaustive ASA maps/container matching or every-region presence."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 178,
+    "generalHabitatMissingEntries": 25,
+    "aberrationHabitatEntries": 38
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Lystrosaurus",
+      "Ovis",
+      "Brontosaurus",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. Shared legacy numerical tables, mod and mobile instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Brontosaurus TLC release date and revised method; announcement only",
+    "Silvanor live official-map availability after its announced December 10 target",
+    "Full article/revision/contributor and firsthand comparison",
+    "Lumina feeding input/glide criterion as previously recorded",
+    "Independent numerical formulas where absent"
+  ],
+  "ownerQuestions": [],
+  "ownerQuestionNote": "No new special-tame uncertainty introduced; previously reported Lumina input/glide question remains unresolved without repeating it here.",
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-14.cjs checks guide/food/preparation/action replies, habitat and variant scope, announcement separation, calculators, source visibility and preservation."
+  },
+  "preserved": "Existing detailed encounter records, anonymous suggestions including Concavenator Tek Rifle, original artwork/UI/bubbles, noindex/beta/relative assets/icons/manifest, metadata-only individual/video URLs, source/contributor/license and rights notices. Rate workflow/manual fallback unchanged; archived Site untouched."
+}

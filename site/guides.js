@@ -7083,3 +7083,73 @@ for (const [name,guide] of Object.entries({
     "tips": "The headplate resists damage. Its own head attacks apply torpor, so avoid trading blows directly in front of it."
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 14: passive guide refreshes and announcement-only Bronto advisory.
+for(const [name,guide] of Object.entries({
+  "Lystrosaurus": {
+    "method": "passive",
+    "overview": "Feed Lystrosaurus by hand while it is awake. Put suitable food in the last hotbar slot, approach and use the feeding prompt; wait for hunger to return before offering more.",
+    "food": "Rare Flowers are preferred, with Mejoberries or other accepted berries as alternatives. Do not substitute vegetables from legacy data tables. Quantities and timing remain pending independent ASA checks.",
+    "preparation": "Bring feeding supplies and remove nearby threats before approaching. Avoid hitting it or disturbing its eggs.",
+    "steps": [
+      "Place suitable food in the last hotbar slot",
+      "Approach and use the feed prompt",
+      "Wait nearby for feeding to become available again",
+      "Repeat and confirm the tame in game"
+    ],
+    "specialAction": "Use the feeding interaction rather than tranquilizers. It normally retreats when hurt, but stealing its egg can provoke an attack.",
+    "sources": [
+      [
+        "ARK Community Wiki: Lystrosaurus",
+        "https://ark.wiki.gg/wiki/Lystrosaurus"
+      ],
+      [
+        "Passive feeding context",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ],
+    "checked": "2026-11-14",
+    "scope": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+    "provenance": {
+      "access": "Search-indexed individual species and contextual passages reviewed 2026-11-14.",
+      "asa": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. Shared legacy numerical tables, mod and mobile instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Use the feeding interaction rather than tranquilizers. It normally retreats when hurt, but stealing its egg can provoke an attack."
+  },
+  "Ovis": {
+    "method": "passive",
+    "overview": "Offer Sweet Vegetable Cake through the awake Ovis feed prompt with cake in the last hotbar slot. Confirm the tame in game, then move it away from predators.",
+    "food": "Sweet Vegetable Cake is the taming food; berries are food after taming. Cake amounts and timers are not calculated here.",
+    "preparation": "Prepare cake before searching and check its spoilage. Scout for predators and arrange a safe route or a permitted transport option after taming.",
+    "steps": [
+      "Bring Sweet Vegetable Cake and secure the approach",
+      "Put cake in the last hotbar slot",
+      "Approach and use the feed interaction",
+      "Confirm ownership and move the tame to safety"
+    ],
+    "specialAction": "Keep the Ovis awake for feeding. A safe journey home matters: nearby carnivores can threaten it even though the Ovis itself is peaceful.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ovis",
+        "https://ark.wiki.gg/wiki/Ovis"
+      ],
+      [
+        "Ragnarok Highlands",
+        "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)"
+      ]
+    ],
+    "checked": "2026-11-14",
+    "scope": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+    "provenance": {
+      "access": "Search-indexed individual species and contextual passages reviewed 2026-11-14.",
+      "asa": "Regular base species on ASA official PvE; separate Aberrant habitat notes do not extend the regular species to every region.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container matching remain pending. Shared legacy numerical tables, mod and mobile instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Keep the Ovis awake for feeding. A safe journey home matters: nearby carnivores can threaten it even though the Ovis itself is peaceful."
+  }
+})) Object.assign(tamingGuides[name],guide);
+tamingGuides.Brontosaurus.upcomingChange={"announced": true, "checked": "2026-11-14", "status": "Selected for a future TLC; release date and revised taming mechanics pending confirmation.", "source": "https://survivetheark.com/index.php?/articles.html/community-crunch-532-a-dragon-of-thorns-and-roses-r2568/"};
+tamingGuides.Brontosaurus.tips="A Brontosaurus TLC has been announced. A live release and revised taming mechanics are not confirmed here; the current knockout method has not been replaced by an announced future change.";
+tamingGuides.Brontosaurus.sources.push(["Studio Wildcard: future TLC selection","https://survivetheark.com/index.php?/articles.html/community-crunch-532-a-dragon-of-thorns-and-roses-r2568/"]);

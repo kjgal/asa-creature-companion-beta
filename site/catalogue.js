@@ -2051,3 +2051,8 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Enigmasaur"),{artworkPending:f
 
 // November 13: reviewed guide metadata only.
 for(const name of ["Moschops","Pachy"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-13"});
+
+
+// November 14: guide review and future announcement metadata.
+for(const name of ["Lystrosaurus","Ovis"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-14"});
+Object.assign(creatureCatalogue.find(c=>c.name==="Brontosaurus"),{announcementReviewed:"2026-11-14"});

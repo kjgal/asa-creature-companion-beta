@@ -91,3 +91,6 @@ November 12 artwork follow-up: supplied Enigmasaur's missing generated 160x160 t
 
 
 November 13 review: refreshed Moschops passive request-feeding and Pachy body-targeted knockout guides. Added two general habitat notes (175 total; 28 catalogue gaps) and a green/Fertile Aberrant Moschops note (36 Aberration notes). Written coverage remains 203 of 203, not full validation. No creature additions or new artwork. Official release review found no additional confirmed live creature/TLC beyond the existing release records. Direct wiki access returned 403; indexed passages reviewed. See audit/guide-review-2026-11-13.json and tests/guide-review-2026-11-13.cjs.
+
+
+November 14 review: refreshed Lystrosaurus/Ovis passive feeding guides and added an announcement-only Brontosaurus TLC advisory. Crunch 532 names Bronto as a future TLC winner and Silvanor for December 10; neither verifies a new live creature or replacement taming method. Added three general habitat notes (178 total; 25 catalogue gaps) and green/Fertile Aberrant Lystrosaurus/Ovis notes (38 Aberration notes). Written coverage remains 203 of 203, not complete verification. Direct wiki access returned 403; indexed evidence and limitations recorded. No new creature or artwork. See audit/guide-review-2026-11-14.json and tests/guide-review-2026-11-14.cjs.
