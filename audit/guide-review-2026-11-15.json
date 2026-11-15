@@ -1,0 +1,112 @@
+{
+  "reviewed": "2026-11-15",
+  "baseline": "093aeed91c9eb39e80e664484d10b48079ba4964",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Mesopithecus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Mesopithecus",
+          "https://ark.wiki.gg/wiki/Mesopithecus"
+        ],
+        [
+          "Basic Kibble",
+          "https://ark.wiki.gg/wiki/Basic_Kibble"
+        ],
+        [
+          "Passive feeding context",
+          "https://ark.wiki.gg/wiki/Taming"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-15.",
+        "asa": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Gigantopithecus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Gigantopithecus",
+          "https://ark.wiki.gg/wiki/Gigantopithecus"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ],
+        [
+          "Passive feeding context",
+          "https://ark.wiki.gg/wiki/Taming"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-15.",
+        "asa": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-15",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/774352-community-crunch-532-a-dragon-of-thorns-and-roses/"
+    ],
+    "finding": "Current home/announcement index still feature Crunch 532. Silvanor remains a December 10 preview and Brontosaurus a future TLC winner; no additional live creature or replacement method established."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Mesopithecus",
+      "Gigantopithecus"
+    ],
+    "addedAberration": [
+      "Gigantopithecus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Mesopithecus",
+      "https://ark.wiki.gg/wiki/Gigantopithecus",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/The_Redwood_Forests"
+    ],
+    "evidence": "Species/Biomes and The Island Redwood Forest lists support forest/jungle/redwood examples. Native Spawn entries matches Aberrant Gigantopithecus to AB_DinoSpawnEntries_TwitchBioLand_C. Mod tables excluded.",
+    "limitations": "Typical examples, not exhaustive ASA map/container coverage or every-region presence."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 180,
+    "generalHabitatMissingEntries": 23,
+    "aberrationHabitatEntries": 39
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Mesopithecus",
+      "Gigantopithecus",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Full article/revision/contributor comparison and firsthand official PvE validation",
+    "Gigantopithecus indexed crouching-safety claim not promoted to guaranteed protection",
+    "Detailed feed intervals, quantities and effectiveness where no checked formulas exist",
+    "Prior Lumina feeding/glide confirmation remains unresolved; no new claim added"
+  ],
+  "ownerQuestions": [],
+  "ownerQuestionNote": "No new special taming uncertainty introduced; avoid repeating prior unresolved questions.",
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-15.cjs verifies passive guide/food/preparation/action replies, general habitat routes, variant scope, protected guide/encounter records, future TLC separation, calculators and source visibility."
+  },
+  "preserved": "Original art/UI/bubbles, detailed encounter records, Enigmasaur art/clean label, anonymous suggestions including Concavenator Tek Rifle, public beta/noindex/relative assets/icons/manifest, rate workflow/manual fallback, metadata-only individual/video URLs and all source/contributor/license/rights notices. Archived Site untouched."
+}

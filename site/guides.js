@@ -7153,3 +7153,78 @@ for(const [name,guide] of Object.entries({
 tamingGuides.Brontosaurus.upcomingChange={"announced": true, "checked": "2026-11-14", "status": "Selected for a future TLC; release date and revised taming mechanics pending confirmation.", "source": "https://survivetheark.com/index.php?/articles.html/community-crunch-532-a-dragon-of-thorns-and-roses-r2568/"};
 tamingGuides.Brontosaurus.tips="A Brontosaurus TLC has been announced. A live release and revised taming mechanics are not confirmed here; the current knockout method has not been replaced by an announced future change.";
 tamingGuides.Brontosaurus.sources.push(["Studio Wildcard: future TLC selection","https://survivetheark.com/index.php?/articles.html/community-crunch-532-a-dragon-of-thorns-and-roses-r2568/"]);
+
+
+// November 15: distinct passive approach and contact behavior.
+for(const [name,guide] of Object.entries({
+  "Mesopithecus": {
+    "method": "passive",
+    "overview": "Keep Mesopithecus awake and offer food from the last hotbar slot. Approach only until its feed prompt appears, then allow room while waiting for the next feeding.",
+    "food": "Basic Kibble is the preferred kibble; Mejoberries are an alternative. Feeding amounts, intervals and effectiveness remain pending independent ASA checks.",
+    "preparation": "Bring food, remove nearby predators and watch for water or other hazards along its escape route. Crouch on approach and keep a safe following distance.",
+    "steps": [
+      "Prepare food in the last hotbar slot",
+      "Approach cautiously until the feed prompt appears",
+      "Feed, give it space and wait for hunger",
+      "Repeat without crowding it and confirm completion"
+    ],
+    "specialAction": "If startled, keep it in sight without chasing closely. Give it room to settle before approaching again; long gaps between feeds can lose progress.",
+    "sources": [
+      [
+        "ARK Community Wiki: Mesopithecus",
+        "https://ark.wiki.gg/wiki/Mesopithecus"
+      ],
+      [
+        "Basic Kibble",
+        "https://ark.wiki.gg/wiki/Basic_Kibble"
+      ],
+      [
+        "Passive feeding context",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ],
+    "checked": "2026-11-15",
+    "scope": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-15.",
+      "asa": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "If startled, keep it in sight without chasing closely. Give it room to settle before approaching again; long gaps between feeds can lose progress."
+  },
+  "Gigantopithecus": {
+    "method": "passive",
+    "overview": "Feed the conscious Gigantopithecus from behind with food in the last hotbar slot. Reach the prompt without touching it, then step back while waiting for another feed.",
+    "food": "Regular Kibble is preferred; Mejoberries are an alternative. Food quantities, timers and effectiveness are not calculated here.",
+    "preparation": "Clear nearby threats and leave an escape route. Approach from behind when it pauses, and keep accompanying tames away from its personal space.",
+    "steps": [
+      "Put taming food in the last hotbar slot",
+      "Approach cautiously from behind",
+      "Use the feed prompt without colliding with it",
+      "Back away and repeat when feeding becomes available"
+    ],
+    "specialAction": "A survivor or tame brushing against it can trigger aggression. Avoid physical contact throughout the feeding sequence; do not treat crouching as a guarantee of safety.",
+    "sources": [
+      [
+        "ARK Community Wiki: Gigantopithecus",
+        "https://ark.wiki.gg/wiki/Gigantopithecus"
+      ],
+      [
+        "Regular Kibble",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ],
+      [
+        "Passive feeding context",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ],
+    "checked": "2026-11-15",
+    "scope": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-15.",
+      "asa": "Regular base ASA official PvE species; distinct Aberrant habitat noted separately.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "A survivor or tame brushing against it can trigger aggression. Avoid physical contact throughout the feeding sequence; do not treat crouching as a guarantee of safety."
+  }
+})) Object.assign(tamingGuides[name],guide);
