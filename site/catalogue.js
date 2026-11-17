@@ -2060,3 +2060,7 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Brontosaurus"),{announcementRe
 
 // November 15: reviewed guide metadata.
 for(const name of ["Mesopithecus","Gigantopithecus"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-15"});
+
+
+// November 17: reviewed guide metadata.
+for(const name of ["Ichthyornis","Dimorphodon"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-17"});

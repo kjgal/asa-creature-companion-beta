@@ -7228,3 +7228,75 @@ for(const [name,guide] of Object.entries({
     "tips": "A survivor or tame brushing against it can trigger aggression. Avoid physical contact throughout the feeding sequence; do not treat crouching as a guarantee of safety."
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 17: small-flyer knockout preparation and explicit food comparison limits.
+for(const [name,guide] of Object.entries({
+  "Ichthyornis": {
+    "method": "knockout",
+    "overview": "Restrain the flying Ichthyornis with a Bola over safe ground, then apply torpor carefully. Stop attacking at knockout, place taming food in its inventory and guard it while it eats.",
+    "food": "Regular Kibble is its documented preferred kibble; Raw Prime Fish Meat is an alternative. Food amounts, timers and effectiveness remain pending independent ASA checks.",
+    "preparation": "Bring a Bola, torpor gear, food and torpor-maintenance supplies. Choose ground where an unconscious bird can be reached safely, clear predators and watch its health.",
+    "steps": [
+      "Prepare a safe landing area and supplies",
+      "Catch the bird with a Bola and apply torpor carefully",
+      "Stop at knockout and add food to its inventory",
+      "Monitor torpor and protect it until the tame completes"
+    ],
+    "specialAction": "Its low health makes careless shots dangerous. Aim at the body rather than the head, and keep track of it if restraint ends; do not keep firing once it is unconscious.",
+    "sources": [
+      [
+        "ARK Community Wiki: Ichthyornis",
+        "https://ark.wiki.gg/wiki/Ichthyornis"
+      ],
+      [
+        "Regular Kibble",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ]
+    ],
+    "checked": "2026-11-17",
+    "scope": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-17.",
+      "asa": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission, Corrupted and mod instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Its low health makes careless shots dangerous. Aim at the body rather than the head, and keep track of it if restraint ends; do not keep firing once it is unconscious."
+  },
+  "Dimorphodon": {
+    "method": "knockout",
+    "overview": "Choose a Dimorphodon away from its flock, restrain it with a Bola and knock it out carefully. Add taming food once it falls and stay nearby to maintain torpor.",
+    "food": "The species page identifies Simple Kibble; Raw Mutton and Raw Prime Meat are documented alternatives. Older food references disagree on kibble preference, so precise ASA food comparisons remain pending.",
+    "preparation": "Bring a Bola, torpor gear, food and torpor-maintenance supplies before approaching. Avoid groups: nearby Dimorphodons can retaliate and threaten the rider directly.",
+    "steps": [
+      "Choose an isolated target and prepare supplies",
+      "Restrain it and apply torpor carefully",
+      "Stop attacking at knockout and place food in its inventory",
+      "Stay nearby, maintain torpor and confirm completion"
+    ],
+    "specialAction": "Torpor can drain quickly after knockout. Have supplies ready before restraining it and watch the unconscious creature rather than leaving to gather food.",
+    "sources": [
+      [
+        "ARK Community Wiki: Dimorphodon",
+        "https://ark.wiki.gg/wiki/Dimorphodon"
+      ],
+      [
+        "Simple Kibble reference retained",
+        "https://ark.wiki.gg/wiki/Simple_Kibble"
+      ],
+      [
+        "Raw Mutton comparison limitation",
+        "https://ark.wiki.gg/wiki/Raw_Mutton"
+      ]
+    ],
+    "checked": "2026-11-17",
+    "scope": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-17.",
+      "asa": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission, Corrupted and mod instructions excluded. No competitor text, datasets, artwork or calculator code imported.",
+      "foodConflict": "Species infobox/changelog identifies Simple Kibble, while Raw Mutton and legacy tables describe no preferred kibble. No new ranking, quantity or effectiveness formula inferred."
+    },
+    "tips": "Torpor can drain quickly after knockout. Have supplies ready before restraining it and watch the unconscious creature rather than leaving to gather food."
+  }
+})) Object.assign(tamingGuides[name],guide);

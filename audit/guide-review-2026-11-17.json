@@ -1,0 +1,110 @@
+{
+  "reviewed": "2026-11-17",
+  "baseline": "f64fe55ba076fd874e07fdb738dca910c42ba675",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Ichthyornis",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Ichthyornis",
+          "https://ark.wiki.gg/wiki/Ichthyornis"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-17.",
+        "asa": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission, Corrupted and mod instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Dimorphodon",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Dimorphodon",
+          "https://ark.wiki.gg/wiki/Dimorphodon"
+        ],
+        [
+          "Simple Kibble reference retained",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ],
+        [
+          "Raw Mutton comparison limitation",
+          "https://ark.wiki.gg/wiki/Raw_Mutton"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-17.",
+        "asa": "Regular base ASA official PvE species. Distinct variants and unverified regional distribution excluded.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission, Corrupted and mod instructions excluded. No competitor text, datasets, artwork or calculator code imported.",
+        "foodConflict": "Species infobox/changelog identifies Simple Kibble, while Raw Mutton and legacy tables describe no preferred kibble. No new ranking, quantity or effectiveness formula inferred."
+      }
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-17",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/topic/774352-community-crunch-532-a-dragon-of-thorns-and-roses/"
+    ],
+    "finding": "Current official home/announcement index still feature Crunch 532. Silvanor remains a December 10 preview; no additional live creature or Brontosaurus replacement method established."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Ichthyornis",
+      "Dimorphodon",
+      "Kairuku"
+    ],
+    "addedAberration": [],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Ichthyornis",
+      "https://ark.wiki.gg/wiki/Dimorphodon",
+      "https://ark.wiki.gg/wiki/Kairuku",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries"
+    ],
+    "evidence": "Species and beach/swamp Biomes support small-flyer coastal/wet lowland examples. Kairuku species/ASA iceberg fix and Biomes snow-coast description support cold shoreline/iceberg examples; native Penguins spawn container corroborates presence. Mod containers excluded.",
+    "limitations": "Typical examples only. Aberrant Dimorphodon existence is supported, but precise ASA region/container not matched; no new regional note inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 183,
+    "generalHabitatMissingEntries": 20,
+    "aberrationHabitatEntries": 39
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Ichthyornis",
+      "Dimorphodon",
+      "Kairuku",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparison, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission, Corrupted and mod instructions excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Dimorphodon food preference/source conflict and precise ASA comparison",
+    "Aberrant Dimorphodon regional distribution",
+    "Full article/revision/contributor and firsthand checks",
+    "Numerical quantities, timers and effectiveness where independent checked formulas are absent"
+  ],
+  "ownerQuestions": [
+    "Dimorphodon: have you used Simple Kibble successfully on official ASA, and did it behave as its preferred food?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-17.cjs verifies guide/food/preparation/action replies, habitat routes, explicit food conflict/pending region, protected records, calculator/rate and source visibility."
+  },
+  "preserved": "Original artwork/UI/bubbles, detailed encounters, Kairuku reference notes and guide, anonymous Concavenator Tek Rifle suggestion, beta/noindex/relative assets/icons/manifest, rate workflow/manual fallback and source/contributor/license/rights findings. Individual/video URLs metadata-only. Archived Site untouched."
+}
