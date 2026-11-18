@@ -1,0 +1,107 @@
+{
+  "reviewed": "2026-11-18",
+  "baseline": "ffb7f01faf33d3b98af2d25440541cf7e2fb36b6",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Gallimimus",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Gallimimus",
+          "https://ark.wiki.gg/wiki/Gallimimus"
+        ],
+        [
+          "Simple Kibble",
+          "https://ark.wiki.gg/wiki/Simple_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-18.",
+        "asa": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Kentrosaurus",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Kentrosaurus",
+          "https://ark.wiki.gg/wiki/Kentrosaurus"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-18.",
+        "asa": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-18",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/forum/6-announcements/"
+    ],
+    "finding": "Current home and announcement index still feature Crunch 532. No additional live official-map creature or Brontosaurus replacement method confirmed; future previews not promoted to catalogue releases."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Gallimimus",
+      "Kentrosaurus"
+    ],
+    "addedAberration": [],
+    "updatedAberration": [
+      "Iguanodon"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Gallimimus",
+      "https://ark.wiki.gg/wiki/Kentrosaurus",
+      "https://ark.wiki.gg/wiki/Iguanodon",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/The_Western_Plains",
+      "https://ark.wiki.gg/wiki/Highlands_(Ragnarok)",
+      "https://ark.wiki.gg/wiki/Fars_Peak"
+    ],
+    "evidence": "Plains/Highlands references support Gallimimus; Mountain Biome and Far\u2019s Peak lists support Kentrosaurus. Native Aberrant Iguanodon matched to TwitchFertileLandEasy and TwitchBioLand containers. Mod Styracosaurus material excluded.",
+    "limitations": "Typical examples only; complete ASA map/container coverage pending. Red/Element and surface Iguanodon not inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 185,
+    "generalHabitatMissingEntries": 18,
+    "aberrationHabitatEntries": 39
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Gallimimus",
+      "Kentrosaurus",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Full article/revision/contributor and firsthand checks",
+    "Numerical dosing, shot safety, timers and effectiveness remain uncalculated without checked formulas",
+    "Existing Dimorphodon food conflict and Aberration region remain pending"
+  ],
+  "ownerQuestions": [],
+  "ownerQuestionNote": "No new special-action uncertainty requiring a new question; prior Dimorphodon confirmation request remains unresolved without repeating it.",
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-18.cjs checks knockout replies, food/preparation/action routes, general habitats, extended variant region, protected records, calculators/rates and source visibility."
+  },
+  "preserved": "Original art/UI/bubbles and detailed encounters; anonymous suggestions including Concavenator Tek Rifle; public beta/noindex/relative assets/icons/manifest; rate refresh/manual fallback; metadata-only individual/video URLs; source/contributor/license/rights findings. Archived Site untouched."
+}

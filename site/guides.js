@@ -7300,3 +7300,70 @@ for(const [name,guide] of Object.entries({
     "tips": "Torpor can drain quickly after knockout. Have supplies ready before restraining it and watch the unconscious creature rather than leaving to gather food."
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 18: containment/health and defensive-herbivore knockout refreshes.
+for(const [name,guide] of Object.entries({
+  "Gallimimus": {
+    "method": "knockout",
+    "overview": "Contain the fleeing Gallimimus before applying torpor. Knock it out with controlled shots, stop attacking when it falls and place taming food in its inventory.",
+    "food": "Simple Kibble is preferred; crops or Mejoberries are alternatives. Food quantities, timers and torpor dosing remain pending independent ASA checks.",
+    "preparation": "Prepare a suitable pen or Bear Trap, a Longneck Rifle with tranquilizer darts, food and torpor supplies. Its low health makes arrows risky; avoid treating any shot as guaranteed safe.",
+    "steps": [
+      "Prepare containment and all feeding/torpor supplies",
+      "Secure the Gallimimus and apply torpor carefully",
+      "Stop at knockout and place food in its inventory",
+      "Watch torpor closely and protect it until completion"
+    ],
+    "specialAction": "Regular bolas do not restrain it. Torpor drains quickly after knockout, so have maintenance supplies ready instead of leaving to gather them.",
+    "sources": [
+      [
+        "ARK Community Wiki: Gallimimus",
+        "https://ark.wiki.gg/wiki/Gallimimus"
+      ],
+      [
+        "Simple Kibble",
+        "https://ark.wiki.gg/wiki/Simple_Kibble"
+      ]
+    ],
+    "checked": "2026-11-18",
+    "scope": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-18.",
+      "asa": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Regular bolas do not restrain it. Torpor drains quickly after knockout, so have maintenance supplies ready instead of leaving to gather them."
+  },
+  "Kentrosaurus": {
+    "method": "knockout",
+    "overview": "Apply torpor from a position clear of the Kentrosaurus spikes and nearby herd mates. Stop at knockout, place food in its inventory and protect it while it eats.",
+    "food": "Regular Kibble is preferred, with crops as alternatives. Do not assume Savoroot has a special advantage over other crops; quantities and feeding times remain pending independent ASA checks.",
+    "preparation": "Bring food, ranged torpor gear and maintenance supplies. Scout the herd and choose a position that lets you work without entering tail or shoulder-spike reach.",
+    "steps": [
+      "Prepare supplies and a safe ranged position",
+      "Account for nearby herd mates before applying torpor",
+      "Stop damaging it at knockout and add food",
+      "Monitor torpor and protect it until the tame completes"
+    ],
+    "specialAction": "Avoid melee contact during the knockout. Its spikes and damage reflection make close attacks dangerous; this guide does not calculate reflected damage.",
+    "sources": [
+      [
+        "ARK Community Wiki: Kentrosaurus",
+        "https://ark.wiki.gg/wiki/Kentrosaurus"
+      ],
+      [
+        "Regular Kibble",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ]
+    ],
+    "checked": "2026-11-18",
+    "scope": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-18.",
+      "asa": "Regular base ASA official PvE species; Aberrant Iguanodon region note is separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Avoid melee contact during the knockout. Its spikes and damage reflection make close attacks dangerous; this guide does not calculate reflected damage."
+  }
+})) Object.assign(tamingGuides[name],guide);
