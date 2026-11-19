@@ -1,0 +1,101 @@
+{
+  "reviewed": "2026-11-19",
+  "baseline": "42ac93c819dd6b372645f8cf15760dbfaf82828b",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Pachyrhinosaurus",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Pachyrhinosaurus",
+          "https://ark.wiki.gg/wiki/Pachyrhinosaurus"
+        ],
+        [
+          "Bug Repellant",
+          "https://ark.wiki.gg/wiki/Bug_Repellant"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-19.",
+        "asa": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Microraptor",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Microraptor",
+          "https://ark.wiki.gg/wiki/Microraptor"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-19.",
+        "asa": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-19",
+    "sources": [
+      "https://survivetheark.com/",
+      "https://survivetheark.com/index.php?/forums/forum/6-announcements/"
+    ],
+    "finding": "Current home/announcement index still features Crunch 532. No additional live official-map creature or Brontosaurus replacement method confirmed. Future previews and mod spotlight creatures not treated as official-live additions."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Pachyrhinosaurus",
+      "Microraptor"
+    ],
+    "addedAberration": [],
+    "updatedAberration": [
+      "Lystrosaurus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Pachyrhinosaurus",
+      "https://ark.wiki.gg/wiki/Microraptor",
+      "https://ark.wiki.gg/wiki/Lystrosaurus",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/The_Redwood_Forests"
+    ],
+    "evidence": "Biomes Boreal Forest/Valguero list supports Pachyrhinosaurus. Microraptor species/Biomes/Redwood Forest lists support redwood terrain. Native Aberrant Lystrosaurus matched to TwitchBioLand and existing TwitchFertileLandEasy entries. Mod tables excluded.",
+    "limitations": "Typical examples only; exhaustive ASA map/container coverage and red/surface regional presence pending."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 187,
+    "generalHabitatMissingEntries": 16,
+    "aberrationHabitatEntries": 39
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Pachyrhinosaurus",
+      "Microraptor",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Full article/revision/contributor and firsthand comparisons",
+    "Numerical dosing, quantities, times and effectiveness where independent checked formulas are absent",
+    "Prior Dimorphodon food/region uncertainty retained"
+  ],
+  "ownerQuestions": [],
+  "ownerQuestionNote": "No new special-tame uncertainty introduced; prior requests retained without repeating them.",
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-19.cjs verifies knockout food/preparation/action replies, general habitats, extended variant region, protected records, calculators/rates and source visibility."
+  },
+  "preserved": "Original art/UI/bubbles and detailed encounter records; anonymous Concavenator Tek Rifle suggestion and other tips; beta/noindex/relative assets/icons/manifest; rate refresh/manual fallback; metadata-only individual/video URLs; source/contributor/license and rights findings. Archived Site untouched."
+}

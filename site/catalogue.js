@@ -2068,3 +2068,7 @@ for(const name of ["Ichthyornis","Dimorphodon"]) Object.assign(creatureCatalogue
 
 // November 18: reviewed guide metadata.
 for(const name of ["Gallimimus","Kentrosaurus"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-18"});
+
+
+// November 19: reviewed guide metadata.
+for(const name of ["Pachyrhinosaurus","Microraptor"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-19"});

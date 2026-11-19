@@ -7367,3 +7367,66 @@ for(const [name,guide] of Object.entries({
     "tips": "Avoid melee contact during the knockout. Its spikes and damage reflection make close attacks dangerous; this guide does not calculate reflected damage."
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 19: food-interaction clarity and safe knockout preparation.
+for(const [name,guide] of Object.entries({
+  "Pachyrhinosaurus": {
+    "method": "knockout",
+    "overview": "Apply torpor until Pachyrhinosaurus is unconscious, stop attacking and place taming food in its inventory. Stay nearby to protect it and keep torpor from running out.",
+    "food": "Bug Repellant is its documented preferred taming food. Put it in the unconscious animal\u2019s inventory; applying repellent to yourself does not feed it. Quantities and timers remain pending independent ASA checks.",
+    "preparation": "Prepare Bug Repellant, torpor gear and maintenance supplies before the knockout. Choose a safe position and account for surrounding creatures and its chemical defenses.",
+    "steps": [
+      "Prepare taming food and torpor-maintenance supplies",
+      "Knock it out from a safe position and stop attacking",
+      "Place Bug Repellant in its inventory",
+      "Monitor torpor closely and protect it until completion"
+    ],
+    "specialAction": "Its torpor can drain rapidly. Gather supplies before starting rather than leaving the unconscious animal to search for them.",
+    "sources": [
+      [
+        "ARK Community Wiki: Pachyrhinosaurus",
+        "https://ark.wiki.gg/wiki/Pachyrhinosaurus"
+      ],
+      [
+        "Bug Repellant",
+        "https://ark.wiki.gg/wiki/Bug_Repellant"
+      ]
+    ],
+    "checked": "2026-11-19",
+    "scope": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-19.",
+      "asa": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Its torpor can drain rapidly. Gather supplies before starting rather than leaving the unconscious animal to search for them."
+  },
+  "Microraptor": {
+    "method": "knockout",
+    "overview": "Restrain Microraptor with a Bola from a safe distance, then apply torpor carefully. Stop damaging it at knockout and put taming food in its inventory.",
+    "food": "Rare Flowers and Rare Mushrooms are documented taming foods. Their required amounts, feeding times and effectiveness comparisons remain pending independent ASA checks.",
+    "preparation": "Bring a Bola, torpor gear, food and torpor-maintenance supplies. Scout nearby predators and plan for its rider-dismounting attack before closing in.",
+    "steps": [
+      "Prepare supplies and a safe approach",
+      "Catch it with a Bola while keeping some distance",
+      "Apply torpor and stop at knockout",
+      "Place food in its inventory, monitor torpor and protect it"
+    ],
+    "specialAction": "A restrained Microraptor can still make short lunges. Avoid standing within reach while applying torpor, and do not assume being mounted protects you from its attacks.",
+    "sources": [
+      [
+        "ARK Community Wiki: Microraptor",
+        "https://ark.wiki.gg/wiki/Microraptor"
+      ]
+    ],
+    "checked": "2026-11-19",
+    "scope": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-19.",
+      "asa": "Regular base ASA official PvE species. Aberrant Lystrosaurus regional habitat is separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries requests returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "A restrained Microraptor can still make short lunges. Avoid standing within reach while applying torpor, and do not assume being mounted protects you from its attacks."
+  }
+})) Object.assign(tamingGuides[name],guide);
