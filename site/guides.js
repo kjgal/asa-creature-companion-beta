@@ -7430,3 +7430,76 @@ for(const [name,guide] of Object.entries({
     "tips": "A restrained Microraptor can still make short lunges. Avoid standing within reach while applying torpor, and do not assume being mounted protects you from its attacks."
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 20: prompt-based petting and knockout-food distinctions.
+for(const [name,guide] of Object.entries({
+  "Procoptodon": {
+    "method": "knockout",
+    "overview": "Plan containment for the fleeing Procoptodon, then apply torpor until it falls unconscious. Stop attacking and place suitable taming food in its inventory while guarding the tame.",
+    "food": "Rare Mushrooms and Plant Species X Seeds are documented taming foods. Berries and crops are foods after taming, not substitutes for the knockout feeding stage. Quantities and timers remain pending independent ASA checks.",
+    "preparation": "Gather suitable food, torpor gear and maintenance supplies before approaching. Choose a pen or suitable restraint plan that accounts for its speed and jumping.",
+    "steps": [
+      "Prepare food, torpor supplies and containment",
+      "Apply torpor while keeping the fleeing animal within reach",
+      "Stop at knockout and place suitable food in its inventory",
+      "Monitor torpor and protect it until completion"
+    ],
+    "specialAction": "A regular Bola is not a suitable restraint for Procoptodon. Account for its escape route before starting; do not leave food gathering until after knockout.",
+    "sources": [
+      [
+        "ARK Community Wiki: Procoptodon",
+        "https://ark.wiki.gg/wiki/Procoptodon"
+      ],
+      [
+        "Rare Mushroom",
+        "https://ark.wiki.gg/wiki/Rare_Mushroom"
+      ],
+      [
+        "Plant Species X Seed",
+        "https://ark.wiki.gg/wiki/Plant_Species_X_Seed"
+      ]
+    ],
+    "checked": "2026-11-20",
+    "scope": "Regular base ASA official PvE species; distinct variants and unsupported map/region presence excluded.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-20.",
+      "asa": "Regular base ASA official PvE species; distinct variants and unsupported map/region presence excluded.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "A regular Bola is not a suitable restraint for Procoptodon. Account for its escape route before starting; do not leave food gathering until after knockout."
+  },
+  "Hyaenodon": {
+    "method": "passive",
+    "overview": "Tame Hyaenodon by petting it while awake. Separate it from its pack leader, approach while crouched and use each petting prompt without alarming it.",
+    "food": "No taming food is required. Use the petting interaction when it becomes available.",
+    "preparation": "Isolate the target from its pack leader and keep predators away. Ghillie clothing or Cactus Broth can help conceal your approach; watch its reaction rather than assuming concealment is guaranteed.",
+    "steps": [
+      "Separate the target from its pack leader",
+      "Crouch and approach without alarming it",
+      "Pet promptly when the interaction returns",
+      "Stay concealed and respond to prompts until completion"
+    ],
+    "specialAction": "Keep it calm and respond promptly to each petting prompt. Frightening it or missing petting opportunities can cost substantial progress, potentially the whole tame. Watch the bar and do not rely on a fixed percentage penalty.",
+    "tips": "Keep it calm and respond promptly to each petting prompt. Frightening it or missing petting opportunities can cost substantial progress, potentially the whole tame. Watch the bar and do not rely on a fixed percentage penalty.\n\nSuggested method: use a small pen with doorframes or window openings so you can crouch outside and reach the pet prompt. A 1\u00d71 pen is a reported option, but wall openings do not guarantee it cannot see you. Check its reaction and move out of sight if it becomes alarmed; keep wild attackers away. Reports describe rapid continuing progress loss while spooked, but the exact current ASA decay and reset mechanics remain unconfirmed.",
+    "sources": [
+      [
+        "ARK Community Wiki: Hyaenodon",
+        "https://ark.wiki.gg/wiki/Hyaenodon"
+      ],
+      [
+        "ARK Community Wiki: Taming",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ],
+    "checked": "2026-11-20",
+    "scope": "Regular base ASA official PvE species; distinct variants and unsupported map/region presence excluded.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-20.",
+      "asa": "Regular base ASA official PvE species; distinct variants and unsupported map/region presence excluded.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported.",
+      "userNotes": "Reference notes revised on 2026-10-06: earlier flat 30% penalty withdrawn in favor of rapid continuing loss. Small 1x1 doorframe/window pen retained as an anonymous suggested method, not guaranteed concealment or firsthand official PvE testing.",
+      "practicalLimitations": "Anonymous pen suggestion retained verbatim. Current spooked-state decay/reset and concealment efficacy remain pending; fixed petting interval removed from steps."
+    }
+  }
+})) Object.assign(tamingGuides[name],guide);
