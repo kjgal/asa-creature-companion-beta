@@ -1,0 +1,111 @@
+{
+  "reviewed": "2026-11-21",
+  "baseline": "420a7665d8b1e2578be28ad4fc8804ece274ff3e",
+  "addedGuides": [],
+  "updatedGuides": [
+    {
+      "name": "Diplodocus",
+      "classification": "passive",
+      "sources": [
+        [
+          "ARK Community Wiki: Diplodocus",
+          "https://ark.wiki.gg/wiki/Diplodocus"
+        ],
+        [
+          "Regular Kibble",
+          "https://ark.wiki.gg/wiki/Regular_Kibble"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-21.",
+        "asa": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    },
+    {
+      "name": "Megalania",
+      "classification": "knockout",
+      "sources": [
+        [
+          "ARK Community Wiki: Megalania",
+          "https://ark.wiki.gg/wiki/Megalania"
+        ],
+        [
+          "Extraordinary Kibble",
+          "https://ark.wiki.gg/wiki/Extraordinary_Kibble"
+        ],
+        [
+          "Cave eligibility context",
+          "https://ark.wiki.gg/wiki/Caves"
+        ]
+      ],
+      "provenance": {
+        "access": "Individual species and contextual indexed passages reviewed 2026-11-21.",
+        "asa": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+        "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+      }
+    }
+  ],
+  "announcementOnlyGuides": [
+    "Liopleurodon"
+  ],
+  "catalogueAdditions": [],
+  "officialReview": {
+    "checked": "2026-11-21",
+    "sources": [
+      "https://survivetheark.com/"
+    ],
+    "finding": "Official home A Matter of Scale names Liopleurodon as second future TLC winner and previews Khoron/Zuffin for approaching December 10. No live release or replacement Liopleurodon method established. Home heading says Crunch 433; number not normalized or placed in app.",
+    "sourceAccess": "Official home readable; its linked articles.html/community-crunch-433-a-matter-of-scale-r2569 returned 404. Source text preserved as summary only; no future creature added."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Diplodocus",
+      "Megalania"
+    ],
+    "addedAberration": [
+      "Diplodocus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Diplodocus",
+      "https://ark.wiki.gg/wiki/Megalania",
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Caves"
+    ],
+    "evidence": "Diplodocus plains/woodland/Redwood examples; Megalania cave and eligibility context. Native Aberrant Diplodocus matched to TwitchFertileLandEasy. Megalania shared legacy no-Aberration statement conflicts with ASA-only map/native spawn evidence; precise region left pending, no regional claim added.",
+    "limitations": "Typical examples only; exhaustive ASA map/container and cave eligibility pending. Legacy variant statements not treated as current ASA absence proof."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "missingGuides": [],
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 191,
+    "generalHabitatMissingEntries": 12,
+    "aberrationHabitatEntries": 40
+  },
+  "sourceAccess": {
+    "directPagesStatus": 403,
+    "pages": [
+      "Diplodocus",
+      "Megalania",
+      "Biomes",
+      "Spawn_entries"
+    ],
+    "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+  },
+  "pendingResearch": [
+    "Liopleurodon TLC live release and replacement method",
+    "Megalania exact ASA cave eligibility and Aberrant regional distribution",
+    "Diplodocus knockout-route numerical comparison",
+    "Full article/revision/contributor and firsthand checks; numerical formulas where absent"
+  ],
+  "ownerQuestions": [],
+  "ownerQuestionNote": "No new practical special-tame steps inferred from announcements; existing unresolved confirmations retained.",
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-21.cjs verifies passive/knockout guide routes, food/preparation/actions, general/variant habitats, Liopleurodon announcement separation, preserved current method, calculators/rates and source visibility."
+  },
+  "preserved": "Original art/UI/bubbles, detailed encounters, anonymous suggestions including Concavenator Tek Rifle, beta/noindex/relative assets/icons/manifest, rate refresh/manual fallback, metadata-only individual/video URLs and source/contributor/license/rights findings. Archived Site untouched."
+}

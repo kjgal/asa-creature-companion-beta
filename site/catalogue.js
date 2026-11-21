@@ -2076,3 +2076,8 @@ for(const name of ["Pachyrhinosaurus","Microraptor"]) Object.assign(creatureCata
 
 // November 20: reviewed guide metadata.
 for(const name of ["Procoptodon","Hyaenodon"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-20"});
+
+
+// November 21: guide reviews and future TLC metadata.
+for(const name of ["Diplodocus","Megalania"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-21"});
+Object.assign(creatureCatalogue.find(c=>c.name==="Liopleurodon"),{announcementReviewed:"2026-11-21"});

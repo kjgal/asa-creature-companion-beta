@@ -7503,3 +7503,77 @@ for(const [name,guide] of Object.entries({
     }
   }
 })) Object.assign(tamingGuides[name],guide);
+
+
+// November 21: method distinctions and announcement-only future TLC.
+for(const [name,guide] of Object.entries({
+  "Diplodocus": {
+    "method": "passive",
+    "overview": "This guide uses awake hand-feeding for Diplodocus. Put food in the last hotbar slot, approach until its feed prompt appears and repeat after it becomes hungry again. A separate knockout route is also documented.",
+    "food": "Regular Kibble is preferred for this passive route; crops and berries are alternatives. Quantities, feeding intervals and comparisons with the knockout route remain pending independent ASA checks.",
+    "preparation": "Choose open ground away from cliffs and predators. Bring food before approaching and leave room to recover your position if it shoves you.",
+    "steps": [
+      "Put suitable food in the last hotbar slot",
+      "Approach on safe ground and use the feed prompt",
+      "Stay nearby and wait for feeding to become available",
+      "Repeat until completion while avoiding hazardous knockback"
+    ],
+    "specialAction": "Its shove does not deal direct damage, but being pushed into a fall or hostile creature can still hurt you. The knockout alternative has separate requirements; no numerical tradeoff is calculated here.",
+    "sources": [
+      [
+        "ARK Community Wiki: Diplodocus",
+        "https://ark.wiki.gg/wiki/Diplodocus"
+      ],
+      [
+        "Regular Kibble",
+        "https://ark.wiki.gg/wiki/Regular_Kibble"
+      ]
+    ],
+    "checked": "2026-11-21",
+    "scope": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-21.",
+      "asa": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Its shove does not deal direct damage, but being pushed into a fall or hostile creature can still hurt you. The knockout alternative has separate requirements; no numerical tradeoff is calculated here."
+  },
+  "Megalania": {
+    "method": "knockout",
+    "overview": "Knock out an eligible Megalania, stop attacking and place taming food in its inventory. Protect it and watch torpor throughout the feeding stage.",
+    "food": "Extraordinary Kibble is its documented preferred kibble; Raw Mutton is an alternative. Amounts, timers and effectiveness remain pending independent ASA checks.",
+    "preparation": "Inspect cave walls and ceilings before moving in. Bring food, torpor gear and maintenance supplies, and prepare for bite-related Mega Rabies and nearby cave threats.",
+    "steps": [
+      "Check the target and cave for eligibility and hazards",
+      "Apply torpor from a safe position",
+      "Stop at knockout and add food to its inventory",
+      "Monitor torpor and guard it until completion"
+    ],
+    "specialAction": "Cave presence alone does not establish tameability: special or high-level cave spawns may be excluded. Avoid bites and do not leave the unconscious target unattended.",
+    "sources": [
+      [
+        "ARK Community Wiki: Megalania",
+        "https://ark.wiki.gg/wiki/Megalania"
+      ],
+      [
+        "Extraordinary Kibble",
+        "https://ark.wiki.gg/wiki/Extraordinary_Kibble"
+      ],
+      [
+        "Cave eligibility context",
+        "https://ark.wiki.gg/wiki/Caves"
+      ]
+    ],
+    "checked": "2026-11-21",
+    "scope": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+    "provenance": {
+      "access": "Individual species and contextual indexed passages reviewed 2026-11-21.",
+      "asa": "Regular base ASA official PvE species; Aberrant habitat separately scoped.",
+      "comparisonLimitations": "Direct species, Biomes and Spawn entries pages returned 403; indexed individual passages reviewed. Full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Legacy numerical tables, mobile, mission and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported."
+    },
+    "tips": "Cave presence alone does not establish tameability: special or high-level cave spawns may be excluded. Avoid bites and do not leave the unconscious target unattended."
+  }
+})) Object.assign(tamingGuides[name],guide);
+tamingGuides.Liopleurodon.upcomingChange={"announced": true, "checked": "2026-11-21", "status": "Selected for a future TLC; live release and revised mechanics pending confirmation.", "source": "https://survivetheark.com/"};
+tamingGuides.Liopleurodon.tips=(Array.isArray(tamingGuides.Liopleurodon.tips)?tamingGuides.Liopleurodon.tips.join("\n\n"):tamingGuides.Liopleurodon.tips||"")+"\n\n"+"A Liopleurodon TLC has been announced. A live release and revised taming mechanics are not confirmed here; the current passive guide has not been replaced by an announced future change.";
+tamingGuides.Liopleurodon.sources.push(["Studio Wildcard: future TLC selection","https://survivetheark.com/"]);
