@@ -2081,3 +2081,7 @@ for(const name of ["Procoptodon","Hyaenodon"]) Object.assign(creatureCatalogue.f
 // November 21: guide reviews and future TLC metadata.
 for(const name of ["Diplodocus","Megalania"]) Object.assign(creatureCatalogue.find(c=>c.name===name),{guideReviewed:"2026-11-21"});
 Object.assign(creatureCatalogue.find(c=>c.name==="Liopleurodon"),{announcementReviewed:"2026-11-21"});
+
+
+// November 22: refreshed conscious-feeding guides.
+for(const name of ["Hesperornis","Electrophorus"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-22";

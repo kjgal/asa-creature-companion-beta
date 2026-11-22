@@ -1,0 +1,76 @@
+{
+  "reviewed": "2026-11-22",
+  "baseline": "5662698baee28eb7432ebba41e6c74ceb9c3d304",
+  "addedGuides": [],
+  "updatedGuides": [
+    "Hesperornis",
+    "Electrophorus"
+  ],
+  "catalogueAdditions": [],
+  "sources": {
+    "Hesperornis": [
+      [
+        "ARK Community Wiki: Hesperornis",
+        "https://ark.wiki.gg/wiki/Hesperornis"
+      ],
+      [
+        "Dead Fish",
+        "https://ark.wiki.gg/wiki/Dead_Fish"
+      ]
+    ],
+    "Electrophorus": [
+      [
+        "ARK Community Wiki: Electrophorus",
+        "https://ark.wiki.gg/wiki/Electrophorus"
+      ],
+      [
+        "Bio Toxin",
+        "https://ark.wiki.gg/wiki/Bio_Toxin"
+      ]
+    ]
+  },
+  "provenance": "Direct species, Biomes and Spawn entries requests returned 403. Individual indexed passages reviewed; full article/revision/contributor and text-similarity comparisons, firsthand official PvE testing and exhaustive ASA map/container verification remain pending. Legacy numerical tables, mobile and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported.",
+  "officialReview": {
+    "checked": "2026-11-22",
+    "source": "https://survivetheark.com/",
+    "finding": "Current home labels A Matter of Scale Crunch 533. Liopleurodon remains a future TLC selection and Khoron/Zuffin Dragontopia previews, not evidence of live creature release. No catalogue additions. Previous dated audit preserved rather than rewritten.",
+    "access": "Home readable; linked article returned 404."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Hesperornis",
+      "Electrophorus"
+    ],
+    "addedAberration": [],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Hesperornis",
+      "https://ark.wiki.gg/wiki/Electrophorus"
+    ],
+    "evidence": "Hesperornis river/lake species habitat and InlandWater_Generic spawn entry. Electrophorus deep-water/cavern species strategy, Trench biome and DarkWaterAngler_Generic entry. No Aberrant region inferred.",
+    "limitations": "Typical examples only. Exhaustive ASA maps and native Aberrant regions pending."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 185,
+    "generalHabitatAvailabilityEntries": 193,
+    "generalHabitatMissingEntries": 10,
+    "aberrationHabitatEntries": 40
+  },
+  "pendingResearch": [
+    "Hesperornis current ASA large-fish prompt interference; quantities, intervals and fish comparisons",
+    "Electrophorus exact feeding-state restrictions; independent ASA numerical requirements",
+    "Native Aberrant Electrophorus regional distribution",
+    "Full source/revision/contributor comparisons"
+  ],
+  "ownerQuestions": [
+    "Hesperornis: on your current ASA platform, does carrying a large fish hide the bird’s feed prompt behind Release Body?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-22.cjs checks feeding routes, supplies, general habitats, counts, unchanged future TLC and calculator/rate/source visibility guards."
+  },
+  "preserved": "Detailed encounter fields, anonymous suggested methods, art/interface/bubbles, About credits, metadata-only individual/video URLs, beta/noindex/assets/icons/manifest and rate workflow/manual fallback. Archived Site untouched."
+}
