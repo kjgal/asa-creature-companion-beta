@@ -327,3 +327,8 @@ Original Diplodocus and Megalania summaries refreshed with individual species, f
 ## November 22, 2026 — aquatic guide and habitat refresh
 
 Original Hesperornis and Electrophorus summaries refreshed from individual ARK Community Wiki indexed passages; Dead Fish/Bio Toxin and Biomes/Spawn entries provide context. Direct species/Biomes/Spawn entries access returned 403; full revision/contributor and text-similarity comparisons and firsthand current ASA checks remain pending. Legacy large-fish collision advice is explicitly pending rather than established current-platform behavior. No numerical requirements, competitor material or new artwork imported. General source/contributor/license credits and metadata-only individual URLs preserved. No blanket copyright or artwork clearance claimed; existing free noncommercial beta scope and rights findings remain unchanged.
+
+
+## November 23, 2026 — regular ASA integration guide refresh
+
+Original Deinosuchus and Xiphactinus method/food/preparation/action/habitat summaries use individual indexed ARK Community Wiki species, Superior Kibble, Biomes and native Spawn entries passages, with official ASA integration announcements for applicability. Direct Wiki species/context pages returned 403; full article/revision/contributor and text-similarity comparison and firsthand current ASA tests remain pending. Mod namespace results were excluded. No numerical requirements, competitor content or new artwork imported. General credits, metadata-only individual URLs and existing free noncommercial scope preserved; existing permission and artwork-rights findings remain unresolved.

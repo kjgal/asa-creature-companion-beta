@@ -115,3 +115,6 @@ November 21 review: refreshed Diplodocus passive-route and Megalania knockout/ca
 
 
 November 22 review: refreshed Hesperornis corpse feeding and Electrophorus conscious feeding/recharge strategy; added two general aquatic habitat notes. Coverage: 203 written guides / 203 entries (validation incomplete), 193 general habitat/availability notes with 10 gaps, 40 Aberration notes. No new creature or regional variant added. Large-fish prompt interference remains pending current ASA confirmation. Official home now labels A Matter of Scale as Crunch 533; future Liopleurodon TLC and Dragontopia previews remain unreleased in this review. Sources, limitations and checks: audit/guide-review-2026-11-22.json.
+
+
+November 23 review: refreshed regular Deinosuchus passive basking-feed and Xiphactinus knockout guides, added both creature information records and general habitats. Coverage: 203 written guides / 203 catalogue entries (validation incomplete), 195 general habitat/availability notes with 8 gaps, 40 Aberration notes. No creature or variant added. Current official announcements did not establish a new live creature or replacement TLC method. Provenance, current-source restrictions, pending conditions and checks: audit/guide-review-2026-11-23.json.

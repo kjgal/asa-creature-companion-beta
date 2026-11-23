@@ -1,0 +1,87 @@
+{
+  "reviewed": "2026-11-23",
+  "baseline": "cb15a3b90880232cb42384e77bff94eadf454c71",
+  "addedGuides": [],
+  "updatedGuides": [
+    "Deinosuchus",
+    "Xiphactinus"
+  ],
+  "catalogueAdditions": [],
+  "sources": {
+    "Deinosuchus": [
+      [
+        "ARK Community Wiki: Deinosuchus",
+        "https://ark.wiki.gg/wiki/Deinosuchus"
+      ],
+      [
+        "Superior Kibble",
+        "https://ark.wiki.gg/wiki/Superior_Kibble"
+      ],
+      [
+        "Studio Wildcard: ASA integration",
+        "https://survivetheark.com/index.php?/forums/topic/739073-community-crunch-418-introducing-deinosuchus-from-ark-additions/"
+      ]
+    ],
+    "Xiphactinus": [
+      [
+        "ARK Community Wiki: Xiphactinus",
+        "https://ark.wiki.gg/wiki/Xiphactinus"
+      ],
+      [
+        "Superior Kibble",
+        "https://ark.wiki.gg/wiki/Superior_Kibble"
+      ],
+      [
+        "Studio Wildcard: ASA integration",
+        "https://survivetheark.com/index.php?/forums/topic/732845-community-crunch-410-an-update-on-the-center-ark-additions-integration-and-more/"
+      ]
+    ]
+  },
+  "provenance": "Direct species, Biomes and Spawn entries pages returned 403. Individual indexed passages reviewed; full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container coverage remain pending. Numerical tables, mod and mobile mechanics excluded; no competitor text, datasets, artwork or calculator code imported.",
+  "officialReview": {
+    "checked": "2026-11-23",
+    "source": "https://survivetheark.com/",
+    "finding": "A Matter of Scale remains current; future Liopleurodon TLC and Khoron/Zuffin previews do not establish new live releases. No new official creature or replacement method confirmed.",
+    "applicability": "Official Crunch 418 announces Deinosuchus integration July 17 2024; current ASA species page and native spawn entries corroborate. Crunch 410 displays Xiphactinus live announcement May 18 2024; species page lists May 17 ASA release. Announcement and release dates kept distinct."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Deinosuchus",
+      "Xiphactinus"
+    ],
+    "addedAberration": [],
+    "newInfoRecords": [
+      "Deinosuchus",
+      "Xiphactinus"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Deinosuchus",
+      "https://ark.wiki.gg/wiki/Xiphactinus"
+    ],
+    "evidence": "Deinosuchus swamp biome and ShallowWater/SwampWater entries. Xiphactinus species ocean habitat and Ocean/OceanCaveHard/OceanCaveMedium entries. Cave presence is not a tameability claim; no Aberrant region inferred.",
+    "limitations": "Native regular species only; exhaustive maps, variant and cave-specific eligibility pending."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 187,
+    "generalHabitatAvailabilityEntries": 195,
+    "generalHabitatMissingEntries": 8,
+    "aberrationHabitatEntries": 40
+  },
+  "pendingResearch": [
+    "Deinosuchus exact aggro/reset behavior and numerical requirements",
+    "Xiphactinus variant and cave-specific eligibility and numerical requirements",
+    "Full article/revision/contributor and firsthand comparisons"
+  ],
+  "ownerQuestions": [
+    "Deinosuchus: after it notices you, does simply backing away restore its basking/feed prompt without losing progress on your current official PvE server?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-23.cjs verifies method/food/preparation/full-guide and general habitat replies, coverage, pending variant claims, calculator and source/rate guards; baseline preservation compared."
+  },
+  "preserved": "Unrelated guides/detailed encounters/anonymous suggestions, original artwork/interface/bubbles, metadata-only individual/video URLs and centralized About credits; beta/noindex/relative assets/icons/manifest and scheduled rate workflow/manual fallback. Archived Site untouched."
+}

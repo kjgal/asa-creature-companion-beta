@@ -2085,3 +2085,7 @@ Object.assign(creatureCatalogue.find(c=>c.name==="Liopleurodon"),{announcementRe
 
 // November 22: refreshed conscious-feeding guides.
 for(const name of ["Hesperornis","Electrophorus"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-22";
+
+
+// November 23: reviewed regular-species methods.
+for(const name of ["Deinosuchus","Xiphactinus"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-23";
