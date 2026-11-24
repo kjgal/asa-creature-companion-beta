@@ -118,3 +118,6 @@ November 22 review: refreshed Hesperornis corpse feeding and Electrophorus consc
 
 
 November 23 review: refreshed regular Deinosuchus passive basking-feed and Xiphactinus knockout guides, added both creature information records and general habitats. Coverage: 203 written guides / 203 catalogue entries (validation incomplete), 195 general habitat/availability notes with 8 gaps, 40 Aberration notes. No creature or variant added. Current official announcements did not establish a new live creature or replacement TLC method. Provenance, current-source restrictions, pending conditions and checks: audit/guide-review-2026-11-23.json.
+
+
+November 24 review: refreshed Armadoggo passive meal/pet and Gigantoraptor special baby-nest guides; added both information records and general habitats. Coverage: 203 written guides / 203 entries (validation incomplete), 197 general habitat/availability notes with 6 gaps, 40 Aberration notes. No creature added. Aberrant Gigantoraptor existence is documented but its precise green/blue/red/surface region remains pending, so no regional note was inferred. Official announcements did not establish a new live release. Provenance, restrictions and checks: audit/guide-review-2026-11-24.json.

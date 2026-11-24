@@ -1,0 +1,80 @@
+{
+  "reviewed": "2026-11-24",
+  "baseline": "fa2f155ebe3373319d829f4868f9cddf3e224bed",
+  "addedGuides": [],
+  "updatedGuides": [
+    "Armadoggo",
+    "Gigantoraptor"
+  ],
+  "catalogueAdditions": [],
+  "sources": {
+    "Armadoggo": [
+      [
+        "ARK Community Wiki: Armadoggo",
+        "https://ark.wiki.gg/wiki/Armadoggo"
+      ],
+      [
+        "Regular Kibble preference category",
+        "https://ark.wiki.gg/wiki/Category:Creatures_that_prefer_regular_kibbles"
+      ]
+    ],
+    "Gigantoraptor": [
+      [
+        "ARK Community Wiki: Gigantoraptor",
+        "https://ark.wiki.gg/wiki/Gigantoraptor"
+      ],
+      [
+        "ASA nest-taming context",
+        "https://ark.wiki.gg/wiki/Taming"
+      ]
+    ]
+  },
+  "provenance": "Direct species, Biomes and Spawn entries requests returned 403. Individual indexed passages reviewed; full article/revision/contributor and text-similarity comparisons, firsthand official PvE testing and exhaustive ASA map/container checks remain pending. Numerical tables, mobile and mod mechanics excluded. No competitor text, datasets, artwork or calculator code imported.",
+  "officialReview": {
+    "checked": "2026-11-24",
+    "source": "https://survivetheark.com/",
+    "finding": "Current A Matter of Scale still previews Khoron/Zuffin and future Liopleurodon TLC. No newly live official creature or replacement TLC method established. No rate changed based on a future event date."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Armadoggo",
+      "Gigantoraptor"
+    ],
+    "addedAberration": [],
+    "newInfoRecords": [
+      "Armadoggo",
+      "Gigantoraptor"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Armadoggo",
+      "https://ark.wiki.gg/wiki/Gigantoraptor",
+      "https://ark.wiki.gg/wiki/The_Redwood_Forests",
+      "https://ark.wiki.gg/wiki/The_Western_Coast"
+    ],
+    "evidence": "Native Wasteland_City_Buffer_1 entry includes Armadoggo; native Gigantoraptor entry and named Redwood/Western Coast examples support regular-species notes.",
+    "pending": "Aberrant Gigantoraptor exists, but indexed extract lacks an unambiguous land-container heading. No green/Fertile, blue/Bioluminescent, red/Element or surface presence inferred from adjacent table rows."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 189,
+    "generalHabitatAvailabilityEntries": 197,
+    "generalHabitatMissingEntries": 6,
+    "aberrationHabitatEntries": 40
+  },
+  "pendingResearch": [
+    "Gigantoraptor current official PvE reset behavior and native Aberrant regional distribution",
+    "Armadoggo exact food/pet timings and independent numerical requirements",
+    "Full article/revision/contributor and firsthand comparisons"
+  ],
+  "ownerQuestions": [
+    "Gigantoraptor: does the baby reliably offer actions once the parent is occupied by an egg and still able to return, or have you encountered a nest that never responds?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-24.cjs covers passive/special routes, food/preparation/full guide, general habitats, counts and variant/calculator/rate/source visibility guards; unrelated baseline content compared."
+  },
+  "preserved": "Original art/UI/bubbles, detailed encounters and anonymous suggestions including Concavenator Tek Rifle; centralized About credits and metadata-only individual/video URLs; public beta/noindex/relative assets/icons/manifest and rate workflow/manual fallback. Archived Site untouched."
+}

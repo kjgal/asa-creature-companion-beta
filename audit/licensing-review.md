@@ -332,3 +332,8 @@ Original Hesperornis and Electrophorus summaries refreshed from individual ARK C
 ## November 23, 2026 — regular ASA integration guide refresh
 
 Original Deinosuchus and Xiphactinus method/food/preparation/action/habitat summaries use individual indexed ARK Community Wiki species, Superior Kibble, Biomes and native Spawn entries passages, with official ASA integration announcements for applicability. Direct Wiki species/context pages returned 403; full article/revision/contributor and text-similarity comparison and firsthand current ASA tests remain pending. Mod namespace results were excluded. No numerical requirements, competitor content or new artwork imported. General credits, metadata-only individual URLs and existing free noncommercial scope preserved; existing permission and artwork-rights findings remain unresolved.
+
+
+## November 24, 2026 — companion and nest interaction refresh
+
+Original Armadoggo and Gigantoraptor summaries refreshed using individual indexed species and contextual Wiki passages. Native Spawn entries support city-buffer Armadoggo and regular Gigantoraptor presence; named Wiki regions support woodland/coastal Gigantoraptor examples. Direct species/Biomes/Spawn entries pages returned 403; full article/revision/contributor and text-similarity comparisons and firsthand ASA checks remain pending. No numerical requirements, competitor content or new artwork imported. Existing source/contributor/license notices, metadata-only individual URLs, noncommercial beta scope and unresolved rights/artwork findings preserved.
