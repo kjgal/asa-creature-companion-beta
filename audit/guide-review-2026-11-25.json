@@ -1,0 +1,76 @@
+{
+  "reviewed": "2026-11-25",
+  "baseline": "c34b08837a149b8d6debcd269c579cf4bf3c3cea",
+  "addedGuides": [],
+  "updatedGuides": [
+    "Bison",
+    "Helicoprion"
+  ],
+  "catalogueAdditions": [],
+  "sources": {
+    "Bison": [
+      [
+        "ARK Community Wiki: Bison",
+        "https://ark.wiki.gg/wiki/Bison"
+      ]
+    ],
+    "Helicoprion": [
+      [
+        "ARK Community Wiki: Helicoprion",
+        "https://ark.wiki.gg/wiki/Helicoprion"
+      ],
+      [
+        "Little Ratfish Treats",
+        "https://ark.wiki.gg/wiki/Little_Ratfish_Treats"
+      ]
+    ]
+  },
+  "provenance": "Direct species, Biomes and Spawn entries pages returned 403. Individual indexed passages reviewed; full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container verification remain pending. Numerical tables, mod and mobile mechanics excluded. No competitor text, datasets, artwork or calculator code imported.",
+  "officialReview": {
+    "checked": "2026-11-25",
+    "source": "https://survivetheark.com/",
+    "finding": "A Matter of Scale remains current, with future Liopleurodon TLC and Dragontopia previews. No new live creature or replacement method established. Turkey Trial announcement starts November 25; no snapshot rate forced from the calendar."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Bison",
+      "Helicoprion"
+    ],
+    "addedAberration": [],
+    "newInfoRecords": [
+      "Helicoprion"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Bison",
+      "https://ark.wiki.gg/wiki/Helicoprion"
+    ],
+    "evidence": "Bison native Tundra_1/Tundra_2 entries and dedicated Ragnarok_Bison. Helicoprion species ocean habitat and OceanCaveHard native container. No cave eligibility or Aberrant region inferred."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 190,
+    "generalHabitatAvailabilityEntries": 199,
+    "generalHabitatMissingEntries": 4,
+    "aberrationHabitatEntries": 40
+  },
+  "conflicts": {
+    "Bison": "Header says Crops; taming body says Mejoberries above crops. Superior Kibble accepted; non-kibble ranking pending.",
+    "Helicoprion": "Regular ASA species describes equipment/riding/final-treat sequence. Mod:Additions Ascended describes simple hand-feed/hostile waves, excluded from regular ASA guide. Wiki infobox Passive mapped to app Special because riding sequence requires custom steps."
+  },
+  "pendingResearch": [
+    "Bison independently confirmed non-kibble preference",
+    "Helicoprion current input mappings, recovery and failure/progress behavior",
+    "Variant and cave eligibility; full source/revision/contributor and firsthand checks"
+  ],
+  "ownerQuestions": [
+    "Helicoprion: after a missed riding prompt, does your current official PvE tame retain progress when you offer another looted item?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-25.cjs covers methods, food/preparation/full-guide and general habitat replies, pending rankings, custom method calculator exclusion and rate/source visibility guards; baseline preservation compared."
+  },
+  "preserved": "Unrelated guides/detailed encounters/anonymous suggestions including Concavenator Tek Rifle; original art/UI/bubbles; About credits and metadata-only individual/video URLs; beta/noindex/relative paths/icons/manifest and rate workflow/manual fallback. Archived Site untouched."
+}

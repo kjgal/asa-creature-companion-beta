@@ -337,3 +337,8 @@ Original Deinosuchus and Xiphactinus method/food/preparation/action/habitat summ
 ## November 24, 2026 — companion and nest interaction refresh
 
 Original Armadoggo and Gigantoraptor summaries refreshed using individual indexed species and contextual Wiki passages. Native Spawn entries support city-buffer Armadoggo and regular Gigantoraptor presence; named Wiki regions support woodland/coastal Gigantoraptor examples. Direct species/Biomes/Spawn entries pages returned 403; full article/revision/contributor and text-similarity comparisons and firsthand ASA checks remain pending. No numerical requirements, competitor content or new artwork imported. Existing source/contributor/license notices, metadata-only individual URLs, noncommercial beta scope and unresolved rights/artwork findings preserved.
+
+
+## November 25, 2026 — Bison and Helicoprion refresh
+
+Original regular ASA guide/habitat summaries use individual indexed species, native Spawn entries and Little Ratfish Treats passages; Biomes consulted as context. Bison food-ranking conflict retained; Helicoprion mod namespace hand-feeding/wave instructions excluded. Direct species/Biomes/Spawn entries pages returned 403; full article/revision/contributor and text-similarity comparison and firsthand ASA validation remain pending. No numerical requirements, competitor content or new artwork imported. Existing notices, metadata-only individual URLs and noncommercial beta scope preserved; rights and artwork permission findings remain unresolved.

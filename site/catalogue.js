@@ -2093,3 +2093,7 @@ for(const name of ["Deinosuchus","Xiphactinus"])creatureCatalogue.find(c=>c.name
 
 // November 24: refreshed conscious interaction methods.
 for(const name of ["Armadoggo","Gigantoraptor"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-24";
+
+
+// November 25: refreshed regular-species guides.
+for(const name of ["Bison","Helicoprion"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-25";

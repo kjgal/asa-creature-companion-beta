@@ -121,3 +121,6 @@ November 23 review: refreshed regular Deinosuchus passive basking-feed and Xipha
 
 
 November 24 review: refreshed Armadoggo passive meal/pet and Gigantoraptor special baby-nest guides; added both information records and general habitats. Coverage: 203 written guides / 203 entries (validation incomplete), 197 general habitat/availability notes with 6 gaps, 40 Aberration notes. No creature added. Aberrant Gigantoraptor existence is documented but its precise green/blue/red/surface region remains pending, so no regional note was inferred. Official announcements did not establish a new live release. Provenance, restrictions and checks: audit/guide-review-2026-11-24.json.
+
+
+November 25 review: refreshed Bison knockout and Helicoprion special riding/feeding guides; added both general habitats and a Helicoprion information record. Coverage: 203 written guides / 203 entries (validation incomplete), 199 general habitat/availability notes with 4 gaps, 40 Aberration notes. Bison non-kibble ranking remains conflicted; Helicoprion mod hand-feeding/wave mechanics excluded. No new creature added. Research provenance, access restrictions and checks: audit/guide-review-2026-11-25.json.
