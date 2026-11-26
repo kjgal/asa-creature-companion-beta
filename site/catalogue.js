@@ -2097,3 +2097,7 @@ for(const name of ["Armadoggo","Gigantoraptor"])creatureCatalogue.find(c=>c.name
 
 // November 25: refreshed regular-species guides.
 for(const name of ["Bison","Helicoprion"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-25";
+
+
+// November 26: reviewed regular-species guides.
+for(const name of ["Concavenator","Veilwyn"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-26";

@@ -342,3 +342,8 @@ Original Armadoggo and Gigantoraptor summaries refreshed using individual indexe
 ## November 25, 2026 — Bison and Helicoprion refresh
 
 Original regular ASA guide/habitat summaries use individual indexed species, native Spawn entries and Little Ratfish Treats passages; Biomes consulted as context. Bison food-ranking conflict retained; Helicoprion mod namespace hand-feeding/wave instructions excluded. Direct species/Biomes/Spawn entries pages returned 403; full article/revision/contributor and text-similarity comparison and firsthand ASA validation remain pending. No numerical requirements, competitor content or new artwork imported. Existing notices, metadata-only individual URLs and noncommercial beta scope preserved; rights and artwork permission findings remain unresolved.
+
+
+## November 26, 2026 — desert and companion refresh
+
+Original Concavenator/Veilwyn summaries use individual indexed species, native Spawn entries and Biomes passages. Veilwyn current Lost Colony availability distinguished from removed temporary-map spawns; its specific terrain remains pending. Aberrant Concavenator Surface wording supported by Biomes, not mod-container inference. Direct Wiki pages returned 403; full source/revision/contributor/text-similarity and firsthand comparison remain pending. Anonymous Tek Rifle suggestion preserved as unverified. No numerical requirements, competitor content or artwork imported. Existing notices, metadata-only individual URLs, noncommercial beta scope and unresolved rights/artwork findings preserved.

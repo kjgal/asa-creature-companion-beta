@@ -124,3 +124,6 @@ November 24 review: refreshed Armadoggo passive meal/pet and Gigantoraptor speci
 
 
 November 25 review: refreshed Bison knockout and Helicoprion special riding/feeding guides; added both general habitats and a Helicoprion information record. Coverage: 203 written guides / 203 entries (validation incomplete), 199 general habitat/availability notes with 4 gaps, 40 Aberration notes. Bison non-kibble ranking remains conflicted; Helicoprion mod hand-feeding/wave mechanics excluded. No new creature added. Research provenance, access restrictions and checks: audit/guide-review-2026-11-25.json.
+
+
+November 26 review: refreshed Concavenator and Veilwyn guides; added both general habitat/availability records and an Aberrant Concavenator surface note. Coverage: 203 written guides / 203 entries (validation incomplete), 201 general habitat/availability notes with 2 missing entries, 41 Aberration notes. Veilwyn has current Lost Colony availability only; detailed terrain remains pending. Anonymous Tek Rifle Suggested method retained unchanged in guide metadata. No new creature added. Provenance and limitations: audit/guide-review-2026-11-26.json.

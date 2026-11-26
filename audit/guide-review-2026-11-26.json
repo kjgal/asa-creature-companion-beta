@@ -1,0 +1,73 @@
+{
+  "reviewed": "2026-11-26",
+  "baseline": "d9b427c3f23bfb4e57a0c2bf689e45a5d77af9cc",
+  "addedGuides": [],
+  "updatedGuides": [
+    "Concavenator",
+    "Veilwyn"
+  ],
+  "catalogueAdditions": [],
+  "sources": {
+    "Concavenator": [
+      [
+        "ARK Community Wiki: Concavenator",
+        "https://ark.wiki.gg/wiki/Concavenator"
+      ]
+    ],
+    "Veilwyn": [
+      [
+        "ARK Community Wiki: Veilwyn",
+        "https://ark.wiki.gg/wiki/Veilwyn"
+      ]
+    ]
+  },
+  "provenance": "Direct species, Biomes and Spawn entries pages returned 403. Individual indexed passages reviewed; full article/revision/contributor and text-similarity comparisons, firsthand official PvE checks and exhaustive ASA map/container verification remain pending. Numerical, mod and mobile mechanics excluded. No competitor text, datasets, artwork or calculator code imported.",
+  "officialReview": {
+    "checked": "2026-11-26",
+    "source": "https://survivetheark.com/",
+    "finding": "A Matter of Scale remains current; Khoron/Zuffin are previews and Liopleurodon TLC a future selection. No new live official creature established."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Concavenator",
+      "Veilwyn"
+    ],
+    "addedAberration": [
+      "Concavenator"
+    ],
+    "newInfoRecords": [
+      "Concavenator",
+      "Veilwyn"
+    ],
+    "sources": [
+      "https://ark.wiki.gg/wiki/Biomes",
+      "https://ark.wiki.gg/wiki/Spawn_entries",
+      "https://ark.wiki.gg/wiki/Concavenator",
+      "https://ark.wiki.gg/wiki/Veilwyn",
+      "https://ark.wiki.gg/wiki/Lost_Colony"
+    ],
+    "evidence": "Regular Concavenator species says Desert Dunes; native Scorched Earth container confirms presence. Biomes Surface explicitly lists Aberrant Concavenator and native AB container establishes variant. Veilwyn species lists Lost Colony and patch 77.5 removal from temporary maps.",
+    "limitations": "Veilwyn is availability-only; specific terrain pending. No green/blue/red presence inferred for Concavenator; no mod container proof used."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 192,
+    "generalHabitatAvailabilityEntries": 201,
+    "generalHabitatMissingEntries": 2,
+    "aberrationHabitatEntries": 41
+  },
+  "pendingResearch": [
+    "Veilwyn current Lost Colony terrain and native container distribution",
+    "Concavenator exact controller inputs and independent Tek Rifle corroboration",
+    "Full article/revision/contributor and firsthand checks; formulas where absent"
+  ],
+  "ownerQuestions": [
+    "Concavenator: on your current platform, do the riding arrows require double presses of each matching direction?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-26.cjs covers custom taming, claim/no-food route, general/variant habitats, counts, unchanged anonymous Tek Rifle suggestion, calculators/rates/source visibility; unrelated baseline preservation compared."
+  },
+  "preserved": "Original art/UI/bubbles, detailed encounters, anonymous methods, general About notices and metadata-only individual/video URLs, beta/noindex/relative assets/icons/manifest and scheduled rate/manual fallback. Archived Site untouched."
+}
