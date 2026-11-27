@@ -127,3 +127,6 @@ November 25 review: refreshed Bison knockout and Helicoprion special riding/feed
 
 
 November 26 review: refreshed Concavenator and Veilwyn guides; added both general habitat/availability records and an Aberrant Concavenator surface note. Coverage: 203 written guides / 203 entries (validation incomplete), 201 general habitat/availability notes with 2 missing entries, 41 Aberration notes. Veilwyn has current Lost Colony availability only; detailed terrain remains pending. Anonymous Tek Rifle Suggested method retained unchanged in guide metadata. No new creature added. Provenance and limitations: audit/guide-review-2026-11-26.json.
+
+
+November 27 review: limited overview/provenance refresh for Cerberax and Gargantar; preserved existing detailed guide/encounter records, original full-guide checked dates and supplied video metadata. Added availability-only notes using verified Scorched Earth presence; typical terrain remains pending. All 203 catalogue entries now have a general habitat/availability reply and all 203 have written guides, but this is not complete habitat or guide validation. Aberration notes remain 41. No new creature added. Source restrictions and ambiguous special-tame steps: audit/guide-review-2026-11-27.json.

@@ -2101,3 +2101,7 @@ for(const name of ["Bison","Helicoprion"])creatureCatalogue.find(c=>c.name===nam
 
 // November 26: reviewed regular-species guides.
 for(const name of ["Concavenator","Veilwyn"])creatureCatalogue.find(c=>c.name===name).guideReviewed="2026-11-26";
+
+
+// November 27: limited overview and availability review, not complete method revalidation.
+for(const name of ["Cerberax","Gargantar"])creatureCatalogue.find(c=>c.name===name).overviewReviewed="2026-11-27";

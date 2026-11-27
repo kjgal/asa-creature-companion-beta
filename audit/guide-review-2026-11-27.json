@@ -1,0 +1,58 @@
+{
+  "reviewed": "2026-11-27",
+  "baseline": "1491d0a984b89bf99e227d3504f95b3c80068019",
+  "addedGuides": [],
+  "updatedGuideOverviews": [
+    "Cerberax",
+    "Gargantar"
+  ],
+  "fullGuideRevalidations": [],
+  "catalogueAdditions": [],
+  "sources": [
+    "https://ark.wiki.gg/wiki/Cerberax",
+    "https://ark.wiki.gg/wiki/Gargantar",
+    "https://ark.wiki.gg/wiki/Biomes",
+    "https://ark.wiki.gg/wiki/Spawn_entries",
+    "https://survivetheark.com/index.php?/forums/topic/774248-therizino-tlc-cerberax-and-gargantar-are-out-now/"
+  ],
+  "provenance": "Species pages are stubs and direct species/Biomes/Spawn entries access returned 403. Indexed individual passages and official announcement read; full article/revision/contributor and text-similarity comparisons and firsthand official PvE validation remain pending. No numerical formulas inferred and no competitor content/code/artwork imported.",
+  "officialReview": {
+    "checked": "2026-11-27",
+    "source": "https://survivetheark.com/",
+    "finding": "A Matter of Scale still previews Khoron/Zuffin and future Liopleurodon TLC. No new live creature or replacement TLC method confirmed.",
+    "releaseEvidence": "September 30 announcement directly confirms both released, trial outline for Cerberax and map lists including Scorched Earth."
+  },
+  "habitats": {
+    "addedGeneral": [
+      "Cerberax",
+      "Gargantar"
+    ],
+    "addedAberration": [],
+    "coverageType": "Availability only",
+    "evidence": "Native Scorched Earth Cerberus and Gargantar containers plus official release maps.",
+    "pending": "Typical terrain/biome footprints for both remain pending. Biomes contextual search did not establish them. Existing detailed reported encounters preserved."
+  },
+  "coverage": {
+    "catalogue": 203,
+    "writtenGuides": 203,
+    "creatureInfoRecords": 192,
+    "generalHabitatAvailabilityEntries": 203,
+    "generalHabitatMissingEntries": 0,
+    "aberrationHabitatEntries": 41,
+    "qualification": "Every entry has a reply, not every reply has verified typical terrain. Not full guide/region/numerical validation."
+  },
+  "pendingResearch": [
+    "Gargantar accepted armor versus tools and mounting transition; Wiki stub wording ambiguous",
+    "Cerberax detailed prompts, food handling and failure behavior; Wiki stub insufficient for full validation",
+    "Typical terrain for Cerberax/Gargantar and remaining availability-only records",
+    "Source/revision/contributor comparison and firsthand checks"
+  ],
+  "ownerQuestions": [
+    "Gargantar: on current official PvE, are you dropping weapons/tools inside its stomach, or can armor also advance that phase?"
+  ],
+  "validation": {
+    "syntax": "All materialized site JavaScript passed node --check.",
+    "interaction": "tests/guide-review-2026-11-27.cjs checks overview/food/preparation/full-guide and availability replies, pending limitations, original dates and source/video visibility guards; full existing steps and detailed records compared with baseline."
+  },
+  "preserved": "Original art/interface/bubbles, detailed records and anonymous suggestions, video and individual URLs metadata-only, central About notices, beta/noindex/relative paths/icons/manifest and rate workflow/manual fallback. Archived Site untouched."
+}

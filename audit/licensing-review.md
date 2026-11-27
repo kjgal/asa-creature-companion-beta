@@ -347,3 +347,8 @@ Original regular ASA guide/habitat summaries use individual indexed species, nat
 ## November 26, 2026 — desert and companion refresh
 
 Original Concavenator/Veilwyn summaries use individual indexed species, native Spawn entries and Biomes passages. Veilwyn current Lost Colony availability distinguished from removed temporary-map spawns; its specific terrain remains pending. Aberrant Concavenator Surface wording supported by Biomes, not mod-container inference. Direct Wiki pages returned 403; full source/revision/contributor/text-similarity and firsthand comparison remain pending. Anonymous Tek Rifle suggestion preserved as unverified. No numerical requirements, competitor content or artwork imported. Existing notices, metadata-only individual URLs, noncommercial beta scope and unresolved rights/artwork findings preserved.
+
+
+## November 27, 2026 — limited special-tame overview and availability review
+
+Original brief Cerberax/Gargantar overviews compared with indexed individual Wiki stubs and official September 30 announcement. General availability notes derive from official map lists and native Scorched Earth Spawn entries; no biome footprint inferred. Direct species/Biomes/Spawn entries returned 403, and full article/revision/contributor/text-similarity and firsthand checks remain pending. Detailed supplied guides, encounter records and video metadata retained without claiming new independent verification. Item-category and transition ambiguities recorded. No numerical requirements, competitor content or new art imported; source/license/contributor notices, noncommercial beta scope and unresolved rights findings preserved.
